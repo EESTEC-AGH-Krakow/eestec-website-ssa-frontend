@@ -1,28 +1,72 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <b-container fluid class="p-0" id="app">
+        <header>
+            <Aside />
+        </header>
+        <main>
+            <Main />
+            <About />
+            <Place />
+            <Apply />
+            <FAQ />
+            <Partners />
+        </main>
+        <footer>
+            <Contact />
+        </footer>
+    </b-container>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+    import Main from './components/Main'
+    import Aside from './components/Aside'
+    import About from './components/About'
+    import Apply from './components/Apply'
+    import Contact from './components/Contact'
+    import FAQ from './components/FAQ'
+    import Partners from './components/Partners'
+    import Place from './components/Place'
 
-export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
+    export default {
+        name: 'app',
+        components: {
+            Aside,
+            Main,
+            About,
+            Apply,
+            Contact,
+            FAQ,
+            Partners,
+            Place
+        }
+    }
 </script>
 
 <style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+    @font-face {
+        font-family: 'Norse';
+        font-style: normal;
+        font-weight: normal;
+        src: url("assets/fonts/Norse.otf");
+    }
+
+    * {
+        box-sizing: border-box;
+        @extend .primary-font;
+    }
+
+    html, body {
+        margin: 0;
+        padding: 0;
+    }
+
+    #app {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+    }
+
+    main {
+        flex: 1 0 auto;
+    }
 </style>
