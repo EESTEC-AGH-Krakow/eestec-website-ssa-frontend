@@ -1,1 +1,14 @@
 $assetsDir: '/assets';
+
+$white: #fff;
+$black: #000;
+$blue-dark: #1f3040;
+$dark: #213341;
+
+$colors: (
+	white: $white,
+	black: $black,
+	blue-dark: $blue-dark,
+	dark: $dark
+);
+

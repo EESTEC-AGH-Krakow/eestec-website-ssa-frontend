@@ -5,3 +5,12 @@
 .secondary-font {
 	font-family: 'BebasNeueBook', sans-serif;
 }
+
+@each $color, $value in $colors {
+	.bg-#{$color} {
+		background-color: $value !important;
+	}
+	.text-#{$color} {
+		color: $value !important;
+	}
+}

@@ -1,16 +1,16 @@
 <template>
     <div :style="{backgroundImage: 'url(' + require('@/assets/images/header-bg.jpg') + ')'}" class="background d-flex flex-column">
-        <b-row no-gutters class="justify-content-center align-items-center flex-fill">
+        <b-row class="justify-content-center align-items-center flex-fill" no-gutters>
             <b-col cols="12">
                 <div class="d-flex flex-column align-items-center">
-                    <img class="img-fluid" :src="require('@/assets/images/header-logo.png')" alt="Hacknarök"/>
-                    <h1 class="text-white mt-4 primary-font">23.03.19r. - Krakowski Park Technologiczny</h1>
+                    <img :src="require('@/assets/images/header-logo.png')" alt="Hacknarök" class="img-fluid"/>
+                    <h1 class="text-white text-center mt-4 primary-font whereabouts">Krakowski Park Technologiczny<br/>23.03.19r.</h1>
                 </div>
             </b-col>
         </b-row>
-        <b-row no-gutters class="justify-content-center align-items-end">
-            <b-col cols="12">
-                <b-button>APLIKUJ</b-button>
+        <b-row class="justify-content-center align-items-end position-absolute" no-gutters v-if="applicable">
+            <b-col class="mb-5 d-flex justify-content-center" cols="12">
+                <b-button class="apply">APLIKUJ</b-button>
             </b-col>
         </b-row>
     </div>
@@ -19,6 +19,11 @@
 <script>
 	export default {
 		name: 'HelloWorld',
+		data () {
+			return {
+				applicable: false,
+			}
+		},
 	}
 </script>
 
@@ -28,5 +33,20 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
+        background-attachment: fixed;
+
+        .whereabouts {
+            font-size: 2rem;
+        }
+
+        .position-absolute {
+            bottom: 0;
+            left: 0;
+            right: 0;
+
+            .apply {
+                font-size: 1.5rem;
+            }
+        }
     }
 </style>

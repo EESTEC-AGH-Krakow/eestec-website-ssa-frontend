@@ -1,5 +1,7 @@
 <template>
+    <b-row no-gutters>
 
+    </b-row>
 </template>
 
 <script>
