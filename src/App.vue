@@ -7,7 +7,6 @@
             <Main/>
             <About/>
             <Place/>
-            <Apply/>
             <FAQ/>
             <Partners/>
         </main>
@@ -21,7 +20,6 @@
 	import Main from './components/Main'
 	import Aside from './components/Aside'
 	import About from './components/About'
-	import Apply from './components/Apply'
 	import Contact from './components/Contact'
 	import FAQ from './components/FAQ'
 	import Partners from './components/Partners'
@@ -33,7 +31,6 @@
 			Aside,
 			Main,
 			About,
-			Apply,
 			Contact,
 			FAQ,
 			Partners,
