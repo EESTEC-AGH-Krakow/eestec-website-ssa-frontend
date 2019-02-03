@@ -10,6 +10,12 @@
                    @update:center="centerUpdated"
                    @update:zoom="zoomUpdated"
                    class="map w-100">
+                <l-tile-layer :url="url"></l-tile-layer>
+                <l-marker :lat-lng="placeMarker">
+                    <l-tooltip class="font-weight-bold">Krakowski Park Technologiczny<br>
+                    ul. Podole 60<br>
+                    30-394, Kraków</l-tooltip>
+                </l-marker>
             </l-map>
         </b-col>
         <b-col class="d-flex flex-column justify-content-around" cols="5" offset="1">
@@ -40,9 +46,11 @@
 		name: 'Place',
 		data () {
 			return {
-				zoom: 3,
-				center: [47.413220, -1.219482],
+				zoom: 15,
+				center: [50.0211894, 19.8862796046309],
+              placeMarker: [50.0211894, 19.8862796046309],
 				busArray: [230, 157, 194, 17, 18],
+				url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
 			}
 		},
 		methods: {

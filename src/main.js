@@ -3,7 +3,7 @@ import App from './App.vue'
 import './registerServiceWorker'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import { L, LMap } from 'vue2-leaflet'
+import { L, LMap, LTileLayer, LMarker, LTooltip } from 'vue2-leaflet'
 import 'leaflet/dist/leaflet.css'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { fas } from '@fortawesome/free-solid-svg-icons'
@@ -23,6 +23,9 @@ library.add(fas, fab)
 
 Vue.component('l-map', LMap)
 Vue.component('font-awesome-icon', FontAwesomeIcon)
+Vue.component('l-tile-layer', LTileLayer)
+Vue.component('l-marker', LMarker)
+Vue.component('l-tooltip', LTooltip)
 
 Vue.use(BootstrapVue);
 
