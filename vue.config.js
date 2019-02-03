@@ -5,7 +5,7 @@ module.exports = {
 	css: {
 		sourceMap: true,
 	},
-
+	
 	chainWebpack: config => {
 		config.module.rule('vue').
 			use('vue-loader').
@@ -25,14 +25,14 @@ module.exports = {
 				})
 			})
 	},
-
+	
 	publicPath: undefined,
 	outputDir: undefined,
-	assetsDir: undefined,
+	assetsDir: 'assets',
 	runtimeCompiler: true,
 	productionSourceMap: undefined,
 	parallel: undefined,
-
+	
 	pluginOptions: {
 		'style-resources-loader': {
 			preProcessor: 'scss',

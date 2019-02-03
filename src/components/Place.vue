@@ -1,5 +1,5 @@
 <template>
-    <b-row class="bg-blue-dark text-white pb-5" no-gutters>
+    <b-row class="bg-blue-dark text-white" no-gutters>
         <b-col cols="12">
             <h1 class="text-center my-5 display-4">Jak dojechać</h1>
         </b-col>
@@ -13,8 +13,9 @@
                 <l-tile-layer :url="url"></l-tile-layer>
                 <l-marker :lat-lng="placeMarker">
                     <l-tooltip class="font-weight-bold">Krakowski Park Technologiczny<br>
-                    ul. Podole 60<br>
-                    30-394, Kraków</l-tooltip>
+                        ul. Podole 60<br>
+                        30-394, Kraków
+                    </l-tooltip>
                 </l-marker>
             </l-map>
         </b-col>
@@ -37,6 +38,7 @@
                 </b-col>
             </b-row>
         </b-col>
+        <img alt="mountains" class="img-fluid w-100" src="@/assets/images/mountains-middle.png"/>
     </b-row>
 </template>
 
@@ -48,7 +50,7 @@
 			return {
 				zoom: 15,
 				center: [50.0211894, 19.8862796046309],
-              placeMarker: [50.0211894, 19.8862796046309],
+							placeMarker: [50.0211894, 19.8862796046309],
 				busArray: [230, 157, 194, 17, 18],
 				url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
 			}
@@ -75,5 +77,9 @@
 <style lang="scss" scoped>
     .map {
         height: 15rem;
+    }
+
+    .img-fluid {
+        transform: rotate(180deg);
     }
 </style>

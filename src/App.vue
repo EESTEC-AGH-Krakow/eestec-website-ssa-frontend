@@ -47,6 +47,13 @@
         src: url("assets/fonts/Norse.otf");
     }
 
+    @font-face {
+        font-family: 'Futhark';
+        font-style: normal;
+        font-weight: normal;
+        src: url("assets/fonts/BabelStoneRunicElderFuthark.ttf");
+    }
+
     * {
         box-sizing: border-box;
         @extend .primary-font;
@@ -74,6 +81,12 @@
 
         &:hover {
             @extend .bg-white, .text-black;
+        }
+    }
+
+    a {
+        &:hover {
+            text-decoration: none;
         }
     }
 
