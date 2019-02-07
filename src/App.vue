@@ -17,15 +17,15 @@
 </template>
 
 <script>
-	import Main from './components/Main'
-	import Aside from './components/Aside'
-	import About from './components/About'
-	import Contact from './components/Contact'
-	import FAQ from './components/FAQ'
-	import Partners from './components/Partners'
-	import Place from './components/Place'
+  import Main from './components/Main'
+  import Aside from './components/Aside'
+  import About from './components/About'
+  import Contact from './components/Contact'
+  import FAQ from './components/FAQ'
+  import Partners from './components/Partners'
+  import Place from './components/Place'
 
-	export default {
+  export default {
 		name: 'app',
 		components: {
 			Aside,

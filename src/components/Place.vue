@@ -6,7 +6,6 @@
         <b-col cols="4" offset="1">
             <l-map :center="center"
                    :zoom="zoom"
-                   @update:bounds="boundsUpdated"
                    @update:center="centerUpdated"
                    @update:zoom="zoomUpdated"
                    class="map w-100">
@@ -50,7 +49,7 @@
 			return {
 				zoom: 15,
 				center: [50.0211894, 19.8862796046309],
-							placeMarker: [50.0211894, 19.8862796046309],
+              placeMarker: [50.0211894, 19.8862796046309],
 				busArray: [230, 157, 194, 17, 18],
 				url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
 			}

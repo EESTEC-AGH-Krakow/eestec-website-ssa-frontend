@@ -1,54 +1,74 @@
 <template>
-    <b-row no-gutters>
-        <b-navbar toggleable="md" type="dark" variant="info">
+    <b-row :class="{ active: showCollapse }" class="position-fixed" id="container" no-gutters>
+        <b-col class="position-fixed d-flex flex-column align-items-stretch" cols="2">
+            <b-button @click.stop="showCollapse = !showCollapse" class="px-3 py-2 my-4 align-self-center menu position-fixed" size="sm" variant="outline-secondary">
+                <font-awesome-icon icon="bars" size="lg"></font-awesome-icon>
+            </b-button>
+            <b-navbar class="p-0 flex-fill d-flex align-items-stretch" toggleable="true" type="light" variant="faded">
+                <div :class="{ active: showCollapse }" class="bg-light horizontal flex-fill d-flex flex-column align-items-center" ref="collapse">
+                    <b-navbar-brand class="m-0">
+                        <img alt="logo" class="img-fluid" src="@/assets/images/hackathon-logo.gif"/>
+                    </b-navbar-brand>
 
-            <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-
-            <b-navbar-brand href="#">NavBar</b-navbar-brand>
-
-            <b-collapse is-nav id="nav_collapse">
-
-                <b-navbar-nav>
-                    <b-nav-item href="#">Link</b-nav-item>
-                    <b-nav-item href="#" disabled>Disabled</b-nav-item>
-                </b-navbar-nav>
-
-                <!-- Right aligned nav items -->
-                <b-navbar-nav class="ml-auto">
-
-                    <b-nav-form>
-                        <b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>
-                        <b-button size="sm" class="my-2 my-sm-0" type="submit">Search</b-button>
-                    </b-nav-form>
-
-                    <b-nav-item-dropdown text="Lang" right>
-                        <b-dropdown-item href="#">EN</b-dropdown-item>
-                        <b-dropdown-item href="#">ES</b-dropdown-item>
-                        <b-dropdown-item href="#">RU</b-dropdown-item>
-                        <b-dropdown-item href="#">FA</b-dropdown-item>
-                    </b-nav-item-dropdown>
-
-                    <b-nav-item-dropdown right>
-                        <!-- Using button-content slot -->
-                        <template slot="button-content">
-                            <em>User</em>
-                        </template>
-                        <b-dropdown-item href="#">Profile</b-dropdown-item>
-                        <b-dropdown-item href="#">Signout</b-dropdown-item>
-                    </b-nav-item-dropdown>
-                </b-navbar-nav>
-
-            </b-collapse>
-        </b-navbar>
+                    <b-navbar-nav class="font-weight-bold">
+                        <b-nav-item href="#">Link</b-nav-item>
+                        <b-nav-item href="#">Link</b-nav-item>
+                        <b-nav-item href="#">Link</b-nav-item>
+                        <b-nav-item href="#">Link</b-nav-item>
+                        <b-nav-item href="#">Link</b-nav-item>
+                    </b-navbar-nav>
+                </div>
+            </b-navbar>
+        </b-col>
     </b-row>
 </template>
 
 <script>
-    export default {
-        name: "Aside"
-    }
+  export default {
+    name: 'Aside',
+    data () {
+      return {
+        showCollapse: false,
+      }
+    },
+  }
 </script>
 
 <style lang="scss" scoped>
+    #container {
+        width: 100vw;
+        height: 100vh;
+        background: transparent;
+        transition: $transition-base;
+        z-index: 500;
 
+        &.active {
+            background: transparentize($black, 0.4);
+        }
+    }
+
+    div.position-fixed.d-flex {
+        height: 100vh;
+        z-index: 1000;
+
+        .menu {
+            z-index: 2000;
+        }
+
+        .horizontal {
+            padding-top: 1.5*$spacer + 5rem;
+            transform: scaleX(0);
+            transform-origin: left;
+            transition: $transition-base;
+
+            &.active {
+                transform: scaleX(1);
+            }
+        }
+    }
+
+    .img-fluid {
+        width: 5rem;
+        height: auto;
+    }
 </style>
