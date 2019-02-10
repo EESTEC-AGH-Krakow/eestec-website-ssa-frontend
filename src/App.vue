@@ -1,8 +1,8 @@
 <template>
     <b-container class="p-0" fluid id="app">
-        <header>
-            <Aside/>
-        </header>
+        <!--<header>-->
+        <!--<Aside/>-->
+        <!--</header>-->
         <main>
             <Main/>
             <About/>

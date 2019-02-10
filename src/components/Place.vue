@@ -3,7 +3,7 @@
         <b-col cols="12">
             <h1 class="text-center my-5 display-4">Jak dojechać</h1>
         </b-col>
-        <b-col cols="4" offset="1">
+        <b-col class="mb-5 mb-lg-0" cols="10" lg="5" offset="1" offset-lg="1" xl="4">
             <l-map :center="center"
                    :zoom="zoom"
                    @update:center="centerUpdated"
@@ -18,8 +18,8 @@
                 </l-marker>
             </l-map>
         </b-col>
-        <b-col class="d-flex flex-column justify-content-around" cols="5" offset="1">
-            <b-row no-gutters>
+        <b-col class="d-flex flex-column justify-content-around" cols="10" lg="4" offset="1" offset-lg="1" xl="5">
+            <b-row class="mb-3" no-gutters>
                 <b-col cols="2">
                     <font-awesome-icon icon="map-marker-alt" size="lg"></font-awesome-icon>
                 </b-col>

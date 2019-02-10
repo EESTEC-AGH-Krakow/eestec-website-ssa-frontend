@@ -3,13 +3,22 @@
         <b-col cols="12">
             <h1 class="text-center my-5 display-4">O projekcie</h1>
         </b-col>
-        <b-col cols="8" offset="2">
+        <b-col lg="8" md="10" offset="1" offset-lg="2">
             <p class="text-justify mb-5">
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-                cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam
-                libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-                Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur
-                a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+                To już trzecia edycja hackatonu, którego nazwa bezpośrednio nawiązuje do z Ragnaroku- wielkiej bitwy pomiędzy bogami, a olbrzymami, w wyniku której siedzibę bogów trawi ogień, gwiazdy
+                gasną, a z toni wyłania się nowy świat bez przemocy i wojen.
+            </p>
+
+            <h3>Chcesz stworzyć z nami Nowy Świat?</h3>
+            <p class="text-justify mb-5">
+                U nas walka odbywa się z wykorzystaniem siły linijek kodu, które napiszesz razem z Twoim zespołem. Na 24 godziny Krakowski Park Technologiczny zamieni się w arenę z atmosferą
+                sprzyjającą niemal boskim, twórczym siłom. Razem z naszymi partnerami zadbaliśmy o to, by było o co walczyć, a obecni podczas wydarzenia mentorzy będą gotowi znaleźć wyjaśnienie na
+                każdą wątpliwość.
+            </p>
+
+            <p class="text-justify mb-5">
+                Zapisy trwają od 1go do 22go marca, w razie jakichkolwiek pytań zapraszamy na stronę wydarzenia lub do kontaktu mailowego.
+                Widzimy się już 6 kwietnia w Krakowskim Parku Technologicznym!
             </p>
         </b-col>
         <b-col cols="12">

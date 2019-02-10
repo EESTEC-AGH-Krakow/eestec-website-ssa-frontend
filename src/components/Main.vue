@@ -1,10 +1,10 @@
 <template>
     <div :style="{backgroundImage: 'url(' + require('@/assets/images/header-bg.jpg') + ')'}" class="background d-flex flex-column">
         <b-row class="justify-content-center align-items-center flex-fill" no-gutters>
-            <b-col cols="12">
+            <b-col class="mx-auto" lg="12" md="8">
                 <div class="d-flex flex-column align-items-center">
                     <img :src="require('@/assets/images/header-logo.png')" alt="Hacknarök" class="img-fluid"/>
-                    <h1 class="text-white text-center mt-4 primary-font whereabouts">Krakowski Park Technologiczny<br/>23.03.19r.</h1>
+                    <h1 class="text-white text-center mt-4 primary-font">Krakowski Park Technologiczny<br/>23.03.19r.</h1>
                 </div>
             </b-col>
         </b-row>
@@ -34,10 +34,6 @@
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
-
-        .whereabouts {
-            font-size: 2rem;
-        }
 
         .position-absolute {
             bottom: 0;

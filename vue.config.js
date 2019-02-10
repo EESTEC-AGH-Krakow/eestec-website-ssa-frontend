@@ -39,6 +39,7 @@ module.exports = {
 			patterns: [
 				path.resolve(__dirname, './src/assets/sass/all.scss'),
 				path.resolve(__dirname, './node_modules/bootstrap/scss/bootstrap.scss'),
+        path.resolve(__dirname, './src/assets/sass/rwd.scss'),
 			],
 		},
 	},

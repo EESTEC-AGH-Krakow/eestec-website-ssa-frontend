@@ -1,11 +1,13 @@
 <template>
     <b-row :class="{ active: showCollapse }" class="position-fixed" id="container" no-gutters>
-        <b-col class="position-fixed d-flex flex-column align-items-stretch" cols="2">
-            <b-button @click.stop="showCollapse = !showCollapse" class="px-3 py-2 my-4 align-self-center menu position-fixed" size="sm" variant="outline-secondary">
+        <b-col col>
+            <b-button @click.stop="showCollapse = !showCollapse" class="position-relative p-2 p-sm-3 align-self-center menu" size="sm" variant="outline-secondary">
                 <font-awesome-icon icon="bars" size="lg"></font-awesome-icon>
             </b-button>
+        </b-col>
+        <b-col class="position-fixed d-flex flex-column align-items-stretch" cols="11" lg="4" md="6" sm="8">
             <b-navbar class="p-0 flex-fill d-flex align-items-stretch" toggleable="true" type="light" variant="faded">
-                <div :class="{ active: showCollapse }" class="bg-light horizontal flex-fill d-flex flex-column align-items-center" ref="collapse">
+                <div class="bg-white pt-5 horizontal flex-fill d-flex flex-column align-items-center" ref="collapse">
                     <b-navbar-brand class="m-0">
                         <img alt="logo" class="img-fluid" src="@/assets/images/hackathon-logo.gif"/>
                     </b-navbar-brand>
@@ -40,31 +42,31 @@
         height: 100vh;
         background: transparent;
         transition: $transition-base;
-        z-index: 500;
+        z-index: $aside-index;
+    }
 
-        &.active {
-            background: transparentize($black, 0.4);
+    #container.active {
+        background: transparentize($black, 0.4);
+
+        .horizontal {
+            transform: scaleX(1);
         }
     }
 
     div.position-fixed.d-flex {
         height: 100vh;
-        z-index: 1000;
-
-        .menu {
-            z-index: 2000;
-        }
+        z-index: $aside-index + 1;
 
         .horizontal {
-            padding-top: 1.5*$spacer + 5rem;
             transform: scaleX(0);
             transform-origin: left;
             transition: $transition-base;
-
-            &.active {
-                transform: scaleX(1);
-            }
+            overflow-y: scroll;
         }
+    }
+
+    .menu {
+        z-index: $aside-index + 2;
     }
 
     .img-fluid {
