@@ -1,0 +1,16 @@
+{
+  "name": "test-hacknarok",
+  "static": {
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "alias": "hacknarok",
+  "files": [
+    "dist"
+  ]
+}
