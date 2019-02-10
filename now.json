@@ -1,15 +1,7 @@
 {
   "name": "test-hacknarok",
-  "static": {
-    "public": "dist",
-    "rewrites": [
-      {
-        "source": "**",
-        "destination": "/index.html"
-      }
-    ]
-  },
-  "alias": "hacknarok",
+  "version": 2,
+  "alias": "test.hacknarok.pl",
   "files": [
     "dist"
   ]
