@@ -1,0 +1,13 @@
+@mixin aspect-ratio($x, $y, $child) {
+	width: 100%;
+	padding-top: ($y / $x) * 100%;
+	position: relative;
+	.#{$child} {
+		left: 0;
+		right: 0;
+		bottom: 0;
+		top: 0;
+		z-index: $slider-index;
+		position: absolute !important;
+	}
+}

@@ -1,7 +1,7 @@
 <template>
     <b-row :class="{ active: showCollapse }" class="position-fixed" id="container" no-gutters>
         <b-col col>
-            <b-button @click.stop="showCollapse = !showCollapse" class="position-relative p-2 p-sm-3 align-self-center menu" size="sm" variant="outline-secondary">
+            <b-button @click.stop="showCollapse = !showCollapse" class="position-relative p-2 p-sm-3 align-self-center menu d-flex" size="sm" variant="outline-secondary">
                 <font-awesome-icon icon="bars" size="lg"></font-awesome-icon>
             </b-button>
         </b-col>

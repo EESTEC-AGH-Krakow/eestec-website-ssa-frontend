@@ -1,9 +1,9 @@
 <template>
     <b-row class="bg-blue-dark text-white" no-gutters>
         <b-col cols="12">
-            <h1 class="text-center my-5 display-4">Jak dojechać</h1>
+            <h1 class="text-center my-4 my-sm-5 display-4">Jak dojechać</h1>
         </b-col>
-        <b-col class="mb-5 mb-lg-0" cols="10" lg="5" offset="1" offset-lg="1" xl="4">
+        <b-col class="mb-4 mb-sm-5 mb-lg-0" cols="10" lg="5" offset="1" offset-lg="1" xl="4">
             <l-map :center="center"
                    :zoom="zoom"
                    @update:center="centerUpdated"
