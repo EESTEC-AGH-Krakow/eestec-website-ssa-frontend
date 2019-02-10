@@ -3,9 +3,9 @@
         <b-col cols="12">
             <h1 class="text-center my-5 display-4">Partnerzy</h1>
         </b-col>
-        <b-col lg="8" md="10" offset="1" offset-lg="2">
+        <b-col class="mx-auto" cols="11" lg="8" md="10">
             <b-row>
-                <b-col :key="partner.id" class="my-4" cols="4" lg="3" v-for="partner in partners">
+                <b-col :key="partner.id" class="my-4" cols="6" lg="3" sm="4" v-for="partner in partners">
                     <img :alt="partner.name" :src="partner.image" class="img-fluid"/>
                 </b-col>
             </b-row>

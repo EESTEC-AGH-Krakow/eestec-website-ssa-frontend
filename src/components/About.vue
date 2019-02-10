@@ -3,7 +3,7 @@
         <b-col cols="12">
             <h1 class="text-center my-5 display-4">O projekcie</h1>
         </b-col>
-        <b-col lg="8" md="10" offset="1" offset-lg="2">
+        <b-col class="mx-auto" cols="11" lg="8" md="10">
             <p class="text-justify mb-5">
                 To już trzecia edycja hackatonu, którego nazwa bezpośrednio nawiązuje do z Ragnaroku- wielkiej bitwy pomiędzy bogami, a olbrzymami, w wyniku której siedzibę bogów trawi ogień, gwiazdy
                 gasną, a z toni wyłania się nowy świat bez przemocy i wojen.
