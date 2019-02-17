@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d56a3069c8810640c904",
-    "url": "/assets/css/app.62bf59d7.css"
+    "revision": "ba9ceabfde2d2f61d85d",
+    "url": "/assets/css/app.9ceb047f.css"
   },
   {
-    "revision": "d56a3069c8810640c904",
-    "url": "/assets/js/app.fb91ecc3.js"
+    "revision": "ba9ceabfde2d2f61d85d",
+    "url": "/assets/js/app.2eba7da4.js"
   },
   {
     "revision": "8e360750dae140904db2",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/assets/img/radiofonia.16d2c966.png"
   },
   {
-    "revision": "1b097d935d251b33edf3af5cbe0e0744",
+    "revision": "e1169b611ad41df8e3308bf14b9224e1",
     "url": "/index.html"
   },
   {

@@ -5,13 +5,13 @@
         </b-button>
         <b-row :class="{ active: showCollapse }" @click="blankClick" class="position-fixed" id="container" no-gutters ref="container">
             <b-col class="position-fixed d-flex flex-column align-items-stretch" cols="11" lg="4" md="6" sm="8">
-                <b-navbar class="p-0 flex-fill d-flex align-items-stretch" toggleable="true" type="light" variant="faded">
-                    <div class="bg-white py-3 horizontal flex-fill d-flex flex-column align-items-center" ref="collapse">
+                <b-navbar class="p-0 flex-fill d-flex flex-column align-items-stretch position-relative" toggleable="true" type="light" variant="faded">
+                    <div class="py-3 horizontal flex-fill d-flex flex-column align-items-center bg-white min-vh-100 position-absolute" ref="collapse">
                         <b-navbar-brand class="m-0">
                             <img alt="logo" class="img-fluid" src="@/assets/images/hackathon-logo2.png"/>
                         </b-navbar-brand>
 
-                        <b-navbar-nav class="mt-4 font-weight-bold w-100 bg-white">
+                        <b-navbar-nav class="mt-4 font-weight-bold w-100">
                             <b-nav-item :key="link.id" @click="scrollTo(link)" class="text-center" href="#" v-for="link in links">{{ link.name }}</b-nav-item>
                         </b-navbar-nav>
                     </div>
@@ -110,8 +110,11 @@
         }
     }
 
-    nav.navbar div.d-flex {
-        @extend .h-100;
+    nav.navbar div.position-absolute {
+        left: 0;
+        right: 0;
+        /*top: 0;*/
+        /*bottom: 0;*/
     }
 
     div.position-fixed.d-flex {
