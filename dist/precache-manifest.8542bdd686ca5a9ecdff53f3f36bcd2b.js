@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5b776009b05a2e1ab5f8",
-    "url": "/assets/css/app.25401fb4.css"
+    "revision": "fa78371edb0e4e006576",
+    "url": "/assets/css/app.1f094cf0.css"
   },
   {
-    "revision": "5b776009b05a2e1ab5f8",
-    "url": "/assets/js/app.7e1f81c5.js"
+    "revision": "fa78371edb0e4e006576",
+    "url": "/assets/js/app.ff25b9ef.js"
   },
   {
     "revision": "8e360750dae140904db2",
@@ -14,6 +14,10 @@ self.__precacheManifest = [
   {
     "revision": "8e360750dae140904db2",
     "url": "/assets/js/chunk-vendors.8b054a27.js"
+  },
+  {
+    "revision": "b032fd68982d9016611cda6e554a7b74",
+    "url": "/assets/img/challenge-rocket.b032fd68.png"
   },
   {
     "revision": "545c51fe8e2ed8df3e038f7e2973097c",
@@ -26,10 +30,6 @@ self.__precacheManifest = [
   {
     "revision": "bc21662e21c10e1563ef56c6ecf012c5",
     "url": "/assets/img/2.bc21662e.jpg"
-  },
-  {
-    "revision": "b032fd68982d9016611cda6e554a7b74",
-    "url": "/assets/img/challenge-rocket.b032fd68.png"
   },
   {
     "revision": "1204fcdac678e008287c7533571696d0",
@@ -68,10 +68,6 @@ self.__precacheManifest = [
     "url": "/assets/fonts/Norse.f8f7054a.otf"
   },
   {
-    "revision": "c221f870a91cd1288dbbf6fdba655b14",
-    "url": "/assets/img/bis.c221f870.png"
-  },
-  {
     "revision": "add41ad2fcef09b2b6bc7ecbbf98edab",
     "url": "/assets/img/7.add41ad2.jpg"
   },
@@ -92,6 +88,10 @@ self.__precacheManifest = [
     "url": "/assets/img/mountains-bottom.a1f0ad4d.png"
   },
   {
+    "revision": "c221f870a91cd1288dbbf6fdba655b14",
+    "url": "/assets/img/bis.c221f870.png"
+  },
+  {
     "revision": "1573b88880e7e6ec48782aa01a24c7c5",
     "url": "/assets/img/1.1573b888.jpg"
   },
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/assets/img/radiofonia.16d2c966.png"
   },
   {
-    "revision": "0bde6641e67ed5b1b0d88ad33c613aaf",
+    "revision": "f4e6399f11c686f08b8d3e864e4b2d45",
     "url": "/index.html"
   },
   {

@@ -55,7 +55,7 @@
           },
           {
             id: 6,
-            name: 'najczęstsze pytania',
+            name: 'najczęściej zadawane pytania',
             href: 'faq',
           },
           {
