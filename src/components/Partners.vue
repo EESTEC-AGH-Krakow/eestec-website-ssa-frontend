@@ -6,7 +6,7 @@
         <b-col class="mx-auto" cols="11" lg="8" md="10">
             <b-row>
                 <b-col :key="partner.id" class="my-4 d-flex align-items-center" cols="6" lg="3" sm="4" v-for="partner in partners">
-                    <b-link :href="partner.href" target="_blank" class="flex-fill d-flex">
+                    <b-link :href="partner.href" target="_blank" class="flex-fill d-flex align-items-center">
                         <img :alt="partner.name" :src="partner.image" class="img-fluid mx-auto"/>
                     </b-link>
                 </b-col>
@@ -19,7 +19,7 @@
         <b-col class="mx-auto" cols="11" lg="8" md="10">
             <b-row>
                 <b-col :key="partner.id" class="my-4 d-flex align-items-center" cols="6" lg="3" sm="4" v-for="partner in partnersSocial">
-                    <b-link :href="partner.href" target="_blank" class="flex-fill d-flex">
+                    <b-link :href="partner.href" target="_blank" class="flex-fill d-flex align-items-center">
                         <img :alt="partner.name" :src="partner.image" class="img-fluid mx-auto"/>
                     </b-link>
                 </b-col>
