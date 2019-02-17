@@ -21,52 +21,15 @@
                 Widzimy się już 6 kwietnia w Krakowskim Parku Technologicznym!
             </p>
         </b-col>
-
-        <b-col cols="12">
-            <b-carousel :interval="4000"
-                        @sliding-end="onSlideEnd"
-                        @sliding-start="onSlideStart"
-                        controls
-                        id="carousel"
-                        indicators
-                        v-model="slide">
-                <b-carousel-slide :img-src="image" :key="`image-${images.indexOf(image)}`" v-for="image in images"></b-carousel-slide>
-            </b-carousel>
-        </b-col>
     </b-row>
 </template>
 
 <script>
   export default {
     name: 'AboutProject',
-    data () {
-      return {
-        slide: 0,
-        sliding: null,
-        images: [...Array(10).keys()].map(x => require(`@/assets/images/slider/${x + 1}.jpg`)),
-      }
-    },
-    methods: {
-      onSlideStart (slide) {
-        this.sliding = true
-      },
-      onSlideEnd (slide) {
-        this.sliding = false
-      },
-    },
   }
 </script>
 
 <style lang="scss" scoped>
-    /*.carousel-inner {
-        @include media-breakpoint-up(sm) {
-            @include aspect-ratio(16, 9, carousel-item);
-        }
-        @include aspect-ratio(1, 1, carousel-item);
-    }*/
-    .carousel-item {
-        img {
-            height: 10rem !important;
-        }
-    }
+
 </style>

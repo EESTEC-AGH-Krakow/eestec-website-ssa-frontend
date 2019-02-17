@@ -8,7 +8,7 @@
                 <b-navbar class="p-0 flex-fill d-flex align-items-stretch" toggleable="true" type="light" variant="faded">
                     <div class="bg-white py-3 horizontal flex-fill d-flex flex-column align-items-center" ref="collapse">
                         <b-navbar-brand class="m-0">
-                            <img alt="logo" class="img-fluid" src="@/assets/images/hackathon-logo.gif"/>
+                            <img alt="logo" class="img-fluid" src="@/assets/images/hackathon-logo2.png"/>
                         </b-navbar-brand>
 
                         <b-navbar-nav class="mt-4 font-weight-bold w-100">

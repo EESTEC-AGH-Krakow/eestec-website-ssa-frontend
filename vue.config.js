@@ -24,6 +24,12 @@ module.exports = {
 					},
 				})
 			})
+		
+		const svgRule = config.module.rule('svg')
+		
+		svgRule.uses.clear()
+		
+		svgRule.use('vue-svg-loader').loader('vue-svg-loader')
 	},
 	
 	publicPath: undefined,
@@ -40,6 +46,7 @@ module.exports = {
 				path.resolve(__dirname, './src/assets/sass/all.scss'),
 				path.resolve(__dirname, './node_modules/bootstrap/scss/bootstrap.scss'),
         path.resolve(__dirname, './src/assets/sass/rwd.scss'),
+				path.resolve(__dirname, './src/assets/sass/animations.scss'),
 			],
 		},
 	},

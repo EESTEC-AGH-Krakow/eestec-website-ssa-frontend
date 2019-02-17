@@ -1,4 +1,4 @@
-@mixin aspect-ratio($x, $y, $child) {
+@mixin aspect-ratio($x, $y, $child: position-absolute) {
 	width: 100%;
 	padding-top: ($y / $x) * 100%;
 	position: relative;
@@ -10,4 +10,13 @@
 		z-index: $slider-index;
 		position: absolute !important;
 	}
+}
+
+@mixin background($cover: cover, $center: 50%, $repeat: no-repeat) {
+	background-size: $cover !important;
+	-webkit-background-size: $cover !important;
+	-moz-background-size: $cover !important;
+	-o-background-size: $cover !important;
+	background-position: $center !important;
+	background-repeat: $repeat !important;
 }
