@@ -37,6 +37,15 @@
                 </b-col>
             </b-row>
         </b-col>
+        <b-col class="mx-auto" cols="10">
+            <p class="text-justify my-4 my-sm-5">
+                Nasz hackaton odbędzie się w Krakowskim Parku Technologicznym, który wspiera nas od pierwszej edycji.
+            </p>
+            <p class="text-justify">
+                Krakowski Park Technologiczny to najbardziej kompletny one-stop-shop dla biznesu w Polsce, gdzie przedsiębiorcy, naukowcy i samorządowcy tworzą ekosystem rozwoju małopolskiej
+                gospodarki.Udostępniają także firmom i organizacjom sprzęt elektroniczny, specjalistyczne oprogramowanie i infrastrukturę pomocną w rozszerzaniu ich możliwości i oferty.
+            </p>
+        </b-col>
         <img alt="mountains" class="img-fluid w-100" src="@/assets/images/mountains-middle.png"/>
     </b-row>
 </template>

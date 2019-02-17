@@ -1,10 +1,11 @@
 <template>
     <b-container class="p-0" fluid id="app">
-        <header>
-            <Aside/>
-        </header>
+        <!--<header>-->
+        <!--<Aside/>-->
+        <!--</header>-->
         <main>
             <Main/>
+            <Timer/>
             <About/>
             <Place/>
             <FAQ/>
@@ -24,19 +25,21 @@
   import FAQ from './components/FAQ'
   import Partners from './components/Partners'
   import Place from './components/Place'
+  import Timer from './components/Timer'
 
   export default {
-		name: 'app',
-		components: {
-			Aside,
-			Main,
-			About,
-			Contact,
-			FAQ,
-			Partners,
-			Place,
-		},
-	}
+    name: 'app',
+    components: {
+      Aside,
+      Main,
+      About,
+      Contact,
+      FAQ,
+      Partners,
+      Place,
+      Timer,
+    },
+  }
 </script>
 
 <style lang="scss">
@@ -44,6 +47,7 @@
         font-family: 'Norse';
         font-style: normal;
         font-weight: normal;
+        font-display: swap;
         src: url("assets/fonts/Norse.otf");
     }
 
@@ -51,7 +55,16 @@
         font-family: 'Futhark';
         font-style: normal;
         font-weight: normal;
+        font-display: swap;
         src: url("assets/fonts/BabelStoneRunicElderFuthark.ttf");
+    }
+
+    @font-face {
+        font-family: 'Elegant';
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+        src: url("assets/fonts/ElegantLux.otf");
     }
 
     * {
@@ -81,6 +94,10 @@
 
         &:hover {
             @extend .bg-white, .text-black;
+        }
+
+        &:focus {
+            box-shadow: none !important;
         }
     }
 

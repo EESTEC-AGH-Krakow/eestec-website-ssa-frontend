@@ -7,8 +7,10 @@
             <b-row>
                 <b-col :key="object.id" class="my-2 my-sm-4 d-flex" cols="12" sm="6" v-for="object in faq">
                     <div class="mx-auto d-flex flex-column">
-                        <h4 class="text-center">{{ object.question }}</h4>
-                        <p class="text-center">{{ object.answer }}</p>
+                        <b-button class="h4 text-center" size="sm" v-b-toggle="`collapse${object.id}`">{{ object.question }}</b-button>
+                        <b-collapse :id="`collapse${object.id}`" class="text-center" tag="p">
+                            {{ object.answer }}
+                        </b-collapse>
                     </div>
                 </b-col>
             </b-row>
