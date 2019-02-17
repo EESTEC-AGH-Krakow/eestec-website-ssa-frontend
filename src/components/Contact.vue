@@ -25,7 +25,7 @@
                     </b-link>
                 </b-col>
                 <b-col class="d-flex align-items-end mt-2 mt-sm-0" cols="12" sm="6">
-                    <span class="font-weight-bold ml-sm-auto"><span class="copyright">&#169;</span> EESTEC AGH Kraków</span>
+                    <span class="font-weight-bold ml-sm-auto"><!--<span class="copyright">&#169;</span>--> EESTEC AGH Kraków</span>
                 </b-col>
             </b-row>
         </b-col>
