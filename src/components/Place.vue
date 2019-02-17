@@ -11,7 +11,7 @@
                    class="map w-100">
                 <l-tile-layer :url="url"></l-tile-layer>
                 <l-marker :lat-lng="placeMarker">
-                    <l-tooltip class="font-weight-bold">Krakowski Park Technologiczny<br>
+                    <l-tooltip class="font-weight-bold secondary-font">Krakowski Park Technologiczny<br>
                         ul. Podole 60<br>
                         30-394, Kraków
                     </l-tooltip>
@@ -24,8 +24,8 @@
                     <font-awesome-icon icon="map-marker-alt" size="lg"></font-awesome-icon>
                 </b-col>
                 <b-col>
-                    <span>Krakowski Park Technologiczny</span><br>
-                    <span>Podole 60</span>
+                    <span class="secondary-font">Krakowski Park Technologiczny</span><br>
+                    <span class="secondary-font">Podole 60</span>
                 </b-col>
             </b-row>
             <b-row no-gutters>
@@ -33,7 +33,7 @@
                     <font-awesome-icon icon="bus" size="lg"></font-awesome-icon>
                 </b-col>
                 <b-col>
-                    <span>Linie: {{ buses }}</span>
+                    <span class="secondary-font">Linie: {{ buses }}</span>
                 </b-col>
             </b-row>
         </b-col>

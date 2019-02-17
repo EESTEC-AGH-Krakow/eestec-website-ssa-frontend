@@ -1,8 +1,0 @@
-{
-  "name": "test-hacknarok",
-  "version": 2,
-  "alias": "test.hacknarok.pl",
-  "files": [
-    "dist"
-  ]
-}

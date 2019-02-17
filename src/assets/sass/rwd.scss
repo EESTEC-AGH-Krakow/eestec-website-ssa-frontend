@@ -15,7 +15,7 @@
 		}
 	}
 	
-	span, p {
+	span, p, li {
 		@include media-breakpoint-up($size) {
 			font-size: $value * 0.6 + 0.15 !important;
 		}

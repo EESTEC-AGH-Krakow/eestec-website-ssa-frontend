@@ -1,18 +1,19 @@
 <template>
     <b-container class="p-0" fluid id="app">
-        <!--<header>-->
-        <!--<Aside/>-->
-        <!--</header>-->
+        <header>
+            <Aside/>
+        </header>
         <main>
-            <Main/>
-            <Timer/>
-            <About/>
-            <Place/>
-            <FAQ/>
-            <Partners/>
+            <Main id="main"/>
+            <Timer id="timer"/>
+            <AboutProject id="about-project"/>
+            <AboutUs id="about-us"/>
+            <Place id="place"/>
+            <FAQ id="faq"/>
+            <Partners id="partners"/>
         </main>
         <footer>
-            <Contact/>
+            <Contact id="contact"/>
         </footer>
     </b-container>
 </template>
@@ -20,7 +21,8 @@
 <script>
   import Main from './components/Main'
   import Aside from './components/Aside'
-  import About from './components/About'
+  import AboutProject from './components/AboutProject'
+  import AboutUs from './components/AboutUs'
   import Contact from './components/Contact'
   import FAQ from './components/FAQ'
   import Partners from './components/Partners'
@@ -32,7 +34,8 @@
     components: {
       Aside,
       Main,
-      About,
+      AboutProject,
+      AboutUs,
       Contact,
       FAQ,
       Partners,
@@ -82,6 +85,7 @@
         display: flex;
         min-height: 100vh;
         flex-direction: column;
+        position: relative;
     }
 
     main {
