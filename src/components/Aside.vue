@@ -11,7 +11,7 @@
                             <img alt="logo" class="img-fluid" src="@/assets/images/hackathon-logo2.png"/>
                         </b-navbar-brand>
 
-                        <b-navbar-nav class="mt-4 font-weight-bold w-100">
+                        <b-navbar-nav class="mt-4 font-weight-bold w-100 bg-white h-100">
                             <b-nav-item :key="link.id" @click="scrollTo(link)" class="text-center" href="#" v-for="link in links">{{ link.name }}</b-nav-item>
                         </b-navbar-nav>
                     </div>
@@ -33,11 +33,11 @@
             name: 'start',
             href: 'main',
           },
-          {
-            id: 2,
-            name: 'czas',
-            href: 'timer',
-          },
+          // {
+          //   id: 2,
+          //   name: 'czas',
+          //   href: 'timer',
+          // },
           {
             id: 3,
             name: 'o projekcie',
@@ -123,6 +123,12 @@
 
     .menu {
         z-index: $aside-index + 2;
+        @include media-breakpoint-down(md) {
+            &:hover, &:focus {
+                background-color: transparent !important;
+                color: $secondary !important;
+            }
+        }
     }
 
     .img-fluid {
