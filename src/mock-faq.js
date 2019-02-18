@@ -37,7 +37,7 @@ export default [
   {
     id: 8,
     question: 'Jak mogę edytować swój formularz zgłoszeniowy?',
-    answer: 'Jeśli jest coś ważnego o czym zapomniałeś nam powiedzieć aplikując, napisz do nas na Facebooku albo wyślij maila na adres hacknarock@eestec.pl.',
+    answer: 'Jeśli jest coś ważnego o czym zapomniałeś nam powiedzieć aplikując, napisz do nas na Facebooku albo wyślij maila na adres hacknarok@eestec.pl.',
   },
   {
     id: 9,
