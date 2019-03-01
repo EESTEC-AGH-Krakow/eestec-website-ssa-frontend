@@ -5,8 +5,8 @@
         </b-col>
         <b-col class="mx-auto" cols="11" lg="8" md="10">
             <p class="text-justify mb-4 mb-sm-5">
-                To już trzecia edycja hackatonu, którego nazwa bezpośrednio nawiązuje do z Ragnaroku- wielkiej bitwy pomiędzy bogami, a olbrzymami, w wyniku której siedzibę bogów trawi ogień, gwiazdy
-                gasną, a z toni wyłania się nowy świat bez przemocy i wojen.
+                To już trzecia edycja hackathonu, którego nazwa bezpośrednio nawiązuje do Ragnaröku
+                - wielkiej bitwy pomiędzy bogami a olbrzymami, w wyniku której siedzibę bogów trawi ogień, gwiazdy gasną, a z toni wyłania się nowy świat bez przemocy i wojen.
             </p>
 
             <h3>Chcesz stworzyć z nami Nowy Świat?</h3>
@@ -17,8 +17,7 @@
             </p>
 
             <p class="text-justify mb-4 mb-sm-5">
-                Zapisy trwają od 1 do 22 marca, w razie jakichkolwiek pytań zapraszamy na stronę wydarzenia lub do kontaktu mailowego.
-                Widzimy się już 6 kwietnia w Krakowskim Parku Technologicznym!
+                Zapisy trwają od 1 do 22 marca, w razie jakichkolwiek pytań zapraszamy na stronę wydarzenia lub do kontaktu mailowego. Widzimy się już 6 kwietnia w Krakowskim Parku Technologicznym!
             </p>
         </b-col>
     </b-row>

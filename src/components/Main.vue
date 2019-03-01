@@ -1,5 +1,5 @@
 <template>
-    <div :style="{backgroundImage: 'url(' + require('@/assets/images/header-bg.jpg') + ')'}" class="background d-flex flex-column position-relative">
+    <div :style="{backgroundImage: `url(${require('@/assets/images/header-bg.jpg')})`}" class="background d-flex flex-column position-relative">
         <b-row class="justify-content-center align-items-center flex-fill" no-gutters>
             <b-col class="mx-auto" cols="10" lg="12" md="8">
                 <div class="d-flex flex-column align-items-center">
@@ -9,7 +9,7 @@
             </b-col>
         </b-row>
         <b-row class="justify-content-center align-items-end position-absolute" no-gutters v-if="applicable">
-            <b-col class="mb-5 d-flex justify-content-center" cols="12">
+            <b-col class="mb-2 mb-lg-5 d-flex justify-content-center" cols="12">
                 <b-button :to="applicationForm" class="apply" target="_blank">APLIKUJ</b-button>
             </b-col>
         </b-row>
@@ -42,7 +42,9 @@
             right: 0;
 
             .apply {
-                font-size: 1.5rem;
+                @include media-breakpoint-up(md) {
+                    font-size: 1.5rem;
+                }
             }
         }
     }

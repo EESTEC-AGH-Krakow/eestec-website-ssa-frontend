@@ -17,7 +17,7 @@ export default [
   {
     id: 4,
     question: 'Jaki jest temat konkursu?',
-    answer: 'Jako, że wierzymy w Waszą kreatywność i ambicje, temat podamy dopiero 60 h przed wydarzeniem. Uzbrójcie się w cierpliwość!',
+    answer: 'Jako że wierzymy w Waszą kreatywność i ambicje, temat podamy dopiero 60 h przed wydarzeniem. Uzbrójcie się w cierpliwość!\n',
   },
   {
     id: 5,
@@ -27,7 +27,7 @@ export default [
   {
     id: 6,
     question: 'Czy mogę zgłosić się bez drużyny?',
-    answer: 'Przykro nam, ale Hacknarök to konkurs drużynowy. Jeśli nie masz pomysłu z kim mógłbyś stworzyć swój wymarzony zespół, śledź nasze wydarzenie na Facebooku! Pojawi się tam grupa dla osób, które jeszcze nie mają kompletnej drużyny.',
+    answer: 'Przykro nam, ale Hacknarök to konkurs drużynowy. Jeśli nie masz pomysłu na to, z kim mógłbyś stworzyć swój wymarzony zespół, śledź nasze wydarzenie na Facebooku! Pojawi się tam grupa dla osób, które jeszcze nie mają kompletnej drużyny.',
   },
   {
     id: 7,
@@ -37,12 +37,12 @@ export default [
   {
     id: 8,
     question: 'Jak mogę edytować swój formularz zgłoszeniowy?',
-    answer: 'Jeśli jest coś ważnego o czym zapomniałeś nam powiedzieć aplikując, napisz do nas na Facebooku albo wyślij maila na adres hacknarok@eestec.pl.',
+    answer: 'Jeśli jest coś ważnego, czego nie umieściłeś w swojej aplikacji, napisz do nas na Facebooku albo wyślij maila na adres hacknarok@eestec.pl.',
   },
   {
     id: 9,
     question: 'Co mam zabrać ze sobą na Hacknarök?.',
-    answer: 'Ważna na pewno będzie drużyna, dobry humor i głowa pełna pomysłów. Z rzeczy bardziej przyziemnych, swój własny sprzęt do kodzenia oraz dodatkowe wyposażenie, które będzie Ci potrzebne do wykonania projektu. Z naszej strony, zapewnimy Wam miejsce do pracy, dostęp do Internetu zarówno po kablu jak i Wi-Fi oraz miejsce gdzie będziecie mogli przez chwilę odpocząć.',
+    answer: 'Ważna na pewno będzie drużyna, dobry humor i głowa pełna pomysłów. Z rzeczy bardziej przyziemnych, swój własny sprzęt do kodzenia oraz dodatkowe wyposażenie, które będzie Ci potrzebne do wykonania projektu. Z naszej strony, zapewnimy Wam miejsce do pracy, dostęp do Internetu zarówno po kablu, jak i Wi-Fi oraz miejsce, gdzie będziecie mogli przez chwilę odpocząć.',
   },
   {
     id: 10,
@@ -52,7 +52,7 @@ export default [
   {
     id: 11,
     question: 'Czy jest jakiś harmonogram wydarzenia?',
-    answer: 'Dokładny harmonogram wydarzenie zostanie opublikowany w specjalnym przewodniku dla uczestników.',
+    answer: 'Dokładny harmonogram zostanie opublikowany w specjalnym przewodniku dla uczestników.',
   },
   {
     id: 12,

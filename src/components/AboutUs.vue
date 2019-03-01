@@ -9,7 +9,7 @@
                 technicznych oraz poznawania nowych kultur.
             </p>
 
-            <span>Za tegoroczną edycją wydarzenia Ragnarok stoją odważni wikingowie na czele z:</span>
+            <span>Za tegoroczną edycją wydarzenia Hacknarök stoją odważni wikingowie na czele z:</span>
             <ul class="list-unstyled mb-4 mb-sm-5">
                 <li><span class="font-weight-bold">Mateusz Leśniak</span> - Koordynator Główny</li>
                 <li><span class="font-weight-bold">Maria Mamica</span> - Koordynator ds. Pozyskiwania Funduszy</li>

@@ -29,4 +29,22 @@ export default [
     href: 'http://itkrk.pl/',
     name: 'itkrk',
   },
+  {
+    id: 6,
+    image: require('@/assets/images/partners/social-media/radio17.png'),
+    href: 'https://radio17.pl/',
+    name: 'radio 17',
+  },
+  {
+    id: 7,
+    image: require('@/assets/images/partners/social-media/radio17.png'),
+    href: 'https://krakow.tvp.pl/',
+    name: 'tvp3 kraków',
+  },
+  {
+    id: 8,
+    image: require('@/assets/images/partners/social-media/radio17.png'),
+    href: 'https://podprad.pl/',
+    name: 'podprad.pl',
+  },
 ]

@@ -37,13 +37,13 @@
                 </b-col>
             </b-row>
         </b-col>
-        <b-col class="mx-auto" cols="10">
+        <b-col class="mx-auto" cols="11" lg="8" md="10">
             <p class="text-justify my-4 my-sm-5">
-                Nasz hackaton odbędzie się w Krakowskim Parku Technologicznym, który wspiera nas od pierwszej edycji.
+                Nasz hackathon odbędzie się w Krakowskim Parku Technologicznym, który wspiera nas od pierwszej edycji.
             </p>
             <p class="text-justify">
                 Krakowski Park Technologiczny to najbardziej kompletny one-stop-shop dla biznesu w Polsce, gdzie przedsiębiorcy, naukowcy i samorządowcy tworzą ekosystem rozwoju małopolskiej
-                gospodarki.Udostępniają także firmom i organizacjom sprzęt elektroniczny, specjalistyczne oprogramowanie i infrastrukturę pomocną w rozszerzaniu ich możliwości i oferty.
+                gospodarki. Udostępnia także firmom i organizacjom sprzęt elektroniczny, specjalistyczne oprogramowanie i infrastrukturę pomocną w rozszerzaniu ich możliwości i oferty.
             </p>
         </b-col>
         <img alt="mountains" class="img-fluid w-100" src="@/assets/images/mountains-middle.png"/>
@@ -52,34 +52,34 @@
 
 <script>
 
-	export default {
-		name: 'Place',
-		data () {
-			return {
-				zoom: 15,
-				center: [50.0211894, 19.8862796046309],
-              placeMarker: [50.0211894, 19.8862796046309],
-				busArray: [230, 157, 194, 17, 18],
-				url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
-			}
-		},
-		methods: {
-			zoomUpdated (zoom) {
-				this.zoom = zoom
-			},
-			centerUpdated (center) {
-				this.center = center
-			},
-			boundsUpdated (bounds) {
-				this.bounds = bounds
-			},
-		},
-		computed: {
-			buses () {
-				return this.busArray.join(', ')
-			},
-		},
-	}
+  export default {
+    name: 'Place',
+    data () {
+      return {
+        zoom: 15,
+        center: [50.0211894, 19.8862796046309],
+        placeMarker: [50.0211894, 19.8862796046309],
+        busArray: [230, 157, 194, 17, 18],
+        url: 'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
+      }
+    },
+    methods: {
+      zoomUpdated (zoom) {
+        this.zoom = zoom
+      },
+      centerUpdated (center) {
+        this.center = center
+      },
+      boundsUpdated (bounds) {
+        this.bounds = bounds
+      },
+    },
+    computed: {
+      buses () {
+        return this.busArray.join(', ')
+      },
+    },
+  }
 </script>
 
 <style lang="scss" scoped>
