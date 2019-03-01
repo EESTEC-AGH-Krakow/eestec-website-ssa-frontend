@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c4221f6e4ea7a62ea2ed",
-    "url": "/assets/css/app.180d5cb3.css"
+    "revision": "81c42845f896893b2fb7",
+    "url": "/assets/css/app.f8e0c616.css"
   },
   {
-    "revision": "c4221f6e4ea7a62ea2ed",
-    "url": "/assets/js/app.06deba34.js"
+    "revision": "81c42845f896893b2fb7",
+    "url": "/assets/js/app.6be22e12.js"
   },
   {
     "revision": "8e360750dae140904db2",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "545c51fe8e2ed8df3e038f7e2973097c",
     "url": "/assets/img/10.545c51fe.jpg"
+  },
+  {
+    "revision": "da26ded58a8918cbc56679eef15829c7",
+    "url": "/assets/img/podprad.da26ded5.png"
   },
   {
     "revision": "c69cd8f5e2a5494ccf0078d9151fa950",
@@ -50,6 +54,10 @@ self.__precacheManifest = [
   {
     "revision": "06de1f7f4adaadfd24bfff71b7a04143",
     "url": "/assets/img/3.06de1f7f.jpg"
+  },
+  {
+    "revision": "fef76b5bf169c3c5ca7f1e10b3893143",
+    "url": "/assets/img/radio17.fef76b5b.png"
   },
   {
     "revision": "41c9cd9cb8e647e7a564bf14eb602c08",
@@ -108,16 +116,16 @@ self.__precacheManifest = [
     "url": "/assets/img/radiofonia.16d2c966.png"
   },
   {
-    "revision": "96541fc2b442e201b609ace222cf684d",
+    "revision": "05c4bc97427f08007974186d868175ad",
     "url": "/index.html"
-  },
-  {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
   },
   {
     "revision": "0867066d967bda82c4dd3f3a0f57aac7",
     "url": "/favicon.png"
+  },
+  {
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   },
   {
     "revision": "fe9e8d0ca912df2d9bfb5b130e93c2bb",

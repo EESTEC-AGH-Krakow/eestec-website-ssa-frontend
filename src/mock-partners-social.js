@@ -37,13 +37,13 @@ export default [
   },
   {
     id: 7,
-    image: require('@/assets/images/partners/social-media/radio17.png'),
+    image: require('@/assets/images/partners/social-media/tvp3.png'),
     href: 'https://krakow.tvp.pl/',
     name: 'tvp3 kraków',
   },
   {
     id: 8,
-    image: require('@/assets/images/partners/social-media/radio17.png'),
+    image: require('@/assets/images/partners/social-media/podprad.png'),
     href: 'https://podprad.pl/',
     name: 'podprad.pl',
   },
