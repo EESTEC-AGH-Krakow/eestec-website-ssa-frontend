@@ -1,5 +1,5 @@
 <template>
-    <div :style="{backgroundImage: 'url(' + require('@/assets/images/header-bg.jpg') + ')'}" class="background d-flex flex-column">
+    <div :style="{backgroundImage: 'url(' + require('@/assets/images/header-bg.jpg') + ')'}" class="background d-flex flex-column position-relative">
         <b-row class="justify-content-center align-items-center flex-fill" no-gutters>
             <b-col class="mx-auto" cols="10" lg="12" md="8">
                 <div class="d-flex flex-column align-items-center">
@@ -10,21 +10,22 @@
         </b-row>
         <b-row class="justify-content-center align-items-end position-absolute" no-gutters v-if="applicable">
             <b-col class="mb-5 d-flex justify-content-center" cols="12">
-                <b-button class="apply">APLIKUJ</b-button>
+                <b-button :to="applicationForm" class="apply" target="_blank">APLIKUJ</b-button>
             </b-col>
         </b-row>
     </div>
 </template>
 
 <script>
-	export default {
-      name: 'Main',
-		data () {
-			return {
-				applicable: false,
-			}
-		},
-	}
+  export default {
+    name: 'Main',
+    data () {
+      return {
+        applicable: true,
+        applicationForm: 'https://docs.google.com/forms/d/e/1FAIpQLSfTQTz3Q6LM3ahQNiyipqFRX4vcOuxH8xUdVVXKuAAc5JLvvw/viewform',
+      }
+    },
+  }
 </script>
 
 <style scoped lang="scss">
