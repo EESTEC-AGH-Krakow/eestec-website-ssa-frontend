@@ -5,7 +5,7 @@
         </header>
         <main>
             <Main id="main"/>
-            <!--<Timer id="timer"/>-->
+            <Timer id="timer"/>
             <AboutProject id="about-project"/>
             <Gallery id="gallery"/>
             <AboutUs id="about-us"/>
@@ -117,6 +117,13 @@
     @for $i from 1 through 6 {
         h#{$i} {
             @extend .font-weight-bold;
+        }
+    }
+
+    .flip-card__top, .flip-card__bottom, .flip-card__back, .flip-card__back-bottom {
+        &, &::before {
+            width: 5em !important;
+            @extend .third-font;
         }
     }
 </style>

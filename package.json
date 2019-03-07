@@ -25,6 +25,7 @@
     "vue": "^2.5.21",
     "vue-scrollto": "^2.13.0",
     "vue-svg-loader": "^0.12.0",
+    "vue2-flip-countdown": "^0.5.3",
     "vue2-leaflet": "^1.2.3"
   },
   "devDependencies": {
