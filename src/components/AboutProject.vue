@@ -26,6 +26,11 @@
 <script>
   export default {
     name: 'AboutProject',
+    data () {
+      return {
+        ex: '<span class="text-danger">asdlasdjsaklda</span>',
+      }
+    },
   }
 </script>
 
