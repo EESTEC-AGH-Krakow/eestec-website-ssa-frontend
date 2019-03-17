@@ -47,4 +47,10 @@ export default [
     href: 'https://podprad.pl/',
     name: 'podprad.pl',
   },
+  {
+    id: 9,
+    image: require('@/assets/images/partners/social-media/crossweb.png'),
+    href: 'https://crossweb.pl/',
+    name: 'crossweb',
+  },
 ]
