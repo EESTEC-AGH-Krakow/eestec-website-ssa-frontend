@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "9a27e52d8687fafa26d0",
-    "url": "/assets/css/app.f8e0c616.css"
+    "revision": "b5f96fff9a467bfa6689",
+    "url": "/assets/css/app.748398ff.css"
   },
   {
-    "revision": "9a27e52d8687fafa26d0",
-    "url": "/assets/js/app.51b4860c.js"
+    "revision": "b5f96fff9a467bfa6689",
+    "url": "/assets/js/app.a9780464.js"
   },
   {
-    "revision": "8e360750dae140904db2",
+    "revision": "0fea9ae599dae2382d30",
     "url": "/assets/css/chunk-vendors.0ac12124.css"
   },
   {
-    "revision": "8e360750dae140904db2",
-    "url": "/assets/js/chunk-vendors.8b054a27.js"
+    "revision": "0fea9ae599dae2382d30",
+    "url": "/assets/js/chunk-vendors.8416ccd2.js"
   },
   {
     "revision": "b29040506684d6eb283e5e5ae7192918",
     "url": "/assets/img/crossweb.b2904050.png"
+  },
+  {
+    "revision": "9c669562eca0f57dadd7e74fbd634a9c",
+    "url": "/assets/img/totalizator.9c669562.jpg"
+  },
+  {
+    "revision": "c2825e5343fc9738a32592f24f18c972",
+    "url": "/assets/img/assa_abloy.c2825e53.jpg"
   },
   {
     "revision": "b032fd68982d9016611cda6e554a7b74",
@@ -84,12 +92,20 @@ self.__precacheManifest = [
     "url": "/assets/img/7.add41ad2.jpg"
   },
   {
+    "revision": "f1df1aa54c5ba4d60382299519f6ccb8",
+    "url": "/assets/img/appliscale.f1df1aa5.png"
+  },
+  {
     "revision": "fc2beb914593668f8f5785b1831e3fd4",
     "url": "/assets/img/6.fc2beb91.jpg"
   },
   {
     "revision": "41c5335df37a4b06e8a72fba0c8d6ecb",
     "url": "/assets/img/dlastudenta.41c5335d.png"
+  },
+  {
+    "revision": "1753b74496f70e45d169a047e9d30f86",
+    "url": "/assets/img/avsystem.1753b744.jpg"
   },
   {
     "revision": "ea9fda90c2bb09c1161f80c5bda11ef7",
@@ -112,15 +128,23 @@ self.__precacheManifest = [
     "url": "/assets/img/8.3e193b55.jpg"
   },
   {
+    "revision": "880a420e81cec778383464d6a19e2d49",
+    "url": "/assets/img/eset.880a420e.png"
+  },
+  {
     "revision": "20b5d3bb926b371ab2138142e0452ed3",
     "url": "/assets/img/9.20b5d3bb.jpg"
+  },
+  {
+    "revision": "1361f0deb06c47c93e3cc3ed95a536f1",
+    "url": "/assets/img/elettric.1361f0de.png"
   },
   {
     "revision": "16d2c966128238f8ce7432a929c37efe",
     "url": "/assets/img/radiofonia.16d2c966.png"
   },
   {
-    "revision": "fdb54421d9a66d004da8e4b65326a0f5",
+    "revision": "375748974cc4ef9688a430eab7ce5440",
     "url": "/index.html"
   },
   {
