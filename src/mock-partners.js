@@ -3,7 +3,11 @@ export default {
     image: require('@/assets/images/partners/totalizator.png'),
     href: 'https://www.totalizator.pl/',
     name: 'Totalizator Sportowy',
-    text: `Totalizator Sportowy – jest jedną z najbardziej rozpoznawalnych polskich spółek, która nie tylko dba o rozwój tradycyjnych gier LOTTO, ale jednocześnie rozwija nowe linie biznesowe w obszarze e-commerce.`,
+    text: `Totalizator Sportowy to jedna z najbardziej rozpoznawalnych i zasłużonych polskich spółek, która działa nieprzerwanie od ponad 60 lat.
+
+Umiejętnie łączy nowoczesność z tradycją oraz zapewnia klientom łatwy dostęp do szerokiego wachlarza produktów, dbając nie tylko o rozwój tradycyjnych gier spod znaku LOTTO, ale jednocześnie rozwijając nowe linie biznesowe, co związane jest z wejściem spółki na rynek e-commerce.
+
+Totalizator Sportowy jest godnym zaufania partnerem biznesowym, liderem, zapewniającym graczom łatwy dostęp do szerokiego wachlarza usług z zakresu rozrywki, stwarzającym swoim pracownikom możliwość rozwoju w branży pełnej ciekawych wyzwań.`,
   },
   second: [
     {
