@@ -4,38 +4,29 @@
         <b-col cols="12">
             <h1 class="text-center my-4 my-sm-5 display-3">Partnerzy</h1>
         </b-col>
-        <b-col cols="12">
-            <h2 class="text-center my-4 my-sm-5">Partner Główny</h2>
-        </b-col>
         <b-col class="mx-auto" cols="11" lg="8" md="10">
             <b-row>
                 <Partner :partner="partners.first"/>
             </b-row>
         </b-col>
 
-        <b-col cols="12">
-            <h2 class="text-center my-4 my-sm-5">Partnerzy Srebrni</h2>
-        </b-col>
         <b-col class="mx-auto" cols="11" lg="8" md="10">
             <b-row>
                 <Partner :key="index" :partner="partner" v-for="(partner, index) in partners.second"/>
             </b-row>
         </b-col>
 
-        <b-col cols="12">
-            <h2 class="text-center my-4 my-sm-5">Partnerzy Brązowi</h2>
-        </b-col>
         <b-col class="mx-auto" cols="11" lg="8" md="10">
             <b-row>
                 <Partner :key="index" :partner="partner" v-for="(partner, index) in partners.third"/>
             </b-row>
         </b-col>
 
-        <b-col class="mx-auto" cols="11" lg="8" md="10">
-            <b-row>
-                <Partner :key="index" :partner="partner" v-for="(partner, index) in partners.rest"/>
-            </b-row>
-        </b-col>
+        <!--<b-col class="mx-auto" cols="11" lg="8" md="10">-->
+        <!--<b-row>-->
+        <!--<Partner :key="index" :partner="partner" v-for="(partner, index) in partners.rest"/>-->
+        <!--</b-row>-->
+        <!--</b-col>-->
 
         <b-col cols="12">
             <h1 class="text-center my-4 my-sm-5 display-3">Partnerzy medialni</h1>

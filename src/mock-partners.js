@@ -7,6 +7,11 @@ export default {
   },
   second: [
     {
+      image: require('@/assets/images/partners/agh.jpg'),
+      href: 'https://www.agh.edu.pl/',
+      name: 'agh',
+    },
+    {
       image: require('@/assets/images/partners/assa_abloy.jpg'),
       href: 'https://www.assaabloy.com/en/com/',
       name: 'assa abloy',
@@ -61,11 +66,11 @@ Jeśli marzy Ci się po studiach podróżować i programować jednocześnie oraz
 Przyjdź i porozmawiaj z naszymi przedstawicielami spod znaku orła.`,
     },
   ],
-  rest: [
-    {
-      image: require('@/assets/images/partners/agh.jpg'),
-      href: 'https://www.agh.edu.pl/',
-      name: 'agh',
-    },
-  ],
+  // rest: [
+  //   {
+  //     image: require('@/assets/images/partners/agh.jpg'),
+  //     href: 'https://www.agh.edu.pl/',
+  //     name: 'agh',
+  //   },
+  // ],
 }

@@ -1,5 +1,5 @@
 <template>
-    <b-col class="my-4 d-flex align-items-center" cols="6" lg="3" sm="4">
+    <b-col class="my-4 d-flex align-items-center mx-auto" cols="6" lg="3" sm="4">
         <b-link class="flex-fill d-flex align-items-center" v-b-modal="'partner'" v-if="partner.text">
             <img :alt="partner.name" :src="partner.image" class="img-fluid mx-auto"/>
         </b-link>
