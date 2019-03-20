@@ -2,7 +2,7 @@ export default {
   first: {
     image: require('@/assets/images/partners/totalizator.jpg'),
     href: 'https://www.totalizator.pl/',
-    name: 'totalizator sportowy',
+    name: 'Totalizator Sportowy',
     text: `Totalizator Sportowy – jest jedną z najbardziej rozpoznawalnych polskich spółek, która nie tylko dba o rozwój tradycyjnych gier LOTTO, ale jednocześnie rozwija nowe linie biznesowe w obszarze e-commerce.`,
   },
   second: [
