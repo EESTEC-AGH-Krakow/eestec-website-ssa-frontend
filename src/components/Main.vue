@@ -21,7 +21,7 @@
     name: 'Main',
     data () {
       return {
-        applicable: true,
+        applicable: false,
         applicationForm: 'https://docs.google.com/forms/d/e/1FAIpQLSfTQTz3Q6LM3ahQNiyipqFRX4vcOuxH8xUdVVXKuAAc5JLvvw/viewform',
       }
     },
