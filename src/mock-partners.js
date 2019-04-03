@@ -16,6 +16,11 @@ Totalizator Sportowy jest godnym zaufania partnerem biznesowym, liderem, zapewni
       name: 'agh',
     },
     {
+      image: require('@/assets/images/partners/kpt.jpg'),
+      href: 'http://www.kpt.krakow.pl/',
+      name: 'kpt',
+    },
+    {
       image: require('@/assets/images/partners/assa_abloy.jpg'),
       href: 'https://www.assaabloy.com/en/com/',
       name: 'assa abloy',
