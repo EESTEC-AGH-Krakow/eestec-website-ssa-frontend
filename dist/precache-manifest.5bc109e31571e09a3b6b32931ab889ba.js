@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1189498ba0cec77259bc",
+    "revision": "8e987bba995fc63c0013",
     "url": "/assets/css/app.eebe68f5.css"
   },
   {
-    "revision": "1189498ba0cec77259bc",
-    "url": "/assets/js/app.95c66cb1.js"
+    "revision": "8e987bba995fc63c0013",
+    "url": "/assets/js/app.b6a0a706.js"
   },
   {
     "revision": "0fea9ae599dae2382d30",
@@ -124,6 +124,10 @@ self.__precacheManifest = [
     "url": "/assets/img/1.1573b888.jpg"
   },
   {
+    "revision": "9382ceb8758c990cd3ee4f42ed94e326",
+    "url": "/assets/img/kpt.9382ceb8.jpg"
+  },
+  {
     "revision": "3e193b55b6985f881048f93652c29bc4",
     "url": "/assets/img/8.3e193b55.jpg"
   },
@@ -144,7 +148,7 @@ self.__precacheManifest = [
     "url": "/assets/img/radiofonia.16d2c966.png"
   },
   {
-    "revision": "93fd1a0f5fded67b677f621f9f54c335",
+    "revision": "851414a990b18b29a5e880cbec33e2fb",
     "url": "/index.html"
   },
   {
@@ -152,15 +156,15 @@ self.__precacheManifest = [
     "url": "/favicon.png"
   },
   {
-    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
-    "url": "/robots.txt"
+    "revision": "ae06d3a29466ca4e3abed4dfa9702234",
+    "url": "/guide.pdf"
   },
   {
     "revision": "fe9e8d0ca912df2d9bfb5b130e93c2bb",
     "url": "/regulamin.pdf"
   },
   {
-    "revision": "ae06d3a29466ca4e3abed4dfa9702234",
-    "url": "/guide.pdf"
+    "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
+    "url": "/robots.txt"
   }
 ];
