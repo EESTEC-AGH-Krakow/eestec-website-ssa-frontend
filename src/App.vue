@@ -5,7 +5,7 @@
         </header>
         <main>
             <Main id="main"/>
-            <Timer id="timer"/>
+           <!-- <Timer id="timer"/>-->
             <AboutProject id="about-project"/>
             <Gallery id="gallery"/>
             <AboutUs id="about-us"/>
