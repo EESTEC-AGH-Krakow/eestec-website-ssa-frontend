@@ -1,13 +1,13 @@
 {
-  "name": "hack-front-vue",
+  "name": "ssa-front-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --host 0.0.0.0",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "inspect": "vue-cli-service inspect",
     "deploy": "npm run build && now && now alias",
+    "inspect": "vue-cli-service inspect",
     "postinstall": "npm run build",
     "start": "node server.js"
   },
@@ -23,6 +23,7 @@
     "npm": "^6.12.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
     "vue-scrollto": "^2.17.1",
     "vue-svg-loader": "^0.12.0",
     "vue2-flip-countdown": "^0.5.3",
