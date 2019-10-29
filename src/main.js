@@ -10,6 +10,7 @@ import { fas } from '@fortawesome/free-solid-svg-icons'
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import VueScrollTo from 'vue-scrollto'
+import router from './router'
 
 // this part resolve an issue where the markers would not appear
 delete L.Icon.Default.prototype._getIconUrl
@@ -41,5 +42,6 @@ Vue.use(VueScrollTo, {
 Vue.config.productionTip = false
 
 new Vue({
-	render: h => h(App),
+    router,
+    render: h => h(App)
 }).$mount('#app')

@@ -1,12 +1,8 @@
-$assetsDir: '/assets';
-
-$white: #fff;
 $black: #000;
 $blue-dark: #1f3040;
 $dark: #213341;
 
 $colors: (
-	white: $white,
 	black: $black,
 	blue-dark: $blue-dark,
 	dark: $dark
@@ -22,3 +18,7 @@ $responsive-font-sizes: (
 	sm: 1.8rem,
 	xs: 1.2rem
 );
+
+$enable-responsive-font-sizes: true;
+$link-hover-decoration: none;
+$emphasized-link-hover-darken-percentage: 30%;
