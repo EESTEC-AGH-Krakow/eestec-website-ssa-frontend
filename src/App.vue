@@ -1,49 +1,26 @@
 <template>
     <b-container class="p-0" fluid id="app">
         <header>
-            <Aside/>
+            <Header/>
         </header>
         <main>
-            <Main id="main"/>
-           <!-- <Timer id="timer"/>-->
-            <AboutProject id="about-project"/>
-            <Gallery id="gallery"/>
-            <AboutUs id="about-us"/>
-            <Place id="place"/>
-            <FAQ id="faq"/>
-            <Partners id="partners"/>
+            <router-view></router-view>
         </main>
         <footer>
-            <Contact id="contact"/>
+            <Footer/>
         </footer>
     </b-container>
 </template>
 
 <script>
-  import Main from './components/Main'
-  import Aside from './components/Aside'
-  import AboutProject from './components/AboutProject'
-  import Gallery from './components/Gallery'
-  import AboutUs from './components/AboutUs'
-  import Contact from './components/Contact'
-  import FAQ from './components/FAQ'
-  import Partners from './components/Partners'
-  import Place from './components/Place'
-  import Timer from './components/Timer'
+  import Header from './components/Header'
+  import Footer from './components/Footer'
 
   export default {
     name: 'app',
     components: {
-      Aside,
-      Main,
-      AboutProject,
-      Gallery,
-      AboutUs,
-      Contact,
-      FAQ,
-      Partners,
-      Place,
-      Timer,
+      Header,
+      Footer,
     },
   }
 </script>
@@ -81,7 +58,6 @@
     html, body {
         margin: 0;
         padding: 0;
-        font-size: 30px;
     }
 
     #app {
@@ -95,35 +71,9 @@
         flex: 1 0 auto;
     }
 
-    .btn {
-        @extend .rounded-0, .font-weight-bold, .bg-transparent, .border, .border-white, .px-4, .py-2;
-        border-width: 5px !important;
-
-        &:hover {
-            @extend .bg-white, .text-black;
-        }
-
-        &:focus {
-            box-shadow: none !important;
-        }
-    }
-
-    a {
-        &:hover {
-            text-decoration: none;
-        }
-    }
-
     @for $i from 1 through 6 {
         h#{$i} {
             @extend .font-weight-bold;
-        }
-    }
-
-    .flip-card__top, .flip-card__bottom, .flip-card__back, .flip-card__back-bottom {
-        &, &::before {
-            width: 5em !important;
-            @extend .third-font;
         }
     }
 </style>

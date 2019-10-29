@@ -1,5 +1,5 @@
 <template>
-    <b-row class="flex-column flex-md-row">
+    <b-row no-gutters class="flex-column flex-md-row">
         <b-col offset="3" cols="6" offset-lg="0" lg="3" xl="2" class="d-flex justify-content-center justify-content-lg-start">
             <img class="img-fluid m-2" :src="require('@/assets/images/eestec_logo.png')"/>
         </b-col>
