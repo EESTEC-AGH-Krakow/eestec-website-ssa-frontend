@@ -1,7 +1,7 @@
 <template>
     <b-container class="p-0" fluid id="app">
         <header>
-            <Aside/>
+            <Header id="header"/>
         </header>
         <main>
             <Main id="main"/>
@@ -21,7 +21,7 @@
 
 <script>
   import Main from './components/Main'
-  import Aside from './components/Aside'
+  import Header from './components/Header'
   import AboutProject from './components/AboutProject'
   import Gallery from './components/Gallery'
   import AboutUs from './components/AboutUs'
@@ -34,7 +34,7 @@
   export default {
     name: 'app',
     components: {
-      Aside,
+      Header,
       Main,
       AboutProject,
       Gallery,
@@ -71,6 +71,14 @@
         font-weight: normal;
         font-display: swap;
         src: url("assets/fonts/ElegantLux.otf");
+    }
+
+    @font-face {
+        font-family: 'Comfortaa';
+        font-style: normal;
+        font-weight: normal;
+        font-display: swap;
+        src: url("assets/fonts/Comfortaa.ttf");
     }
 
     * {
