@@ -1,5 +1,5 @@
 <template>
-    <b-container class="p-0" fluid id="app">
+    <b-container fluid id="app">
         <header>
             <Header/>
         </header>
