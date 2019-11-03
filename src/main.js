@@ -11,6 +11,7 @@ import { fab } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import VueScrollTo from 'vue-scrollto'
 import router from './router'
+import headroom from 'vue-headroom'
 
 // this part resolve an issue where the markers would not appear
 delete L.Icon.Default.prototype._getIconUrl
@@ -29,6 +30,7 @@ Vue.component('l-tile-layer', LTileLayer)
 Vue.component('l-marker', LMarker)
 Vue.component('l-tooltip', LTooltip)
 
+Vue.use(headroom)
 Vue.use(BootstrapVue)
 Vue.use(VueScrollTo, {
 	container: 'body',

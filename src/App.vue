@@ -1,8 +1,10 @@
 <template>
     <b-container fluid id="app">
-        <header>
-            <Header/>
-        </header>
+        <headroom>
+            <header>
+                <Header/>
+            </header>
+        </headroom>
         <main>
             <router-view></router-view>
         </main>
