@@ -1,6 +1,7 @@
 <template>
     <b-row no-gutters>
-        <b-col cols="12">
+        <b-col cols="12" class="position-relative">
+
         </b-col>
     </b-row>
 </template>
