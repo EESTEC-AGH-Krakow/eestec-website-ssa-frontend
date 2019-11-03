@@ -26,29 +26,7 @@
 </script>
 
 <style lang="scss">
-    @font-face {
-        font-family: 'Norse';
-        font-style: normal;
-        font-weight: normal;
-        font-display: swap;
-        src: url("assets/fonts/Norse.otf");
-    }
-
-    @font-face {
-        font-family: 'Futhark';
-        font-style: normal;
-        font-weight: normal;
-        font-display: swap;
-        src: url("assets/fonts/BabelStoneRunicElderFuthark.ttf");
-    }
-
-    @font-face {
-        font-family: 'Elegant';
-        font-style: normal;
-        font-weight: normal;
-        font-display: swap;
-        src: url("assets/fonts/ElegantLux.otf");
-    }
+    @import url('https://fonts.googleapis.com/css?family=Francois+One|Lato:400,700&display=swap');
 
     * {
         box-sizing: border-box;
@@ -69,11 +47,5 @@
 
     main {
         flex: 1 0 auto;
-    }
-
-    @for $i from 1 through 6 {
-        h#{$i} {
-            @extend .font-weight-bold;
-        }
     }
 </style>
