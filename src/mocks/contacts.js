@@ -2,7 +2,7 @@ export default [
     {
         "id":1,
         "type":"ssa",
-        "description":"  <h5>Masz pytania?</h5>\n" +
+        "description":"  <h5 align='left'>Masz pytania?</h5>\n" +
             "            Napisz do nas!<br/>\n" +
             "            📧 kontakt@softskillsacademy.pl<br/>\n" +
             "            <br/>\n" +
@@ -20,7 +20,7 @@ export default [
         "description":" <h5>Chcesz współpracować z nami przy innych wydarzeniach?</h5>\n" +
             "           Nie zwlekaj i napisz do nas!<br/>\n" +
             "           📧 board@eestec.pl<br/>\n" +
-            "           🌐 <a href=\"https://www.eestec.pl\">www.eestec.pl</a>",
+            "           🌐 www.eestec.pl",
         "image":require('@/assets/images/contact/eestec.png')
     }
 ]
