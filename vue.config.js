@@ -59,8 +59,8 @@ module.exports = {
           '/poprzednie-edycje',
           '/prelegenci'
         ],
-        useRenderEvent: true,
-        headless: false,
+        useRenderEvent: false,
+        headless: true,
         onlyProduction: true
       }
     },
