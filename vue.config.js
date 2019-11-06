@@ -40,13 +40,28 @@ module.exports = {
 	parallel: undefined,
 	
 	pluginOptions: {
-		'style-resources-loader': {
-			preProcessor: 'scss',
-			patterns: [
-				path.resolve(__dirname, './src/assets/sass/all.scss'),
-				path.resolve(__dirname, './node_modules/bootstrap/scss/bootstrap.scss'),
-				path.resolve(__dirname, './src/assets/sass/animations.scss'),
-			],
-		},
-	},
+      'style-resources-loader': {
+        preProcessor: 'scss',
+        patterns: [
+          '/home/blacksmith/Desktop/projects/ssa-front/src/assets/sass/all.scss',
+          '/home/blacksmith/Desktop/projects/ssa-front/node_modules/bootstrap/scss/bootstrap.scss',
+          '/home/blacksmith/Desktop/projects/ssa-front/src/assets/sass/animations.scss'
+        ]
+      },
+      prerenderSpa: {
+        registry: undefined,
+        renderRoutes: [
+          '/',
+          '/o-nas',
+          '/kontakt',
+          '/harmonogram',
+          '/partnerzy',
+          '/poprzednie-edycje',
+          '/prelegenci'
+        ],
+        useRenderEvent: true,
+        headless: false,
+        onlyProduction: true
+      }
+    },
 }
