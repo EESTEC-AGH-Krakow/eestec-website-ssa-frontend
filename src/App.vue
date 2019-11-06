@@ -17,12 +17,14 @@
 <script>
   import Header from './components/Header'
   import Footer from './components/Footer'
+  import headroom from 'vue-headroom'
 
   export default {
     name: 'app',
     components: {
       Header,
       Footer,
+      headroom
     },
   }
 </script>
