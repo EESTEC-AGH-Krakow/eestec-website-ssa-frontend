@@ -4,16 +4,16 @@
             <b-navbar toggleable="lg" type="light">
                 <b-row no-gutters class="flex-fill">
                     <b-col cols="2" class="d-flex align-items-center">
-                        <b-navbar-brand><SVGSSAFull class="logo"/></b-navbar-brand>
+                        <b-navbar-brand :to="{ name: 'home' }"><SVGSSAFull class="logo"/></b-navbar-brand>
                     </b-col>
                     <b-col cols="8" class="d-flex justify-content-center align-items-center">
                         <b-collapse id="nav-collapse" is-nav>
                             <b-navbar-nav class="mx-auto">
-                                <b-nav-item to="">o nas</b-nav-item>
-                                <b-nav-item to="">harmonogram</b-nav-item>
-                                <b-nav-item to="">prelegenci</b-nav-item>
-                                <b-nav-item to="">partnerzy</b-nav-item>
-                                <b-nav-item to="">poprzednie edycje</b-nav-item>
+                                <b-nav-item :to="{ name: 'about' }">o nas</b-nav-item>
+                                <b-nav-item :to="{ name: 'timetable' }">harmonogram</b-nav-item>
+                                <b-nav-item :to="{ name: 'speakers' }">prelegenci</b-nav-item>
+                                <b-nav-item :to="{ name: 'partners' }">partnerzy</b-nav-item>
+                                <b-nav-item :to="{ name: 'previousEditions' }">poprzednie edycje</b-nav-item>
                             </b-navbar-nav>
                         </b-collapse>
                     </b-col>
