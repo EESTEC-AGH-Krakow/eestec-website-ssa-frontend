@@ -6,7 +6,7 @@
         <b-col cols="12" lg="7" xl="8" class="d-flex justify-content-center">
             <b-nav class="align-items-center">
                 <b-nav-item :to="{ name: 'contact' }">KONTAKT</b-nav-item>
-                <b-nav-item >REGULAMIN</b-nav-item>
+                <b-nav-item :href="`${publicPath}regulamin.pdf`">REGULAMIN</b-nav-item>
             </b-nav>
         </b-col>
         <b-col cols="12" lg="2" class="d-flex align-items-lg-center justify-content-center mt-3 mb-3">
@@ -26,7 +26,8 @@
         data: function () {
           return {
               linkedinUrl: "https://www.linkedin.com/showcase/soft-skills-academy-poland/",
-              facebookUrl: "https://www.facebook.com/SoftSkillsAcademy/"
+              facebookUrl: "https://www.facebook.com/SoftSkillsAcademy/",
+              publicPath: process.env.BASE_URL
           }
         },
         components: {},
