@@ -1,10 +1,10 @@
 <template>
-    <b-container fluid id="app">
-        <headroom>
+    <b-container fluid id="app" class="p-0">
+<!--        <headroom>-->
             <header>
                 <Header/>
             </header>
-        </headroom>
+<!--        </headroom>-->
         <main>
             <router-view></router-view>
         </main>
@@ -17,12 +17,14 @@
 <script>
   import Header from './components/Header'
   import Footer from './components/Footer'
+  // import headroom from 'vue-headroom'
 
   export default {
     name: 'app',
     components: {
       Header,
       Footer,
+      // headroom
     },
   }
 </script>
@@ -32,7 +34,6 @@
 
     * {
         box-sizing: border-box;
-        @extend .primary-font;
     }
 
     html, body {
