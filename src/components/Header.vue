@@ -1,11 +1,11 @@
 <template>
-    <b-row no-gutters class="elevate w-100 bg-white" :class="{'position-absolute': toggled}">
+    <b-row no-gutters class="elevate w-100 bg-white">
         <b-col cols="12">
             <b-navbar toggleable="lg" type="light">
                 <b-row no-gutters class="flex-fill w-100">
                     <b-col cols="12" lg="2" class="d-flex align-items-center justify-content-between justify-content-lg-start">
-                        <b-navbar-brand :to="{ name: 'home' }"><SVGSSAFull class="nav-logo"/></b-navbar-brand>
-                        <b-navbar-toggle target="nav-collapse" @click="clicked = !clicked" />
+                        <b-navbar-brand :to="{ name: 'home' }"><SVGSSAFull class="ssa-logo"/></b-navbar-brand>
+                        <b-navbar-toggle target="nav-collapse" @click="$store.commit('toggleNav')" />
                     </b-col>
                     <b-col lg="8" xl="8" class="d-none d-lg-flex justify-content-center align-items-center">
                         <HeaderNav class="mx-auto" />
@@ -15,7 +15,7 @@
                     </b-col>
                 </b-row>
 
-                <b-collapse id="nav-collapse" is-nav>
+                <b-collapse id="nav-collapse" is-nav @hidden="$store.commit('toggleNav', false)" class="bg-white pb-2 position-absolute menu">
                     <HeaderNav class="d-lg-none"/>
                 </b-collapse>
             </b-navbar>
@@ -26,6 +26,7 @@
 <script>
   import SVGSSAFull from '@/assets/images/ssa_full.svg'
   import HeaderNav from './HeaderNav'
+  import { mapState } from 'vuex'
 
   export default {
     name: 'Header',
@@ -35,7 +36,6 @@
     },
     data () {
       return {
-        clicked: false,
         links: [
           {
             name: 'start',
@@ -59,8 +59,16 @@
       }
     },
     computed: {
+      ...mapState([
+        'isNavOpened'
+      ]),
       toggled() {
-        return !this.$screen.lg && !this.$screen.xl && this.clicked
+        return !this.$screen.lg && !this.$screen.xl && this.isNavOpened
+      }
+    },
+    watch: {
+      toggled() {
+        // document.getElementsByTagName('body')[0].style.overflowY = this.toggled ? 'hidden' : 'auto';
       }
     }
   }
@@ -71,31 +79,13 @@
         z-index: 90;
     }
 
-    .nav-logo {
-        .st0 {
-            fill: #C0CE47;
-        }
+    .menu {
+        top: 100%;
+        left: 0;
+        right: 0;
+    }
 
-        .st1 {
-            display: none;
-        }
-
-        .st2 {
-            display: inline;
-        }
-
-        .st3 {
-            display: inline;
-            fill: #FFFFFF;
-        }
-
-        .st4 {
-            display: inline;
-            fill: #C0CE47;
-        }
-
-        .st5 {
-            fill: #FFFFFF;
-        }
+    .ssa-logo {
+        width: 8rem;
     }
 </style>
