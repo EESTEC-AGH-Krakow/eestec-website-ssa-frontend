@@ -9,7 +9,7 @@
     "deploy": "npm run build && now && now alias",
     "inspect": "vue-cli-service inspect",
     "postinstall": "npm run build",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",

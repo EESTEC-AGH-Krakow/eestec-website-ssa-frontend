@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import './registerServiceWorker'
+// import './registerServiceWorker'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import { L, LMap, LMarker, LTileLayer, LTooltip } from 'vue2-leaflet'
@@ -44,6 +44,5 @@ Vue.config.productionTip = false
 new Vue({
     router,
     render: h => h(App),
-  mounted: () => document.dispatchEvent(new Event("x-app-rendered")),
   mounted: () => document.dispatchEvent(new Event("x-app-rendered")),
 }).$mount('#app')
