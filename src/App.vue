@@ -1,7 +1,7 @@
 <template>
     <b-container fluid id="app" class="p-0">
 <!--        <headroom>-->
-            <header>
+            <header class="sticky-top">
                 <Header/>
             </header>
 <!--        </headroom>-->

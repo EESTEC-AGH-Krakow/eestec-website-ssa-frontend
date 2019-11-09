@@ -1,5 +1,4 @@
 const merge = require('babel-merge')
-const path = require('path')
 
 module.exports = {
 	css: {
@@ -43,9 +42,9 @@ module.exports = {
       'style-resources-loader': {
         preProcessor: 'scss',
         patterns: [
-          '/home/blacksmith/Desktop/projects/ssa-front/src/assets/sass/all.scss',
-          '/home/blacksmith/Desktop/projects/ssa-front/node_modules/bootstrap/scss/bootstrap.scss',
-          '/home/blacksmith/Desktop/projects/ssa-front/src/assets/sass/animations.scss'
+          'src/assets/sass/all.scss',
+          'node_modules/bootstrap/scss/bootstrap.scss',
+          'src/assets/sass/animations.scss'
         ]
       },
       prerenderSpa: {
