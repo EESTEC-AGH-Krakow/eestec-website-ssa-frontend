@@ -15,7 +15,7 @@
                     </b-col>
                 </b-row>
 
-                <b-collapse id="nav-collapse" is-nav @hidden="$store.commit('toggleNav', false)" class="bg-white pb-2 position-absolute menu">
+                <b-collapse id="nav-collapse" is-nav @hidden="$store.commit('toggleNav', false)" class="bg-white position-absolute menu">
                     <HeaderNav class="d-lg-none"/>
                 </b-collapse>
             </b-navbar>
