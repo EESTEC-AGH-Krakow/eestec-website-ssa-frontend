@@ -5,7 +5,7 @@
         <b-nav-item class="text-uppercase" :to="{ name: 'speakers' }">prelegenci</b-nav-item>
         <b-nav-item class="text-uppercase" :to="{ name: 'partners' }">partnerzy</b-nav-item>
         <b-nav-item class="text-uppercase" :to="{ name: 'previousEditions' }">poprzednie edycje</b-nav-item>
-        <b-button size="lg" class="mx-auto d-lg-none">aplikuj</b-button>
+        <b-nav-item class="text-uppercase"><span class="text-secondary font-weight-bold">aplikuj</span></b-nav-item>
     </b-navbar-nav>
 </template>
 
