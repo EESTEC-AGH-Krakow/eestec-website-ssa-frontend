@@ -1,5 +1,4 @@
 export default {
-
     "2019-11.29T00:00:00.000+0000" : [
         {
             "name":"Getting things done",
