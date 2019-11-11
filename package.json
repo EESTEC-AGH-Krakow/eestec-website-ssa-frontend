@@ -23,11 +23,10 @@
     "npm": "^6.12.0",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
+    "vue-carousel": "^0.18.0",
     "vue-router": "^3.0.3",
     "vue-scrollto": "^2.17.1",
     "vue-svg-loader": "^0.12.0",
-    "vue2-flip-countdown": "^0.5.3",
-    "vue2-leaflet": "^1.2.3",
     "vuex": "^3.0.1"
   },
   "devDependencies": {

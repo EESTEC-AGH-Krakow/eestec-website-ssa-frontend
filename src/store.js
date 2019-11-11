@@ -5,7 +5,8 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
-    isNavOpened: false
+    isNavOpened: false,
+    week: ['Niedziela', 'Poniedziałek', 'Wtorek', 'Środa', 'Czwartek', 'Piątek', 'Sobota'],
   },
   mutations: {
     toggleNav(state, payload = true) {
