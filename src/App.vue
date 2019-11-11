@@ -11,17 +11,23 @@
         <footer>
             <Footer/>
         </footer>
+        <SpeakerModal></SpeakerModal>
+        <PartnerModal></PartnerModal>
     </b-container>
 </template>
 
 <script>
   import Header from './components/Header'
   import Footer from './components/Footer'
+  import SpeakerModal from "./components/SpeakerModal";
+  import PartnerModal from "./components/PartnerModal";
   // import headroom from 'vue-headroom'
 
   export default {
     name: 'app',
     components: {
+        PartnerModal,
+        SpeakerModal,
       Header,
       Footer,
       // headroom

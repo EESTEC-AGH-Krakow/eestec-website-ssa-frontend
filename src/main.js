@@ -13,6 +13,7 @@ import VueScrollTo from 'vue-scrollto'
 import VueScreen from 'vue-screen'
 import router from './router'
 import store from './store'
+import VueTruncate from 'vue-truncate-filter'
 
 // this part resolve an issue where the markers would not appear
 delete L.Icon.Default.prototype._getIconUrl
@@ -32,6 +33,7 @@ Vue.component('l-marker', LMarker)
 Vue.component('l-tooltip', LTooltip)
 
 Vue.use(BootstrapVue)
+Vue.use(VueTruncate)
 Vue.use(VueScreen, 'bootstrap')
 Vue.use(VueScrollTo, {
 	container: 'body',
@@ -40,6 +42,13 @@ Vue.use(VueScrollTo, {
 	force: true,
 	y: true,
 	x: false,
+})
+
+Vue.filter('striphtml', function (value) {
+	const div = document.createElement('div')
+	div.innerHTML = value
+	const text = div.textContent || div.innerText || ''
+	return text
 })
 
 Vue.config.productionTip = false

@@ -11,13 +11,15 @@
                     umiejętności miękkich
                 </h1>
                 <span class="text-white">Kampus AGH, 29 listopada - 8 grudnia 2019 r.</span>
-                <b-button class="mt-2 mr-auto px-4 py-2">Zapisy od 7 listopada</b-button>
+                <a href="http://bit.ly/aplikujnaSSA10">
+                    <b-button class="mt-2 mr-auto px-4 py-2">Zapisy od 7 listopada</b-button>
+                </a>
             </b-col>
         </b-row>
         <b-row no-gutters class="flex-wrap-reverse flex-lg-nowrap align-items-stretch py-5">
             <b-col offset="2" cols="8">
-                <b-row>
-                    <b-col cols="12" class="py-5 text-center text-justify">
+                <b-row class="py-5">
+                    <b-col cols="12" class="pb-5 text-center text-justify">
                         <h2>Największy w Małopolsce cykl darmowych szkoleń z zakresu umiejętności miękkich!</h2>
                     </b-col>
                     <b-col md="12" lg="6" class="order-1 order-lg-1 d-flex align-items-center px-4">
