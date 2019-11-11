@@ -2,8 +2,8 @@ export default {
   'Nov 29, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -21,8 +21,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -42,8 +42,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -64,8 +64,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -90,8 +90,8 @@ export default {
   'Nov 30, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -109,8 +109,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -130,8 +130,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -152,8 +152,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -178,8 +178,8 @@ export default {
   'Dec 1, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -197,8 +197,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -218,8 +218,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -240,8 +240,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -266,8 +266,8 @@ export default {
   'Dec 2, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -285,8 +285,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -306,8 +306,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -328,8 +328,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -354,8 +354,8 @@ export default {
   'Dec 3, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -373,8 +373,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -394,8 +394,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -416,8 +416,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -442,8 +442,8 @@ export default {
   'Dec 4, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -461,8 +461,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -482,8 +482,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -504,8 +504,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -530,8 +530,8 @@ export default {
   'Dec 5, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -549,8 +549,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -570,8 +570,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -592,8 +592,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -618,8 +618,8 @@ export default {
   'Dec 6, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -637,8 +637,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -658,8 +658,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -680,8 +680,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -706,8 +706,8 @@ export default {
   'Dec 7, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -725,8 +725,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -746,8 +746,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -768,8 +768,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
@@ -794,8 +794,8 @@ export default {
   'Dec 8, 2019': [
     {
       'name': 'Getting things done',
-      'startDate': '2019-11.29T15:00:00.000+0000',
-      'endDate': '2019-11.29T18:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 106',
       'description': '',
       'speakers': [
@@ -813,8 +813,8 @@ export default {
     },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'Biblioteka Główna 5a',
       'description': 'Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! :)\n' +
         'Warsztaty improwizacji w szczególny sposób rozwijają:\n' +
@@ -834,8 +834,8 @@ export default {
     },
     {
       'name': 'Efektywna komunikacja w zespole',
-      'startDate': '2019-11.29T14:00:00.000+0000',
-      'endDate': '2019-11.29T17:00:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'C6 107',
       'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
         'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
@@ -856,8 +856,8 @@ export default {
     },
     {
       'name': 'Self improvement - Nie przegap swojej szansy! ',
-      'startDate': '2019-11.29T17:00:00.000+0000',
-      'endDate': '2019-11.29T18:30:00.000+0000',
+      'start': '10:00',
+      'end': '15:00',
       'location': 'A3/A4 105',
       'description': 'Jedno przypadkowe spotkanie, jedna przez przypadek zobaczona informacja, jedna\n' +
         'usłyszana w radiu wiadomość – to może być przełom dla Twojej kariery, często dla Twojego\n' +
