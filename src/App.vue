@@ -1,10 +1,10 @@
 <template>
     <b-container fluid id="app" class="p-0">
-<!--        <headroom>-->
-            <header class="sticky-top">
-                <Header/>
-            </header>
-<!--        </headroom>-->
+        <!--        <headroom>-->
+        <header class="sticky-top">
+            <Header/>
+        </header>
+        <!--        </headroom>-->
         <main>
             <router-view></router-view>
         </main>
@@ -56,5 +56,28 @@
 
     main {
         flex: 1 0 auto;
+    }
+
+    .clickable {
+        &, & h6 {
+            transition: $transition-base;
+        }
+
+        &:focus, &:active, &:hover, &.active {
+            @extend .font-weight-bold, .shadow;
+            cursor: pointer;
+            transform: scale(1.1);
+
+            &:not(.clickable-dark) {
+                @extend .bg-secondary;
+            }
+
+            &.clickable-dark {
+                background-color: darken($secondary, 15%);
+                &, & h6 {
+                    @extend .text-light;
+                }
+            }
+        }
     }
 </style>
