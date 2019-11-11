@@ -5,11 +5,194 @@ export default {
       'start': '10:00',
       'end': '15:00',
       'location': 'C6 106',
-      'description': '',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
+        'Warsztat będzie obejmował nastepujące tematy:\n',
       'speakers': [
         {
           'firstName': 'Maximilian',
           'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+      ],
+    },
+    {
+      'name': 'Getting things done',
+      'start': '10:00',
+      'end': '15:00',
+      'location': 'C6 106',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach' +
+        ' roboczych.\n',
+      'speakers': [
+        {
+          'firstName': 'Maximilian',
+          'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+      ],
+    },
+    {
+      'name': 'Getting things done',
+      'start': '10:00',
+      'end': '15:00',
+      'location': 'C6 106',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
+        'Warsztat będzie obejmował nastepujące tematy:\n' +
+        '- budowanie komunikatu (spójność przekazu, cel, słowa klucze)\n' +
+        '- 4 poziomy komunikacji von Thuna\n' +
+        '- elementy analizy transakcyjnej E. Berne\'a\n' +
+        '- techniki pozyskiwania informacji (aktywne słuchanie, pytania otwarte, parafrazy)\n' +
+        '- usprawnianie komunikacji w zespole\n' +
+        '- modele i techniki feedbacku\n',
+      'speakers': [
+        {
+          'firstName': 'Maximilian',
+          'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+      ],
+    },
+    {
+      'name': 'Getting things done',
+      'start': '10:00',
+      'end': '15:00',
+      'location': 'C6 106',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
+        'Warsztat będzie obejmował nastepujące tematy:\n' +
+        '- budowanie komunikatu (spójność przekazu, cel, słowa klucze)\n' +
+        '- 4 poziomy komunikacji von Thuna\n' +
+        '- elementy analizy transakcyjnej E. Berne\'a\n' +
+        '- techniki pozyskiwania informacji (aktywne słuchanie, pytania otwarte, parafrazy)\n' +
+        '- usprawnianie komunikacji w zespole\n' +
+        '- modele i techniki feedbacku\n',
+      'speakers': [
+        {
+          'firstName': 'Maximilian',
+          'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+      ],
+    },
+    {
+      'name': 'Getting things done',
+      'start': '10:00',
+      'end': '15:00',
+      'location': 'C6 106',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
+        'Warsztat będzie obejmował nastepujące tematy:\n' +
+        '- budowanie komunikatu (spójność przekazu, cel, słowa klucze)\n' +
+        '- 4 poziomy komunikacji von Thuna\n' +
+        '- elementy analizy transakcyjnej E. Berne\'a\n' +
+        '- techniki pozyskiwania informacji (aktywne słuchanie, pytania otwarte, parafrazy)\n' +
+        '- usprawnianie komunikacji w zespole\n' +
+        '- modele i techniki feedbacku\n',
+      'speakers': [
+        {
+          'firstName': 'Maximilian',
+          'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+      ],
+    },
+    {
+      'name': 'Getting things done',
+      'start': '10:00',
+      'end': '15:00',
+      'location': 'C6 106',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
+        'Warsztat będzie obejmował nastepujące tematy:\n' +
+        '- budowanie komunikatu (spójność przekazu, cel, słowa klucze)\n' +
+        '- 4 poziomy komunikacji von Thuna\n' +
+        '- elementy analizy transakcyjnej E. Berne\'a\n' +
+        '- techniki pozyskiwania informacji (aktywne słuchanie, pytania otwarte, parafrazy)\n' +
+        '- usprawnianie komunikacji w zespole\n' +
+        '- modele i techniki feedbacku\n',
+      'speakers': [
+        {
+          'firstName': 'Maximilian',
+          'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+      ],
+    },
+    {
+      'name': 'Getting things done',
+      'start': '10:00',
+      'end': '15:00',
+      'location': 'C6 106',
+      'description': 'Celem warsztatu jest poszerzenie wiedzy oraz trening umiejętności w obszarze skutecznej komunikacji interpersonalnej.\n' +
+        'Uczestnicy podczas ćwiczeń praktycznych poznają techniki oraz narzędzia komunikacji pozwalające na wzmocnienie przekazu i zaangażowanie odbiorców oraz wzmacnianie relacji w zespołach roboczych.\n' +
+        'Warsztat będzie obejmował nastepujące tematy:\n' +
+        '- budowanie komunikatu (spójność przekazu, cel, słowa klucze)\n' +
+        '- 4 poziomy komunikacji von Thuna\n' +
+        '- elementy analizy transakcyjnej E. Berne\'a\n' +
+        '- techniki pozyskiwania informacji (aktywne słuchanie, pytania otwarte, parafrazy)\n' +
+        '- usprawnianie komunikacji w zespole\n' +
+        '- modele i techniki feedbacku\n',
+      'speakers': [
+        {
+          'firstName': 'Maximilian',
+          'lastName': 'Schwind',
+          'image': 'https://www.placecage.com/c/800/800',
+        },
+        {
+          'firstName': 'Alexander',
+          'lastName': 'Mutz',
           'image': 'https://www.placecage.com/c/800/800',
         },
         {
@@ -88,25 +271,6 @@ export default {
     },
   ],
   'Nov 30, 2019': [
-    {
-      'name': 'Getting things done',
-      'start': '10:00',
-      'end': '15:00',
-      'location': 'C6 106',
-      'description': '',
-      'speakers': [
-        {
-          'firstName': 'Maximilian',
-          'lastName': 'Schwind',
-          'image': 'https://www.placecage.com/c/800/800',
-        },
-        {
-          'firstName': 'Alexander',
-          'lastName': 'Mutz',
-          'image': 'https://www.placecage.com/c/800/800',
-        },
-      ],
-    },
     {
       'name': 'Podstawy improwizacji z grupą AD HOC',
       'start': '10:00',
