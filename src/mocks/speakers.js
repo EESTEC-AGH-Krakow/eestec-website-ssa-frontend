@@ -314,7 +314,7 @@ export default [
             "Scena zawsze mnie przyciągała, a moja pasja do aktorstwa przerodziła się w miłość do występów na salach szkoleniowych, konferencjach i eventach branżowych. To tam dzielę się swoją wiedzą z autoprezentacji, były to np.: TEDxYouth, Przedsiębiorcza Kobieta, LinkedIn Local czy Absolvent Talent Days." +
             "<br/><br/>" +
             "Chętnie pokażę Ci jak zaprzyjaźnić się z wystąpieniami publicznymi. Przy odrobinie praktyki i wiedzy, nie będziesz mieć sobie równych na scenie!",
-        "image": require('@/assets/images/speakers/391a742c-eb90-4bbc-b9a6-3c2b6e93eca7.jpg')
+        "image": require('@/assets/images/speakers/c4ad402d-ea78-41c4-ad1a-a2bbe59abb55.jpg')
     },
     {
         "id": 26,
@@ -328,7 +328,7 @@ export default [
             "Od ponad trzech lat na sali szkoleniowej oraz na scenach wydarzeń społecznych, dzielę się swoją pasją do obserwacji. Obserwacji mowy ciała oraz komunikacji interpersonalnej, a więc tego, co wpływa na skuteczną autoprezentację." +
             "<br/><br/>" +
             "Ponad 2000 przeszkolonych osób oraz ich pozytywne opinie są dla mnie bodźcem do podejmowania ambitnych wyzwań.",
-        "image": require('@/assets/images/speakers/391a742c-eb90-4bbc-b9a6-3c2b6e93eca7.jpg')
+        "image": require('@/assets/images/speakers/545d19a0-8be6-4c37-a989-02590d66733a.jpg')
     },
     {
         "id": 27,
@@ -426,7 +426,7 @@ export default [
     {
         "id": 34,
         "firstName": "Mirosława",
-        "lastName": "Długosz",
+        "lastName": "M. Długosz",
         "workshopNames": [
             "Uruchom swój silnik innowacji"
         ],
@@ -436,7 +436,7 @@ export default [
     {
         "id": 35,
         "firstName": "Weronika",
-        "lastName": "Adrian",
+        "lastName": "T. Adrian",
         "workshopNames": [
             "Uruchom swój silnik innowacji"
         ],
@@ -540,5 +540,15 @@ export default [
             "<br/>" +
             "Po pracy - żeby nikt nie zarzucił jej braku dystansu, przebiega coraz dłuższe dystanse. Kiedyś nałogowo robiła rzeczy w organizacji studenckiej i myślała, że robi to dobrze – dziś myśli o tym trochę inaczej, ale o tym już na warsztacie.",
         "image": require('@/assets/images/speakers/f259c350-1893-4072-8911-2c20dfde9b2f.jpg')
+    },
+    {
+        "id": 44,
+        "firstName": "Konrad",
+        "lastName": "Szczypczyk",
+        "workshopNames": [
+            "Inteligencja emocjonalna"
+        ],
+        "description": "Psycholog biznesu, manager i trener. Absolwent psychologii oraz studiów podyplomowych z zakresu prawa gospodarczego na Uniwersytecie Jagiellońskim. Współzałożyciel i konsultant biznesowy w firmie doradczej Habitat for business. Pracuje ze spółkami na etapie zmiany specjalizując się w obszarach miękkich i kapitale ludzkim. Szkoli managerów oraz zespoły sprzedażowe. Doświadczenie zdobywał jako dyrektor zarządzający galerii handlowej i manager ds. marketingu i komercjalizacji.",
+        "image": require('@/assets/images/speakers/eb413341-076f-4cca-ae06-48fa908328a2.jpg')
     }
 ]

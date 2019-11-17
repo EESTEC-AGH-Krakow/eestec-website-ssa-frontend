@@ -2,13 +2,13 @@ export default [
     {
         "id": 1,
         "type": "main",
-        "name": "ASSA ABLOY",
+        "name": "ASSA ABLOY & HID",
         "description":
-            "Centrum R&D w Krakowie oferuje wysokiej jakości ekspertyzę w zakresie software’u oraz firmware’u. Nasi pracownicy są częścią globalnych inicjatyw, dostarczając produkty do jednostek biznesowych ASSA ABLOY." +
+            "ASSA ABLOY is the global leader in access solutions used everyday around the world. When you walk through an automatic door, stay in a hotel or authenticate your identity, then you're probably using our products or services. In Kraków R&D Center we are developing products, platforms and interfaces together with providing network, security and hosting services for internal customers. Since the beginning, ASSA ABLOY has two R&D Centers in Krakow: Shared Technologies and HID Global. In 2018, ASSA ABLOY opened Global Operations Center providing network, security and hosting services for internal customers. In 2019 EMEA division joined with its Digital Access Solutions business." +
             "<br/><br/>" +
-            "Dostarczamy rozwiązania takie jak internetowy system zarządzania dla systemu zabezpieczeń CLIQ czy system urządzeń wokół drzwi Hi-O. Jesteśmy również częścią międzynarodowego zespołu produktów Aperio." +
+            "At ASSA ABLOY we aim to help people feel safe, secure and experience a more open world. Our core values, beliefs and strategic objectives help guide our way. These words explain how we behave internally, towards each other: empowerment, innovation and integrity. We have trust in people and believe our employees can achieve great things. We have the courage to change and we welcome everyone's feedback on suggested improvements. We drive towards ambitious goals, always with tomorrow in mind. To work at ASSA ABLOY means to always be growing." +
             "<br/><br/>" +
-            "Inżynierzy pracujący w Krakowie są ekspertami w dziedzinie szyfrowania, technologii bezprzewodowych i wbudowanych. Tworzymy rozwiązania w środowiskach Embedded C, REST, Java, Apache czy Tomcat.",
+            "We provide a safe and respectful work environment where everyone is welcome. The office atmosphere is open, honest and friendly. We sit in an open landscape that encourages interaction and communication. We also believe that work-life-balance is essential for long-term productivity and employee satisfaction. Flexible working hours is a part of this balance.",
         "image": require('@/assets/images/partners/main/79d39b33-f69b-44f7-a6db-f2442bdc6f46.png')
     },
     {
@@ -46,10 +46,7 @@ export default [
         "id": 6,
         "type": "regular",
         "name": "General Electric",
-        "description":
-            "GE Healthcare to dostawca innowacyjnych technologii i usług, które wyznaczają nowe standardy opieki medycznej." +
-            "<br/><br/>" +
-            "Dzięki szerokiemu doświadczeniu w obrazowaniu medycznym i technologiach informatycznych, osiągnięciom w dziedzinie farmacji i biotechnologii oraz usługom wspomagającym poprawę wydajności i skuteczności leczenia, umożliwiamy naszym klientom na całym świecie zwiększenie dostępności i jakości opieki medycznej przy jednoczesnym obniżaniu kosztów.",
+        "description": "",
         "image": require('@/assets/images/partners/regular/deddad75-f348-439b-903a-3457b6250fb9.png')
     },
     {

@@ -1,5 +1,5 @@
 <template>
-    <b-row no-gutters class="bg-primary">
+    <b-row no-gutters>
         <b-col cols="12" class="pb-2">
             <carousel :per-page="1" :per-page-custom="[[576, 2],[768, 3],[992, 4],[1200, 5]]" :pagination-color="'#7AC244'">
                 <slide v-for="day of Object.keys(timetable)" :key="new Date(day).getDate()">

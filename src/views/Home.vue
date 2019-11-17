@@ -11,9 +11,7 @@
                     umiejętności miękkich
                 </h1>
                 <span class="text-white">Kampus AGH, 29 listopada - 8 grudnia 2019 r.</span>
-                <a href="http://bit.ly/aplikujnaSSA10">
-                    <b-button class="mt-2 mr-auto px-4 py-2">Zapisy od 7 listopada</b-button>
-                </a>
+                <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase" href="http://bit.ly/aplikujnaSSA10" target="_blank">zapisz się</b-button>
             </b-col>
         </b-row>
         <b-row no-gutters class="flex-wrap-reverse flex-lg-nowrap align-items-stretch py-5">
@@ -34,7 +32,7 @@
                             wprowadzamy również pogadanki w swobodnej atmosferze.
                         </p>
                         <span>A wszystko to zupełnie za darmo!</span>
-                        <b-button :to="{ name: 'about' }" class="mt-2 ml-auto px-4 py-2">Dowiedz się więcej</b-button>
+                        <b-button :to="{ name: 'about' }" class="mt-2 ml-auto px-4 py-2 text-uppercase">Dowiedz się więcej</b-button>
                     </b-col>
                 </b-row>
             </b-col>
@@ -64,7 +62,7 @@
                 <li>wystąpienia publiczne,</li>
                 <li>i wiele innych…</li>
             </ul>
-            <b-button :to="{ name: 'timetable' }" class="mt-2 mr-auto px-4 py-2">Zobacz harmonogram</b-button>
+            <b-button :to="{ name: 'timetable' }" class="mt-2 mr-auto px-4 py-2 text-uppercase bg-primary">Zobacz harmonogram</b-button>
         </RowContent>
         <RowContent :photo="require('@/assets/images/home/prelegenci.jpg')">
             <h3 class="align-self-start mb-4">Prelegenci</h3>
@@ -75,7 +73,7 @@
                 wydarzenie chętnie prowadząc treningi czy wykłady. Nierzadko godzina czasu tych ludzi warta jest ogromne
                 pieniądze i na ich wynajęcie mogą sobie pozwolić jedynie profesjonalne korporacje.
             </p>
-            <b-button :to="{ name: 'speakers' }" class="mt-2 ml-auto px-4 py-2">Dowiedz się więcej o naszych prelegentach</b-button>
+            <b-button :to="{ name: 'speakers' }" class="mt-2 ml-auto px-4 py-2 text-uppercase bg-primary">Dowiedz się więcej o naszych prelegentach</b-button>
         </RowContent>
         <RowContent :photo="require('@/assets/images/home/partnerzy.jpg')" reverse>
             <h3 class="align-self-start mb-4">Partnerzy</h3>
@@ -85,7 +83,7 @@
                 również z wieloma firmami i organizacjami, wśród których możemy wyróżnić takie marki jak Assa Abloy czy
                 HID Global.
             </p>
-            <b-button :to="{ name: 'partners' }" class="mt-2 mr-auto px-4 py-2">Dowiedz się więcej</b-button>
+            <b-button :to="{ name: 'partners' }" class="mt-2 mr-auto px-4 py-2 text-uppercase bg-primary">Dowiedz się więcej</b-button>
         </RowContent>
     </div>
 </template>

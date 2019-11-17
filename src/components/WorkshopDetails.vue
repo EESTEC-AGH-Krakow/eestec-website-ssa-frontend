@@ -3,7 +3,7 @@
         <span>{{selectedWorkshop.location}}, {{selectedWorkshop.start}} - {{selectedWorkshop.end}}</span>
                 <carousel class="mt-2" ref="workshop-carousel" :per-page="2" :pagination-color="'#7AC244'" autoplay loop :autoplayTimeout="4000" centerMode>
                     <slide v-for="(speaker, index) in selectedWorkshop.speakers" :key="index" class="px-2 mx-auto">
-                        <img :src="speaker.image" :alt="`${speaker.firstName} ${speaker.lastName}`" class="img-fluid mb-2"/>
+                        <img :src="speaker.image" :alt="`${speaker.firstName} ${speaker.lastName}`" class="img-fluid card-img rounded-circle mb-4"/>
                         <h6>{{speaker.firstName}} {{speaker.lastName}}</h6>
                     </slide>
                 </carousel>

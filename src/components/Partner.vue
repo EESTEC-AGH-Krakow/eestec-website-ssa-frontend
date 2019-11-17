@@ -3,6 +3,7 @@
         <b-button
             v-b-modal.modal-partner
             variant="none"
+            class="partner"
             @click="changePartner(partner)"
         >
             <img class="img-fluid" :src="partner.image">
@@ -26,5 +27,8 @@
 </script>
 
 <style scoped lang="scss">
+    .partner {
+        outline: none;
+    }
 
 </style>
