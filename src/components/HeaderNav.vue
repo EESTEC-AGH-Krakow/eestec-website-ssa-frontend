@@ -7,7 +7,7 @@
         <b-nav-item class="text-uppercase" :to="{ name: 'previousEditions' }">poprzednie edycje</b-nav-item>
         <b-nav-item class="text-uppercase mb-2" href="http://bit.ly/aplikujnaSSA10" target="_blank">
             <span class="text-secondary font-weight-bold d-lg-none">
-                aplikuj
+                zapisy zamknięte
             </span>
         </b-nav-item>
     </b-navbar-nav>

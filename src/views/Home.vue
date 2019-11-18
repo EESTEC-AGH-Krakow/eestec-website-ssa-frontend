@@ -11,7 +11,7 @@
                     umiejętności miękkich
                 </h1>
                 <span class="text-white">Kampus AGH, 29 listopada - 8 grudnia 2019 r.</span>
-                <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase" href="http://bit.ly/aplikujnaSSA10" target="_blank">zapisz się</b-button>
+<!--                <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase" href="http://bit.ly/aplikujnaSSA10" target="_blank">zapisy zamknięte</b-button>-->
             </b-col>
         </b-row>
         <b-row no-gutters class="flex-wrap-reverse flex-lg-nowrap align-items-stretch py-5">
