@@ -174,8 +174,8 @@ export default [
         "workshopNames": [
             "Zaryzykuj - Prowadź"
         ],
-        "description": "Reprezentujący szkołę liderów Rzeczpospolitej dwaj bracia mają na koncie realizacje ambitnych projektów angażujących duże zespoły, obaj ukończyli i dostarczyli liczne szkolenia, nie tylko w Polsce ale i w wielu krajach europejskich. Ich obecnym celem jest poprawa jakości życia ludzi. Choć na co dzień funkcjonują w różnych środowiskach, stale dążą do jego osiągnięcia poprzez swoje działania, ucząc i motywując innych.",
-        "image": require('@/assets/images/speakers/44ee628d-a2a1-4634-93cd-a60d097d3c87.jpg')
+        "description": "Reprezentujący klub lidera Rzeczpospolitej dwaj bracia mają na koncie realizacje ambitnych projektów angażujących duże zespoły, obaj ukończyli i dostarczyli liczne szkolenia, nie tylko w Polsce ale i w wielu krajach europejskich. Ich obecnym celem jest poprawa jakości życia ludzi. Choć na co dzień funkcjonują w różnych środowiskach, stale dążą do jego osiągnięcia poprzez swoje działania, ucząc i motywując innych. https://www.facebook.com/KlubLideraRP/",
+        "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
     },
     {
         "id": 14,
@@ -184,8 +184,8 @@ export default [
         "workshopNames": [
             "Zaryzykuj - Prowadź"
         ],
-        "description": "Reprezentujący szkołę liderów Rzeczpospolitej dwaj bracia mają na koncie realizacje ambitnych projektów angażujących duże zespoły, obaj ukończyli i dostarczyli liczne szkolenia, nie tylko w Polsce ale i w wielu krajach europejskich. Ich obecnym celem jest poprawa jakości życia ludzi. Choć na co dzień funkcjonują w różnych środowiskach, stale dążą do jego osiągnięcia poprzez swoje działania, ucząc i motywując innych.",
-        "image": require('@/assets/images/speakers/44ee628d-a2a1-4634-93cd-a60d097d3c87.jpg')
+        "description": "Reprezentujący klub lidera Rzeczpospolitej dwaj bracia mają na koncie realizacje ambitnych projektów angażujących duże zespoły, obaj ukończyli i dostarczyli liczne szkolenia, nie tylko w Polsce ale i w wielu krajach europejskich. Ich obecnym celem jest poprawa jakości życia ludzi. Choć na co dzień funkcjonują w różnych środowiskach, stale dążą do jego osiągnięcia poprzez swoje działania, ucząc i motywując innych. https://www.facebook.com/KlubLideraRP/",
+        "image": require('@/assets/images/speakers/1055dcbb-e163-407d-8a07-f693119cc773.jpg')
     },
     {
         "id": 15,
@@ -195,7 +195,7 @@ export default [
             "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
         ],
         "description": "W branży HR pracuję od 3 lat. Na co dzień zajmuję się rekrutacją specjalistów IT, a w weekendy studiuję psychologię w zarządzaniu. Uwielbiam pracę z ludźmi, ale żeby dawała ona pełną satysfakcję bardzo ważna jest odpowiednia komunikacja. Dlatego zapraszam na nasz warsztat, na którym dowiesz się dlaczego to w jaki sposób się mówi jest równie istotne jak to co się mówi.",
-        "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+        "image": require('@/assets/images/speakers/69e40c84-afd5-4a3e-a0bf-9979b6373436.jpg')
     },
     {
         "id": 16,
@@ -205,7 +205,7 @@ export default [
             "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
         ],
         "description": "Swoją przygodę z rekrutacją rozpoczynałam w firmie zajmującej się retail i e-commerce poszukiwałam m.in projektantów mody i dyrektorów kreatywnych. Niedawno zrobiłam wielki przeskok i wkroczyłam w branżę IT. Obecnie prowadzę projekty rekrutacyjne dla branży automotive oraz branży turystycznej. Magister Psychologii Stosowanej, absolwentka podyplomowych studiów Psychologia Transportu. Zapraszam na nasz warsztat aby dowiedzieć się więcej o relacjach w zespole oraz odpowiedniej komunikacji.",
-        "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+        "image": require('@/assets/images/speakers/243331a2-1f75-4318-ab69-bd3b7dd4d21b.jpg')
     },
     {
         "id": 17,
@@ -215,7 +215,7 @@ export default [
             "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
         ],
         "description": "Jestem IT Recruiterem i specjalizuję się w poszukiwaniu programistów języka Java. Z wykształcenia jestem psychologiem. W trakcie studiów aktywnie rozwijałam swoje kompetencje w zakresie psychologii zdrowia, a także psychologii organizacji i reklamy. Od ponad 3 lat współpracuję z Zakładem Dydaktyki Medycznej Collegium Medicum Uniwersytetu Jagiellońskiego gdzie prowadzę szkolenia i warsztaty z zakresu komunikacji dla studentów oraz personelu medycznego.",
-        "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+        "image": require('@/assets/images/speakers/6c95a162-d9ee-4a4a-bb41-4f1b0b84bf2a.jpg')
     },
     {
         "id": 18,
@@ -225,7 +225,7 @@ export default [
             "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
         ],
         "description": "Jestem absolwentką Zarządzania Zasobami Ludzkimi Uniwersytetu Śląskiego. Działam w obszarze HR już blisko 6 lat. Moja przygoda z rekrutacją rozpoczęła się już na studiach i trwa do dziś. Jednak dopiero od pół roku zajmuję się stricte rekrutacjami IT, i to jest to, co chcę w życiu robić. W międzyczasie zdobywałam doświadczenie również w innych branżach, np. szkoleniowej, czy w branży związanej z kulturą i sztuką. Praca w różnych branżach nauczyła mnie, że odpowiednia komunikacja, to klucz do sukcesu! Zapraszam na nasz warsztat, gdzie dowiesz się o niej więcej.",
-        "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+        "image": require('@/assets/images/speakers/ea5f47f2-8546-4a02-9d9d-02106b2191ef.jpg')
     },
     {
         "id": 19,
@@ -455,12 +455,12 @@ export default [
     },
     {
         "id": 37,
-        "firstName": "Mateusz",
-        "lastName": "Klimczyk",
+        "firstName": "Patrycja",
+        "lastName": "Godlewska",
         "workshopNames": [
             "[PEGA] Sztuka Feedbacku przez duże F"
         ],
-        "description": "Entuzjasta metodologii zwinnych, facylitator związany z IT od 2011 roku, budujący swoje doświadczenie jako inżynier wsparcia, tester i Scrum Master. Przez ostatnie 6 lat współpracował z wieloma zespołami, pomagając im w rozwoju i dążeniu do tzw. zwinnego (agile'owego) sososobu pracy. Obecnie Scrum Master w Pegasystems, gdzie kwestionuje status quo oraz pomaga zespołom ulepszać sposób działania. Koncentruje się na poprawie procesów grupowych i komunikacji. Entuzjasta idei Management 3.0, #LearningOrganization oraz podejścia #NoEstimate. Po więcej szczegółów i detali nt. doświadczenia zapraszamy na profil LinkedIn.",
+        "description": "Patrycja Godlewska, obecnie Manager w Pegasystems, z branżą IT związana od 2011 roku. Na swojej ścieżce kariery pracowała w roli dokumentalisty (technical writer), testera i – wciąż – Scrum Mastera. Jako Scrum Master współpracowała z wieloma zespołami, którym pomogła w usprawnieniu procesu tworzenia oprogramowania i budowania relacji. Patrycja jest pasjonatką, która ciągle rozwija swoje umiejętności (przykładowo udzielanie informacji zwrotnej, facylitacja, uczenie siebie i innych) oraz uwielbia dzielić się wiedzą z innymi. Prywatnie uwielbia kolarstwo (wszelakie), narciarstwo, fotografię i urbanistykę. Po więcej informacji o Patrycji zaprszamy na jej profil LinkedIn.",
         "image": require('@/assets/images/speakers/8934d3ae-0a1a-4375-9ad7-dd599f7e8876.jpg')
     },
     {
@@ -550,5 +550,40 @@ export default [
         ],
         "description": "Psycholog biznesu, manager i trener. Absolwent psychologii oraz studiów podyplomowych z zakresu prawa gospodarczego na Uniwersytecie Jagiellońskim. Współzałożyciel i konsultant biznesowy w firmie doradczej Habitat for business. Pracuje ze spółkami na etapie zmiany specjalizując się w obszarach miękkich i kapitale ludzkim. Szkoli managerów oraz zespoły sprzedażowe. Doświadczenie zdobywał jako dyrektor zarządzający galerii handlowej i manager ds. marketingu i komercjalizacji.",
         "image": require('@/assets/images/speakers/eb413341-076f-4cca-ae06-48fa908328a2.jpg')
+    },
+    {
+        "id": 45,
+        "firstName": "Tomasz",
+        "lastName": "Wesołowski",
+        "workshopNames": [
+            "SSA: StartUp MeetUp"
+        ],
+        "description":
+            "Edward.ai, CEO & co-founder" +
+            "<br/><br/>" +
+            "Współtwórca inteligentnego asystenta dla działów sprzedaży o imieniu Edward. Organizator spotkań z cyklu A.I. meetup dla fanów sztucznej inteligencji. W branży internetowej działa od 2000 roku, m.in. jako założyciel i dyrektor zarządzający jednego z największych software house’ów." +
+            "<br/><br/>" +
+            "Aktywnie działa na rzecz rozwoju branży. Współtworzył społeczność profesjonalistów będąc w latach 2007-2009 Członkiem Zarządu spółki PROFEO powstałej z inicjatywy Grupy Pracuj. Jest pomysłodawcą cyklu barcampów technologicznych Techcamp, współtwórcą Klubu Dyrektorów Ecommerce skupiającego ponad 200 kluczowych osób z branży e-commerce w Polsce oraz twórcą Akademii Empathy, realizującej cykl branżowych wydarzeń edukacyjnych. Interesuje się zagadnieniami user experience oraz wpływem rozwoju sztucznej inteligencji na nasze codzienne życie.",
+        "image": require('@/assets/images/speakers/5c2b7b11-d9fa-4d1c-a474-3ab4ef8183e5.jpg')
+    },
+    {
+        "id": 46,
+        "firstName": "Agnieszka",
+        "lastName": "Pałka",
+        "workshopNames": [
+            "SSA: StartUp MeetUp"
+        ],
+        "description": "co-founder, CEO startup'u GetDressed, działającego na wczesnym etapie rozwoju biznesu, w ramach którego z zespołem tworzy technologie pomagające czuć się i wyglądać dobrze w tym co ma się na sobie. Od ponad roku współtworzy produkty korzystające ze sztucznej inteligencji, by odtwarzać działania prywatnego stylisty. CEO fundacji SEED., pomagającej tworzyć ścieżkę rozwoju uczniów szkół średnich poprzez zdobywanie doświadczenia i działanie w proaktywnej społeczności mentorów oraz uczniów.",
+        "image": require('@/assets/images/speakers/d0264019-2e7f-4423-bf65-7ad408618ec6.jpg')
+    },
+    {
+        "id": 47,
+        "firstName": "Grzegorz",
+        "lastName": "Świerad",
+        "workshopNames": [
+            "SSA: StartUp MeetUp"
+        ],
+        "description": "Grzegorz od 10 lat tworzy różnego rodzaju projekty, takie jak serwisy internetowe i aplikacje mobilne. Jednym z takich serwisów jest Randkologia.pl, która osiągnęła 8.5 miliona zarejestrowanych użytkowników na całym świecie (założona w 2010 roku). Obecnie rozwija aplikację mobilną o nazwie HabitCoach, która ma szansę stać się najefektywniejszą aplikacją mobilną do rozwoju osobistego. Na potrzeby tej aplikacji, sam przeczytał i rozłożył na czynniki pierwsze 50 książek samorozwojowych, skupiając się głównie na tworzeniu nawyków, motywacji i produktywności.",
+        "image": require('@/assets/images/speakers/3a4ea03e-db37-4791-ba6a-880446600c58.jpg')
     }
 ]

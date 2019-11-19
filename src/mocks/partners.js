@@ -53,21 +53,30 @@ export default [
         "id": 7,
         "type": "regular",
         "name": "Infolet",
-        "description": "Infolet (informacje wkrótce)",
+        "description": "",
         "image": require('@/assets/images/partners/regular/b66c2afc-e4d3-46b9-a4dc-da9e105e351d.png')
     },
     {
         "id": 8,
         "type": "regular",
         "name": "Motorola Solutions",
-        "description": "Motorola Solutions (informacje wkrótce)",
+        "description": "",
         "image": require('@/assets/images/partners/regular/9c3374a6-5e9f-4bc1-bd6b-d72335ab0724.png')
     },
     {
         "id": 9,
         "type": "regular",
         "name": "PegaSystems",
-        "description": "PegaSystems (informacje wkrótce)",
+        "description":
+            "Pegasystems Inc. jest wiodącym dostawcą rozwiązań wspomagających firmy w osiąganiu jak najwyższego poziomu satysfakcji klientów oraz tworzeniu efektywnie działających procesów biznesowych. Oparte na Platformie Pega oprogramowanie, zaprojektowane do działania w chmurze, posiada szerokie możliwości dopasowania do potrzeb użytkowników, umożliwiając szybkie wdrożenie, łatwą rozbudowę oraz modyfikację aplikacji, tak by spełniały strategiczne potrzeby biznesowe. Od ponad 35 lat Pega dostarcza nagradzanych rozwiązań CRM i DPA wyposażonych w zaawansowaną sztuczną inteligencję oraz automatyzację, tym samym pomagając wiodącym światowym markom osiągać przełomowe wyniki biznesowe. Główna siedziba firmy to Cambridge w USA, łącznie zatrudnia już ponad 5000 osób w 38 oddziałach na całym świecie." +
+            "<br/><br/>" +
+            "Krakowski oddział stanowi jedno z kluczowych centrów rozwoju działów konsultingowych i inżynieryjnych firmy Pega, i liczy sobie aktualnie 330 osób. Początkowo specjalizując się w rozwiązaniach mobilnych, obecnie zatrudnia najbardziej utalentowanych inżynierów rozwijających się także w technologiach w zakresie Big Data, Cloud, architektury systemów, rozwiązań mobilnych, platformy Pega, wydajności i obsługi klienta w Europie." +
+            "<br/><br/>" +
+            "To co Pega oferuje to nie tylko możliwość poznania najnowszych rozwiązań technologicznych i nauki od najlepszych, ale przede wszystkim przyjazna atmosfera i kultura pracy promująca otwartość i współpracę." +
+            "<br/><br/>" +
+            "Zapraszamy po więcej na temat możliwości kariery w Pegasystems pod tym linkiem:" +
+            "<br/>" +
+            "https://www.pega.com/about/careers/pega-poland",
         "image": require('@/assets/images/partners/regular/1c48c68d-a4cf-4c76-b66f-4dc7675e35b1.png')
     },
     {
@@ -81,21 +90,21 @@ export default [
         "id": 11,
         "type": "regular",
         "name": "Autokreacja",
-        "description": "Autokreacja (informacje wkrótce)",
+        "description": "",
         "image": require('@/assets/images/partners/regular/f98bf436-26b8-4181-9001-e43b10e5843d.png')
     },
     {
         "id": 12,
         "type": "media",
         "name": "TVP 3 Kraków",
-        "description": "TVP 3 Kraków",
+        "description": "",
         "image": require('@/assets/images/partners/media/e4b9e186-115b-4da2-8fc1-3c5dfeed34c8.png')
     },
     {
         "id": 13,
         "type": "media",
         "name": "krakow.pl",
-        "description": "krakow.pl (informacje wkrótce)",
+        "description": "",
         "image": require('@/assets/images/partners/media/dd72ecbe-c730-4216-9c33-485006bee353.png')
     },
     {
@@ -109,14 +118,14 @@ export default [
         "id": 15,
         "type": "media",
         "name": "dlastudenta.pl",
-        "description": "dlastudenta.pl (informacje wkrótce)",
+        "description": "",
         "image": require('@/assets/images/partners/media/a071a11b-7834-49e0-a1d4-124ebbfd45b0.png')
     },
     {
         "id": 16,
         "type": "media",
         "name": "ESKA",
-        "description": "ESKA (informacje wkrótce)",
+        "description": "",
         "image": require('@/assets/images/partners/media/16b8872c-e7d7-4229-8256-90e14145278b.png')
     },
 

@@ -5,7 +5,7 @@ export default [
         "year":"2018",
         "description":"Ubiegłoroczna edycja Soft Skills Academy zaoferowała ponad 70 godzin szkoleń, które podzieliliśmy na dwa bloki tematyczne. Pierwszy z nich – Biznes – skupiał się na wykorzystaniu umiejętności miękkich w drodze na szczyt kariery, aby uczestnikom łatwiej było pracować nad projektami oraz zarządzać większą grupą ludzi. W bloku Samorozwój chcielibyśmy pokazać jak wykorzystać umiejętności miękkie w codziennym życiu. Oba bloki okazały się strzałami w dziesiątkę, gromadząc łącznie 270 uczestników.\n" +
             "\n" +
-            "Tak jak w poprzednich latach, dziewiątą odsłonę patronatem honorowym patronatem objął JM prof. dr hab. Tadeusz Słomka Rektor Akademii Górniczo-Hutniczej w Krakowie. Wydarzenie uzyskało również patronat Miasta Krakowa. Wśród partnerów SSA9 znalazły się firmy takie jak: Assa Ablot, Ericsson, Nokia, GE Healthcare czy Infolet.",
+            "Tak jak w poprzednich latach, dziewiątą odsłonę patronatem honorowym patronatem objął JM prof. dr hab. Tadeusz Słomka Rektor Akademii Górniczo-Hutniczej w Krakowie. Wydarzenie uzyskało również patronat Miasta Krakowa. Wśród partnerów SSA9 znalazły się firmy takie jak: ASSA ABLOY, Ericsson, Nokia, GE Healthcare czy Infolet.",
         "image":require('@/assets/images/previous-editions/ssa-9-img.jpg')
     },
     {

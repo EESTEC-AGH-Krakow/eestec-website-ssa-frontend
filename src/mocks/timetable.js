@@ -143,6 +143,20 @@ export default {
   ],
   "Dec 2, 2019": [
     {
+      "name": "[PEGA] Sztuka Feedbacku przez duże F",
+      "start": "11:00",
+      "end": "14:00",
+      "location": "Biblioteka Główna AGH 5a",
+      "description": "Czym jest feedback i do czego służy? <br/>Chwalisz czy ganisz? <br/>Krytyka, czy implus do zmiany i uczenie się na błędach? <br/>Informacja zwrotna, która rozwija? <br/>  <br/>Czy wiemy, jak to się robi... a może, gdy coś Nas wkurza/cieszy, nie wiemy jak o tym mówić? <br/>  <br/>\"Sztuka Feedbacku przez duże F\" to intensywny warsztat, podczas którego nauczysz się budować konstruktywną informację zwrotną oraz dowiesz się jak taką informację zwrotną przyjąć i co z nią zrobić. Będziemy pracować m.in. w oparciu o metodę Non Violent Communication (NVC) czyli \"Porozumienie bez Przemocy\". To metoda tworzenia i wspomagania kultury partnerskiego porozumienia i współpracy. <br/>Czeka na Was dużo interakcji, ćwiczeń i niezbędna teoria. <br/>Dobry feedback jest sztuką, która - jedynie zrozumiana i praktykowana - rozwija, a także może nas zmienić. Gotów na to wyzwanie? <br/>Serdecznie zapraszam!",
+      "speakers": [
+        {
+          "firstName": "Patrycja",
+          "lastName": "Godlewska",
+          "image": require('@/assets/images/speakers/8934d3ae-0a1a-4375-9ad7-dd599f7e8876.jpg')
+        }
+      ]
+    },
+    {
       "name": "Słuchaj aby zrozumieć - Aktywne Słuchanie",
       "start": "14:00",
       "end": "17:00",
@@ -176,6 +190,25 @@ export default {
       "end": "16:30",
       "location": "C6 108",
       "description": "Krótka historia o tym, jak opowiedzieć wciągającą i inspirującą historię za pomocą kilku wpisów na temat Twojego doświadczenia.  Warsztat, na którym się nauczysz, jak zrobić doskonałe pierwsze wrażenie, uniknąć najpopularniejszych błędów, i zapewnić sobie zaproszenie na rozmowę rekrutacyjną w kilka sekund.",
+      "speakers": [
+        {
+          "firstName": "Jan",
+          "lastName": "Porebski",
+          "image": require('@/assets/images/speakers/1aacce63-ea4a-475f-889c-2e1eb4564e45.jpg')
+        },
+        {
+          "firstName": "Iryna",
+          "lastName": "Levytskaa",
+          "image": require('@/assets/images/speakers/e9cdcccf-2f58-42e7-ab8a-bde9ba67ab43.jpg')
+        }
+      ]
+    },
+    {
+      "name": "[AON] Punkt konsultacji CV",
+      "start": "16:30",
+      "end": "18:00",
+      "location": "C6 108",
+      "description": "...",
       "speakers": [
         {
           "firstName": "Jan",
@@ -232,26 +265,26 @@ export default {
       ]
     },
     {
-      "name": "Jak rozwija stworzenie własnej firmy? Panel dyskusyjny ze start-upami.",
+      "name": "SSA: StartUp MeetUp",
       "start": "20:00",
       "end": "22:00",
       "location": "Klub Gwarek",
-      "description": "Panel dyskusyjny w swobodnej atmosferze traktujący o tym, jak rozwija prowadzenie własnego start-upu. <br/>Więcej informacji wkrótce...",
+      "description": "SSA: StartUp MeetUp to panel dyskusyjny w swobodnej atmosferze podczas którego dowiecie się jak można się rozwinąć prowadząc własny start-up. Porozmawiamy też o tym jak nauczyć się zarządzać zespołem oraz sprawić, by ludzie uwierzyli w Twój pomysł.<br/><br/>Naszymi prelegentami będą CEO trzech krakowskich firm, którym udało się wejść na rynek i osiągnąć sukces.<br/>Nie zabraknie również okazji do zadawania pytań.<br/><br/>WSTĘP WOLNY!",
       "speakers": [
         {
           "firstName": "Tomasz",
           "lastName": "Wesołowski",
-          "image": require('@/assets/images/speakers/unknown.png')
+          "image": require('@/assets/images/speakers/5c2b7b11-d9fa-4d1c-a474-3ab4ef8183e5.jpg')
         },
         {
-          "firstName": "Aga",
+          "firstName": "Agnieszka",
           "lastName": "Pałka",
-          "image": require('@/assets/images/speakers/unknown.png')
+          "image": require('@/assets/images/speakers/d0264019-2e7f-4423-bf65-7ad408618ec6.jpg')
         },
         {
-          "firstName": "Greg",
+          "firstName": "Grzegorz",
           "lastName": "Świerad",
-          "image": require('@/assets/images/speakers/unknown.png')
+          "image": require('@/assets/images/speakers/3a4ea03e-db37-4791-ba6a-880446600c58.jpg')
         }
       ]
     }
@@ -281,22 +314,22 @@ export default {
         {
           "firstName": "Joaanna",
           "lastName": "Olszewska",
-          "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+          "image": require('@/assets/images/speakers/69e40c84-afd5-4a3e-a0bf-9979b6373436.jpg')
         },
         {
           "firstName": "Natalia",
           "lastName": "Wójcik",
-          "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+          "image": require('@/assets/images/speakers/243331a2-1f75-4318-ab69-bd3b7dd4d21b.jpg')
         },
         {
           "firstName": "Aleksandra",
           "lastName": "Zaborowska",
-          "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+          "image": require('@/assets/images/speakers/6c95a162-d9ee-4a4a-bb41-4f1b0b84bf2a.jpg')
         },
         {
           "firstName": "Izabela",
           "lastName": "Kendzior",
-          "image": require('@/assets/images/speakers/db399646-161c-454d-9ca0-2746fa4a4f41.jpg')
+          "image": require('@/assets/images/speakers/ea5f47f2-8546-4a02-9d9d-02106b2191ef.jpg')
         }
       ]
     },
@@ -361,7 +394,7 @@ export default {
     {
       "name": "Poradź sobie ze stresem",
       "start": "14:00",
-      "end": "17:00",
+      "end": "16:00",
       "location": "C6 106",
       "description": "W ciekawy (eksperymentalny) sposób poznasz swój sposób przeżywania stresu. Zastanowimy się po co nam stres, czemu służy, a w czym przeszkadza. Odpowiemy na pytanie jak ludzie przeżywają stres i dlaczego zebry nie mają wrzodów z powodu stresu... Poznasz kilka technik opanowania emocji, przekształcania myśli, a na koniec zrelaksujesz się!",
       "speakers": [
@@ -439,7 +472,7 @@ export default {
       "name": "Podstawy Improwizacji z grupą AD HOC",
       "start": "14:00",
       "end": "17:00",
-      "location": "Biblioteka Główna 5a",
+      "location": "Centrum Dydaktyki AGH U2",
       "description": "Zbyt sztywno trzymamy się zasad? Brak spontaniczności?  A może chciałeś spróbować swoich sił na scenie? A może już występujesz i pragniesz poszerzyć swój warsztat? Słyszałaś o improwizacji i chciałabyś dowiedzieć się o niej więcej? Grupa  AD HOC zaprasza na dwugodzinne spotkanie, które pokaże Ci, czym jest improwizacja. Proste ćwiczenia i doskonała zabawa, bez zobowiązań. Pokażemy Ci, jak trenują improwizatorzy i jakie umiejętności pomagamy rozwijać w trakcie prowadzonych przez nas, regularnych kursów. Popracujemy nad spontanicznością, refleksem, wyobraźnią i działaniem w grupie. Przyjdź i spróbuj impro! <br/>Warsztaty improwizacji w szczególny sposób rozwijają: <br/>- komunikację i aktywne słuchanie <br/>- otwartość na innych i kreatywność <br/>- umiejętność wychodzenia z inicjatywą <br/>- wychodzenie z sytuacji kryzysowych <br/>- koncentrację i podzielność uwagi <br/>- postrzeganie i kontrolę własnego statusu <br/>",
       "speakers": [
         {
@@ -460,20 +493,6 @@ export default {
           "firstName": "Tomasz",
           "lastName": "Buczyński",
           "image": require('@/assets/images/speakers/1d31fcd7-282b-475a-b10d-8c9ed3db11c1.jpg')
-        }
-      ]
-    },
-    {
-      "name": "[PEGA] Sztuka Feedbacku przez duże F",
-      "start": "15:00",
-      "end": "19:00",
-      "location": "B9 011",
-      "description": "Czym jest feedback i do czego służy? <br/>Chwalisz czy ganisz? <br/>Krytyka, czy implus do zmiany i uczenie się na błędach? <br/>Informacja zwrotna, która rozwija? <br/>  <br/>Czy wiemy, jak to się robi... a może, gdy coś Nas wkurza/cieszy, nie wiemy jak o tym mówić? <br/>  <br/>\"Sztuka Feedbacku przez duże F\" to intensywny warsztat, podczas którego nauczysz się budować konstruktywną informację zwrotną oraz dowiesz się jak taką informację zwrotną przyjąć i co z nią zrobić. Będziemy pracować m.in. w oparciu o metodę Non Violent Communication (NVC) czyli \"Porozumienie bez Przemocy\". To metoda tworzenia i wspomagania kultury partnerskiego porozumienia i współpracy. <br/>Czeka na Was dużo interakcji, ćwiczeń i niezbędna teoria. <br/>Dobry feedback jest sztuką, która - jedynie zrozumiana i praktykowana - rozwija, a także może nas zmienić. Gotów na to wyzwanie? <br/>Serdecznie zapraszam!",
-      "speakers": [
-        {
-          "firstName": "Mateusz",
-          "lastName": "Klimczyk",
-          "image": require('@/assets/images/speakers/8934d3ae-0a1a-4375-9ad7-dd599f7e8876.jpg')
         }
       ]
     },
@@ -624,17 +643,17 @@ export default {
       "start": "9:00",
       "end": "17:00",
       "location": "B8 3.21",
-      "description": "Warsztat prowadzony przez reprezentantów szkoły liderów Rzeczpospolitej. <br/> <br/>Umiejętność bycia liderem pomaga nam się rozwijać,  osiągać cele, zjednywać sobie ludzi i mieć realny wpływ na otoczenie. Podczas intensywnego ośmiogodzinnego warsztatu, 8 grudnia dowiesz się:  <br/>- jak motywować siebie i innych do działania, <br/>- jak sprawiać by działy się niesamowite rzeczy,  <br/>- co zrobić żeby się chciało, <br/>- jakich błędów unikać, <br/>- oraz co to znaczy być prawdziwym liderem? <br/> <br/>Będą przykłady, historie, wskazówki, praktyczne narzędzia, ćwiczenia, trochę teorii i okazja do poznania ludzi, którzy jak Ty, chcą osiągać więcej. <br/>Do zobaczenia! :)",
+      "description": "Warsztat prowadzony przez reprezentantów klubu lidera Rzeczpospolitej. <br/> <br/>Umiejętność bycia liderem pomaga nam się rozwijać,  osiągać cele, zjednywać sobie ludzi i mieć realny wpływ na otoczenie. Podczas intensywnego ośmiogodzinnego warsztatu, 8 grudnia dowiesz się:  <br/>- jak motywować siebie i innych do działania, <br/>- jak sprawiać by działy się niesamowite rzeczy,  <br/>- co zrobić żeby się chciało, <br/>- jakich błędów unikać, <br/>- oraz co to znaczy być prawdziwym liderem? <br/> <br/>Będą przykłady, historie, wskazówki, praktyczne narzędzia, ćwiczenia, trochę teorii i okazja do poznania ludzi, którzy jak Ty, chcą osiągać więcej. <br/>Do zobaczenia! :)<br/>https://www.facebook.com/KlubLideraRP/",
       "speakers": [
         {
           "firstName": "Jakub",
           "lastName": "Sordyl",
-          "image": require('@/assets/images/speakers/44ee628d-a2a1-4634-93cd-a60d097d3c87.jpg')
+          "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
         },
         {
           "firstName": "Tomasz",
           "lastName": "Sordyl",
-          "image": require('@/assets/images/speakers/44ee628d-a2a1-4634-93cd-a60d097d3c87.jpg')
+          "image": require('@/assets/images/speakers/1055dcbb-e163-407d-8a07-f693119cc773.jpg')
         }
       ]
     }
