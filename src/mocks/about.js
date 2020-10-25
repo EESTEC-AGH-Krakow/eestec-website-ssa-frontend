@@ -3,11 +3,7 @@ export default [
         "id":1,
         "type":"ssa",
         "title":"SOFT SKILLS ACADEMY",
-        "description":"Już niemal od dekady pomagamy studentom największych krakowskich uczelni kształtować ich zdolności pracy w zespole, autoprezentacji i komunikacji międzyludzkiej. " +
-            "Na przestrzeni dziewięciu edycji otrzymaliśmy ponad 6000 aplikacji od studentów Akademii Górniczo-Hutniczej, Uniwersytetu Jagiellońskiego, Politechniki Krakowskiej, Uniwersytetu Ekonomicznego, Uniwersytetu Pedagogicznego i innych okolicznych uczelni. " +
-            "Dziewięć lat pracy nad warsztatami pozwoliło nam uzyskać doświadczenie niezbędne do organizacji szkoleń na najwyższym, profesjonalnym poziomie. " +
-            "W tym roku z racji jubileuszowej 10. edycji wydłużamy czas trwania Soft Skills Academy aż do dziesięciu dni, podczas których organizujemy aż 40 treningów. " +
-            "Wszystko po to, by dać szansę rozwoju liczniejszej grupie zainteresowanych.",
+        "description":"Soft Skills Academy to projekt, którego ideą jest dostarczenie treści szkoleniowych dotyczących umiejętności miękkich studentom, którzy na tradycyjnej ścieżce swojej edukacji mają niewiele okazji do pogłębiania wiedzy i umiejętności w tym zakresie. Szczególną zaletą tego wydarzenia jest fakt, że uczestnictwo w nim jest w pełni bezpłatne. Podczas minionej, dziesiątej edycji przeprowadzono 40 warsztatów w ciągu 10 dni. Na warsztatach Soft Skills Academy można nauczyć się m.in. jak budować swoją markę osobistą, nauczyć się sztuki autoprezentacji, zgłębić wiedzę z zakresu manipulacji, negocjacji, czy inteligencji emocjonalnej. To jedynie mała część tego co oferuje Soft Skills Academy. Co roku oferta jest modyfikowana i dopasowywana do potrzeb uczestników. Aktualne informacje można znaleźć w zakładce \"Harmonogram\"",
         "image":require('@/assets/images/about/ssa-img.jpg')
     },
     {
