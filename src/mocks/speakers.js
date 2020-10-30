@@ -76,16 +76,16 @@ export default [
     //     "description": "",
     //     "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
     // },
-    {
-        "id": 7,
-        "firstName": "Filip",
-        "lastName": "Mościcki",
-        "workshopNames": [
-            "Elevator Pitch, czyli jak sie dobrze sprzedac."
-        ],
-        "description": "Absolwent Akademii Górniczo-Hutniczej oraz Uniwersytetu Jagiellońskiego. Reprezentant Polski, Public Speaker, Sprzedawca, Marketingowiec, Manager, Trener i Leader. Doświadczenie zbierał w USA, Niemczech, Wielkiej Brytanii, czy w Polsce i wielu innych miejscach pracując w największych globalnych korporacjach i najmniejszych polskich start-upach.  ",
-        "image": require('@/assets/images/speakers/unknown.png') //TODO: photo
-    },
+    // {
+    //     "id": 7,
+    //     "firstName": "Filip",
+    //     "lastName": "Mościcki",
+    //     "workshopNames": [
+    //         "Elevator Pitch, czyli jak sie dobrze sprzedac."
+    //     ],
+    //     "description": "Absolwent Akademii Górniczo-Hutniczej oraz Uniwersytetu Jagiellońskiego. Reprezentant Polski, Public Speaker, Sprzedawca, Marketingowiec, Manager, Trener i Leader. Doświadczenie zbierał w USA, Niemczech, Wielkiej Brytanii, czy w Polsce i wielu innych miejscach pracując w największych globalnych korporacjach i najmniejszych polskich start-upach.  ",
+    //     "image": require('@/assets/images/speakers/unknown.png') //TODO: photo
+    // },
     {
         "id": 8,
         "firstName": "Zofia",
@@ -141,16 +141,16 @@ export default [
     //     "image": require('@/assets/images/speakers/93d8b90b-9460-4065-95f2-04d588893839.jpg')
     // },
 
-    {
-        "id": 13,
-        "firstName": "Dagmara",
-        "lastName": "Modrzejewska",
-        "workshopNames": [
-            "Zarządzanie ryzykiem w organizacji."
-        ],
-        "description": "", // TODO: description
-        "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
-    },
+    // {
+    //     "id": 13,
+    //     "firstName": "Dagmara",
+    //     "lastName": "Modrzejewska",
+    //     "workshopNames": [
+    //         "Zarządzanie ryzykiem w organizacji."
+    //     ],
+    //     "description": "", // TODO: description
+    //     "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
+    // },
     {
         "id": 14,
         "firstName": "Aneta",
@@ -202,26 +202,26 @@ export default [
         "description": "Zawodowo pracuje w dziale finansowym. Prywatnie zaangażowany w programy społeczne, w których działa już ponad 3 lata. Aktualnie prowadzi szkolenia i warsztaty z zakresu umiejętności kreatywnych. Fascynuje go proces Design Thinking oraz narzędzia kreatywnego rozwiązywania problemów. Wiedzę i umiejętności praktyczne zdobywał nie tylko na studiach, ale również wprowadzając metodologię Design Thinking w organizacjach, w których działał. Współtworzy projekt UpSkill, którego celem jest rozwój umiejętności i wspieranie młodych osób wchodzących na rynek pracy. ",
         "image": require('@/assets/images/speakers/6c95a162-d9ee-4a4a-bb41-4f1b0b84bf2a.jpg')
     },
-    {
-        "id": 18,
-        "firstName": "Joanna",
-        "lastName": "Dobosz",
-        "workshopNames": [
-            "Głos - Twoja wizytówka"
-        ],
-        "description": "",  //TODO:
-        "image": require('@/assets/images/speakers/ea5f47f2-8546-4a02-9d9d-02106b2191ef.jpg')
-    },
-    {
-        "id": 19,
-        "firstName": "Ewa",
-        "lastName": "Rodzoń",
-        "workshopNames": [
-            "Głos - Twoja wizytówka"
-        ],
-        "description":"", //TODO:
-        "image": require('@/assets/images/speakers/706adece-2d51-41e1-9074-530ca1c5dfef.jpg')
-    },
+    // {
+    //     "id": 18,
+    //     "firstName": "Joanna",
+    //     "lastName": "Dobosz",
+    //     "workshopNames": [
+    //         "Głos - Twoja wizytówka"
+    //     ],
+    //     "description": "",  //TODO:
+    //     "image": require('@/assets/images/speakers/ea5f47f2-8546-4a02-9d9d-02106b2191ef.jpg')
+    // },
+    // {
+    //     "id": 19,
+    //     "firstName": "Ewa",
+    //     "lastName": "Rodzoń",
+    //     "workshopNames": [
+    //         "Głos - Twoja wizytówka"
+    //     ],
+    //     "description":"", //TODO:
+    //     "image": require('@/assets/images/speakers/706adece-2d51-41e1-9074-530ca1c5dfef.jpg')
+    // },
     {
         "id": 20,
         "firstName": "Sebastian",
