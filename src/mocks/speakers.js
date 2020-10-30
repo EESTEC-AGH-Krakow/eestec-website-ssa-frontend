@@ -252,56 +252,54 @@ export default [
             "“Skoczyłbym za nim w ogień” ~ czyli co to znaczy być prawdziwym liderem."
         ],
         "description": "Rozwój w wielu kierunkach oraz poszerzanie horyzontów od dłuższego czasu motywuje go do aktywności/działania w różnych projektach czy szkoleniach. Obecnie Prezes Zarządu organizacji EESTEC AGH Kraków, Członek EESTEC Training Team oraz Student czwartego roku Elektrotechniki na AGH. Obejmując rozmaite pozycje w pozarządowych organizacjach zdobył zróżnicowane doświadczenie, które  obecnie wykorzystuje przy tworzeniu Treningów Soft Skillowych.",
-        "image": require('@/assets/images/speakers/643b2093-239a-4744-a2c1-9507fd14497f.jpg')
+        "image": require('@/assets/images/speakers/643b2093-239a-4744-a2c1-9507fd14497f.png')
+    },
+    {
+        "id": 23,
+        "firstName": "Damian",
+        "lastName": "Rogala",
+        "workshopNames": [
+            "Odczarować NLP- skuteczne narzędzie rozwoju osobistego."
+        ],
+        "description": "Trener, Coach, Przedsiębiorca. Przez 4 lata rozwijał zespoły sprzedażowe w najszybciej rozwijającym się Banku w Polsce. Następnie zarządzał zespołem w Kancelarii Prawno Finansowej. Aktualnie wspiera firmy oraz osoby indywidualne w zwiększaniu swojej skuteczności. W pracy z Klientem wykorzystuje narzędzia zarówno trenerskie, coachingowe oraz NLP. Osoby, które szkolił w korporacji, szybko awansowały, robiły najwyższe plany sprzedażowe oraz osiągały wiele innych sukcesów z tytułem Telemarketera Roku włącznie. Absolwent kierunków: Coach i Trener: partner w rozwoju, Psychologii w Biznesie i Studiów Menadżerskich na Wyższej Szkole Europejskiej w Krakowie. Uczestnik treningu NLP u Marka Rożalskiego. Członek oraz były VP ds. PR klubu Toastmasters Kraków.",
+        "image": require('@/assets/images/speakers/87ea7441-4f89-4de8-9bdd-f12a7816d6ef.jpg')
     },
     // {
-    //     "id": 23,
-    //     "firstName": "Agnieszka",
-    //     "lastName": "Rębacz",
-    //     "workshopNames": [
-    //         "Feedback – jak go udzielić i jak go przyjąć?"
-    //     ],
-    //     "description": "Zakochana w słowie i w dzieleniu się wiedzą pasjonatką przemówień publicznych. Od 5 lat zajmuję się debatami oksfordzkimi i tutoringiem – uczy młodzież przemawiać i radzić sobie z tremą, przygotowuje mówców do turniejów i sędziuje debaty. Jest czynnym członkiem Krakowskiego Stowarzyszenia Mówców. Obecnie studiuje na Uniwersytecie Jagiellońskim kierunki Biotechnologia i Psychologia. Wierzy, że kultura słowa i jakość debaty publicznej są czymś bardzo istotnym, a przy tym często niedocenianym i zaniedbywanym. Nie lubi jednak narzekać i na co dzień woli zakasać rękawy i dokładać choćby małą cegiełkę dla rozwoju tych wartości.",
-    //     "image": require('@/assets/images/speakers/87ea7441-4f89-4de8-9bdd-f12a7816d6ef.jpg')
-    // },
-    // {
     //     "id": 24,
-    //     "firstName": "Anita",
-    //     "lastName": "Szymiec",
+    //     "firstName": "Katarzyna",
+    //     "lastName": "Prekurat",
     //     "workshopNames": [
-    //         "Poprowadź swój team na sam szczyt - zarządzanie"
+    //         ""
     //     ],
-    //     "description": "Kierownik zespołu rekruterów, od zawsze pasjonatka rozwoju osobistego, od niedawna także coachingu. Zadawanie samemu sobie odpowiednich pytań traktuje jako klucz do poszerzania świadomości o samych sobie i stawania się coraz lepszą wersją samego siebie. Ukończyła dziennikarstwo i komunikację społeczną oraz zarządzanie zasobami ludzkimi, od 2012 roku związana z rekrutacją i branżą HR, jest certyfikowanym trenerem testu osobowości PERSO.IN. Pasjonuje się psychologią i poznawaniem ludzkiej natury, czerpiąc wiele radości z pracy z ludźmi i obserwowania ich pozytywnych zmian - wspiera i motywuje w rozwoju. Jest głęboko przekonana, że każdy ma swoją misję w życiu i możliwość rozwoju zgodnie ze swoim powołaniem, a każdy sukces jest konsekwencją pełnego zaangażowania i motywacji zdążania do realizacji jasno określonych celów poprzez podjęcie adekwatnego działania.",
+    //     "description": "",
     //     "image": require('@/assets/images/speakers/373b814b-9f9c-4d05-b02a-5dd71c10fc56.jpg')
     // },
-    // {
-    //     "id": 25,
-    //     "firstName": "Marlena",
-    //     "lastName": "Momot",
-    //     "workshopNames": [
-    //         "Autentyczna Marka w Sieci"
-    //     ],
-    //     "description": "Certyfikowany trener i współtwórca Autokreacji. Szkolenia opieram na pracy warsztatowej, wierząc, że najskuteczniej uczymy się tego, do czego sami dochodzimy." +
-    //         "<br/><br/>" +
-    //         "Scena zawsze mnie przyciągała, a moja pasja do aktorstwa przerodziła się w miłość do występów na salach szkoleniowych, konferencjach i eventach branżowych. To tam dzielę się swoją wiedzą z autoprezentacji, były to np.: TEDxYouth, Przedsiębiorcza Kobieta, LinkedIn Local czy Absolvent Talent Days." +
-    //         "<br/><br/>" +
-    //         "Chętnie pokażę Ci jak zaprzyjaźnić się z wystąpieniami publicznymi. Przy odrobinie praktyki i wiedzy, nie będziesz mieć sobie równych na scenie!",
-    //     "image": require('@/assets/images/speakers/c4ad402d-ea78-41c4-ad1a-a2bbe59abb55.jpg')
-    // },
-    // {
-    //     "id": 26,
-    //     "firstName": "Alina",
-    //     "lastName": "Osowska",
-    //     "workshopNames": [
-    //         "Autentyczna Marka w Sieci"
-    //     ],
-    //     "description": "Współtworzę Autokreację. Jestem psychologiem, a moje serce skradła psychologia społeczna. Wierzę, że wiedza na temat ludzkiego zachowania pozwala nam uświadamiać sobie swoje mocne strony. Na nich właśnie budujemy swoją silną markę, a wykorzystując je dbamy o własny PR." +
-    //         "<br/><br/>" +
-    //         "Od ponad trzech lat na sali szkoleniowej oraz na scenach wydarzeń społecznych, dzielę się swoją pasją do obserwacji. Obserwacji mowy ciała oraz komunikacji interpersonalnej, a więc tego, co wpływa na skuteczną autoprezentację." +
-    //         "<br/><br/>" +
-    //         "Ponad 2000 przeszkolonych osób oraz ich pozytywne opinie są dla mnie bodźcem do podejmowania ambitnych wyzwań.",
-    //     "image": require('@/assets/images/speakers/545d19a0-8be6-4c37-a989-02590d66733a.jpg')
-    // },
+
+
+    {
+        "id": 25,
+        "firstName": "Sławomir",
+        "lastName": "Ziółkowski",
+        "workshopNames": [
+            "" //TODO:
+        ],
+        "description": "Doktor nauk ekonomicznych, ma na swym koncie kilkanaście lat pracy jako trener i nauczyciel akademicki w tematyce zarządzania przedsiębiorstwem, rozwoju kariery oraz zarządzania kadrami i negocjacji menedżerskich. Od początku kariery związany z praktyką biznesu, współpracował z dużymi koncernami, głównie z branży kreatywnej i mediów elektronicznych." +
+            "<br/><br/>" +
+            "Od lat jego pasją są alternatywne metody budowania porozumienia - negocjacje i mediacje. I choć w tych czasach nie brzmi to może najlepiej, tą pasją stara się… ZARAŻAĆ innych." +
+            "<br/><br/>" +
+            "Posiada międzynarodowe certyfikaty trenerskie: Certified International Professional Negotiator® (CIPN®) oraz Certified International Professional Trainer® (CIPT®).",
+        "image": require('@/assets/images/speakers/c4ad402d-ea78-41c4-ad1a-a2bbe59abb55.jpg')
+    },
+    {
+        "id": 26,
+        "firstName": "Irene",
+        "lastName": "Marban",
+        "workshopNames": [
+            ""
+        ],
+        "description": "Irene Marban- Member of Training Team in EESTEC. Studies Biomedical Engineering in Madrid. Loves travelling and meeting new people. Very active, can’t sit in a chair all day. Currently interested in learning more about Emotional Intelligence. Always up for a deep conversation. Regarding hobbies, running and cooking are her favorite.",
+        "image": require('@/assets/images/speakers/545d19a0-8be6-4c37-a989-02590d66733a.jpg')
+    },
     // {
     //     "id": 27,
     //     "firstName": "Filip",
