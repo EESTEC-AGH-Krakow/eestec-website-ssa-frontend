@@ -2,7 +2,7 @@
     <div>
         <RowContent :key="element.id" :photo="element.image" :reverse="element.id % 2 === 0" v-for="element in about">
             <h3 class="align-self-start ">{{element.title}}</h3>
-            <p>{{element.description}}</p>
+            <p class="text-justify">{{element.description}}</p>
         </RowContent>
     </div>
 </template>

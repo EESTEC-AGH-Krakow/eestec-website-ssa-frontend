@@ -1,589 +1,432 @@
 export default [
     {
         "id": 1,
-        "firstName": "Michał",
-        "lastName": "Próchniewicz",
+        "firstName": "Grzegorz",
+        "lastName": "Zaagraba [KMS]",
         "workshopNames": [
-            "Podstawy improwizacji z grupą AD HOC"
+            "Podstawy negocjacji na praktycznych case`ach"
         ],
-        "description":
-            "Doświadczony artysta sceniczny (dawniej związany m.in. z Teatrem KTO), członek Grupy AD HOC z Krakowa – jednej z najstarszych grup improwizacyjnych w Polsce z którą regularnie występuje na scenach Artefakt Cafe w Krakowie oraz Krakowskiego Teatru VARIETE." +
-            "<br/><br/>" +
-            "Improwizacją zajmuje się od 11 lat. Tajniki impro poznawał pod okiem wybitnych improwizatorów m.in. z Kanady, Anglii, Hiszpanii, Czech, Szwajcarii i USA. Od ponad 7 lat prowadzi jedno- i wielodniowe warsztaty w całej Polsce. Jeden z organizatorów Międzynarodowego Festiwalu Improwizacji Scenicznej ImproFest. Trener Szkoły Improwizacji AD HOC.",
-        "image": require('@/assets/images/speakers/083a3695-9ca4-4dc1-a1ca-0cb6e97a62a7.jpg')
+        "description": "Wiceprezes ds. Współpracy Biznesowej w Fundacji Kraków Miastem Startupów – konsultant w zakresie sprzedaży, tworzenia modeli biznesowych i zarządzania zespołem w startupach. Na co dzień odpowiedzialny za rozwój działu sprzedaży w Archdesk - polsko-brytyjskim startupie porządkującym zarządzanie firmami budowlanymi i produkcyjnymi, przy wykorzystaniu rozwiązań IT dostarczanych w modelu SaaS. Aktywnie pośredniczy w pozyskiwaniu klientów przez krakowskie firmy z branży IT oraz marketingowej. Szkoli organizacje studenckie w zakresie sprzedaży, wystąpień publicznych i zarządzania zespołem. Jeden z twórców AlphaVision, startupu którego celem było uproszczenie pracy radiologów przez automatyczny system Quality Assurance. Współpracował przy komercjalizacji technologii powstających na Politechnice Krakowskiej oraz Uniwersytecie Rolniczym. Doradza i mentoruje młodym startupom takim jak GetDressed, Trymile czy Healthly.",
+        "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
     },
     {
         "id": 2,
-        "firstName": "Krzysztof",
-        "lastName": "Nepelski",
+        "firstName": "Michał",
+        "lastName": "Adamczyk [KMS]",
         "workshopNames": [
-            "Nie przegap swojej szansy! - Self improvement"
+            "Skuteczne przewodzenie zespołem"
         ],
-        "description": "Radiowiec z 30-letnim stażem w RMF FM. Ukończył studia inżynierskie na AGH w Krakowie (Wydział Elektrotechniki, Automatyki i Elektroniki kierunku Elektroenergetyka) oraz studia magisterskie w Wyższej Szkole Handlowej w Paryżu w dziedzinie Zarządzania Informacją i Mediami. Staże w departamencie radiowym CARAT (największy firma w Europie pośrednicząca w zakupie przestrzeni reklamowych w mediach) oraz w dziale reklamy Radia France (publiczne radio we Francji). Wieloletni Dyrektor Marketingu i Badań RMF FM, współtwórca portalu INTERIA.PL, współautor i koordynator wielu projektów antenowych, promocyjnych i technologicznych w Grupie RMF, jeden z 30 Liderów Nowej Gospodarki i Społeczeństwa Informacyjnego wg Bussinesman Magazyn (wrzesień 2000), wykładowca reklamy i marketingu radiowego na studiach podyplomowych i dziennych na Uniwersytecie Jagiellońskim, Uniwersytecie Ekonomicznym i Akademii Górniczo-Hutniczej w Krakowie, prelegent na wielu krajowych i zagranicznych konferencjach." +
-            "<br/><br/>" +
-            "Obecnie Pełnomocnik ds. Relacji Instytucjonalnych w Grupie RMF. Zapalony mówca, członek organizacji Toastmasters International. Prywatnie ojciec 2 córek, filmowiec, fan Elvisa Presleya i The Beatles.",
-        "image": require('@/assets/images/speakers/77f08fb1-95ca-448c-af71-f739210cb2f5.jpg')
+        "description": "Prezes Fundacji Kraków Miastem Startupów. Inżynier informatyki stosowanej (Java developer) i magister zarządzania (specjalność: zarządzanie zasobami ludzkimi) z doświadczeniem biznesowym (działalność w obszarze mobile-IT) oraz 12-letnim doświadczeniem menedżerskim i 5-letnim doświadczeniem naukowo-dydaktycznym. Ekspert oceniający przedsięwzięcia biznesowe pod kątem innowacyjności w ramach projektów PARP. Realizuje na AGH rozprawę doktorską w dyscyplinie nauk o zarządzaniu dotyczącą krakowskiego ekosystemu start-upowego. Autor kilkunastu publikacji naukowych dotyczących zarządzania innowacjami, w tym m.in. 7 artykułów w czasopismach naukowych, 7 rozdziałów w monografiach. Nauczyciel akademicki i trener w zakresie zarządzania innowacjami, projektami i zasobami ludzkimi. Absolwent prestiżowego szkolenia z zakresu komercjalizacji technologii na Wageningen University (Holandia) w ramach programu Ministerstwa Nauki i Szkolnictwa Wyższego „Transformation.doc”.",
+        "image": require('@/assets/images/speakers/00afc647-b4c4-40d2-a4af-20a4c0920ff6.jpg')
     },
     {
         "id": 3,
-        "firstName": "Dominik",
-        "lastName": "Alexandrowicz",
+        "firstName": "Marlena",
+        "lastName": "Momot",
         "workshopNames": [
-            "Bezpardonowe wprowadzenie w przywództwo (i zarządzanie ludźmi)"
+            "Wystąpienia online"
 
         ],
-        "description": "Charyzmatyczny menedżer i kreatywny konsultant biznesowy." +
+        "description": "Od 8 lat działam w branży szkoleniowej, oswajając innych z wystąpieniami publicznymi. Ponad 4 000 osób miało już okazję wysłuchać moich prelekcji. Z powodzeniem przygotowałam prelegentów do wystąpień na kongresach firmowych, na konferencji TEDx, InternetBeta, a także w programie Dzień Dobry TVN." +
             "<br/><br/>" +
-            "Dominik to pasjonat innowacyjnego zarządzania i mówca, którego wystąpienia to kompozycja wiedzy, inspiracji i solidnej porcji poczucia humoru." +
+            "Scena zawsze mnie przyciągała, a pasja do aktorstwa przerodziła się w miłość do występów na salach szkoleniowych i konferencjach. Tam również dzielę się wiedzą z autoprezentacji. Występowałam m.in. na TEDx, Targach Outsourcing EXPO, LinkedIn Local, czy Absolvent Talent Days. " +
             "<br/><br/>" +
-            "Na co dzień jest menedżerem w korporacji zajmującej się rekrutacją. Jako ekspert w zakresie budowania zespołów współpracował z czasopismem Les Nouvelles Esthétiques (LNE), dla którego pisał na temat zarządzania ludźmi. Jego menedżerska kariera wiodła wcześniej przez branże: medyczną, IT i consultingu. Właśnie dzięki consultingowi zdobył setki godzin doświadczenia jako trener." +
+            "Na co dzień jako trener wystąpień publicznych pracuję z kadrami zarządzającymi oraz pracownikami średnich i dużych przedsiębiorstw, np. Royal Canin, Aviva, Port Gdańsk czy Innergo Systems. W większości są to branże:  IT, nieruchomości, finanse, czy sprzedaż." +
             "<br/><br/>" +
-            "Prelekcje prowadzi również po angielsku. Oprócz zarządzania ludźmi, najczęściej mówi o personal brandingu i etykiecie w biznesie. Sukcesu nie mierzy własnymi osiągnięciami, ale osiągnięciami tych, którym pomógł się realizować. Jego misja to: \"Prowadzenie moich ludzi ku najlepszej dla nich przyszłości\"." +
+            "Jestem certyfikowanym trenerem, współwłaścicielką firmy doradczo-szkoleniowej Autokreacja. Szkolenia buduje w oparciu o cykl Kolba, pracę warsztatową, dużą ilość praktycznych ćwiczeń, case study oraz konstruktywną informację zwrotną." +
             "<br/><br/>" +
-            "Choć pracuje dziś w korporacji, uważa że nie korpowacieje. W wolnym czasie czeka już na wiosnę. Zapytany o swoje zwierzę mocy odpowiedziałby, że trudno powiedzieć, ale lubi irlandzką whiskey.",
+            "Chętnie pokażę Ci jak zaprzyjaźnić się z wystąpieniami publicznymi. Przy odrobinie praktyki i wiedzy, nie będziesz mieć sobie równych na scenie!",
         "image": require('@/assets/images/speakers/8ddf84f9-85ef-4f10-a81c-f47e2ae2b9c8.jpg')
     },
     {
         "id": 4,
-        "firstName": "Norbert",
-        "lastName": "Marek",
+        "firstName": "Alina",
+        "lastName": "Osowska",
         "workshopNames": [
-            "Uwolnij siłę swojej autoekstresji - sztuka wystąpień publicznych"
+            "Wystąpienia online"
         ],
-        "description": "Trener, szkoleniowiec, HR-owiec. Poprzez liczne inicjatywy edukuje z zakresu komunikacji, przedsiębiorczości i inspiruje do wzięcia odpowiedzialności za swoje życie w myśl zasady „Nie szukaj złotych okazji, lecz złota w nadarzających się okazjach\"" +
+        "description": "Pasję do aktorstwa przerodziłam w miłość do występów na sali szkoleniowej. Zawsze marzyłam, by spełniać się artystycznie na scenie, dlatego odkąd pamiętam występowałam publicznie - na dużej scenie, ale i tej małej, na której stajemy każdego dnia w pracy i nie tylko." +
             "<br/><br/>" +
-            "JAKO MÓWCA:" +
-            "<br/>" +
-            "*Mistrz Polski w wystąpieniach publicznych w 3 kategoriach;" +
-            "<br/>" +
-            "*Finalista międzynarodowego konkursu we Frankfurcie;" +
-            "<br/>" +
-            "*Advanced Communicator GOLD, a także zdobywca Triple Crown Award międzynarodowej organizacji, która zrzesza ponad 352 000 osób w 141 krajach." +
+            "Jestem certyfikowanym trenerem i współtwórcą firmy szkoleniowej Autokreacja, w której prowadzimy szkolenia z autoprezentacji w biznesie. Uczymy umiejętności, wykorzystywanej każdego dnia w życiu zawodowym i prywatnym, której niestety nie nauczono nas w szkole." +
             "<br/><br/>" +
-            "JAKO HR-owiec:" +
-            "<br/>" +
-            "*Ogólnopolskie doświadczenie w prowadzeniu procesów rekrutacyjnych;" +
-            "<br/>" +
-            "*Rekrutuję kadrę zarządczą oraz wysoko wykwalifikowanych specjalistów;" +
-            "<br/>" +
-            "*Prowadzę zarówno rekrutacje indywidualne, jak i grupowe." +
+            "Występowałam na takich konferencjach jak: TEDxYouth, Przedsiębiorcza Kobieta, LinkedIn Local, Absolvent Talent Days czy KrakMove Toastmasters." +
             "<br/><br/>" +
-            "JAKO TRENER:" +
-            "<br/>" +
-            "*Przygotowuje pracowników międzynarodowych korporacji do objęcia stanowisk menedżerskich;" +
-            "<br/>" +
-            "*Przygotowuje do wystąpień, rozmów inwestorskich i negocjacji;" +
-            "<br/>" +
-            "*Tworzę dedykowane plany szkoleniowe i dobieram do nich odpowiednie metodologie edukacyjne pod potrzeby konkretnego klienta.",
+            "Zawodowo zajmuję się również marketingiem i budowaniem świadomości marki, zdobywając doświadczenie w międzynarodowych firmach.",
         "image": require('@/assets/images/speakers/87c9c8c9-c438-4a0a-9cbd-ca1cf545473c.jpg')
     },
-    {
-        "id": 5,
-        "firstName": "Anna",
-        "lastName": "Nitkiewicz-Jankowska",
-        "workshopNames": [
-            "Jak odnaleźć i wykorzystać swój potencjał, czyli moja silna marka osobista."
-        ],
-        "description": "Doktor nauk ekonomicznych z zakresu Zarządzania i Ekonomiki Usług, Trener marki osobiste, Trener profesjonalnej obsługi klienta, twórczyni i manager projektu Silna Marka Hotelu, właścicielka firmy Premium Personal Branding i twórczyni własnego programu Strategia Marki Osobistej, który wdrożyło ponad 300 klientów indywidualnych. Certyfikowany Revenue Manager i Profesjonalny Event Manager. Doświadczenia zawodowe zdobywała od 1998 roku między innymi na stanowisku nauczyciela akademickiego na kilku uczelniach (Uniwersytet Śląski, Górnośląska Wyższa Szkoła Handlowa w Katowicach, Wyższą Szkołą Teologiczno-Humanistyczną p.k. w Nysie, Akademia Wychowania Fizycznego w Krakowie, Wyższa Szkoła Biznesu w Dąbrowie Górniczej) oraz prowadząc własną działalność gospodarczą w zakresie szkoleń i doradztwa. Na salach szkoleniowych i wykładowych spędziła ponad 8 tys godzin. Współpracowała w zakresie prowadzenia szkoleń i warsztatów z Akademią Osiągnięć, Leadership & Developmen Group, Europejskim Centrum Edukacyjno-Szkoleniowym „Vademecum”, Raise Me Up. Opracowywała strategie rozwoju marki firm m.in. z z branży prawniczej, marketingowej, gastronomicznej, kosmetycznej, szkoleniowej, MLM, hotelarskiej, medycznej, produkcyjnej. Budowała struktury sprzedażowe w systemach MLM, prowadziła mentoring i coaching dla liderów zespołów sprzedażowych. W strukturach zarządu budowała i współprowadziła grupy biznesowe oraz stowarzyszenia. Dodatkowe doświadczenia zdobyła jako: prezes grupy BNI, wiceprezes Stowarzyszenia Tyskie Szpilki Biznesu, dyrektor sprzedaży w firmie Mary Kay. Autorka licznych prac naukowych, współautorka opracowań strategii marketingowych oraz autorka książek np. „Strategia marki osobistej...” (2016). Obecnie dodatkowo buduje struktury sprzedażowe i prowadzi grupy systemem mentoringowym jako menadżer w Vantis Holding.",
-        "image": require('@/assets/images/speakers/76ef7623-8b18-4add-b595-8fcd64ab12e7.jpg')
-    },
-    {
-        "id": 6,
-        "firstName": "Grzegorz",
-        "lastName": "Zagraba",
-        "workshopNames": [
-            "Manipulacja czy kontrolowana przyjaźń? Sztuka perswazji w praktyce."
-        ],
-        "description": "Specjalista w dziedzinie sprzedaży w firmach IT i startupach. Często styka się z wyzwaniami sprzedażowymi w młodych firmach technologicznych. Obecnie wspiera rozwój sprzedaży w polsko-brytyjskim startupie Archdesk, który wprowadza cyfrową rewolucję do branży budowlanej i produkcyjnej. Chief Networking Officer w fundacji Kraków Miastem Startupów, gdzie odpowiada za planowanie strategiczne, budowę relacji biznesowych fundacji i kontakt ze środowiskiem startupowym. Wierzy, że błyskotliwa improwizacja i szybkie kojarzenie faktów może być kluczem do wyjścia z niejednej opresji, a dobry żart może rozładować większość napiętych sytuacji.",
-        "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
-    },
+    //TODO:
+
+    // {
+    //     "id": 5,
+    //     "firstName": "Krzysztof",
+    //     "lastName": "Nepelski",
+    //     "workshopNames": [
+    //         ""
+    //     ],
+    //     "description": "",
+    //     "image": require('@/assets/images/speakers/76ef7623-8b18-4add-b595-8fcd64ab12e7.jpg')
+    // },
+    // {
+    //     "id": 6,
+    //     "firstName": "Marcin",
+    //     "lastName": "Lelek",
+    //     "workshopNames": [
+    //         ""
+    //     ],
+    //     "description": "",
+    //     "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
+    // },
     {
         "id": 7,
-        "firstName": "Małgorzata",
-        "lastName": "Piotrowska",
+        "firstName": "Filip",
+        "lastName": "Mościcki",
         "workshopNames": [
-            "Słuchaj aby zrozumieć - Aktywne Słuchanie"
+            "Elevator Pitch, czyli jak sie dobrze sprzedac."
         ],
-        "description": "Praktyk i trener w nurcie Porozumienia Bez Przemocy. Zdobywała doświadczenie jako trener od ponad 8 lat, zaczynając od szkoleń dla młodych sportowców, poprzez szkolenia dla studentów, po biznes, rodziców i nauczycieli. Od prawie 3 lat współtworzy organizację turkusową Leance oraz Fundację Trampolina, wnosząc NVC do środowiska biznesowego oraz edukacyjnego. Współorganizatorka Studium NVC w Krakowie. Autorka ponad 100 artykułów psychologiczno-rozwojowych. Czerpie wiedzę i doświadczenie od licznych trenerów NVC, m.in. Kirsten Kristensen, Shony Cameron, Marty Kułagi, Kaya Runga, Agnieszki Pietlickiej i wielu innych. Wnosi język empatii i zachęca do zmiany patrzenia na siebie i innych podczas warsztatów i spotkań indywidualnych dla biznesu, rodziców i nauczycieli. Eksploruje rolę lidera współtworząc turkusową organizację, koordynując projekty Fundacji Trampolina, niosąc zmianę myślenia w najbliższym otoczeniu, a także mierząc się z wyzwaniami macierzyństwa. Inspirują ją m.in. wystąpienia i publikacje Brenē Brown, Marshalla Rosenberga, Miki Kashtan, Jespera Juula. Zaraża pozytywną energią i uśmiechem. Prywatnie żona i mama dwóch wspaniałych córeczek. Pasjonatka pływania, gotowania i rysowania.",
+        "description": "Absolwent Akademii Górniczo-Hutniczej oraz Uniwersytetu Jagiellońskiego. Reprezentant Polski, Public Speaker, Sprzedawca, Marketingowiec, Manager, Trener i Leader. Doświadczenie zbierał w USA, Niemczech, Wielkiej Brytanii, czy w Polsce i wielu innych miejscach pracując w największych globalnych korporacjach i najmniejszych polskich start-upach.",
         "image": require('@/assets/images/speakers/ef646987-954d-463d-bd0e-97373a4aff70.jpg')
     },
     {
         "id": 8,
-        "firstName": "Michał",
-        "lastName": "Bobyla",
+        "firstName": "Zofia",
+        "lastName": "Gródek-Szostak",
         "workshopNames": [
-            "[GE HEALTHCARE] Świadomy Agile’owiec, czyli o zwinności na przykładzie Scruma w wytwarzaniu oprogramowania"
+            "Innowacyjna firma - jak oswoić i zarabiać na innowacjach"
         ],
-        "description": "Świadomy Agile’owiec, czyli o zwinności na przykładzie Scruma w wytwarzaniu oprogramowania. Moją przygodę jako Scrum Master zacząłem w GE Healthcare 1,5 roku temu. Po ukończeniu studiów finansowo-bankowych na Uniwersytecie Ekonomicznym w Krakowie i latach spędzonych w tej branży, podjąłem wyzwanie i wszedłem do świata IT. Doświadczenie z różnych obszarów biznesowych oraz studia w Finlandii, gdzie nowoczesne podejście do studiów miesza się z wykorzystaniem tradycyjnych rozwiązań praktycznych pozwoliło mi na wyostrzenie moich miekkich umiejetnosci i uswiadomienie sobie obszarow do ulepszenia ktore w przyszlosci zaowocuja w profesjonalnej karierze. Jako Scrum Master i Project Manager wspieram zespoły w tworzeniu oprogramowania, maksymalizuję możliwości oraz potencjał teamu developerskiego, a wszystko to przy zastosowaniu zwinnych praktyk. Kluczem do sukcesu jest odpowiednia komunikacja i stworzenie przyjaznej atmosfery do dyskusji o nawet najbardziej absurdalnych pomysłach… które czasem okazują się najlepsze i realizowalne.",
-        "image": require('@/assets/images/speakers/a71f3378-d88d-4857-8871-06c89a1b7c72.jpg')
+        "description": "Adiunkt w Katedrze Ekonomiki i Organizacji Przedsiębiorstw. Akredytowany konsultant Polskiej Agencji Rozwoju Przedsiębiorczości w zakresie usług doradczych proinnowacyjnych w ramach Krajowej Sieci Innowacji  (KSI) oraz usług doradczych ogólnych Krajowego Systemu Usług." +
+            "<br/>" +
+            "Ekspert m.in. w Narodowym Centrum Badań i Rozwoju, Polskiej Agencji Rozwoju Przedsiębiorczości, Ministerstwa Gospodarki, Małopolskiego Centrum Przedsiębiorczości, Śląskiego Centrum Przedsiębiorczości w zakresie oceny wniosków przedsiębiorstw ubiegających się o wsparcie publiczne na realizację innowacyjnych przedsięwzięć." +
+            "<br/>" +
+            "Autorka publikacji w zakresie finansowania inwestycji i badan naukowych z funduszy europejskich, wdrażania innowacyjnych rozwiązań w przedsiębiorstwach.",
+        "image": require('@/assets/images/speakers/a71f3378-d88d-4857-8871-06c89a1b7c72.png')
     },
     {
         "id": 9,
-        "firstName": "Magdalena",
-        "lastName": "Stoler-Szewczyk",
+        "firstName": "Katarzyna",
+        "lastName": "Klimkiewicz",
         "workshopNames": [
-            "[Capgemini] Przerażające spotkanie! Jak odpowiednio przygotować się do efektywnego meetingu i prezentacji?"
+            "Corporate Social Responsibility and Business Ethics"
         ],
-        "description": "Magda od ponad 10 lat sukcesywnie stawia czoło wymogom, oczekiwaniom oraz rzekomo nierozwiązywalnym problemom świata IT." +
-            "<br/><br/>" +
-            "Jej biegłość, nieustający rozwój i chęć budowania swojego, indywidualnego wizerunku na arenie międzynarodowego konsultingu odzwierciedla się w niezliczonej ilości odbytych spotkań, warsztatów oraz przeprowadzonych analiz, zarówno wewnątrz macierzystej organizacji, jak i klientów zewnętrznych." +
-            "<br/><br/>" +
-            "Magda jest osobą, dla której największą z wartości stanowią osoby, którymi się otacza oraz chęć, a zarazem możliwość budowania relacji, pozwalających sprostać każdej formie wyzwania." +
-            "<br/><br/>" +
-            "W swojej codziennej pracy Magda kładzie szczególny nacisk nie tylko na szczegółowość, ale na zawarcie w każdym aspekcie cząstki własnego „JA\", co czyni ją osobą, dla której pojęcie „szklany sufit\" jest jedynie kuszącym wyzwaniem.",
+        "description": "PhD is an assistant professor at the AGH University of Science and Technology in Cracow, Faculty of Management. As Departmental Erasmus Plus Coordinator she works actively in the field of academic exchange. She specializes in the field of Corporate Social Responsibility and Business Ethics. In her work she is passionate about adopting new teaching approaches directed towards development of entrepreneurial and leadership skills.",
         "image": require('@/assets/images/speakers/11944b87-8bc7-4a75-9d01-8d79e534615c.jpg')
     },
     {
         "id": 10,
-        "firstName": "Jan",
-        "lastName": "Porebski",
+        "firstName": "Tomasz",
+        "lastName": "Waleczko",
         "workshopNames": [
-            "[AON] Najlepsze CV ever – jak zdobyć wymarzoną pracę w 10 sekund"
+            "Racjonalność (sic!) podejmowania decyzji."
         ],
-        "description": "Rekruter z 5-letnim doswiadczeniem na rynku krakowskim, ale tez kilku rynkach europejskich. Specjalista w rekrutacji osób szukających pierwszej pracy oraz specjalistów z branży finansowej. Prywatnie wielki fan rugby.",
+        "description": "Jestem trenerem rozwoju umiejętności interpersonalnych, pracuję w biznesie i organizacjach pozarządowych. Prowadzę Instytut Witelon badający efekty szkoleń, programów rozwojowych, tworzącym narzędzia ewaluacyjne. Jako koordynator projektu wprowadzam do Polski szwajcarskie narzędzie BrainCore Education oparte na postulatach neuroscience, pozwalające na dostosowanie metod edukacyjnych do indywidualnych potrzeb umysłu każdego ucznia, studenta. Moim głównym celem pracy trenerskiej jest uruchomienie zmiany perspektywy uczestników i rozpoczęcie drogi w zmianie emocjonalnej, osobistej i budowanie kompetencji interpersonalnych umożliwiających dobrą współpracę, funkcjonowanie między ludźmi.",
         "image": require('@/assets/images/speakers/1aacce63-ea4a-475f-889c-2e1eb4564e45.jpg')
     },
     {
         "id": 11,
-        "firstName": "Iryna",
-        "lastName": "Levytska",
+        "firstName": "Karina",
+        "lastName": "Kozłowska",
         "workshopNames": [
-            "[AON] Najlepsze CV ever – jak zdobyć wymarzoną pracę w 10 sekund"
+            "O prokrastynacji, odwlekaniu i lenistwie"
         ],
-        "description": "Specjalistka HR z 3-letnim doświadczeniem. Ekspert analizy oraz wizualizacji danych. Nigdy nie startowała w eliminacjach do Eurowizji, ale to też może się zmienić w przyszłości. Pasjonatka fotografii, w szczególności czarno-białej.",
+        "description": "Z wykształcenia jestem pedagogiem, mediatorem oraz trenerem umiejętności społecznych. Od prawie 10 lat pracuję w obszarze edukacji i szkoleń, zarówno w środowisku biznesowym, jak i akademickim. Na co dzień zajmuję się identyfikacją i analizą potrzeb, tworzeniem oraz prowadzeniem szkoleń wewnętrznych. Moje działania koncentrują się wokół rozwijania umiejętności miękkich, sprzedażowych oraz organizacyjnych. Projektuję także działania mające na celu rozwój umiejętności budowania storytellingu sprzedażowego. Jestem w trakcie certyfikacji na Diagnostę inteligencji emocjonalnej. Prowadzę także webinary, piszę artykuły, a w wolnym czasie biegam i głaszczę kota :)",
         "image": require('@/assets/images/speakers/e9cdcccf-2f58-42e7-ab8a-bde9ba67ab43.jpg')
     },
-    {
-        "id": 12,
-        "firstName": "Anna",
-        "lastName": "Klimczyk",
-        "workshopNames": [
-            "Jak Cię widzą tak Cię piszą - zdobądż wymarzoną pracę"
-        ],
-        "description": "Kierownik Działu Spraw Studenckich, absolwentka WIMiP i studiów podyplomowych z rachunkowości w AGH, ponadto absolwentka Filologi polskiej UJ. Z pasji humanistka z zacięciem inżynierskim. Połączenie pasji humanistycznych z wykształceniem technicznym pozwala mi na radzenie sobie w nietypowych okolicznościach; w problemach widzę możliwości, nie boję się z mian, chętnie podejmuję nowe wyzwania." +
-            "<br/>" +
-            "Wierzę, że \"najlepsze wciąż musi przyjść\" oraz że: \"nawet siwy może być szczęśliwy\"!" +
-            "<br/><br/>" +
-            "Studentom chciałabym przekazać swoje doświadczenie w kierowaniu zespołem, pozyskiwaniu pracowników, kreowaniu wizerunku oraz przygotowywaniu dokumentów aplikacyjnych. Opowiem też o tym, jak stypendium zaważyło na mojej przygodzie z AGH.",
-        "image": require('@/assets/images/speakers/93d8b90b-9460-4065-95f2-04d588893839.jpg')
-    },
-    {
-        "id": 13,
-        "firstName": "Jakub",
-        "lastName": "Sordyl",
-        "workshopNames": [
-            "Zaryzykuj - Prowadź"
-        ],
-        "description": "Reprezentujący klub lidera Rzeczpospolitej dwaj bracia mają na koncie realizacje ambitnych projektów angażujących duże zespoły, obaj ukończyli i dostarczyli liczne szkolenia, nie tylko w Polsce ale i w wielu krajach europejskich. Ich obecnym celem jest poprawa jakości życia ludzi. Choć na co dzień funkcjonują w różnych środowiskach, stale dążą do jego osiągnięcia poprzez swoje działania, ucząc i motywując innych. https://www.facebook.com/KlubLideraRP/",
-        "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
-    },
+    // {
+    //     "id": 12,
+    //     "firstName": "Olga",
+    //     "lastName": "Janiszewska",
+    //     "workshopNames": [
+    //         ""
+    //     ],
+    //     "description": "",
+    //     "image": require('@/assets/images/speakers/93d8b90b-9460-4065-95f2-04d588893839.jpg')
+    // },
+
+    // {
+    //     "id": 13,
+    //     "firstName": "Dagmara",
+    //     "lastName": "Modrzejewska",
+    //     "workshopNames": [
+    //         "Zarządzanie ryzykiem w organizacji."
+    //     ],
+    //     "description": "", // TODO: description
+    //     "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
+    // },
     {
         "id": 14,
-        "firstName": "Tomasz",
-        "lastName": "Sordyl",
+        "firstName": "Aneta",
+        "lastName": "Wątor",
         "workshopNames": [
-            "Zaryzykuj - Prowadź"
+            "Strategia Kaizen czyli 10 praw efektywności osobistej."
         ],
-        "description": "Reprezentujący klub lidera Rzeczpospolitej dwaj bracia mają na koncie realizacje ambitnych projektów angażujących duże zespoły, obaj ukończyli i dostarczyli liczne szkolenia, nie tylko w Polsce ale i w wielu krajach europejskich. Ich obecnym celem jest poprawa jakości życia ludzi. Choć na co dzień funkcjonują w różnych środowiskach, stale dążą do jego osiągnięcia poprzez swoje działania, ucząc i motywując innych. https://www.facebook.com/KlubLideraRP/",
+        "description": "Aneta Wątor -trener Kaizen i umiejętności miękkich, mówca motywacyjny, Prokurent LV Development, przedsiębiorcza Polka. " +
+            "<br/><br/>" +
+            "Wiedzę o Kaizen czerpała między innymi ze studiów MBA, studiów podyplomowych Kaizen na KAIZEN Institute Polska oraz Instytucie Organizacji Systemów Produkcyjnych Wydział Inżynierii Produkcji Politechniki Warszawskiej. " +
+            "<br/><br/>" +
+            "Jest autorką dwóch książek w zakresie metodyki Kaizen i Work Life Balence, w tym jednej, która uzyskała status bestsellera: „Kaizen – małymi krokami do efektywności w życiu i biznesie” oraz  3- miesięcznego Dziennika Celów Kaizen i licznych kursów online - narzędzi, które ułatwiają realizację celów. " +
+            "<br/><br/>" +
+            "Jej wystąpienia i szkolenia znane są z bardzo charyzmatycznego przekazu, dużej dawki energii i motywacji do działania, która pozostaje w uczestnikach na długi czas. Posiada 12 letnie doświadczenie na rynku nieruchomości, zaczynała swoją przygodę od pracy jako pośrednik, dziś pracuje w rodzinnej spółce deweloperskiej. " +
+            "<br/><br/>" +
+            "Wkład w życie innych ludzi jest najważniejszą wartością jaką kieruje się w życiu. Od zawsze uwielbiała motywować, wspierać, tworzyć skuteczne strategie rozwoju, wydobywać z ludzi potencjał, uświadamiać i być przykładem dobrej, ambitnej kobiety. Kocha rozwój osobisty i ma na jego punkcie bzika. Swoją pasją dzieli się od 8 lat poprzez liczne wystąpienia, warsztaty oraz aktywność w social media.",
         "image": require('@/assets/images/speakers/1055dcbb-e163-407d-8a07-f693119cc773.jpg')
     },
     {
         "id": 15,
-        "firstName": "Joanna",
-        "lastName": "Olszewska",
+        "firstName": "Magda",
+        "lastName": "Michalak",
         "workshopNames": [
-            "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
+            "Umiejętności Przyszłości - kluczem do podniesienia jakości, w każdym obszarze życia."
         ],
-        "description": "W branży HR pracuję od 3 lat. Na co dzień zajmuję się rekrutacją specjalistów IT, a w weekendy studiuję psychologię w zarządzaniu. Uwielbiam pracę z ludźmi, ale żeby dawała ona pełną satysfakcję bardzo ważna jest odpowiednia komunikacja. Dlatego zapraszam na nasz warsztat, na którym dowiesz się dlaczego to w jaki sposób się mówi jest równie istotne jak to co się mówi.",
+        "description": "Jestem jedyną w Polsce Trenerką Umiejętności Przyszłości. Certyfikowaną trenerką umiejętności społecznych, wspomagania oświaty oraz postaw emocjonalnych dzieci i młodzieży. Ekspertką edukacji Ery Nowych Kobiet. <br/>" +
+            "Wciąż rozwijającą się pasjonatką rozwoju osobistego, psychologii prenatalnej i epigenetyki.  Od 11 lat pracuję z dziećmi, tworzę innowacyjne programy i gry edukacyjne. Stosuję neurodydaktykę i nowatorskie podejście. <br/>" +
+            "Dzieliłam się wiedzą, udzieliłam wywiadów dla portali takich jak: eDziecko (gazeta.pl), Ofeminin (onet.pl) Poszkole (cyfrowy polsat) i wielu innych. Regularnie publikuję w magazynie coachingowym Zmiany w życiu. Jestem prekursorką ogólnopolskiego programu edukacyjnego „Rozwojowa szkoła”. Mój autorski program warsztatów \"Rozwiń Swoje Finansowe IQ\" uzyskał rekomendacje Ministerstwa Przedsiębiorczości i Technologii oraz Instytutu Praktycznej Edukacji. W kolejnym nowatorskim przedsięwzięciu “Szpiedzy Wiedzy” wzięło udział ok. 100 000 uczestników, w ciągu pierwszego tygodnia jego trwania. Przez kilka lat byłam liderką pozarządowej organizacji non profit, a moje programy wychowawcze były akceptowane zarówno przez MEN jak i Kuratorium Oświaty. <br/>" +
+            "Jestem też przedsiębiorcą, prezesem SAVOIR7, firmy oferującej awangardowe produkty i usługi rozwijające umiejętności przyszłości dla dzieci i całej rodziny. Z sukcesami rozwiązujemy globalne problemy społeczne.<br/>",
         "image": require('@/assets/images/speakers/69e40c84-afd5-4a3e-a0bf-9979b6373436.jpg')
     },
     {
         "id": 16,
-        "firstName": "Natalia",
-        "lastName": "Wójcik",
+        "firstName": "Łukasz",
+        "lastName": "Fiuczyński",
         "workshopNames": [
-            "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
+            "Asertywna komunikacja"
         ],
-        "description": "Swoją przygodę z rekrutacją rozpoczynałam w firmie zajmującej się retail i e-commerce poszukiwałam m.in projektantów mody i dyrektorów kreatywnych. Niedawno zrobiłam wielki przeskok i wkroczyłam w branżę IT. Obecnie prowadzę projekty rekrutacyjne dla branży automotive oraz branży turystycznej. Magister Psychologii Stosowanej, absolwentka podyplomowych studiów Psychologia Transportu. Zapraszam na nasz warsztat aby dowiedzieć się więcej o relacjach w zespole oraz odpowiedniej komunikacji.",
+        "description": "Doświadczony trener, a przede wszystkim praktyk sprzedaży oraz wystąpień publicznych. Posiada ponad 17-letnie doświadczenie w sprzedaży. Umiejętności handlowe zdobywał pracując na stanowiskach handlowca, kierownika, głównego specjalisty ds. rozwoju sprzedaży, czy menedżera rynku sprzedaży. Od 10 lat związany z branżą szkoleniową. Współautor 11-dniowej Akademii Handlowca B2B, finalista mistrzostw Polski w wystąpieniach publicznych organizacji Toastmasters International (2018 r.) Regularnie publikuje artykuły eksperckie w magazynach branżowych Szef Sprzedaży i As Sprzedaży",
         "image": require('@/assets/images/speakers/243331a2-1f75-4318-ab69-bd3b7dd4d21b.jpg')
     },
     {
         "id": 17,
-        "firstName": "Aleksandra",
-        "lastName": "Zaborowska",
+        "firstName": "Jakub",
+        "lastName": "Strojek",
         "workshopNames": [
-            "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
+            "Kreatywność w akcji, czyli jak w sposób twórczy rozwiązywać problemy"
         ],
-        "description": "Jestem IT Recruiterem i specjalizuję się w poszukiwaniu programistów języka Java. Z wykształcenia jestem psychologiem. W trakcie studiów aktywnie rozwijałam swoje kompetencje w zakresie psychologii zdrowia, a także psychologii organizacji i reklamy. Od ponad 3 lat współpracuję z Zakładem Dydaktyki Medycznej Collegium Medicum Uniwersytetu Jagiellońskiego gdzie prowadzę szkolenia i warsztaty z zakresu komunikacji dla studentów oraz personelu medycznego.",
+        "description": "Zawodowo pracuje w dziale finansowym. Prywatnie zaangażowany w programy społeczne, w których działa już ponad 3 lata. Aktualnie prowadzi szkolenia i warsztaty z zakresu umiejętności kreatywnych. Fascynuje go proces Design Thinking oraz narzędzia kreatywnego rozwiązywania problemów. Wiedzę i umiejętności praktyczne zdobywał nie tylko na studiach, ale również wprowadzając metodologię Design Thinking w organizacjach, w których działał. Współtworzy projekt UpSkill, którego celem jest rozwój umiejętności i wspieranie młodych osób wchodzących na rynek pracy. ",
         "image": require('@/assets/images/speakers/6c95a162-d9ee-4a4a-bb41-4f1b0b84bf2a.jpg')
     },
     {
         "id": 18,
-        "firstName": "Izabela",
-        "lastName": "Kendzior",
+        "firstName": "Joanna",
+        "lastName": "Dobosz",
         "workshopNames": [
-            "[Infolet] Właściwa komunikacja twoim kluczem do sukcesu w pracy"
+            "Głos - Twoja wizytówka"
         ],
-        "description": "Jestem absolwentką Zarządzania Zasobami Ludzkimi Uniwersytetu Śląskiego. Działam w obszarze HR już blisko 6 lat. Moja przygoda z rekrutacją rozpoczęła się już na studiach i trwa do dziś. Jednak dopiero od pół roku zajmuję się stricte rekrutacjami IT, i to jest to, co chcę w życiu robić. W międzyczasie zdobywałam doświadczenie również w innych branżach, np. szkoleniowej, czy w branży związanej z kulturą i sztuką. Praca w różnych branżach nauczyła mnie, że odpowiednia komunikacja, to klucz do sukcesu! Zapraszam na nasz warsztat, gdzie dowiesz się o niej więcej.",
+        "description": "Studentka zarządzania i inżynierii produkcji. Na co dzień zgłębia tematykę marketingu doświadczeń. Pracuje również w międzynarodowym start-upie jako commerce specialist, gdzie robi to co lubi - rozmawia z ludźmi. Swoje doświadczenie trenerskie zdobywała prowadząc szkolenia z zakresu umiejętności miękkich dla studentów i uczniów szkół średnich. Jej mocną stroną jest łatwość w nawiązywaniu kontaktów, dlatego główną tematyką jej szkoleń jest komunikacja interpersonalna. Współtworzy projekt UpSkill, którego celem jest rozwój umiejętności i wspieranie młodych osób wchodzących na rynek pracy.",
         "image": require('@/assets/images/speakers/ea5f47f2-8546-4a02-9d9d-02106b2191ef.jpg')
     },
     {
         "id": 19,
-        "firstName": "Tomasz",
-        "lastName": "Waleczko",
+        "firstName": "Ewa",
+        "lastName": "Rodzoń",
         "workshopNames": [
-            "Poradź sobie ze stresem",
-            "Przezwyciężanie nieśmiałości"
+            "Głos - Twoja wizytówka"
         ],
-        "description":
-            "Jestem psychologiem, trenerem rozwoju umiejętności interpersonalnych, ewaluatorem. Pracuję w biznesie i organizacjach pozarządowych i edukacji. Prowadzę Instytut Witelon badający efekty szkoleń, programów rozwojowych, tworzącym narzędzia ewaluacyjne. Jako dyrektor regionalny wprowadzam do Polski szwajcarskie narzędzie BrainCore Edu pozwalające na dostosowanie metod edukacyjnych do indywidualnych potrzeb umysłu każdego ucznia- połączenie wiedzy psychologicznej, osiągnięć nowoczesnej pedagogiki i AI. Moim głównym celem pracy trenerskiej jest uruchomienie zmiany perspektywy uczestników i rozpoczęcie drogi w zmianie emocjonalnej, osobistej i budowanie kompetencji interpersonalnych umożliwiających dobrą współpracę, funkcjonowanie między ludźmi." +
-            "<br/>" +
-            "TOMASZ WALECZKO" +
-            "<br/>" +
-            "www.instytut-witelon.pl" +
-            "<br/>" +
-            "www.treninginterpersonalny.pl",
+        "description": "Studentka psychologii i aktorstwa. Od dziecka jej największym żywiołem jest scena, co przekłada się na zamiłowanie do prowadzenia warsztatów z zakresu wystąpień publicznych. W swoich szkoleniach pokazuje, że dbanie o głos może być nie tyle obowiązkiem, ale przede wszystkim przyjemnością i dobrą zabawą. Doświadczenie trenerskie zdobywała prowadząc warsztaty z zakresu umiejętności miękkich dla studentów. Współtworzy nowo powstający projekt UpSkill, którego celem jest rozwój umiejętności i wspieranie młodych osób, wchodzących na rynek pracy.",
         "image": require('@/assets/images/speakers/706adece-2d51-41e1-9074-530ca1c5dfef.jpg')
     },
     {
         "id": 20,
-        "firstName": "Klaudia",
-        "lastName": "Szostok",
+        "firstName": "Sebastian",
+        "lastName": "Skoczeń",
         "workshopNames": [
-            "Organizacja wydarzeń - Jak zrobić to skutecznie? 15 kroków, które dzielą Cię od sukcesu"
+            "Jak myśleć o tym o czym nie myślimy?",
+            "“Skoczyłbym za nim w ogień” ~ czyli co to znaczy być prawdziwym liderem.",
+            "“You’re so stupid!” - and why you actually didn’t mean that."
         ],
         "description":
-            "Content Marketing Specialist w SARE S.A, odpowiedzialna za budowanie wizerunku narzędzia do automatyzacji marketingu i wielokanałowej komunikacji – SAREhub oraz za inne działania marketingowe." +
-            "<br/>" +
-            "Należy do grupy roboczej MarTech IAB Polska oraz jest wiceprezesem fundacji GaSzo. Absolwentka Politechniki Śląskiej w Gliwicach i Uniwersytetu Wrocławskiego. W czasie studiów działała na rzecz studentów, angażując się w działania Uczelnianego Samorządu Studenckiego oraz przez 4 lata była członkiem zespołu organizującego IGRY - Juwenalia Gliwickie.",
+            " Trener Umiejętności Miękkich, Mówca, Facylitator, Mentor oraz Absolwent Informatyki na AGH. Czerpiąc z wieloletniego doświadczenia i obserwacji zebranych na przestrzeni ostatnich lat, w ponad 18 krajach, działając w Europejskich organizacjach pozarządowych, od 2 lat dostarcza treningi Soft Skillowe w całej Europie. Tegoroczną serię treningów jakie będzie prowadził opisuje następująco: “Żyjemy w świecie nagłych i nieoczekiwanych zmian, niepewności i wielu trudnych wyborów jakie przychodzi nam podejmować dziś każdego dnia. To właśnie teraz najbardziej jest nam potrzebne jasne i przejrzyste spojrzenie na to jak radzić sobie z wszechobecną presją, co sprawia że znajdujemy się w emocjonalnym ekwilibrium, jak mimo przeciwności konsekwentnie dążyć do osiągnięcia naszych celów i wreszcie dlaczego powinniśmy zawsze stawiać ludzi na pierwszym miejscu.”",
         "image": require('@/assets/images/speakers/bfba6718-85ec-4b60-baae-19bbdf63df9b.jpg')
     },
     {
         "id": 21,
-        "firstName": "Monika",
-        "lastName": "Mołdrzyk",
+        "firstName": " Piotr",
+        "lastName": "Połeć",
         "workshopNames": [
-            "Organizacja wydarzeń - Jak zrobić to skutecznie? 15 kroków, które dzielą Cię od sukcesu"
+            "Jak myśleć o tym o czym nie myślimy?",
+            "Battling your animal self"
         ],
-        "description": "Head of PR & Marketing w SARE SA. Odpowiedzialna za planowanie i prowadzenie działań marketingowych oraz komunikację wewnętrzną i zewnętrzną firmy. Należy do grupy roboczej MarTech IAB Polska. Związana z marketingiem od 10 lat, prowadziła międzynarodowe projekty w Estonii, Czechach czy na Węgrzech. Organizatorka wielu eventów, w tym autorskiego wydarzenia skierowanego do kobiet biznesu o nazwie „Pierwiastek K”.",
+        "description": "Członek EESTEC Training Team, Student Informatyki na AGH. Motywację do działania daje mu praca z innymi ludźmi i możliwość samorozwoju. Lubi rozmowy o tematach niebanalnych, takich na które nie ma jednej odpowiedzi. Ciekawy świata, chętnie wymienia się wiedzą i doświadczeniami z innymi. Fan książek fantasy, języków obcych i pracy z drewnem.",
         "image": require('@/assets/images/speakers/f5843965-02cc-4420-bbf3-7373517665c5.jpg')
     },
     {
         "id": 22,
-        "firstName": "Angelika",
-        "lastName": "Zielińska",
+        "firstName": "Karol",
+        "lastName": "Kania",
         "workshopNames": [
-            "Profesjonalny wizerunek w życiu zawodowym i prywatnym"
+            "“Skoczyłbym za nim w ogień” ~ czyli co to znaczy być prawdziwym liderem."
         ],
-        "description": "Dyplomowana stylistka, trener, coach i doradca wizerunku. Przeszkoliła ponad 1300 osób, prowadząc warsztaty, szkolenia i prelekcje, najczęściej z zakresu stylizacji, kreowania wizerunku, sylwetek, dress code'u, tworzenia garderoby i stylu, etykiety oraz autoprezentacji dla firm, organizacji i osób prywatnych." +
-            "<br/>" +
-            "Jako personal shopper pomaga innym w odnalezieniu własnego, dopasowanego do osobowości i codziennych obowiązków, niepowtarzalnego stylu. Współpracuje z krakowskimi i rzeszowskimi firmami oraz krynicką galerią." +
-            "<br/>" +
-            "W pracy z Klientami wyróżnia się kreatywnością, profesjonalizmem oraz indywidualnym podejściem. Uwielbia słuchać, gdyż pozwala jej to dokładnie rozpoznać ich potrzeby i oczekiwania. Ceni sobie ciągły rozwój i samodoskonalenie, aby mieć pewność, że jak najlepiej wypełnia swoje obowiązki. W zawodzie stosuje podejście holistyczne, gdyż wierzy, że do pełnej zmiany niezbędna jest praca zarówno nad wnętrzem, jak i aspektami zewnętrznymi. Wdraża metodologię coachingu, zgodną ze standardami International Coach Federation. W swoich działaniach wykorzystuje także wiedzę i doświadczenie uzyskane w trakcie studiów z zakresu HR.",
-        "image": require('@/assets/images/speakers/643b2093-239a-4744-a2c1-9507fd14497f.jpg')
+        "description": "Rozwój w wielu kierunkach oraz poszerzanie horyzontów od dłuższego czasu motywuje go do aktywności/działania w różnych projektach czy szkoleniach. Obecnie Prezes Zarządu organizacji EESTEC AGH Kraków, Członek EESTEC Training Team oraz Student czwartego roku Elektrotechniki na AGH. Obejmując rozmaite pozycje w pozarządowych organizacjach zdobył zróżnicowane doświadczenie, które  obecnie wykorzystuje przy tworzeniu Treningów Soft Skillowych.",
+        "image": require('@/assets/images/speakers/643b2093-239a-4744-a2c1-9507fd14497f.png')
     },
     {
         "id": 23,
-        "firstName": "Agnieszka",
-        "lastName": "Rębacz",
+        "firstName": "Damian",
+        "lastName": "Rogala",
         "workshopNames": [
-            "Feedback – jak go udzielić i jak go przyjąć?"
+            "Odczarować NLP- skuteczne narzędzie rozwoju osobistego."
         ],
-        "description": "Zakochana w słowie i w dzieleniu się wiedzą pasjonatką przemówień publicznych. Od 5 lat zajmuję się debatami oksfordzkimi i tutoringiem – uczy młodzież przemawiać i radzić sobie z tremą, przygotowuje mówców do turniejów i sędziuje debaty. Jest czynnym członkiem Krakowskiego Stowarzyszenia Mówców. Obecnie studiuje na Uniwersytecie Jagiellońskim kierunki Biotechnologia i Psychologia. Wierzy, że kultura słowa i jakość debaty publicznej są czymś bardzo istotnym, a przy tym często niedocenianym i zaniedbywanym. Nie lubi jednak narzekać i na co dzień woli zakasać rękawy i dokładać choćby małą cegiełkę dla rozwoju tych wartości.",
+        "description": "Trener, Coach, Przedsiębiorca. Przez 4 lata rozwijał zespoły sprzedażowe w najszybciej rozwijającym się Banku w Polsce. Następnie zarządzał zespołem w Kancelarii Prawno Finansowej. Aktualnie wspiera firmy oraz osoby indywidualne w zwiększaniu swojej skuteczności. W pracy z Klientem wykorzystuje narzędzia zarówno trenerskie, coachingowe oraz NLP. Osoby, które szkolił w korporacji, szybko awansowały, robiły najwyższe plany sprzedażowe oraz osiągały wiele innych sukcesów z tytułem Telemarketera Roku włącznie. Absolwent kierunków: Coach i Trener: partner w rozwoju, Psychologii w Biznesie i Studiów Menadżerskich na Wyższej Szkole Europejskiej w Krakowie. Uczestnik treningu NLP u Marka Rożalskiego. Członek oraz były VP ds. PR klubu Toastmasters Kraków.",
         "image": require('@/assets/images/speakers/87ea7441-4f89-4de8-9bdd-f12a7816d6ef.jpg')
     },
     {
         "id": 24,
-        "firstName": "Anita",
-        "lastName": "Szymiec",
+        "firstName": "Katarzyna",
+        "lastName": "Prekurat",
         "workshopNames": [
-            "Poprowadź swój team na sam szczyt - zarządzanie"
+            "Odwaga – dlaczego warto podążać za marzeniami zawodowymi i osobistymi?"
         ],
-        "description": "Kierownik zespołu rekruterów, od zawsze pasjonatka rozwoju osobistego, od niedawna także coachingu. Zadawanie samemu sobie odpowiednich pytań traktuje jako klucz do poszerzania świadomości o samych sobie i stawania się coraz lepszą wersją samego siebie. Ukończyła dziennikarstwo i komunikację społeczną oraz zarządzanie zasobami ludzkimi, od 2012 roku związana z rekrutacją i branżą HR, jest certyfikowanym trenerem testu osobowości PERSO.IN. Pasjonuje się psychologią i poznawaniem ludzkiej natury, czerpiąc wiele radości z pracy z ludźmi i obserwowania ich pozytywnych zmian - wspiera i motywuje w rozwoju. Jest głęboko przekonana, że każdy ma swoją misję w życiu i możliwość rozwoju zgodnie ze swoim powołaniem, a każdy sukces jest konsekwencją pełnego zaangażowania i motywacji zdążania do realizacji jasno określonych celów poprzez podjęcie adekwatnego działania.",
+        "description": "- absolwentka Wydziału Zarządzania Uniwersytetu Warszawskiego na kierunku Finanse i <br/>Rachunkowość oraz Szkoły Wyższej Psychologii Społecznej w Warszawie na kierunku <br/>Psychologia, <br/>- od 13 lat pracuje w branży finansowej, w obszarze zarządzania projektami i analizy <br/>biznesowej, <br/>- specjalizuje się w przygotowaniu wymagań biznesowych oraz analizy wpływu zmiany na <br/>procesy w organizacji, <br/>- prowadzi warsztaty rozwojowe z kompetencji miękkich dla kobiet, <br/>- interesuje się psychologią, rozwojem osobistym oraz jazdą na rolkach,",
         "image": require('@/assets/images/speakers/373b814b-9f9c-4d05-b02a-5dd71c10fc56.jpg')
     },
+
+
     {
         "id": 25,
-        "firstName": "Marlena",
-        "lastName": "Momot",
+        "firstName": "Sławomir",
+        "lastName": "Ziółkowski",
         "workshopNames": [
-            "Autentyczna Marka w Sieci"
+            "" //TODO:
         ],
-        "description": "Certyfikowany trener i współtwórca Autokreacji. Szkolenia opieram na pracy warsztatowej, wierząc, że najskuteczniej uczymy się tego, do czego sami dochodzimy." +
+        "description": "Doktor nauk ekonomicznych, ma na swym koncie kilkanaście lat pracy jako trener i nauczyciel akademicki w tematyce zarządzania przedsiębiorstwem, rozwoju kariery oraz zarządzania kadrami i negocjacji menedżerskich. Od początku kariery związany z praktyką biznesu, współpracował z dużymi koncernami, głównie z branży kreatywnej i mediów elektronicznych." +
             "<br/><br/>" +
-            "Scena zawsze mnie przyciągała, a moja pasja do aktorstwa przerodziła się w miłość do występów na salach szkoleniowych, konferencjach i eventach branżowych. To tam dzielę się swoją wiedzą z autoprezentacji, były to np.: TEDxYouth, Przedsiębiorcza Kobieta, LinkedIn Local czy Absolvent Talent Days." +
+            "Od lat jego pasją są alternatywne metody budowania porozumienia - negocjacje i mediacje. I choć w tych czasach nie brzmi to może najlepiej, tą pasją stara się… ZARAŻAĆ innych." +
             "<br/><br/>" +
-            "Chętnie pokażę Ci jak zaprzyjaźnić się z wystąpieniami publicznymi. Przy odrobinie praktyki i wiedzy, nie będziesz mieć sobie równych na scenie!",
+            "Posiada międzynarodowe certyfikaty trenerskie: Certified International Professional Negotiator® (CIPN®) oraz Certified International Professional Trainer® (CIPT®).",
         "image": require('@/assets/images/speakers/c4ad402d-ea78-41c4-ad1a-a2bbe59abb55.jpg')
     },
     {
         "id": 26,
-        "firstName": "Alina",
-        "lastName": "Osowska",
+        "firstName": "Irene",
+        "lastName": "Marban",
         "workshopNames": [
-            "Autentyczna Marka w Sieci"
+            "Battling your animal self"
         ],
-        "description": "Współtworzę Autokreację. Jestem psychologiem, a moje serce skradła psychologia społeczna. Wierzę, że wiedza na temat ludzkiego zachowania pozwala nam uświadamiać sobie swoje mocne strony. Na nich właśnie budujemy swoją silną markę, a wykorzystując je dbamy o własny PR." +
-            "<br/><br/>" +
-            "Od ponad trzech lat na sali szkoleniowej oraz na scenach wydarzeń społecznych, dzielę się swoją pasją do obserwacji. Obserwacji mowy ciała oraz komunikacji interpersonalnej, a więc tego, co wpływa na skuteczną autoprezentację." +
-            "<br/><br/>" +
-            "Ponad 2000 przeszkolonych osób oraz ich pozytywne opinie są dla mnie bodźcem do podejmowania ambitnych wyzwań.",
+        "description": "Irene Marban- Member of Training Team in EESTEC. Studies Biomedical Engineering in Madrid. Loves travelling and meeting new people. Very active, can’t sit in a chair all day. Currently interested in learning more about Emotional Intelligence. Always up for a deep conversation. Regarding hobbies, running and cooking are her favorite.",
         "image": require('@/assets/images/speakers/545d19a0-8be6-4c37-a989-02590d66733a.jpg')
     },
     {
         "id": 27,
-        "firstName": "Filip",
-        "lastName": "Mościcki",
+        "firstName": "Ziga",
+        "lastName": "Agostini",
         "workshopNames": [
-            "Manipulacja i Perswazja - broń sie i korzystaj!",
-            "Elevator Pitch - Jak sprzedać swój pomysł w 5 minut?"
+            "How can we persuade you to join our session?"
         ],
-        "description": "Absolwent Akademii Górniczo Hutniczej oraz Uniwersytetu Jagiellońskiego. Reprezentant Polski, Public Speaker, Sprzedawca, Marketingowiec, Manager, Trener i Leader. Doświadczenie zbierał w USA, Niemczech, Wielkiej Brytanii, czy w Polsce i wielu innych miejscach pracując w największych globalnych korporacjach i najmniejszych polskich start-upach.",
+        "description": "Žiga studied electrical engineering at the University of Ljubljana and was an active member of the Local Committee of EESTEC (Electrical Engineering Students' European Association) for 5 years, during which he was also the chairman of EESTEC LC Ljubljana. He became a soft skills trainer in march 2019 by attending Training for Trainers in Istanbul and has since been passionately transferring his knowledge and experience to other students. He is currently doing masters in business and management at the School of Economics and Business in Ljubljana as well as working in sales and marketing.",
         "image": require('@/assets/images/speakers/fb870b9a-c0c7-41ed-9519-314ace877e0e.jpg')
     },
     {
         "id": 28,
-        "firstName": "Katarzyna",
-        "lastName": "Klimkiewicz",
+        "firstName": "Anna Maria",
+        "lastName": "Vakiani",
         "workshopNames": [
-            "Creativity in business"
+            "How can we persuade you to join our session?"
         ],
-        "description": "PhD is an assistant professor at the AGH University of Science and Technology in Cracow, Faculty of Management. As Departmental Erasmus Plus Coordinator she works actively in the field of academic exchange. She specializes in the field of Corporate Social Responsibility and Business Ethics. In her work she is passionate about adopting new teaching approaches directed towards development of entrepreneurial and leadership skills.",
+        "description": "Anna Maria is studying Electrical and Computer Engineering at the National Technical University of Athens and in parallel she is pursuing a minor in Leadership and Management. She has been an active member of EESTEC for 2 years and she has acquired local and international experience especially in topics related to Fundraising and Corporate Relations. <br/>In November 2019, she participated in Youth Trainers Academy an event organized by Zero Generation where she was educated for designing and delivering training sessions. Since then, she has been sharing her experience and knowledge aiming to the development of other students across Europe.",
         "image": require('@/assets/images/speakers/d8ef2d18-c968-421d-a910-94dd85058f28.jpg')
     },
     {
         "id": 29,
-        "firstName": "Piotr",
-        "lastName": "Nabielec",
+        "firstName": "Tunca Deniz",
+        "lastName": "Yazici",
         "workshopNames": [
-            "W jakie nawyki produktywnści warto zainwestować już dzisiaj"
+            "“You’re so stupid!” - and why you actually didn’t mean that."
         ],
         "description":
-            "Najpierw programował (w tym drivery do linuxa). Potem był Scrum Masterem (zanim to było modne! - certyfikowany w 2009). Potem menedżerem. I tak odkrył pasję do rozwijania ludzi i szkoleń." +
-            "<br/>" +
-            "Teraz od 4 lat prowadzi Produktywni.pl. Tworzy szkolenia i kursy online, które pomagają opanować chaos i lepiej zorganizować swój czas - “Produktywność w rytmie slow”. Mówca TEDx. Przeszkolił już ponad 2000 osób, podobno zadowolonych.",
+            "Tunca is a soft skills trainer for 3 years delivering around Europe with the passion to reach people finding their light within. In the years she has been delivering, she traveled to multiple cities, and approached more than 700 individuals. She has been an active member of EESTEC for 5 years in various positions. Currently, she is studying her Master’s degree in Evolution, Ecology and Systematics at Ludwig-Maximilian University of Munich and is highly interested in the science behind behaviors. ",
         "image": require('@/assets/images/speakers/f7dcd1c2-4afd-46ea-9831-463732ff2ad9.jpg')
     },
     {
         "id": 30,
-        "firstName": "Michał",
-        "lastName": "Ociepa",
+        "firstName": "Iulia",
+        "lastName": "Iacob",
         "workshopNames": [
-            "Podstawy improwizacji z grupą AD HOC"
+            ""
         ],
-        "description": "Improwizator z 11-letnim doświadczeniem, absolwent dziennikarstwa i zarządzania kulturą, konferansjer, menedżer kultury. Od 15 lat nieprzerwanie związany z Polską sceną komediową. Swój warsztat zdobywał współpracując z trenerami i instruktorami z Wielkiej Brytanii, Stanów Zjednoczonych, Holandii, Słowenii, Francji, Szwajcarii i Hiszpanii. Członek krakowskiej Grupy AD HOC. Organizator Międzynarodowego Festiwalu Improwizacji Scenicznej ImproFest. Trener Szkoły Improwizacji AD HOC.",
+        "description": "Iulia has been in EESTEC for almost 5 years and during her EESTEC path, she has been highly involved in local and international activities. She had numerous Leadership roles and her because during her path a Trainer. When she is looking back to her path and past, Iulia can say that she is proud of her decisions. Decision making is a very important skill for Iulia, that she developed in EESTEC and she can say that is a skill needed also when you are working in a company as she does right now",
         "image": require('@/assets/images/speakers/6779d371-5569-4b69-9de1-a020f051445b.jpg')
     },
     {
         "id": 31,
-        "firstName": "Dominik",
-        "lastName": "Juszczyk",
+        "firstName": "Mikaela",
+        "lastName": "Tsakalidou",
         "workshopNames": [
-            "Produktywnie - czyli jak? Jak wybrać zadania, które są najważniejsze i zgodne z naszymi aspiracjami?"
+            ""
         ],
         "description":
-            "W życiu i w codziennej pracy wdraża najlepsze praktyki, które mają zwiększyć produktywność jego i zespołów z którymi współpracuje. Jako certyfikowany trener Instytutu Gallup w rozwoju w oparciu o mocne strony pomaga zespołom zwiększyć produktywność i efektywność. Stara się wykorzystać maksymalnie każdy dzień. Cieszy się swoimi porannymi treningami biegowymi." +
-            "<br/>" +
-            "Jego top 5 mocnych stron:" +
-            "<br/>" +
-            "Individualization | Arranger | Learner | Empathy | Intellection",
+            "Mikaela has been in EESTEC for almost 3 years and during her EESTEC path she has been highly involved both on the local and international levels. Having had several leading positions inside and outside of EESTEC, decision-making is a skill that she developed through time and she strongly believes that it is an indispensable skill for everyone both in their professional and personal life.",
         "image": require('@/assets/images/speakers/17d9a32b-f055-4e49-b0a2-0fa3952a62ed.jpg')
     },
     {
         "id": 32,
-        "firstName": "Aleksander",
-        "lastName": "Kuczek",
+        "firstName": "Dimitris",
+        "lastName": "Dedemadis",
         "workshopNames": [
-            "How to validate your business idea before you start?"
+            "Conflict Management"
         ],
         "description":
-            "Aleksander Kuczek is a serial entrepreneur, technology executive, and an advisor to numerous startups in the US and Europe. A 15-year veteran of the tech industry (SaaS software, cloud, and digital marketing), Aleksander has been working with leading tech providers in that space." +
-            "<br/><br/>" +
-            "Most recently, Aleksander was the co-founder and CEO of Perfect Dashboard, SaaS to update WordPress websites with automated visual regression testing based on AI. Aleksander has successfully led the company from nascent to acquisition through difficult market conditions and several rounds of venture financing." +
-            "<br/><br/>" +
-            "Aleksander is an alum of Berkeley SkyDeck, the official accelerator of UC Berkeley in California.",
+            "What led me here to this event is the opportunity to help people explore their potential and make a step towards who they want to be. I am still in my first steps in my training path, however, I have been an EESTECer through all of my student life. Through EESTEC I had the chance to meet people of different backgrounds, work with them under pressure, experience how individuals can develop themselves in a team, and have fun while doing so.  This year I have the position of EESTech Challenge Project’s Leader. <br/>My name is Dimitris and I can’t wait to be part of this journey towards exploring a new version of ourselves.",
         "image": require('@/assets/images/speakers/f1bc0421-0850-462f-b884-6865f3094c71.jpg')
     },
     {
         "id": 33,
-        "firstName": "Paulina",
-        "lastName": "Balińska",
+        "firstName": "Ioanna",
+        "lastName": "Korkovili",
         "workshopNames": [
-            "Jak występować publicznie?"
+            "Conflict Management"
         ],
         "description":
-            "Z wykształcenia prawnik, z zawodu tłumacz, z zamiłowania mówca publiczny." +
-            "<br/>" +
-            "Członek Toastmasters International, międzynarodowej organizacji stawiającej sobie za cel rozwijanie umiejętności występowania publicznego i umiejętności liderskich." +
-            "<br/>" +
-            "Były Prezes klubu mówców i liderów Toastmasters Kraków." +
-            "<br/>" +
-            "Organizator i główny koordynator Konferencji Mówców i Liderów Krakmove Toastmaters 2018." +
-            "<br/>" +
-            "Poprowadzi dla Was praktyczny warsztat - Jak występować publicznie",
+            "My purpose is unlocking people's potential and helping them discover something new about themselves. My participation in Soft Skills Academy aligns with this purpose and this is why I'm here. My path as a trainer started in 2017 and since then I have delivered multiple training sessions locally and internationally, while my favorite topics are Emotional Intelligence and Motivation. I have been involved in different teams and projects in EESTEC with my milestone being the position of the Training Team Leader the past year. <br/>My name is Ioanna and I am looking forward to the impact this SSA experience will have on everyone.",
         "image": require('@/assets/images/speakers/321b2838-941c-4bfa-9fbf-157b2107ffa5.jpg')
     },
     {
         "id": 34,
-        "firstName": "Mirosława",
-        "lastName": "M. Długosz",
-        "workshopNames": [
-            "Uruchom swój silnik innowacji"
-        ],
-        "description": "Naukowiec i nauczyciel akademicki w Akademii Górniczo - Hutniczej. Laureatka programu Top 500 Innovators, w ramach którego odbyła staż na Uniwersytecie Stanforda. Współzałożycielka Fundacji Laboratorium Innowacji i Kreatywności, koordynatorka i uczestniczka projektów popularyzujących łączenie biznesu z nauką i kreatywnością, m.in.: Design Thinking Week Krakow, Polsko-Amerykański Most Innowacji. Posiada ponad 10 letnie doświadczenie pracy dydaktyka i trenera. Prowadzi szkolenia z kreatywności i design thinking z różnymi grupami wiekowymi i specjalnościowymi (m.in. studenci, przedsiębiorcy). W życiu kieruje się zasadą “nie ma, że się nie da”.",
-        "image": require('@/assets/images/speakers/00afc647-b4c4-40d2-a4af-20a4c0920ff6.jpg')
-    },
-    {
-        "id": 35,
-        "firstName": "Weronika",
-        "lastName": "T. Adrian",
-        "workshopNames": [
-            "Uruchom swój silnik innowacji"
-        ],
-        "description": "Adiunkt w Katedrze Informatyki Stosowanej EAIiIB AGH, współzałożycielka Fundacji Laboratorium Innowacji i Kreatywności, pasjonatka pracy zespołowej i rozwoju opartego na mocnych stronach. Laureatka programu Top 500 Innovators, w ramach którego odbyła staż na Uniwersytecie Stanforda. Po powrocie, w ramach inicjatywy Creative Cracow (potem FLIK) organizowała i prowadziła warsztaty z kreatywności i Design Thinking oraz współpracowała jako trener/mentor w ramach projektów MediaLab Innowacji Społecznej, Makerspace Kraków, Polsko-Amerykański Most Innowacji i Design Thinking Week. Panelistka VIII Kongresu Obywatelskiego i prelegentka TEDxWarsawPresidentialPalace.",
-        "image": require('@/assets/images/speakers/62bf7a1d-3b90-47a5-a0f5-481329e3eae9.jpg')
-    },
-    {
-        "id": 36,
-        "firstName": "Tomasz",
-        "lastName": "Buczyński",
-        "workshopNames": [
-            "[ASSA ABLOY & HID] Sztuka Prezentacji"
-        ],
-        "description": "Zawodowo: programista. Z zamiłowaniem zapoznaje się z technikami rozwoju osobistego, poprawą produktywności, oraz relacjami między ludźmi. Fan bloga https://biznesbezstresu.pl/",
-        "image": require('@/assets/images/speakers/1d31fcd7-282b-475a-b10d-8c9ed3db11c1.jpg')
-    },
-    {
-        "id": 37,
-        "firstName": "Patrycja",
-        "lastName": "Godlewska",
-        "workshopNames": [
-            "[PEGA] Sztuka Feedbacku przez duże F"
-        ],
-        "description": "Patrycja Godlewska, obecnie Manager w Pegasystems, z branżą IT związana od 2011 roku. Na swojej ścieżce kariery pracowała w roli dokumentalisty (technical writer), testera i – wciąż – Scrum Mastera. Jako Scrum Master współpracowała z wieloma zespołami, którym pomogła w usprawnieniu procesu tworzenia oprogramowania i budowania relacji. Patrycja jest pasjonatką, która ciągle rozwija swoje umiejętności (przykładowo udzielanie informacji zwrotnej, facylitacja, uczenie siebie i innych) oraz uwielbia dzielić się wiedzą z innymi. Prywatnie uwielbia kolarstwo (wszelakie), narciarstwo, fotografię i urbanistykę. Po więcej informacji o Patrycji zaprszamy na jej profil LinkedIn.",
-        "image": require('@/assets/images/speakers/8934d3ae-0a1a-4375-9ad7-dd599f7e8876.jpg')
-    },
-    {
-        "id": 38,
-        "firstName": "Karina",
-        "lastName": "Kozłowska",
-        "workshopNames": [
-            "Mediacje i negocjacje"
-        ],
-        "description": "Trener, specjalista ds. szkoleń, pedagog, mediator, doktorantka w Instytucie Pedagogiki na Wydziale Filozoficznym UJ. Na co dzień współtworzy dział szkoleń w firmie X-KOM. Realizuje szkolenia z zakresu efektywności osobistej, mediacji i innych alternatywnych sposobów rozwiązywania sporów, konstruktywnego zarządzania konfliktem oraz warsztaty komunikacji interpersonalnej w ujęciu Porozumienia Bez Przemocy (NVC). Pisze pracę doktorską z zakresu funkcjonowania dyskursu mediacji na gruncie pedagogiki.",
-        "image": require('@/assets/images/speakers/27ac9984-cc49-4a31-999b-704dccd37f4f.jpg')
-    },
-    {
-        "id": 39,
-        "firstName": "Agata",
-        "lastName": "Śladowska",
-        "workshopNames": [
-            "Efektywna komunikacja w zespole"
-        ],
-        "description":
-            "Jestem z zamiłowania oraz zawodu Agile Coachem w firmie Smartrecruiters gdzie zajmuję się głównie dynamiką 10 zespołów deweloperskich, ich tworzeniem, dojrzewaniem i efektywnością. Opiekuję się również procesami wybranymi przez zespołu do pracy. Pomagam je doskonalić i dopasowywać do wymogów zgodnie z podstawową zasadą Agile: inspect & adapt." +
-            "<br/>" +
-            "Dodatkowo prowadzę sesje coachingowe - indywidualne i zespołowe - oparte na wymogach Internal Coaching Federation. Jestem także certyfikowanym trenerem zmiany. A prywatnie - mamą ciekawego świata pięciolatka.",
-        "image": require('@/assets/images/speakers/7da2733d-0f11-47e3-99bd-3de40a94e7f1.jpg')
-    },
-    {
-        "id": 40,
-        "firstName": "Maximilian",
-        "lastName": "Schwind",
-        "workshopNames": [
-            "From brilliant ideas to actionable tasks",
-            "Think outside the box - design thinking workshop"
-        ],
-        "description":
-            "Engineer, Soft Skill Trainer, Facilitator and Mentor with many years of NGO experience, studying Electrical Engineering at Karlsruhe Institute of Technology (KIT), Germany." +
-            "<br/><br/>" +
-            "Loves challenges and travelling and is passionate about non-formal education, especially regarding self-leadership and management of diverse teams." +
-            "<br/><br/>" +
-            "Favourite quote: “Rule your mind or it will rule you” - Horace",
-        "image": require('@/assets/images/speakers/aed54d32-da83-4fdb-bc0f-11f2090d9429.jpg')
-    },
-    {
-        "id": 41,
-        "firstName": "Alexander",
-        "lastName": "Mutz",
-        "workshopNames": [
-            "From brilliant ideas to actionable tasks",
-            "Think outside the box - design thinking workshop"
-        ],
-        "description":
-            "Student, Soft-Skill-Trainer and Chairperson for EESTEC LC Karlsruhe currently studying Electrical Engineering at Karlsruhe Institute of Technology (KIT), Germany." +
-            "<br/><br/>" +
-            "Passionate about learning with people and developing ideas with others. Always open to learn about something new or experience a different perspective." +
-            "<br/><br/>" +
-            "Favourite Lyric: “You can be anything you want to be Just turn yourself into anything you think that you could ever be” - Queen, Innuendo",
-        "image": require('@/assets/images/speakers/754f3fea-d6f8-428f-83f4-851b618d1221.jpg')
-    },
-    {
-        "id": 42,
         "firstName": "Antoni",
         "lastName": "Grzanka",
         "workshopNames": [
             "Programista też człowiek - czyli trochę o rozwoju w IT"
         ],
         "description": "Programista z kilkuletnim doświadczeniem w mniejszych i większych projektach, obecnie pracuje jako product manager. Duchem nadal student. Do niedawna członek EESTEC AGH Kraków a także teamu TEDxKraków. Fan dobrych rozkmin i szczerych rozmów - również tych z samym sobą.",
-        "image": require('@/assets/images/speakers/440f5427-fa70-4a37-a746-5856c4ab74ee.jpg')
-    },
-    {
-        "id": 43,
-        "firstName": "Olga",
-        "lastName": "Janiszewska",
-        "workshopNames": [
-            "Budowanie kultury organizacji w oparciu o zespół uczący się"
-        ],
-        "description":
-            "Na co dzień pracuje w IT, tworzy szkołę programowania Hardcoder i dokłada niewielką cegiełkę w doskonaleniu jakości kształcenia w szkolnictwie wyższym jako ekspert Polskiej Komisji Akredytacyjnej." +
-            "<br/>" +
-            "Po pracy - żeby nikt nie zarzucił jej braku dystansu, przebiega coraz dłuższe dystanse. Kiedyś nałogowo robiła rzeczy w organizacji studenckiej i myślała, że robi to dobrze – dziś myśli o tym trochę inaczej, ale o tym już na warsztacie.",
-        "image": require('@/assets/images/speakers/f259c350-1893-4072-8911-2c20dfde9b2f.jpg')
-    },
-    {
-        "id": 44,
-        "firstName": "Konrad",
-        "lastName": "Szczypczyk",
-        "workshopNames": [
-            "Inteligencja emocjonalna"
-        ],
-        "description": "Psycholog biznesu, manager i trener. Absolwent psychologii oraz studiów podyplomowych z zakresu prawa gospodarczego na Uniwersytecie Jagiellońskim. Współzałożyciel i konsultant biznesowy w firmie doradczej Habitat for business. Pracuje ze spółkami na etapie zmiany specjalizując się w obszarach miękkich i kapitale ludzkim. Szkoli managerów oraz zespoły sprzedażowe. Doświadczenie zdobywał jako dyrektor zarządzający galerii handlowej i manager ds. marketingu i komercjalizacji.",
-        "image": require('@/assets/images/speakers/eb413341-076f-4cca-ae06-48fa908328a2.jpg')
-    },
-    {
-        "id": 45,
-        "firstName": "Tomasz",
-        "lastName": "Wesołowski",
-        "workshopNames": [
-            "SSA: StartUp MeetUp"
-        ],
-        "description":
-            "Edward.ai, CEO & co-founder" +
-            "<br/><br/>" +
-            "Współtwórca inteligentnego asystenta dla działów sprzedaży o imieniu Edward. Organizator spotkań z cyklu A.I. meetup dla fanów sztucznej inteligencji. W branży internetowej działa od 2000 roku, m.in. jako założyciel i dyrektor zarządzający jednego z największych software house’ów." +
-            "<br/><br/>" +
-            "Aktywnie działa na rzecz rozwoju branży. Współtworzył społeczność profesjonalistów będąc w latach 2007-2009 Członkiem Zarządu spółki PROFEO powstałej z inicjatywy Grupy Pracuj. Jest pomysłodawcą cyklu barcampów technologicznych Techcamp, współtwórcą Klubu Dyrektorów Ecommerce skupiającego ponad 200 kluczowych osób z branży e-commerce w Polsce oraz twórcą Akademii Empathy, realizującej cykl branżowych wydarzeń edukacyjnych. Interesuje się zagadnieniami user experience oraz wpływem rozwoju sztucznej inteligencji na nasze codzienne życie.",
-        "image": require('@/assets/images/speakers/5c2b7b11-d9fa-4d1c-a474-3ab4ef8183e5.jpg')
-    },
-    {
-        "id": 46,
-        "firstName": "Agnieszka",
-        "lastName": "Pałka",
-        "workshopNames": [
-            "SSA: StartUp MeetUp"
-        ],
-        "description": "co-founder, CEO startup'u GetDressed, działającego na wczesnym etapie rozwoju biznesu, w ramach którego z zespołem tworzy technologie pomagające czuć się i wyglądać dobrze w tym co ma się na sobie. Od ponad roku współtworzy produkty korzystające ze sztucznej inteligencji, by odtwarzać działania prywatnego stylisty. CEO fundacji SEED., pomagającej tworzyć ścieżkę rozwoju uczniów szkół średnich poprzez zdobywanie doświadczenia i działanie w proaktywnej społeczności mentorów oraz uczniów.",
-        "image": require('@/assets/images/speakers/d0264019-2e7f-4423-bf65-7ad408618ec6.jpg')
-    },
-    {
-        "id": 47,
-        "firstName": "Grzegorz",
-        "lastName": "Świerad",
-        "workshopNames": [
-            "SSA: StartUp MeetUp"
-        ],
-        "description": "Grzegorz od 10 lat tworzy różnego rodzaju projekty, takie jak serwisy internetowe i aplikacje mobilne. Jednym z takich serwisów jest Randkologia.pl, która osiągnęła 8.5 miliona zarejestrowanych użytkowników na całym świecie (założona w 2010 roku). Obecnie rozwija aplikację mobilną o nazwie HabitCoach, która ma szansę stać się najefektywniejszą aplikacją mobilną do rozwoju osobistego. Na potrzeby tej aplikacji, sam przeczytał i rozłożył na czynniki pierwsze 50 książek samorozwojowych, skupiając się głównie na tworzeniu nawyków, motywacji i produktywności.",
         "image": require('@/assets/images/speakers/3a4ea03e-db37-4791-ba6a-880446600c58.jpg')
-    }
+    },
+    {
+        "id": 35,
+        "firstName": "Piotr",
+        "lastName": "Sinicki",
+        "workshopNames": [
+            "Jak unikać manipulacji w relacjach nie tylko biznesowych"
+        ],
+        "description": "Jestem fundatorem Fundacji Liberos, której cel społeczny związany jest z nauką, oświatą, wychowaniem i pomocą społeczną. W szczególności dbanie o przestrzeganie praw dzieci z naciskiem na przeciwdziałanie alienacji rodzicielskiej i innym formom znęcania się psychicznego oraz fizycznego. <br/>Z dużym zaangażowaniem pomagam osobom będącym w toksycznych relacjach, doświadczających różnych rodzajów przemocy. Pomagam im zrozumieć siebie oraz metody manipulacji jakim są poddawane przez innych. Angażuję się w projekty społeczne. Piszę artykuły eksperckie na temat relacji, metod manipulacji. Sam posiadam wieloletnie doświadczenie w kontaktach z osobami stosującymi różne środki perswazji. Od 12 lat zajmuję się organizacją i prowadzeniem firm zarówno w kraju, jak i za granicą. Aktualnie piastuję funkcję Prezesa Zarządu w firmie konsultingowej świadczącej usługi z zakresu strategicznego nadzoru biznesowego. Moja pasja, wiedza oraz doświadczenie biznesowe pozwalają mi pomagać ludziom zarówno w ich życiu prywatnym, jak i zawodowym.",
+        "image": require('@/assets/images/speakers/62bf7a1d-3b90-47a5-a0f5-481329e3eae9.jpg')
+    },
+    {
+        "id": 36,
+        "firstName": "Fotini",
+        "lastName": "Lamprogeorgou",
+        "workshopNames": [
+            "Communication Session",
+            "Habits Management"
+        ],
+        "description": "I am Fotini Lamprogeorgou from Athens, student of Electrical Engineering and Computer Science Department. I have been a member of EESTEC since 2016 and I have participated in many events and local teams. <br/>Being a member of the local board of LC Athens was the beginning of the journey during which I have developed myself and met amazing people. <br/><br/>My trainer path started almost 2 years ago in Istanbul and it has been one of the most valuable experiences so far. I am glad that I had the opportunity to deliver sessions for our local Organizing Committees, teams and our new board. This is the third time I am delivering for Soft Skills Academy and I am more than willing to contribute to all of the participants’ development throughout the event. Training for me is an experience which offers a new window to the world both for participants and trainers and I am really glad that I will have the opportunity to do so once again with all of you.",
+        "image": require('@/assets/images/speakers/1d31fcd7-282b-475a-b10d-8c9ed3db11c1.jpg')
+    },
+
+    {
+        "id": 37,
+        "firstName": "Marko",
+        "lastName": "Milosevic",
+        "workshopNames": [
+            "Communication Session",
+            "Habits Management"
+        ],
+        "description": "Hi there, my name is Marko Milosevic and I am an engineer and soft skills trainer. I am originally from Belgrade,Serbia. Currently I am living in Amsterdam and working for Tesla. During my studies I have been a member of EESTEC for more than 6 years and have started my trainer journey in early 2017. <br/>In this time I have delivered over 100 hours on different soft skills and organisational management topics.  Last summer I trained a new generation of trainers in EMSA ( european medical students association). <br/><br/>SSAs have always had a special place in my heart because they give me the opportunity to contribute to the growth of students who are not members of any organisation. SSA Krakow was on my bucket list since I have become a trainer. Therefore, I am super excited to be a part of the event and contributing to it in an impactful way! ",
+        "image": require('@/assets/images/speakers/8934d3ae-0a1a-4375-9ad7-dd599f7e8876.jpg')
+    },
+    {
+        "id": 38,
+        "firstName": "Tomasz",
+        "lastName": "Buczyński",
+        "workshopNames": [
+            "[ASSA ABLOY & HID] Zwiększ swoją produktywność. Popraw umiejętności zarządzania czasem i pokonywania trudności na przykładzie realizacji projektu"
+        ],
+        "description": "Programista. Chętnie poznaje doświadczenia innych, by z nich czerpać i zmieniać świat na lepszy. Zainteresowany zwiększaniem wydajności w pracy, poprawą komunikacji, oraz inwestowaniem.",
+        "image": require('@/assets/images/speakers/27ac9984-cc49-4a31-999b-704dccd37f4f.jpg')
+    },
 ]

@@ -4,7 +4,8 @@
             <h3 class="align-self-start">{{previousEdition.title}}</h3>
             <b class="align-self-start">{{previousEdition.year}}</b>
             <br/>
-            {{previousEdition.description}}
+            <article class="text-justify">{{previousEdition.description}}</article>
+
         </RowContent>
     </div>
 </template>
