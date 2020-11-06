@@ -2,7 +2,7 @@ export default [
     {
         "id": 1,
         "firstName": "Tomasz",
-        "lastName": "Buczyński [ASSA]",
+        "lastName": "Buczyński",
         "workshopNames": [
             "[ASSA ABLOY & HID] Zwiększ swoją produktywność. Popraw umiejętności zarządzania czasem i pokonywania trudności na przykładzie realizacji projektu"
         ],
@@ -468,6 +468,48 @@ export default [
         ],
         "description": "Pracuję jako trener wewnętrzny  w IBM BTO, gdzie tworzę i  prowadzę szkolenia m.in. z zakresu komunikacji, zarządzania stresem, różnic pokoleniowych. Posiadam wykształcenie pedagogiczne i wieloletnie doświadczenie w nauczaniu dorosłych i dzieci. Chętnie dzielę się zdobytą wiedzą i równie chetnie uczę się nowych rzeczy. Pasjonuje mnie psychologia i działanie ludzkiego mózgu. Uwielbiam wyzwania i pracę z ludźmi, bo inspiruje i pobudza kreatywność",
         "image": require('@/assets/images/speakers/s4wgwete-w4gh-werg-asgh-gwervwervir6.jpg')
-    }
+    },
+    {
+        "id": 46,
+        "firstName": "Paulina",
+        "lastName": "Szot",
+        "workshopNames": [
+            "Scena jako Narzędzie do Zmiany_Opis"
+        ],
+        "description": "Cześć<br/><br/>Jestem Paulina, Trener wystąpień publicznych, Mówca, Konferansjer, a z wykształcenia Inżynier Środowiska.<br/>[Trener wystąpień publicznych]<br/>Od 3 lat pod swoją opieką mentorską przeprowadziłam kilkadziesiąt osób na ich początkowej drodze przy wystąpieniach publicznych w organizacji Toastmasters International. Współpracowałam w tym obszarze również ze studentami, osobami występującymi na Konferencjach czy przedstawicielami świata polityki. Jestem certyfikowanym trenerem umiejętności społecznych. Stworzyłam swój autorski warsztat na temat budowania dodatniej synergii w zespołach przy zastosowaniu informacji zwrotnej.<br/>[Konferansjer]<br/>Na liście swoich doświadczeń konferansjerskich posiadam występ na Festiwalu Przedsiębiorczości BOSS, prowadzenie gali, aukcji charytatywnych, Finału Mistrzostw Polski w przemawianiu, Finału Międzynarodowego w Mowach Humorystycznych w formie online, prowadzenie wywiadów w formie online oraz panelów dyskusyjnych! Ostatnio zadebiutowałam w Internetowej Telewizji Śniadaniowej HoT TV jako prowadząca.<br/>[Mówca]<br/>Kilkadziesiąt wygłoszonych mów w obszarze wystąpień publicznych, pracy zespołowej, ekspresyjności scenicznej, przywództwa oraz swoich pasji. Debatantka podczas debaty Oksfordzkiej. Autorka spotkania tematycznego „Mówca jest Kobietą”. Aby dobrze odnaleźć się w tych rolach zawsze stawiam na bycie sobą, grę aktorską, improwizację oraz miłość do sportu ",
+        "image": require('@/assets/images/speakers/q23qwete-gesr-wegg-w4yh-w3ujrt6r56h6.jpg')
+    },
+
+
+    {
+        "id": 47,
+        "firstName": "Patrycja",
+        "lastName": "Kowalczyk",
+        "workshopNames": [
+            "[ASSA AALY & HID]  Hack Your Interview"
+        ],
+        "description": "Zbranżą HR związana od 6 lat. Wierzy, że kontakt z ludźmi to najlepsza forma spędzania czasu dlatego jej praca to jednocześnie jej pasja. Prywatnie fanka fantasy. Każda dobra opowieść powinna mieć przynajniej jednego smoka.",
+        "image": require('@/assets/images/speakers/q23crcw3-gasr-ergg-2345-34byh5h65hh6.jpg')
+    },
+    {
+        "id": 48,
+        "firstName": "Katarzyna",
+        "lastName": "Bysina",
+        "workshopNames": [
+            "[ASSA AALY & HID]  Hack Your Interview"
+        ],
+        "description": "Miłośniczka HR od czasu studiów. Jako specjalistka w branży HR pracuje od 7 lat. Uwielbia kontakt z ludźmi, a w pracy najbardziej ceni sobie zaangażowanie i rozwój poprzez stawianie czoła nowym wyzwaniom.  <br/>Prywatnie fanka kryminałów i czekolady.",
+        "image": require('@/assets/images/speakers/wv4gvete-w34g-w54v-jb5h-wp3i4uowiuh6.jpg')
+    },
+    {
+        "id": 49,
+        "firstName": "Michał",
+        "lastName": "Jędrzejas",
+        "workshopNames": [
+            "[ASSA AALY & HID]  Hack Your Interview"
+        ],
+        "description": "Od ponad 5 lat związany z ASSA ABLOY. Pracuje z zespołami software’owymi. Rekrutował na różne stanowiska. Uczesniczył w wielu konferencjach dla studentów gdzie doradzał jak skutecznie aplikować do firm. Prywatnie fan wspinaczki.",
+        "image": require('@/assets/images/speakers/45gq354e-3g5r-whrt-wrht-wqergqergqe6.jpg')
+    },
 
 ]

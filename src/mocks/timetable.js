@@ -15,6 +15,20 @@ export default {
                 }
             ]
         },
+        // {
+        //     "name": "Zarządzanie i komunikacja z zespołem",
+        //     "start": "13:00",
+        //     "end": "15:30",
+        //     "location": "Online",
+        //     "description": "",
+        //     "speakers": [
+        //         {
+        //             "firstName": "Jacek",
+        //             "lastName": "Moskwa",
+        //             "image": require('@/assets/images/speakers/TUWKLEJTU.jpg')
+        //         }
+        //     ]
+        // },
         {
             "name": "Czy work-life balance istnieje? Warsztat mądrego zarządzania swoją energią",
             "start": "16:00",
@@ -30,7 +44,7 @@ export default {
             ]
         },
         {
-            "name": "Wystąpienia online",
+            "name": "Wystąpienia online - jak to robić profesjonalnie",
             "start": "17:30",
             "end": "20:00",
             "location": "Online",
@@ -78,6 +92,20 @@ export default {
                 }
             ]
         },
+        {
+            "name": "Podstawy negocjacji na praktycznych case'ach",
+            "start": "17:00",
+            "end": "19:30",
+            "location": "Online",
+            "description": "G. Richard Shell powiedział, że „Dobrym negocjatorem nie trzeba się urodzić, bo negocjowania można się nauczyć.” Oczywiście niektórzy mają pewne predyspozycje, inni muszą budować swoje kompetencje negocjacyjne od początku. Wszyscy jednak przy odrobinie samozaparcia i chęci, są w stanie opanować teoretyczne podstawy trudnej sztuki negocjacji.",
+            "speakers": [
+                {
+                    "firstName": "Grzegorz",
+                    "lastName": "Zagraba [KMS]",
+                    "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
+                }
+            ]
+        },
 
     ],
 
@@ -96,8 +124,36 @@ export default {
                 }
             ]
         },
+        // {
+        //     "name": "Zarządzanie ryzykiem w organizacji.",
+        //     "start": "15:00",
+        //     "end": "18:30",
+        //     "location": "Online",
+        //     "description": "",
+        //     "speakers": [
+        //         {
+        //             "firstName": "Szymon",
+        //             "lastName": "Bryniarski",
+        //             "image": require('@/assets/images/speakers/WKLEJTU.jpg')
+        //         }
+        //     ]
+        // },
     ],
     "Nov 29, 2020": [
+        {
+            "name": "Odczarować NLP - skuteczne narzędzie rozwoju osobistego.",
+            "start": "10:00",
+            "end": "12:00",
+            "location": "Online",
+            "description": "Neurolingwistyczne programowanie brzmi jak coś z innej galaktyki, ale tak naprawdę jest to zbiór narzędzi terapeutycznych wykorzystywanych przez najlepszych psychologów XX wieku. Tak jak każde skuteczne narzędzie, tak i NLP szybko zaczęło być wykorzystywane, przez różne osoby do realizacji różnych celów. W latach 90. zawitało do Polski gdzie było wykorzystywane przede wszystkim przez trenerów podrywu i handlowców do szybkiego, skutecznego ale nie zawsze etycznego wywierania wpływu. Konsekwencją tego, jest zakurzenie niezwykle skutecznych metod rozwoju osobistego, bo nikt nie chce korzystać z nieetycznych narzędzi. Ale czy każdy nóż robi krzywdę? Czy zależy to od osoby, która ten nóż trzyma? Zapraszam na wykład, który pokaże jak wykorzystywać procedury NLP do przecinania więzów, które uniemożliwiają Wam skuteczne działanie.",
+            "speakers": [
+                {
+                    "firstName": "Damian",
+                    "lastName": "Rogala",
+                    "image": require('@/assets/images/speakers/87ea7441-4f89-4de8-9bdd-f12a7816d6ef.jpg')
+                }
+            ]
+        },
         {
             "name": "Jak myśleć o tym o czym nie myślimy?",
             "start": "15:30",
@@ -117,22 +173,6 @@ export default {
                 }
             ]
         },
-        {
-            "name": "Odczarować NLP - skuteczne narzędzie rozwoju osobistego.",
-            "start": "10:00",
-            "end": "12:00",
-            "location": "Online",
-            "description": "Neurolingwistyczne programowanie brzmi jak coś z innej galaktyki, ale tak naprawdę jest to zbiór narzędzi terapeutycznych wykorzystywanych przez najlepszych psychologów XX wieku. Tak jak każde skuteczne narzędzie, tak i NLP szybko zaczęło być wykorzystywane, przez różne osoby do realizacji różnych celów. W latach 90. zawitało do Polski gdzie było wykorzystywane przede wszystkim przez trenerów podrywu i handlowców do szybkiego, skutecznego ale nie zawsze etycznego wywierania wpływu. Konsekwencją tego, jest zakurzenie niezwykle skutecznych metod rozwoju osobistego, bo nikt nie chce korzystać z nieetycznych narzędzi. Ale czy każdy nóż robi krzywdę? Czy zależy to od osoby, która ten nóż trzyma? Zapraszam na wykład, który pokaże jak wykorzystywać procedury NLP do przecinania więzów, które uniemożliwiają Wam skuteczne działanie.",
-            "speakers": [
-                {
-                    "firstName": "Damian",
-                    "lastName": "Rogala",
-                    "image": require('@/assets/images/speakers/87ea7441-4f89-4de8-9bdd-f12a7816d6ef.jpg')
-                }
-            ]
-        },
-
-
     ],
     "Nov 30, 2020": [
         {
@@ -272,6 +312,20 @@ export default {
     ],
     "Dec 2, 2020": [
         {
+            "name": "Strategia Kaizen czyli 10 praw efektywności osobistej.",
+            "start": "10:00",
+            "end": "11:00",
+            "location": "Online",
+            "description": "Kaizen  <br/>To prosta i skuteczna recepta na sukces dla ludzi na każdym etapie kariery, ponieważ pokazuje, jak zadając sobie odpowiednie pytania i patrząc w głąb siebie, można uzyskać najlepsze rezultaty. <br/> <br/>Kaizen w krótkim streszczeniu jest filozofią ciągłego doskonalenia. Metodę to zastosować można zarówno w biznesie jak i życiu prywatnym. Studentom pomoże w szybszym przyswajaniu nauki, lepszych rezultatach i minimalizacji marnotrawstwa czasu i pieniędzy. <br/>Myślą przewodnią Kaizen jest ciągłe ulepszanie życia we wszelkich aspektach. To przede wszystkim nieustanna poprawa wydajności, maksymalna eliminacja marnotrawstwa oraz skuteczne rozwiązywanie wszelkich problemów. To nie tylko sposób myślenia i zarządzania, ale także odpowiednia metoda komunikowania się. <br/> <br/>METODA MAŁYCH KROKÓW KAIZEN <br/>To najlepszy sposób, aby osiągnąć największe efekty przy jak najmniejszym nakładzie finansowym i czasowym. Jak to możliwe? Dzięki 10 zasadom Kaizen! To nie szybkie i wielkie działania prowadzą nas do sukcesów, tylko praca nad sobą, którą wykonujemy każdego dnia.",
+            "speakers": [
+                {
+                    "firstName": "Aneta",
+                    "lastName": "Wątor",
+                    "image": require('@/assets/images/speakers/1055dcbb-e163-407d-8a07-f693119cc773.jpg')
+                }
+            ]
+        },
+        {
             "name": "Zarządzanie stresem",
             "start": "12:30",
             "end": "14:30",
@@ -385,7 +439,7 @@ export default {
             ]
         },
         {
-            "name": "Kreatywność",
+            "name": "Kreatywność w akcji, czyli jak w sposób twórczy rozwiązywać problemy",
             "start": "18:30",
             "end": "19:30",
             "location": "Online",
@@ -401,30 +455,30 @@ export default {
 
     ],
     "Dec 4, 2020": [
-        // {
-        //     "name": "[ASSA ABLOY & HID] Hack Your Interview",
-        //     "start": "10:00",
-        //     "end": "12:00",
-        //     "location": "Online",
-        //     "description": "Hack Your Interview - Czyli opowieść o tym, jak stworzyć profesjonalne dokumenty aplikacyjne oraz czego można spodziewać się na rozmowie kwalifikacyjnej w międzynarodowej firmie! Specjaliści zajmujący się zawodowo rekrutacją kandydatów opowiedzą jak przygotować się do rozmowy kwalifikacyjnej, przedstawią jak może wyglądać oraz o co najlepiej zapytać aby dostać pracę marzeń. ",
-        //     "speakers": [
-        //         {
-        //             "firstName": "Patrycja",
-        //             "lastName": "Kowalczyk",
-        //             "image": require('@/assets/images/speakers/TODOWKLEJTU.jpg')
-        //         },
-        //         {
-        //             "firstName": "Katarzyna",
-        //             "lastName": "Bysina",
-        //             "image": require('@/assets/images/speakers/TODOWKLEJTU.jpg')
-        //         },
-        //         {
-        //             "firstName": "Michał",
-        //             "lastName": "Jędrzejas",
-        //             "image": require('@/assets/images/speakers/TODOWKLEJTU.jpg')
-        //         }
-        //     ]
-        // },
+        {
+            "name": "[ASSA ABLOY & HID] Hack Your Interview",
+            "start": "10:00",
+            "end": "12:00",
+            "location": "Online",
+            "description": "Hack Your Interview - Czyli opowieść o tym, jak stworzyć profesjonalne dokumenty aplikacyjne oraz czego można spodziewać się na rozmowie kwalifikacyjnej w międzynarodowej firmie! Specjaliści zajmujący się zawodowo rekrutacją kandydatów opowiedzą jak przygotować się do rozmowy kwalifikacyjnej, przedstawią jak może wyglądać oraz o co najlepiej zapytać aby dostać pracę marzeń. ",
+            "speakers": [
+                {
+                    "firstName": "Patrycja",
+                    "lastName": "Kowalczyk",
+                    "image": require('@/assets/images/speakers/q23crcw3-gasr-ergg-2345-34byh5h65hh6.jpg')
+                },
+                {
+                    "firstName": "Katarzyna",
+                    "lastName": "Bysina",
+                    "image": require('@/assets/images/speakers/wv4gvete-w34g-w54v-jb5h-wp3i4uowiuh6.jpg')
+                },
+                {
+                    "firstName": "Michał",
+                    "lastName": "Jędrzejas",
+                    "image": require('@/assets/images/speakers/45gq354e-3g5r-whrt-wrht-wqergqergqe6.jpg')
+                }
+            ]
+        },
         {
             "name": "Zarządzanie sobą w czasie",
             "start": "12:30",
@@ -439,20 +493,20 @@ export default {
                 }
             ]
         },
-        // {
-        //     "name": "Scena jako narzędzie do zmiany",
-        //     "start": "14:30",
-        //     "end": "17:00",
-        //     "location": "Online",
-        //     "description": "",
-        //     "speakers": [
-        //         {
-        //             "firstName": "Paulina",
-        //             "lastName": "Szot",
-        //             "image": require('@/assets/images/speakers/TODOWKLEJTU.jpg')
-        //         }
-        //     ]
-        // },
+        {
+            "name": "Scena jako narzędzie do zmiany",
+            "start": "14:30",
+            "end": "17:00",
+            "location": "Online",
+            "description": "Zapewne przygotowujesz od czasu do czasu dla siebie potrawy w kuchni bez korzystania z przepisów, robisz wtedy wszystko na tzw. “oko” <br/>Scena jest pewnego rodzaju kuchnią, w której “będzie się działo”, musi mieć ona kucharza, który przyjdzie świadomie przygotowany z poczuciem odpowiedzialności.<br/>Czego się dowiesz?<br/>- Jak przygotować się do takiego wyjścia?<br/>- Co warto wiedzieć zanim staniesz na scenie i zaczniesz przemawiać do publiczności?<br/>- Jakie zmiany zachodzą na scenie?<br/>- Po co mówcy publiczność?<br/>- Dlaczego bez siebie nie istnieją?<br/>- Jak mówca wpływa na publiczność?<br/>Mój panel będzie miał trzy etapy:<br/>- Zbadanie Twoich potrzeb<br/>- Wartość merytoryczna<br/>- Praca z zeszytem ćwiczeń, który zostanie opracowany specjalnie dla Ciebie<br/>Dla kogo jest warsztat?<br/>- Dla tych, którzy chcą dowiedzieć się jaka zależność występuje w układzie scena, mówca, publiczność.<br/>- Dla osób, które przynajmniej raz dziennie mają okazję mówić do innych - czyli dla każdego z nas.<br/>Scena okazuje się być poważnym narzędziem, na którym możesz budować sobie reputację i rolę eksperta oraz w tym samym momencie stać się przekleństwem dla tych, którzy Ciebie słuchają. Dołącz do mnie, aby o Scenie dowiedzieć się więcej.",
+            "speakers": [
+                {
+                    "firstName": "Paulina",
+                    "lastName": "Szot",
+                    "image": require('@/assets/images/speakers/q23qwete-gesr-wegg-w4yh-w3ujrt6r56h6.jpg')
+                }
+            ]
+        },
         {
             "name": "Battling your animal self",
             "start": "17:00",
@@ -490,7 +544,7 @@ export default {
             ]
         },
         {
-            "name": "Habits",
+            "name": "Get 1 percent better every day",
             "start": "13:30",
             "end": "16:30",
             "location": "Online",
@@ -531,7 +585,7 @@ export default {
     ],
     "Dec 6, 2020": [
         {
-            "name": "Communication ",
+            "name": "New Communication",
             "start": "11:00",
             "end": "13:00",
             "location": "Online",
