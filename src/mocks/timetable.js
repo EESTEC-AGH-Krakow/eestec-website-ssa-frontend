@@ -3,7 +3,7 @@ export default {
     "Nov 26, 2020": [
         {
             "name": "Asertywna komunikacja",
-            "start": "9:30",
+            "start": "10:00",
             "end": "13:00",
             "location": "Online",
             "description": "Podczas szkolenia zrozumiesz czym jest prawdziwa asertywność. Poznasz techniki asertywnej komunikacji i sposoby ich wykorzystania w codziennym życiu. <br/>Dowiesz się jak zadbać o obronę swoich granic osobistych, swój komfort psychiczny i swoje prawa. nauczysz się jak asertywnie odmawiać niezależnie od sytuacji oraz jak reagować na krytykę w zależności, czy jest to krytyka uzasadniona czy nieuzasadniona.<br/> Szkolenie będzie miało formę warsztatową i będzie zawierało praktyczne wskazówki jak wdrożyć proponowane rozwiązania w codziennym życiu.",
@@ -45,7 +45,7 @@ export default {
         },
         {
             "name": "Wystąpienia online - jak to robić profesjonalnie",
-            "start": "17:30",
+            "start": "18:00",
             "end": "20:00",
             "location": "Online",
             "description": "W ostatnich dniach przenieśliśmy studia i pracę do świata online. Jednak to nie jedyne wyzwanie. Wyzwaniem jest to, jak sprawnie nauczyć się profesjonalnej prezentacji podczas spotkań online i rozmów biznesowych. Dla wielu z nas to nowość. <br/>Jak sprawić, by rozmowy prowadzone online nie ucierpiały na jakości? <br/>Przeniesienie spotkań do Internetu to nie wyrok! Nie traktuj tego jako okres przejściowy, w którym nic nie da się zrobić. Naucz się, jak wyciskać spotkania online do ostatniej kropli! <br/>Podczas szkolenia dowiesz się: <br/>▸ jak w ekspresowym tempie przygotować się do wystąpienia; <br/>▸ co należy sprawdzić przed rozpoczęciem spotkania; <br/>▸ jak zapanować nad swoją mową ciała i głosem przed kamerą; <br/>▸ jak ustawić się przed kamerą (kadr, oświetlenie); <br/>▸ jakie są różnice w prezentowaniu się na żywo a online. <br/>Dla kogo jest webinar? <br/>Webinar skierowany jest do osób, które w szybkim tempie muszą nauczyć się wystąpień online. Jeśli do tej pory nie działałeś zdalnie, a chcesz robić świetne wrażenie przed kamerą, to koniecznie weź udział w szkoleniu! <br/>Podczas webinaru otrzymasz sprawdzone wskazówki i odpowiedzi na pytania, które już teraz Cię nurtują - nie będziesz musiał uczyć się na własnych błędach, czytać wielu poradników i w nieskończoność testować możliwości. Podpowiemy Ci, jak prezentować się podczas spotkań, prezentacji biznesowych, webinarów oraz transmisji online, tak by czuć się swobodnie przed kamerą.",
@@ -125,7 +125,7 @@ export default {
             ]
         },
         // {
-        //     "name": "Zarządzanie ryzykiem w organizacji.",
+        //     "name": "Jak dogadać się pomimo różnic poglądów? Czyli o komunikacji, emocjach i empatii.",
         //     "start": "15:00",
         //     "end": "18:30",
         //     "location": "Online",
@@ -138,6 +138,20 @@ export default {
         //         }
         //     ]
         // },
+        {
+            "name": "Skuteczne przewodzenie zespołem",
+            "start": "18:30",
+            "end": "20:30",
+            "location": "Online",
+            "description": "Michał opowie o nowoczesnych koncepcjach zarządzania zespołem. Powszechnie wykorzystywane na całym świecie teorie dotyczące motywacji, budowania zespołu, efektywnej komunikacji i zarządzania wiedzą zostaną uzupełnione konkretnymi przykładami i praktycznymi poradami wynikającymi z autentycznych doświadczeń trenera. Tematyka warsztatu skupi się szczególnie na problematyce zarządzania zespołem w organizacji pozarządowej (w tym np. studenckiej) oraz w początkującym zespole biznesowym.",
+            "speakers": [
+                {
+                    "firstName": "Michał",
+                    "lastName": "Adamczyk [KMS]",
+                    "image": require('@/assets/images/speakers/00afc647-b4c4-40d2-a4af-20a4c0920ff6.jpg')
+                }
+            ]
+        },
     ],
     "Nov 29, 2020": [
         {
@@ -157,7 +171,7 @@ export default {
         {
             "name": "Jak myśleć o tym o czym nie myślimy?",
             "start": "15:30",
-            "end": "18:00",
+            "end": "17:30",
             "location": "Online",
             "description": "Nawyki są wszędzie. Przejawiają się podczas twojego śniadania, gdy przygotowujesz się do egzaminu, są z nami nawet wtedy, gdy masz wrażenie, że cały dzień przeleciał Ci na nicnierobieniu. Wypełniają całe nasze życie i bardzo znacząco na nie wpływają. Nawyków nie da się pozbyć, ale można je zmodyfikować lub co więcej - wykorzystać do stworzenia czegoś pozytywnego! Na tym warsztacie dowiecie się w jaki sposób odzyskać kontrolę nad waszym czasem i nawykami oraz jak je zmienić w sojuszników w osiąganiu swoich celów. Nie potrzebujecie żadnego uprzedniego przygotowania, wystarczy chęć i determinacja, by zmienić swoją codzienność na coś, z czego będziecie dumni!",
             "speakers": [
@@ -207,6 +221,20 @@ export default {
                     "lastName": "Kania",
                     "image": require('@/assets/images/speakers/643b2093-239a-4744-a2c1-9507fd14497f.png')
                 }
+            ]
+        },
+        {
+            "name": "Elevator Pitch, czyli jak się dobrze sprzedać.",
+            "start": "16:00",
+            "end": "18:00",
+            "location": "Online",
+            "description": "Jak sprzedać swój pomysł w 5 minut? 3 minuty? 1 minutę? Co jest najważniejsze, czego unikać, jak przekazać wartość i wzbudzić zainteresowanie nauczę was na tym warsztacie",
+            "speakers": [
+                {
+                    "firstName": "Filip",
+                    "lastName": "Mościcki",
+                    "image": require('@/assets/images/speakers/ef646987-954d-463d-bd0e-97373a4aff70.jpg')
+                },
             ]
         },
         {
