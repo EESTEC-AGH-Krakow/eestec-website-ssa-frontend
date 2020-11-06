@@ -157,7 +157,7 @@ export default {
         {
             "name": "Jak myśleć o tym o czym nie myślimy?",
             "start": "15:30",
-            "end": "17:00",
+            "end": "18:00",
             "location": "Online",
             "description": "Nawyki są wszędzie. Przejawiają się podczas twojego śniadania, gdy przygotowujesz się do egzaminu, są z nami nawet wtedy, gdy masz wrażenie, że cały dzień przeleciał Ci na nicnierobieniu. Wypełniają całe nasze życie i bardzo znacząco na nie wpływają. Nawyków nie da się pozbyć, ale można je zmodyfikować lub co więcej - wykorzystać do stworzenia czegoś pozytywnego! Na tym warsztacie dowiecie się w jaki sposób odzyskać kontrolę nad waszym czasem i nawykami oraz jak je zmienić w sojuszników w osiąganiu swoich celów. Nie potrzebujecie żadnego uprzedniego przygotowania, wystarczy chęć i determinacja, by zmienić swoją codzienność na coś, z czego będziecie dumni!",
             "speakers": [
@@ -193,7 +193,7 @@ export default {
         {
             "name": "“Skoczyłbym za nim w ogień” ~ czyli co to znaczy być prawdziwym liderem.",
             "start": "13:00",
-            "end": "14:30",
+            "end": "15:30",
             "location": "Online",
             "description": "\"Wielu z nas chciałoby być liderami. Wielu z nas uważa, że się do tego nie nadaje. Wreszcie wielu z nas szuka w wspinaniu się po drabinie kariery zawodowej autorytetu i siły przebicia dla swoich pomysłów, widząc w tym szansę na upragnioną pozycję w grupie. Na tym warsztacie dowiecie się kim tak naprawdę jest lider, w jaki sposób się nim zostaje i jaki jest sekret liderów za którymi ludzie przysłowiowo “skoczyliby by w ogień”. Każdy z nas może być liderem… pytanie czy i ty odważysz się nim zostać?",
             "speakers": [
@@ -510,9 +510,9 @@ export default {
         {
             "name": "Battling your animal self",
             "start": "17:00",
-            "end": "19:00",
+            "end": "19:30",
             "location": "Online",
-            "description": "Have you ever wondered why we struggle with doing impactful tasks and procrastination? What if we told you that the answer is - It's because you're human. Inside of you, there's a constant battle going on between the rational you wanting to achieve great things and the animal you just wanting to survive.<br/>In this session we're going to discover why we are prone to procrastination and losing focus. Then, we'll find some weapons to aid us in this battle. The only prerequisite for this training is for you to give your productive help an upper hand!",
+            "description": "Have you ever wondered why we struggle with doing impactful tasks and procrastination? What if we told you that the answer is - It's because you're human. Inside of you, there's a constant battle going on between the rational you wanting to achieve great things and the animal you just wanting to survive.<br/>In this session we're going to discover why we are prone to procrastination and losing focus. Then, we'll find some weapons to aid us in this battle.The only prerequisite for this training is you wanting to give your productive self an upper hand!",
             "speakers": [
                 {
                     "firstName": "Piotr",
