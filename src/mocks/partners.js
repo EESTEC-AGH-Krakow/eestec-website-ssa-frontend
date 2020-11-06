@@ -14,9 +14,9 @@ export default [
     {
         "id": 2,
         "type": "regular",
-        "name": "AGH",
-        "description": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie to jedna z najlepszych i najbardziej renomowanych oraz nowoczesnych polskich uczelni. Od lat zajmuje czołowe miejsca w rankingach szkół wyższych. Jest uczelnią przodującą w Polsce w dziedzinie nowoczesnych technologii, zajmującą wysoką lokatę w skali międzynarodowej.",
-        "image": require('@/assets/images/partners/regular/50f28fba-b0ea-490f-8d7f-ccdc2a064240.png')
+        "name": "Kraków",
+        "description": "Po raz czwarty z rzędu warsztaty Soft Skills Academy objęte zostały partnerstwem Miasta Krakowa. To dla nas ogromny zaszczyt i odpowiedzialność - dziękujemy!",
+        "image": require('@/assets/images/partners/regular/7deb418b-5e20-47c4-b71a-2beb7450e281.png')
     },
     {
         "id": 3,
@@ -28,37 +28,43 @@ export default [
             "As a 12-year-old company, AVSystem is an expert in its field. We help companies around the world deliver better quality of service thanks to our top-class device management solutions. We also focus on WiFi VAS & indoor location as well as other systems for SDN and NFV. Apart from creating software, we actively participate in the standardization process of the LwM2M standard to enable secure device management and service orchestration in the IoT ecosystem. 100+ large companies worldwide prove the superiority of AVSystem’s technology.",
         "image": require('@/assets/images/partners/regular/e3adab87-ce11-43f5-a4d6-a59072da9844.png')
     },
-
     {
         "id": 4,
+        "type": "regular",
+        "name": "AGH",
+        "description": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie to jedna z najlepszych i najbardziej renomowanych oraz nowoczesnych polskich uczelni. Od lat zajmuje czołowe miejsca w rankingach szkół wyższych. Jest uczelnią przodującą w Polsce w dziedzinie nowoczesnych technologii, zajmującą wysoką lokatę w skali międzynarodowej.",
+        "image": require('@/assets/images/partners/regular/50f28fba-b0ea-490f-8d7f-ccdc2a064240.png')
+    },
+    {
+        "id": 5,
         "type": "media",
         "name": "TVP 3 Kraków",
         "description": "",
         "image": require('@/assets/images/partners/media/e4b9e186-115b-4da2-8fc1-3c5dfeed34c8.png')
     },
     {
-        "id": 13,
+        "id": 6,
         "type": "media",
         "name": "krakow.pl",
         "description": "",
         "image": require('@/assets/images/partners/media/dd72ecbe-c730-4216-9c33-485006bee353.png')
     },
     {
-        "id": 5,
+        "id": 7,
         "type": "media",
         "name": "BIS AGH",
         "description": "BIS czyli Biuletyn Informacji Studentów Akademii Górniczo-Hutniczej działa jako jedna z re-dakcji Centrum Mediów AGH.",
         "image": require('@/assets/images/partners/media/4aad299b-6f1e-476f-8b14-043ecee7c131.png')
     },
     {
-        "id": 6,
+        "id": 8,
         "type": "media",
         "name": "dlastudenta.pl",
         "description": "",
         "image": require('@/assets/images/partners/media/a071a11b-7834-49e0-a1d4-124ebbfd45b0.png')
     },
     {
-        "id": 7,
+        "id": 9,
         "type": "media",
         "name": "ESKA",
         "description": "",

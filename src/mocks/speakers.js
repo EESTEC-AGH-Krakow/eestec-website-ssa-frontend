@@ -1,8 +1,19 @@
 export default [
     {
         "id": 1,
+        "firstName": "Tomasz",
+        "lastName": "Buczyński [ASSA]",
+        "workshopNames": [
+            "[ASSA ABLOY & HID] Zwiększ swoją produktywność. Popraw umiejętności zarządzania czasem i pokonywania trudności na przykładzie realizacji projektu"
+        ],
+        "description": "Programista. Chętnie poznaje doświadczenia innych, by z nich czerpać i zmieniać świat na lepszy. Zainteresowany zwiększaniem wydajności w pracy, poprawą komunikacji, oraz inwestowaniem.",
+        "image": require('@/assets/images/speakers/27ac9984-cc49-4a31-999b-704dccd37f4f.jpg')
+    },
+
+    {
+        "id": 2,
         "firstName": "Grzegorz",
-        "lastName": "Zaagraba [KMS]",
+        "lastName": "Zagraba [KMS]",
         "workshopNames": [
             "Podstawy negocjacji na praktycznych case`ach"
         ],
@@ -10,7 +21,7 @@ export default [
         "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
     },
     {
-        "id": 2,
+        "id": 3,
         "firstName": "Michał",
         "lastName": "Adamczyk [KMS]",
         "workshopNames": [
@@ -19,25 +30,7 @@ export default [
         "description": "Prezes Fundacji Kraków Miastem Startupów. Inżynier informatyki stosowanej (Java developer) i magister zarządzania (specjalność: zarządzanie zasobami ludzkimi) z doświadczeniem biznesowym (działalność w obszarze mobile-IT) oraz 12-letnim doświadczeniem menedżerskim i 5-letnim doświadczeniem naukowo-dydaktycznym. Ekspert oceniający przedsięwzięcia biznesowe pod kątem innowacyjności w ramach projektów PARP. Realizuje na AGH rozprawę doktorską w dyscyplinie nauk o zarządzaniu dotyczącą krakowskiego ekosystemu start-upowego. Autor kilkunastu publikacji naukowych dotyczących zarządzania innowacjami, w tym m.in. 7 artykułów w czasopismach naukowych, 7 rozdziałów w monografiach. Nauczyciel akademicki i trener w zakresie zarządzania innowacjami, projektami i zasobami ludzkimi. Absolwent prestiżowego szkolenia z zakresu komercjalizacji technologii na Wageningen University (Holandia) w ramach programu Ministerstwa Nauki i Szkolnictwa Wyższego „Transformation.doc”.",
         "image": require('@/assets/images/speakers/00afc647-b4c4-40d2-a4af-20a4c0920ff6.jpg')
     },
-    {
-        "id": 3,
-        "firstName": "Marlena",
-        "lastName": "Momot",
-        "workshopNames": [
-            "Wystąpienia online"
 
-        ],
-        "description": "Od 8 lat działam w branży szkoleniowej, oswajając innych z wystąpieniami publicznymi. Ponad 4 000 osób miało już okazję wysłuchać moich prelekcji. Z powodzeniem przygotowałam prelegentów do wystąpień na kongresach firmowych, na konferencji TEDx, InternetBeta, a także w programie Dzień Dobry TVN." +
-            "<br/><br/>" +
-            "Scena zawsze mnie przyciągała, a pasja do aktorstwa przerodziła się w miłość do występów na salach szkoleniowych i konferencjach. Tam również dzielę się wiedzą z autoprezentacji. Występowałam m.in. na TEDx, Targach Outsourcing EXPO, LinkedIn Local, czy Absolvent Talent Days. " +
-            "<br/><br/>" +
-            "Na co dzień jako trener wystąpień publicznych pracuję z kadrami zarządzającymi oraz pracownikami średnich i dużych przedsiębiorstw, np. Royal Canin, Aviva, Port Gdańsk czy Innergo Systems. W większości są to branże:  IT, nieruchomości, finanse, czy sprzedaż." +
-            "<br/><br/>" +
-            "Jestem certyfikowanym trenerem, współwłaścicielką firmy doradczo-szkoleniowej Autokreacja. Szkolenia buduje w oparciu o cykl Kolba, pracę warsztatową, dużą ilość praktycznych ćwiczeń, case study oraz konstruktywną informację zwrotną." +
-            "<br/><br/>" +
-            "Chętnie pokażę Ci jak zaprzyjaźnić się z wystąpieniami publicznymi. Przy odrobinie praktyki i wiedzy, nie będziesz mieć sobie równych na scenie!",
-        "image": require('@/assets/images/speakers/8ddf84f9-85ef-4f10-a81c-f47e2ae2b9c8.jpg')
-    },
     {
         "id": 4,
         "firstName": "Alina",
@@ -54,28 +47,6 @@ export default [
             "Zawodowo zajmuję się również marketingiem i budowaniem świadomości marki, zdobywając doświadczenie w międzynarodowych firmach.",
         "image": require('@/assets/images/speakers/87c9c8c9-c438-4a0a-9cbd-ca1cf545473c.jpg')
     },
-    //TODO:
-
-    // {
-    //     "id": 5,
-    //     "firstName": "Krzysztof",
-    //     "lastName": "Nepelski",
-    //     "workshopNames": [
-    //         ""
-    //     ],
-    //     "description": "",
-    //     "image": require('@/assets/images/speakers/76ef7623-8b18-4add-b595-8fcd64ab12e7.jpg')
-    // },
-    // {
-    //     "id": 6,
-    //     "firstName": "Marcin",
-    //     "lastName": "Lelek",
-    //     "workshopNames": [
-    //         ""
-    //     ],
-    //     "description": "",
-    //     "image": require('@/assets/images/speakers/2838873f-f0fe-42b4-8a72-12ecb1fe31d8.jpg')
-    // },
     {
         "id": 7,
         "firstName": "Filip",
@@ -130,27 +101,16 @@ export default [
         "description": "Z wykształcenia jestem pedagogiem, mediatorem oraz trenerem umiejętności społecznych. Od prawie 10 lat pracuję w obszarze edukacji i szkoleń, zarówno w środowisku biznesowym, jak i akademickim. Na co dzień zajmuję się identyfikacją i analizą potrzeb, tworzeniem oraz prowadzeniem szkoleń wewnętrznych. Moje działania koncentrują się wokół rozwijania umiejętności miękkich, sprzedażowych oraz organizacyjnych. Projektuję także działania mające na celu rozwój umiejętności budowania storytellingu sprzedażowego. Jestem w trakcie certyfikacji na Diagnostę inteligencji emocjonalnej. Prowadzę także webinary, piszę artykuły, a w wolnym czasie biegam i głaszczę kota :)",
         "image": require('@/assets/images/speakers/e9cdcccf-2f58-42e7-ab8a-bde9ba67ab43.jpg')
     },
-    // {
-    //     "id": 12,
-    //     "firstName": "Olga",
-    //     "lastName": "Janiszewska",
-    //     "workshopNames": [
-    //         ""
-    //     ],
-    //     "description": "",
-    //     "image": require('@/assets/images/speakers/93d8b90b-9460-4065-95f2-04d588893839.jpg')
-    // },
-
-    // {
-    //     "id": 13,
-    //     "firstName": "Dagmara",
-    //     "lastName": "Modrzejewska",
-    //     "workshopNames": [
-    //         "Zarządzanie ryzykiem w organizacji."
-    //     ],
-    //     "description": "", // TODO: description
-    //     "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
-    // },
+    {
+        "id": 13,
+        "firstName": "Dagmara",
+        "lastName": "Modrzejewska",
+        "workshopNames": [
+            "Zarządzanie ryzykiem w organizacji."
+        ],
+        "description": "Dagmara Modrzejewska posiada ponad piętnastoletnie doświadczenie w prowadzeniu projektów z takich obszarów jak: IT, PR, HR, ISO oraz jako: trener, audytor, konsultant biznesowy. <br/>W tym czasie zrealizowała projekty IT dotyczące implementacji modelu usługowego według biblioteki ITIL oraz architektury korporacyjnej według TOGAF. Ponadto: budowała, rozwijała i nadzorowała prawidłowe funkcjonowanie ujęcia procesowego oraz wewnętrznych regulacji w ramach działania obszaru IT Governance. <br/>Odnośnie PR zajmowała się kreowaniem wizerunku pracodawcy, zmianą wizerunku firmy, wprowadzeniem wizerunku marki i firmy.  <br/>W zakresie HR realizowała projekty w zakresie zarządzania kompetencjami pracowników, oceny pracowników. Dagmara pracowała również jako audytor, pod kątem realizacji wymagań norm ISO i COBIT, oraz z miękkiego HR: komunikacyjnych i kompetencyjnych. <br/>Posiada kilkunastoletnie doświadczenie audytorskie i trenerskie w obszarze wymagań norm PN-EN ISO 9001, PN-EN ISO 27001oraz ISO 20000-1. <br/>Ponadto prowadziła również warsztaty i szkolenia z zakresu kreowania wizerunku firmy jak i miękkich aspektów Human Resources.<br/>Od 2018 roku współpracuje jako Expert i akredytowany Trener w zakresie ITIL w wersji 3 i 4 z INPROGRESS Sp. z o. o.<br/> <br/>Od 2015 roku jest doktorantem, a od 2019 roku również asystentem Katedry Informatyki Ekonomicznej Uniwersytetu Ekonomicznego w Katowicach. <br/>W obszarze swoich zainteresowań posiada takie zagadnienia IT jak: systemy informatyczne wspierające twórczość i innowacyjność organizacji, IT Governance, ITIL, TOGAF, COBIT, DevOps, Design Thinking.<br/>Jest inicjatorem i prelegentem oraz współorganizatorem z Rawa.ink Miejskim Inkubatorem Przedsiębiorczości w Katowicach i Capgemini Polska, Konferencji ITILove, łączącej świat nauki, biznesu i samorządu.<br/>Celem Konferencji jest nawiązywanie dialogu, współpracy projektowej, dzielenie się wiedzą, omówienie trendów rozwoju w obszarze przemysłu 4.0, w szczególności w IT i ICT.<br/>Kocha też rozwój i doskonalenie, czy to zawodowo, czy naukowo, czy też prywatnie, działa iteracyjną metodą małych kroków, prosto do wymarzonego celu. Uważa, że chcieć znaczy móc, jeśli się myśli i działa w tym kierunku. ",
+        "image": require('@/assets/images/speakers/55f3b3b6-7d3e-4aa9-bb80-94de9c3cbaae.jpg')
+    },
     {
         "id": 14,
         "firstName": "Aneta",
@@ -229,7 +189,8 @@ export default [
         "workshopNames": [
             "Jak myśleć o tym o czym nie myślimy?",
             "“Skoczyłbym za nim w ogień” ~ czyli co to znaczy być prawdziwym liderem.",
-            "“You’re so stupid!” - and why you actually didn’t mean that."
+            "“You’re so stupid!” - and why you actually didn’t mean that.",
+            "The cacophony of stress"
         ],
         "description":
             " Trener Umiejętności Miękkich, Mówca, Facylitator, Mentor oraz Absolwent Informatyki na AGH. Czerpiąc z wieloletniego doświadczenia i obserwacji zebranych na przestrzeni ostatnich lat, w ponad 18 krajach, działając w Europejskich organizacjach pozarządowych, od 2 lat dostarcza treningi Soft Skillowe w całej Europie. Tegoroczną serię treningów jakie będzie prowadził opisuje następująco: “Żyjemy w świecie nagłych i nieoczekiwanych zmian, niepewności i wielu trudnych wyborów jakie przychodzi nam podejmować dziś każdego dnia. To właśnie teraz najbardziej jest nam potrzebne jasne i przejrzyste spojrzenie na to jak radzić sobie z wszechobecną presją, co sprawia że znajdujemy się w emocjonalnym ekwilibrium, jak mimo przeciwności konsekwentnie dążyć do osiągnięcia naszych celów i wreszcie dlaczego powinniśmy zawsze stawiać ludzi na pierwszym miejscu.”",
@@ -276,14 +237,12 @@ export default [
         "description": "- absolwentka Wydziału Zarządzania Uniwersytetu Warszawskiego na kierunku Finanse i <br/>Rachunkowość oraz Szkoły Wyższej Psychologii Społecznej w Warszawie na kierunku <br/>Psychologia, <br/>- od 13 lat pracuje w branży finansowej, w obszarze zarządzania projektami i analizy <br/>biznesowej, <br/>- specjalizuje się w przygotowaniu wymagań biznesowych oraz analizy wpływu zmiany na <br/>procesy w organizacji, <br/>- prowadzi warsztaty rozwojowe z kompetencji miękkich dla kobiet, <br/>- interesuje się psychologią, rozwojem osobistym oraz jazdą na rolkach,",
         "image": require('@/assets/images/speakers/373b814b-9f9c-4d05-b02a-5dd71c10fc56.jpg')
     },
-
-
     {
         "id": 25,
         "firstName": "Sławomir",
         "lastName": "Ziółkowski",
         "workshopNames": [
-            "" //TODO:
+            "Negocjacje z elementami komunikacji perswazyjnej"
         ],
         "description": "Doktor nauk ekonomicznych, ma na swym koncie kilkanaście lat pracy jako trener i nauczyciel akademicki w tematyce zarządzania przedsiębiorstwem, rozwoju kariery oraz zarządzania kadrami i negocjacji menedżerskich. Od początku kariery związany z praktyką biznesu, współpracował z dużymi koncernami, głównie z branży kreatywnej i mediów elektronicznych." +
             "<br/><br/>" +
@@ -338,7 +297,7 @@ export default [
         "firstName": "Iulia",
         "lastName": "Iacob",
         "workshopNames": [
-            ""
+            "Decision making"
         ],
         "description": "Iulia has been in EESTEC for almost 5 years and during her EESTEC path, she has been highly involved in local and international activities. She had numerous Leadership roles and her because during her path a Trainer. When she is looking back to her path and past, Iulia can say that she is proud of her decisions. Decision making is a very important skill for Iulia, that she developed in EESTEC and she can say that is a skill needed also when you are working in a company as she does right now",
         "image": require('@/assets/images/speakers/6779d371-5569-4b69-9de1-a020f051445b.jpg')
@@ -348,7 +307,7 @@ export default [
         "firstName": "Mikaela",
         "lastName": "Tsakalidou",
         "workshopNames": [
-            ""
+            "Decision making"
         ],
         "description":
             "Mikaela has been in EESTEC for almost 3 years and during her EESTEC path she has been highly involved both on the local and international levels. Having had several leading positions inside and outside of EESTEC, decision-making is a skill that she developed through time and she strongly believes that it is an indispensable skill for everyone both in their professional and personal life.",
@@ -421,12 +380,94 @@ export default [
     },
     {
         "id": 38,
-        "firstName": "Tomasz",
-        "lastName": "Buczyński",
+        "firstName": "Marlena",
+        "lastName": "Momot",
         "workshopNames": [
-            "[ASSA ABLOY & HID] Zwiększ swoją produktywność. Popraw umiejętności zarządzania czasem i pokonywania trudności na przykładzie realizacji projektu"
+            "Wystąpienia online"
+
         ],
-        "description": "Programista. Chętnie poznaje doświadczenia innych, by z nich czerpać i zmieniać świat na lepszy. Zainteresowany zwiększaniem wydajności w pracy, poprawą komunikacji, oraz inwestowaniem.",
-        "image": require('@/assets/images/speakers/27ac9984-cc49-4a31-999b-704dccd37f4f.jpg')
+        "description": "Od 8 lat działam w branży szkoleniowej, oswajając innych z wystąpieniami publicznymi. Ponad 4 000 osób miało już okazję wysłuchać moich prelekcji. Z powodzeniem przygotowałam prelegentów do wystąpień na kongresach firmowych, na konferencji TEDx, InternetBeta, a także w programie Dzień Dobry TVN." +
+            "<br/><br/>" +
+            "Scena zawsze mnie przyciągała, a pasja do aktorstwa przerodziła się w miłość do występów na salach szkoleniowych i konferencjach. Tam również dzielę się wiedzą z autoprezentacji. Występowałam m.in. na TEDx, Targach Outsourcing EXPO, LinkedIn Local, czy Absolvent Talent Days. " +
+            "<br/><br/>" +
+            "Na co dzień jako trener wystąpień publicznych pracuję z kadrami zarządzającymi oraz pracownikami średnich i dużych przedsiębiorstw, np. Royal Canin, Aviva, Port Gdańsk czy Innergo Systems. W większości są to branże:  IT, nieruchomości, finanse, czy sprzedaż." +
+            "<br/><br/>" +
+            "Jestem certyfikowanym trenerem, współwłaścicielką firmy doradczo-szkoleniowej Autokreacja. Szkolenia buduje w oparciu o cykl Kolba, pracę warsztatową, dużą ilość praktycznych ćwiczeń, case study oraz konstruktywną informację zwrotną." +
+            "<br/><br/>" +
+            "Chętnie pokażę Ci jak zaprzyjaźnić się z wystąpieniami publicznymi. Przy odrobinie praktyki i wiedzy, nie będziesz mieć sobie równych na scenie!",
+        "image": require('@/assets/images/speakers/8ddf84f9-85ef-4f10-a81c-f47e2ae2b9c8.jpg')
     },
+
+    {
+        "id": 39,
+        "firstName": "Adriana",
+        "lastName": "Tokić",
+        "workshopNames": [
+            "The cacophony of stress"
+        ],
+        "description": "Andriana Takić is an international soft skills trainer, actively engaged in international non-governmental organizations since 2014, currently pursuing her Master’s degree in Music and Acoustics Engineering at Politecnico di Milano. As a soft-skills trainer, Andriana delivered over 100 hours of training and also organized multi-day international training events as part of the EESTEC Training Team. She believes that soft skills give us new perspectives and questions on topics that are often given lower priority: they help us better understand ourselves and others, build better relationships in personal and professional environment, organize our goals and habits, etc. She describes soft skills training as an opportunity to expand one’s personal comfort zone, and to learn and try something new in an interactive and safe environment. The topics she finds the most interesting are presentation skills, teamwork, mindfulness, communication skills, goal setting, productivity, stress management, etc. Andriana also finds her passion in music, art, languages, travelling and philosophy. She also sings, plays piano, guitar, and she speaks 4 languages.",
+        "image": require('@/assets/images/speakers/tjf368ae-sdfh-4sdf-9mrt-546g4e5yg576.jpg')
+    },
+
+    {
+        "id": 40,
+        "firstName": "Angelika",
+        "lastName": "Zielińska",
+        "workshopNames": [
+            "Profesjonalny wizerunek oraz autoprezentacja w życiu zawodowym i biznesie"
+        ],
+        "description": "Dyplomowany trener wizerunku, osobista stylistka oraz coach. Wierzy, że do pełnej zmiany niezbędna jest praca nie tylko nad image’m zewnętrznym, ale również nad wnętrzem. Dlatego też zdecydowała się na zdobycie kompetencji i łączenie tych trzech profesji. Dzięki temu, poza kreowaniem stylu swoich Klientów, pomaga im również budować pewność siebie, wewnętrzną siłę oraz poczucie sprawczości. Uczy tego jak ważny jest odpowiedni wizerunek, autoprezentacja i znajomość zasad savoir-vivre w biznesie i życiu prywatnym oraz jak świadomie nad nimi pracować. Sprawia, że osoby z którymi współpracuje, stają się swoją najlepszą wizytówką, dzięki czemu łatwiej osiągają własne cele zawodowe i osobiste. Dokonała blisko 100 metamorfoz wizerunkowych Klientów, a jej warsztaty, szkolenia i prelekcje na żywo ukończyło ponad 1800 osób. Przeprowadziła ponad 70 sesji coachingowych, działa zgodnie ze standardami International Coach Federation. www.angelikazielinska.pl ",
+        "image": require('@/assets/images/speakers/dgegh8ae-fefh-jtdf-45yt-84tw8eurh876.jpg')
+    },
+    {
+        "id": 41,
+        "firstName": "Magda",
+        "lastName": "Popek PCS",
+        "workshopNames": [
+            "Czy work-life balance istnieje? Warsztat mądrego zarządzania swoją energią"
+        ],
+        "description": "Psycholog, trener biznesu, rozwoju osobistego, współwłaściciel Podkarpackiego Centrum <br/>Szkoleniowego, w trakcie doktoratu z zakresu komunikacji społecznej i nauki o mediach. <br/>Uczy, rozwija i wspiera przedsiębiorców i kadrę zarządzającą, zespoły pracownicze i <br/>klientów indywidualnych na sesjach rozwojowych i szkoleniach grupowych oraz 1:1. <br/>Wykładowca Centrum Studiów Podyplomowych Wyższej Szkoły Informatyki i Zarządzania w <br/>Rzeszowie (zarządzanie zasobami ludzkimi a także podyplomowych studiach <br/>managerskich), doradca zawodowy. <br/> <br/>Uczy i rozwija kompetencje związane z samodzielnym poszukiwaniem rozwiązań, <br/>zarządzaniem własnymi emocjami i relacjami interpersonalnymi w zespołach. <br/>Absolwentka psychologii stosowanej UJ oraz Szkoły Trenerów Wszechnicy Uniwersytetu <br/>Jagiellońskiego w Krakowie. W sali szkoleniowej spędziła jako trener ponad 2000 godzin. <br/>Porusza tematy takie jak: komunikacja, planowanie, motywowanie, budowanie pewności <br/>siebie i radzenie sobie ze stresem. Interesuje się wypalaniem zawodowym pracowników, <br/>budowaniem strategii zapobiegania i radzenia sobie, jego profilaktyką oraz tematem <br/>przerdzewienia zawodowego i rozwoju osobistego młodych pracowników. <br/> <br/>„Istnieje tylko kilka cytatów, które znam na pamięć. Jednym z nich, wykorzystywanym przeze <br/>mnie w pracy jest cytat z Króla Juliana z „Madagaskaru” – A teraz prędko zanim dotrze do <br/>nas, że to bez sensu. Pomagam ludziom, by cytat ten NIE odzwierciedlał ich pracy, rozwoju <br/>zawodowego i kariery.",
+        "image": require('@/assets/images/speakers/3y54h8ae-3h4h-3h45-srth-oeriuvnoeir6.jpg')
+    },
+    {
+        "id": 42,
+        "firstName": "Joanna",
+        "lastName": "Postupalska-Bożek",
+        "workshopNames": [
+            "Zarządzanie finansami osobistymi"
+        ],
+        "description": "Jestem finansistką – wiele lat przepracowałam w instytucjach finansowych, wspierając pracowników tych instytucji w trudnym procesie sprzedaży produktów emerytalno-oszczędnościowych. Mam doświadczenie w pracy dla powszechnych towarzystw emerytalnych i jednego z najwiekszych banków w Polsce. Ekonomistka z wykształcenia, trener i prowadząca szkolenia z doświadczenia, menedżer sprzedaży produktów oszczędnościowo-inwestycyjnych w skali kraju. <br/>Od 3,5 roku prowadzę bloga o finansach, oszczędzaniu, edukacji finansowej dorosłych i dzieci pod adresem http://www.oszczedzanienaprzyszlosc.pl <br/>Można mnie znaleźć na FB  https://www.facebook.com/oszczedzanienaprzyszlosc/ <br/>Instagramie https://www.instagram.com/joanna_postupalska/ <br/>You Tube https://www.youtube.com/channel/UC5pbv1SV__aEeXkOGS9N07g?view_as=subscriber  <br/>LinkedIn https://www.linkedin.com/in/joanna-postupalska/  <br/>  <br/>Moją misją jest, aby każdy, kto chce wziąć życie we własne ręce, nauczył się oszczędzać i tak zarządzać własnymi finansami, aby powstawały nadwyżki dające poczucie wolności, mocy, szczęścia i spokoju.  <br/>Piszę blog „Oszczędzanie na przyszłość” o tym, jak oszczędzać na przyszłość, budować kapitał przede wszystkim emerytalny i nie bać się zarządzania własnymi finansami – przecież pieniądze w życiu są równie ważne jak miłość, zdrowie, rozwój czy rodzina.",
+        "image": require('@/assets/images/speakers/3afgbfae-asdh-ge45-234g7yasiauhgoir6.jpg')
+    },
+    {
+        "id": 43,
+        "firstName": "Paweł",
+        "lastName": "Gawlik",
+        "workshopNames": [
+            "Zarządzanie sobą w czasie"
+        ],
+        "description": "Paweł Gawlik, IBM BTO BCS sp. z o.o. - Trener, mentor. Absolwent Uniwersytetu Śląskiego (filologia o specjalności nauczycielskiej), który postawił na biznes. Obecnie od ponad 5 lat intensywnie kształci, pomaga oraz aktywizuje pracowników jak i wspiera innych trenerów.",
+        "image": require('@/assets/images/speakers/awet3ete-aegh-2355-asgh-oeriuvnoeir6.jpg')
+    },
+    {
+        "id": 44,
+        "firstName": "Maria",
+        "lastName": "Latocha-Januszek",
+        "workshopNames": [
+            "Jak obudzić drzemiące w nas pokłady kreatywności? O twórczym myśleniu w teorii i praktyce."
+        ],
+        "description": "Maria Latocha-Januszek, IBM BTO BCS sp. z o.o. Lubię myśleć kreatywnie, być może dlatego udało mi się ukończyć szkołę muzyczną II stopnia i filologię hiszpańską. Tematy związane z twórczością są mi bardzo bliskie i uważam, że regularne ćwiczenie kreatywnego myślenia może przełożyć się na wiele dziedzin naszego życia, Jako trener staram się przede wszystkim zaszczepić w ludziach chęć zdobywania wiedzy i marzę o tym, żeby każdemu z uczestników warsztatów zaczęła nad głową pojawiać chmura pełna nowych rozwiązań, niczym u Pomysłowego Dobromira.",
+        "image": require('@/assets/images/speakers/bdftdrte-sadf-2355-ergh-234gt234rir6.jpg')
+    },
+    {
+        "id": 45,
+        "firstName": "Ilona",
+        "lastName": "Trzcińska",
+        "workshopNames": [
+            "Zarządzanie stresem"
+        ],
+        "description": "Pracuję jako trener wewnętrzny  w IBM BTO, gdzie tworzę i  prowadzę szkolenia m.in. z zakresu komunikacji, zarządzania stresem, różnic pokoleniowych. Posiadam wykształcenie pedagogiczne i wieloletnie doświadczenie w nauczaniu dorosłych i dzieci. Chętnie dzielę się zdobytą wiedzą i równie chetnie uczę się nowych rzeczy. Pasjonuje mnie psychologia i działanie ludzkiego mózgu. Uwielbiam wyzwania i pracę z ludźmi, bo inspiruje i pobudza kreatywność",
+        "image": require('@/assets/images/speakers/s4wgwete-w4gh-werg-asgh-gwervwervir6.jpg')
+    }
+
 ]
