@@ -474,7 +474,7 @@ export default [
         "firstName": "Paulina",
         "lastName": "Szot",
         "workshopNames": [
-            "Scena jako Narzędzie do Zmiany_Opis"
+            "Scena jako Narzędzie do Zmiany"
         ],
         "description": "Cześć<br/><br/>Jestem Paulina, Trener wystąpień publicznych, Mówca, Konferansjer, a z wykształcenia Inżynier Środowiska.<br/>[Trener wystąpień publicznych]<br/>Od 3 lat pod swoją opieką mentorską przeprowadziłam kilkadziesiąt osób na ich początkowej drodze przy wystąpieniach publicznych w organizacji Toastmasters International. Współpracowałam w tym obszarze również ze studentami, osobami występującymi na Konferencjach czy przedstawicielami świata polityki. Jestem certyfikowanym trenerem umiejętności społecznych. Stworzyłam swój autorski warsztat na temat budowania dodatniej synergii w zespołach przy zastosowaniu informacji zwrotnej.<br/>[Konferansjer]<br/>Na liście swoich doświadczeń konferansjerskich posiadam występ na Festiwalu Przedsiębiorczości BOSS, prowadzenie gali, aukcji charytatywnych, Finału Mistrzostw Polski w przemawianiu, Finału Międzynarodowego w Mowach Humorystycznych w formie online, prowadzenie wywiadów w formie online oraz panelów dyskusyjnych! Ostatnio zadebiutowałam w Internetowej Telewizji Śniadaniowej HoT TV jako prowadząca.<br/>[Mówca]<br/>Kilkadziesiąt wygłoszonych mów w obszarze wystąpień publicznych, pracy zespołowej, ekspresyjności scenicznej, przywództwa oraz swoich pasji. Debatantka podczas debaty Oksfordzkiej. Autorka spotkania tematycznego „Mówca jest Kobietą”. Aby dobrze odnaleźć się w tych rolach zawsze stawiam na bycie sobą, grę aktorską, improwizację oraz miłość do sportu ",
         "image": require('@/assets/images/speakers/q23qwete-gesr-wegg-w4yh-w3ujrt6r56h6.jpg')

@@ -453,7 +453,7 @@ export default {
             ]
         },
         {
-            "name": "Profesjonalny wizerunek oraz autoprezentacja w życiu zawodowym i biznesie - WYKŁAD",
+            "name": "Profesjonalny wizerunek oraz autoprezentacja w życiu zawodowym i biznesie",
             "start": "16:00",
             "end": "18:00",
             "location": "Online",
