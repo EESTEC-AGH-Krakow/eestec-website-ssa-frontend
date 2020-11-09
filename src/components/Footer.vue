@@ -24,7 +24,7 @@
                             <font-awesome-icon :icon="['fab', 'facebook-square']" size="3x"/>
                         </a>
                     </b-col>
-                </b-row>
+                </b-row>harmo
                 <b-navbar-toggle target="nav-collapse"/>
             </b-navbar>
         </b-col>

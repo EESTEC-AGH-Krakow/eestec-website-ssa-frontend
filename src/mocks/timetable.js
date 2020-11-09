@@ -15,20 +15,20 @@ export default {
                 }
             ]
         },
-        // {
-        //     "name": "Zarządzanie i komunikacja z zespołem",
-        //     "start": "13:00",
-        //     "end": "15:30",
-        //     "location": "Online",
-        //     "description": "",
-        //     "speakers": [
-        //         {
-        //             "firstName": "Jacek",
-        //             "lastName": "Moskwa",
-        //             "image": require('@/assets/images/speakers/TUWKLEJTU.jpg')
-        //         }
-        //     ]
-        // },
+        {
+            "name": "Zarządzanie i komunikacja z zespołem",
+            "start": "13:00",
+            "end": "15:30",
+            "location": "Online",
+            "description": "„Dobra komunikacja do klucz do sukcesu” – czy to zdanie to truizm? A jeśli jest to rzecz dla wszystkich oczywista, to czy wszyscy rozumieją je tak samo? <br/>Prelekcja będzie poświęcona zarządzaniu i komunikacji w zespole, ale postaram się nie ograniczać wyłącznie do tematów związanych z pracą. Będę poruszał tę tylko z pozoru prostą i oczywistą tematykę i poprowadził dyskusję o tym czym jest komunikacja, co to znaczy nadawać i odbierać komunikaty i jak wykorzystać tą wiedzę w praktyce.",
+            "speakers": [
+                {
+                    "firstName": "Jacek",
+                    "lastName": "Moskwa",
+                    "image": require('@/assets/images/speakers/65gg564e-wd56-g456-4gt6-g456er4w3qe6.jpg')
+                }
+            ]
+        },
         {
             "name": "Czy work-life balance istnieje? Warsztat mądrego zarządzania swoją energią",
             "start": "16:00",
@@ -44,7 +44,7 @@ export default {
             ]
         },
         {
-            "name": "Wystąpienia online - jak to robić profesjonalnie",
+            "name": "Wystąpienia online - jak to robić profesjonalnie. WEBINAR",
             "start": "18:00",
             "end": "20:00",
             "location": "Online",
@@ -79,7 +79,7 @@ export default {
             ]
         },
         {
-            "name": "Racjonalność (sic!) podejmowania decyzji",
+            "name": "Racjonalność (sic!) podejmowania decyzji. WEBINAR",
             "start": "15:30",
             "end": "16:30",
             "location": "Online",
@@ -93,7 +93,7 @@ export default {
             ]
         },
         {
-            "name": "Podstawy negocjacji na praktycznych case'ach",
+            "name": "Podstawy negocjacji na praktycznych case'ach. WEBINAR",
             "start": "17:00",
             "end": "19:30",
             "location": "Online",
@@ -138,20 +138,7 @@ export default {
         //         }
         //     ]
         // },
-        {
-            "name": "Skuteczne przewodzenie zespołem",
-            "start": "18:30",
-            "end": "20:30",
-            "location": "Online",
-            "description": "Michał opowie o nowoczesnych koncepcjach zarządzania zespołem. Powszechnie wykorzystywane na całym świecie teorie dotyczące motywacji, budowania zespołu, efektywnej komunikacji i zarządzania wiedzą zostaną uzupełnione konkretnymi przykładami i praktycznymi poradami wynikającymi z autentycznych doświadczeń trenera. Tematyka warsztatu skupi się szczególnie na problematyce zarządzania zespołem w organizacji pozarządowej (w tym np. studenckiej) oraz w początkującym zespole biznesowym.",
-            "speakers": [
-                {
-                    "firstName": "Michał",
-                    "lastName": "Adamczyk [KMS]",
-                    "image": require('@/assets/images/speakers/00afc647-b4c4-40d2-a4af-20a4c0920ff6.jpg')
-                }
-            ]
-        },
+
     ],
     "Nov 29, 2020": [
         {
@@ -298,7 +285,7 @@ export default {
             "speakers": [
                 {
                     "firstName": "Tomasz",
-                    "lastName": "Buczyński [ASSA]",
+                    "lastName": "Buczyński",
                     "image": require('@/assets/images/speakers/27ac9984-cc49-4a31-999b-704dccd37f4f.jpg')
                 }
             ]
@@ -350,6 +337,20 @@ export default {
                     "firstName": "Aneta",
                     "lastName": "Wątor",
                     "image": require('@/assets/images/speakers/1055dcbb-e163-407d-8a07-f693119cc773.jpg')
+                }
+            ]
+        },
+        {
+            "name": "Skuteczne przewodzenie zespołem. WEBINAR",
+            "start": "10:00",
+            "end": "12:00",
+            "location": "Online",
+            "description": "Michał opowie o nowoczesnych koncepcjach zarządzania zespołem. Powszechnie wykorzystywane na całym świecie teorie dotyczące motywacji, budowania zespołu, efektywnej komunikacji i zarządzania wiedzą zostaną uzupełnione konkretnymi przykładami i praktycznymi poradami wynikającymi z autentycznych doświadczeń trenera. Tematyka warsztatu skupi się szczególnie na problematyce zarządzania zespołem w organizacji pozarządowej (w tym np. studenckiej) oraz w początkującym zespole biznesowym.",
+            "speakers": [
+                {
+                    "firstName": "Michał",
+                    "lastName": "Adamczyk [KMS]",
+                    "image": require('@/assets/images/speakers/00afc647-b4c4-40d2-a4af-20a4c0920ff6.jpg')
                 }
             ]
         },
@@ -420,10 +421,22 @@ export default {
                 }
             ]
         },
-
-
     ],
     "Dec 3, 2020": [
+        {
+            "name": "Maksymalizacja rozwoju osobistego w środowisku wielkich firm i korporacji",
+            "start": "10:00",
+            "end": "12:00",
+            "location": "Online",
+            "description": "Poruszymy tematy takie jak samoświadomość i samoocena, świadomość otoczenia (rozumiana przez postrzeganie kultury firmowej i procesów w firmie), budowania sieci kontaktów oraz innych aktywności które pomogą w doskonaleniu się zawodowym. Przedstawione zostaną przykłady, kilka aktywności, które pomogą zrozumieć temat i rzucą nowe światło na pewne sprawy.",
+            "speakers": [
+                {
+                    "firstName": "Michał",
+                    "lastName": "Struzik",
+                    "image": require('@/assets/images/speakers/serg4efe-f4er-w345-3wtt-h9aefr8h9qe6.jpg')
+                }
+            ]
+        },
         {
             "name": "Jak unikać manipulacji w relacjach nie tylko biznesowych. WYKŁAD",
             "start": "11:00",
@@ -651,10 +664,10 @@ export default {
             ]
         },
         {
-            "name": "Zarządzanie finansami osobistymi WYKŁAD",
+            "name": "Zarządzanie finansami osobistymi WEBINAR",
             "start": "17:00",
             "end": "19:00",
-            "location": "",
+            "location": "Online",
             "description": "Prezentacja 'Zarządzanie finansami osobistymi' to wystąpienie, które przeprowadzi Państwa przez podstawowe narzędzia dotyczące zarządzania finansami. <br/><br/>1. Dlaczego ludzie nie mają pieniędzy?<br/>2. Od czego zacząć? Złota zasada oszczędzania.<br/>3. Jak kontrolować finanse?<br/>4. Na co przeznaczyć nadwyżki w budżecie?<br/>5. Jakie korzyści daje oszczędzanie?<br/>6. Tricki i porady, aby Twoje finanse zaczęły kwitnąć.",
             "speakers": [
                 {

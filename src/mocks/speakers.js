@@ -486,9 +486,9 @@ export default [
         "firstName": "Patrycja",
         "lastName": "Kowalczyk",
         "workshopNames": [
-            "[ASSA AALY & HID]  Hack Your Interview"
+            "[ASSA ABLOY & HID]  Hack Your Interview"
         ],
-        "description": "Zbranżą HR związana od 6 lat. Wierzy, że kontakt z ludźmi to najlepsza forma spędzania czasu dlatego jej praca to jednocześnie jej pasja. Prywatnie fanka fantasy. Każda dobra opowieść powinna mieć przynajniej jednego smoka.",
+        "description": "Z branżą HR związana od 6 lat. Wierzy, że kontakt z ludźmi to najlepsza forma spędzania czasu dlatego jej praca to jednocześnie jej pasja. Prywatnie fanka fantasy. Każda dobra opowieść powinna mieć przynajniej jednego smoka.",
         "image": require('@/assets/images/speakers/q23crcw3-gasr-ergg-2345-34byh5h65hh6.jpg')
     },
     {
@@ -496,7 +496,7 @@ export default [
         "firstName": "Katarzyna",
         "lastName": "Bysina",
         "workshopNames": [
-            "[ASSA AALY & HID]  Hack Your Interview"
+            "[ASSA ABLOY & HID]  Hack Your Interview"
         ],
         "description": "Miłośniczka HR od czasu studiów. Jako specjalistka w branży HR pracuje od 7 lat. Uwielbia kontakt z ludźmi, a w pracy najbardziej ceni sobie zaangażowanie i rozwój poprzez stawianie czoła nowym wyzwaniom.  <br/>Prywatnie fanka kryminałów i czekolady.",
         "image": require('@/assets/images/speakers/wv4gvete-w34g-w54v-jb5h-wp3i4uowiuh6.jpg')
@@ -506,10 +506,32 @@ export default [
         "firstName": "Michał",
         "lastName": "Jędrzejas",
         "workshopNames": [
-            "[ASSA AALY & HID]  Hack Your Interview"
+            "[ASSA ABLOY & HID]  Hack Your Interview"
         ],
         "description": "Od ponad 5 lat związany z ASSA ABLOY. Pracuje z zespołami software’owymi. Rekrutował na różne stanowiska. Uczesniczył w wielu konferencjach dla studentów gdzie doradzał jak skutecznie aplikować do firm. Prywatnie fan wspinaczki.",
         "image": require('@/assets/images/speakers/45gq354e-3g5r-whrt-wrht-wqergqergqe6.jpg')
     },
 
+
+
+    {
+        "id": 50,
+        "firstName": "Michał",
+        "lastName": "Struzik",
+        "workshopNames": [
+            "Maksymalizacja rozwoju osobistego w środowisku wielkich firm i korporacji"
+        ],
+        "description": "Moje doświadczenie to ponad 10 lat w IT, 7 lat zarządzania zespołami rozproszonymi (Polska, Indie, Singapur, Nowy Jork), przewodzenie lokalnie organizacjom małym jak i dużym (od 10 do ponad 100 osób). Do tego dochodzi znajomość zarządzania usługami IT (certyfikacje ITIL), zwinne zarządzanie projektami (metodologie Agile i DevOps) oraz architektura i implementacja rozwiązań chmury (IaaS, PaaS, SaaS). Dodatkowo posiadam ponad 15 lat doświadczenia w dziedzinie sportu (profesjonalny kontrakt sportowy), zarówno jako zawodnik jak i trener (certyfikat UEFA B). Lubię pomagać innym, bardzo cenię sobię pracę z ludźmi a najbardziej cieszy mnie rozwój moich podopiecznych. Dlategoteż chętnie podzielę się swoimi przemyśleniami i doświadczeniem z każdym, kto chce się rozwijać.",
+        "image": require('@/assets/images/speakers/serg4efe-f4er-w345-3wtt-h9aefr8h9qe6.jpg')
+    },
+    {
+        "id": 51,
+        "firstName": "Jacek",
+        "lastName": "Moskwa",
+        "workshopNames": [
+            "Zarządzanie i komunikacja z zespołem"
+        ],
+        "description": "Od 15 lat pracuję w międzynarodowych firmach w Krakowie i Katowicach, przez ponad 12 lat zarządzałem zespołami na różnych szczeblach i w różnych lokacjach (Polska, Indie, Filipiny, Szwajcaria). Pracowałem głównie w branży outsourcingu i BPO w obszarach szeroko pojętych HR i IT. Obecnie doradzam klietom w kwestiach związanych z zarządzaniem i usprawnianiamiem procesów. Prywatnie jestem szczęśliwym mężem i dumnym ojcem dwójki dzieci, w wolnych chwilach uprawiam karate i gram w gry planszowe.",
+        "image": require('@/assets/images/speakers/65gg564e-wd56-g456-4gt6-g456er4w3qe6.jpg')
+    },
 ]
