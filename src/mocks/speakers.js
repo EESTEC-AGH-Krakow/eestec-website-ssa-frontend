@@ -401,7 +401,7 @@ export default [
     {
         "id": 39,
         "firstName": "Adriana",
-        "lastName": "Tokić",
+        "lastName": "Takić",
         "workshopNames": [
             "The cacophony of stress"
         ],
@@ -533,5 +533,15 @@ export default [
         ],
         "description": "Od 15 lat pracuję w międzynarodowych firmach w Krakowie i Katowicach, przez ponad 12 lat zarządzałem zespołami na różnych szczeblach i w różnych lokacjach (Polska, Indie, Filipiny, Szwajcaria). Pracowałem głównie w branży outsourcingu i BPO w obszarach szeroko pojętych HR i IT. Obecnie doradzam klietom w kwestiach związanych z zarządzaniem i usprawnianiamiem procesów. Prywatnie jestem szczęśliwym mężem i dumnym ojcem dwójki dzieci, w wolnych chwilach uprawiam karate i gram w gry planszowe.",
         "image": require('@/assets/images/speakers/65gg564e-wd56-g456-4gt6-g456er4w3qe6.jpg')
+    },
+    {
+        "id": 51,
+        "firstName": "Szymon",
+        "lastName": "Bryniarski",
+        "workshopNames": [
+            "Jak dogadać się pomimo różnicy poglądów?"
+        ],
+        "description": "Absolwent Szkoły Trenerów Wszechnicy UJ. Początkujący trener, przyszły psycholog. Jego zainteresowania krążą wokół firm turkusowych, zarządzania godnościowego i komunikacji bez przemocy. Wierzy, że biznes może być narzędziem do wspierania i zmiany otaczającego świata na lepsze. Współpracuje z firmą MartDom działającą w branży budowlanej. W jej szeregach był m.in. odpowiedzialny za wypracowanie wspólnej misji, wizji i wartości, którymi realnie żyje organizacja. Prowadził warsztaty z identyfikacji barier hamujących organizację, oraz facylitował Koła Jakości – cykliczne spotkania, na których pracownicy skupiali się na niwelowaniu wcześniej zidentyfikowanych przeszkód. Obecnie interesuje się zależnościami pomiędzy psychologią a przyrodą. W wolnych chwilach wspina się w Tatrach i na Jurze Krakowsko – Częstochowskiej. Lepiej niż w mieście czuje się blisko przyrody w której doszukuje się spokoju, harmonii i bycia tu i teraz. Góry traktuje jako miejsce, gdzie można kształtować charakter, zacieśniać więzi i dobrze się bawić. ",
+        "image": require('@/assets/images/speakers/6234564e-5546-3456-rth6-rehyer4w3qe6.jpg')
     },
 ]

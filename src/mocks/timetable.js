@@ -17,7 +17,7 @@ export default {
         },
         {
             "name": "Zarządzanie i komunikacja z zespołem",
-            "start": "13:00",
+            "start": "13:30",
             "end": "15:30",
             "location": "Online",
             "description": "„Dobra komunikacja do klucz do sukcesu” – czy to zdanie to truizm? A jeśli jest to rzecz dla wszystkich oczywista, to czy wszyscy rozumieją je tak samo? <br/>Prelekcja będzie poświęcona zarządzaniu i komunikacji w zespole, ale postaram się nie ograniczać wyłącznie do tematów związanych z pracą. Będę poruszał tę tylko z pozoru prostą i oczywistą tematykę i poprowadził dyskusję o tym czym jest komunikacja, co to znaczy nadawać i odbierać komunikaty i jak wykorzystać tą wiedzę w praktyce.",
@@ -94,7 +94,7 @@ export default {
         },
         {
             "name": "Podstawy negocjacji na praktycznych case'ach. WEBINAR",
-            "start": "17:00",
+            "start": "17:30",
             "end": "19:30",
             "location": "Online",
             "description": "G. Richard Shell powiedział, że „Dobrym negocjatorem nie trzeba się urodzić, bo negocjowania można się nauczyć.” Oczywiście niektórzy mają pewne predyspozycje, inni muszą budować swoje kompetencje negocjacyjne od początku. Wszyscy jednak przy odrobinie samozaparcia i chęci, są w stanie opanować teoretyczne podstawy trudnej sztuki negocjacji.",
@@ -124,20 +124,20 @@ export default {
                 }
             ]
         },
-        // {
-        //     "name": "Jak dogadać się pomimo różnic poglądów? Czyli o komunikacji, emocjach i empatii.",
-        //     "start": "15:00",
-        //     "end": "18:30",
-        //     "location": "Online",
-        //     "description": "",
-        //     "speakers": [
-        //         {
-        //             "firstName": "Szymon",
-        //             "lastName": "Bryniarski",
-        //             "image": require('@/assets/images/speakers/WKLEJTU.jpg')
-        //         }
-        //     ]
-        // },
+        {
+            "name": "Jak dogadać się pomimo różnic poglądów? Czyli o komunikacji, emocjach i empatii.",
+            "start": "15:00",
+            "end": "18:30",
+            "location": "Online",
+            "description": "Po warsztacie:  <br/>\t- Zaczniesz świadomiej identyfikować emocje własne i innych.  <br/>\t- Poznasz praktyczny model komunikacji, który zastosujesz sytuacjach konfliktu lub różnicy poglądów.<br/>\t- Zainspirujesz się do zmiany sposobu mówienia o swoich emocjach. <br/><br/>Różnice poglądów są czymś normalnym. Można je spotkać w każdym aspekcie naszego życia, od pracy, po bliskie relacje. W firmach, powinny być traktowane jako potencjał i szanse do rozwoju. Dzięki różnorodności, organizacje mogą podejmować lepsze decyzję. Wzrasta kreatywność, a reakcje na zmieniający się rynek są szybsze i skuteczniejsze. Jednak odmienność, która idzie w parze z różnorodnością, posiada jedną wadę: wywołuje w nas dyskomfort. Gdy ktoś ma inne zdanie, diametralnie różne od naszego, mimowolnie może wywoływać w nas niechęć, bądź wrogie nastawienie. Stroszymy się jak kot gotowy do ataku. <br/>Receptą na nadmierne „darcie kotów” jest m.in. świadoma komunikacja oparta na zrozumieniu i empatii. W chwilach emocjonalnego wzburzenia i konfliktów jest jednak sporym wyzwaniem. <br/>Celem warsztatu jest zaprezentowanie modelu komunikacji, który umożliwia prowadzenie dialogu mimo różnicy poglądów. Pochylimy się nad rolą empatii i emocji. Uczestnicy będę mieli okazję przećwiczyć metodę, by potem stosować ją zarówno w życiu zawodowym, jak i prywatnym. Dzięki niej będziesz mógł budować lepsze i autentyczne relacje interpersonalne. ",
+            "speakers": [
+                {
+                    "firstName": "Szymon",
+                    "lastName": "Bryniarski",
+                    "image": require('@/assets/images/speakers/6234564e-5546-3456-rth6-rehyer4w3qe6.jpg')
+                }
+            ]
+        },
 
     ],
     "Nov 29, 2020": [
@@ -177,7 +177,7 @@ export default {
     ],
     "Nov 30, 2020": [
         {
-            "name": "Corporate Social Responsibility and Business Ethics",
+            "name": "Corporate Social Responsibility and Business Ethics. WEBINAR",
             "start": "10:00",
             "end": "12:00",
             "location": "Online",
@@ -249,7 +249,7 @@ export default {
     ],
     "Dec 1, 2020": [
         {
-            "name": "Innowacyjna firma",
+            "name": "Innowacyjna firma. WEBINAR",
             "start": "10:00",
             "end": "12:00",
             "location": "Online",
@@ -310,7 +310,7 @@ export default {
             ]
         },
         {
-            "name": "Programista też człowiek - czyli trochę o rozwoju w IT",
+            "name": "Programista też człowiek - czyli trochę o rozwoju w IT. WEBINAR",
             "start": "17:30",
             "end": "20:00",
             "location": "Online",
@@ -327,7 +327,7 @@ export default {
     ],
     "Dec 2, 2020": [
         {
-            "name": "Strategia Kaizen czyli 10 praw efektywności osobistej.",
+            "name": "Strategia Kaizen czyli 10 praw efektywności osobistej. WEBINAR",
             "start": "10:00",
             "end": "11:00",
             "location": "Online",
@@ -438,7 +438,7 @@ export default {
             ]
         },
         {
-            "name": "Jak unikać manipulacji w relacjach nie tylko biznesowych. WYKŁAD",
+            "name": "Jak unikać manipulacji w relacjach nie tylko biznesowych. WEBINAR",
             "start": "11:00",
             "end": "12:00",
             "location": "Online",
@@ -466,7 +466,7 @@ export default {
             ]
         },
         {
-            "name": "Profesjonalny wizerunek oraz autoprezentacja w życiu zawodowym i biznesie",
+            "name": "Profesjonalny wizerunek oraz autoprezentacja w życiu zawodowym i biznesie. WEBINAR",
             "start": "16:00",
             "end": "18:00",
             "location": "Online",
@@ -535,7 +535,7 @@ export default {
             ]
         },
         {
-            "name": "Scena jako narzędzie do zmiany",
+            "name": "Scena jako narzędzie do zmiany. WEBINAR",
             "start": "14:30",
             "end": "17:00",
             "location": "Online",
@@ -617,7 +617,7 @@ export default {
                 },
                 {
                     "firstName": "Adriana",
-                    "lastName": "Tokić",
+                    "lastName": "Takić",
                     "image": require('@/assets/images/speakers/tjf368ae-sdfh-4sdf-9mrt-546g4e5yg576.jpg')
                 }
             ]
@@ -664,7 +664,7 @@ export default {
             ]
         },
         {
-            "name": "Zarządzanie finansami osobistymi WEBINAR",
+            "name": "Zarządzanie finansami osobistymi. WEBINAR",
             "start": "17:00",
             "end": "19:00",
             "location": "Online",
