@@ -12,7 +12,7 @@
                         <b-collapse id="nav-collapse" is-nav>
                             <b-navbar-nav class="mx-auto">
                                 <b-nav-item class="text-uppercase" :to="{ name: 'contact' }">kontakt</b-nav-item>
-                                <b-nav-item class="text-uppercase" :href="`${publicPath}regulamin.pdf`">regulamin</b-nav-item>
+                                <b-nav-item  :href="`${publicPath}regulamin.pdf`">REGULAMIN (zaktualizowano 27.10.20r.)</b-nav-item>
                             </b-navbar-nav>
                         </b-collapse>
                     </b-col>
@@ -24,7 +24,7 @@
                             <font-awesome-icon :icon="['fab', 'facebook-square']" size="3x"/>
                         </a>
                     </b-col>
-                </b-row>
+                </b-row>harmo
                 <b-navbar-toggle target="nav-collapse"/>
             </b-navbar>
         </b-col>

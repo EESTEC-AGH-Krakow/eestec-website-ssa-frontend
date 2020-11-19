@@ -1,0 +1,17 @@
+language: node_js
+os: linux
+dist: xenial
+node_js: stable
+script: npm run build
+before_deploy: "./iac/before_deploy.sh"
+deploy:
+- provider: script
+  skip_cleanup: true
+  script: bash ./iac/deploy.sh $DEV_LOCATION
+  on:
+    branch: develop
+- provider: script
+  skip_cleanup: true
+  script: bash ./iac/deploy.sh $PRD_LOCATION
+  on:
+    branch: master

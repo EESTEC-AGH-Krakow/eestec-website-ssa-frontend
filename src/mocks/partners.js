@@ -15,17 +15,14 @@ export default [
         "id": 2,
         "type": "regular",
         "name": "Kraków",
-        "description": "Po raz czwarty z rzędu warsztaty Soft Skills Academy objęte zostały partnerstwem Miasta Krakowa. To dla nas ogromny zaszczyt i odpowiedzialność - dziękujemy!",
+        "description": "Po raz piąty rok z rzędu warsztaty Soft Skills Academy objęte zostały partnerstwem Miasta Krakowa. To dla nas ogromny zaszczyt i odpowiedzialność - dziękujemy!",
         "image": require('@/assets/images/partners/regular/7deb418b-5e20-47c4-b71a-2beb7450e281.png')
     },
     {
         "id": 3,
         "type": "regular",
         "name": "AVSystem",
-        "description":
-            "No IoT deployment is successful without proper device management – this is what AVSystem stands for." +
-            "<br/>" +
-            "As a 12-year-old company, AVSystem is an expert in its field. We help companies around the world deliver better quality of service thanks to our top-class device management solutions. We also focus on WiFi VAS & indoor location as well as other systems for SDN and NFV. Apart from creating software, we actively participate in the standardization process of the LwM2M standard to enable secure device management and service orchestration in the IoT ecosystem. 100+ large companies worldwide prove the superiority of AVSystem’s technology.",
+        "description": "",
         "image": require('@/assets/images/partners/regular/e3adab87-ce11-43f5-a4d6-a59072da9844.png')
     },
     {
