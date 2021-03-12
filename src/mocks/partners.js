@@ -4,11 +4,8 @@ export default [
         "type": "main",
         "name": "ASSA ABLOY & HID",
         "description":
-            "ASSA ABLOY is the global leader in access solutions used everyday around the world. When you walk through an automatic door, stay in a hotel or authenticate your identity, then you're probably using our products or services. In Kraków R&D Center we are developing products, platforms and interfaces together with providing network, security and hosting services for internal customers. Since the beginning, ASSA ABLOY has two R&D Centers in Krakow: Shared Technologies and HID Global. In 2018, ASSA ABLOY opened Global Operations Center providing network, security and hosting services for internal customers. In 2019 EMEA division joined with its Digital Access Solutions business." +
-            "<br/><br/>" +
-            "At ASSA ABLOY we aim to help people feel safe, secure and experience a more open world. Our core values, beliefs and strategic objectives help guide our way. These words explain how we behave internally, towards each other: empowerment, innovation and integrity. We have trust in people and believe our employees can achieve great things. We have the courage to change and we welcome everyone's feedback on suggested improvements. We drive towards ambitious goals, always with tomorrow in mind. To work at ASSA ABLOY means to always be growing." +
-            "<br/><br/>" +
-            "We provide a safe and respectful work environment where everyone is welcome. The office atmosphere is open, honest and friendly. We sit in an open landscape that encourages interaction and communication. We also believe that work-life-balance is essential for long-term productivity and employee satisfaction. Flexible working hours is a part of this balance.",
+            "The ASSA ABLOY Group is the global leader in access solutions. The Group is operating worldwide with 48,000 employees and sales of SEK 88 billion. ASSA ABLOY’s innovations enable safe, secure and convenient access to physical and digital places. The Group has leading positions in areas such as efficient door openings, trusted identities and entrance automation. When you walk through an automatic door, stay in a hotel or authenticate your identity, then you’re probably using our products or services. Since the beginning, ASSA ABLOY has two R&D Centers in Krakow: Group Technology Team and HID Global developing products, platforms and interfaces. In 2019 EMEA division joined with its Digital Access Solutions business." +
+            "<br/><a href='https://www.youtube.com/watch?v=FOgtWDhImRw'>ASSA ABLOY in short 2020</a>",
         "image": require('@/assets/images/partners/main/79d39b33-f69b-44f7-a6db-f2442bdc6f46.png')
     },
     {
