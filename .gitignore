@@ -21,3 +21,6 @@ yarn-error.log*
 
 dist
 package-lock.json
+
+.deploy_key
+deploy_key

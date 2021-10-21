@@ -1,5 +1,4 @@
 const merge = require('babel-merge')
-const path = require('path')
 
 module.exports = {
 	css: {
@@ -40,14 +39,28 @@ module.exports = {
 	parallel: undefined,
 	
 	pluginOptions: {
-		'style-resources-loader': {
-			preProcessor: 'scss',
-			patterns: [
-				path.resolve(__dirname, './src/assets/sass/all.scss'),
-				path.resolve(__dirname, './node_modules/bootstrap/scss/bootstrap.scss'),
-        path.resolve(__dirname, './src/assets/sass/rwd.scss'),
-				path.resolve(__dirname, './src/assets/sass/animations.scss'),
-			],
-		},
-	},
+      'style-resources-loader': {
+        preProcessor: 'scss',
+        patterns: [
+          'src/assets/sass/all.scss',
+          'node_modules/bootstrap/scss/bootstrap.scss',
+          'src/assets/sass/animations.scss'
+        ]
+      },
+      prerenderSpa: {
+        registry: undefined,
+        renderRoutes: [
+          '/',
+          '/o-nas',
+          '/kontakt',
+          '/harmonogram',
+          '/partnerzy',
+          '/poprzednie-edycje',
+          '/prelegenci'
+        ],
+        useRenderEvent: false,
+        headless: true,
+        onlyProduction: true
+      }
+    },
 }

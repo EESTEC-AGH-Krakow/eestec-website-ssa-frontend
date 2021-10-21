@@ -1,87 +1,50 @@
 <template>
-    <b-container class="p-0" fluid id="app">
-        <header>
-            <Aside/>
+    <b-container fluid id="app" class="p-0">
+        <!--        <headroom>-->
+        <header class="sticky-top">
+            <Header/>
         </header>
+        <!--        </headroom>-->
         <main>
-            <Main id="main"/>
-           <!-- <Timer id="timer"/>-->
-            <AboutProject id="about-project"/>
-            <Gallery id="gallery"/>
-            <AboutUs id="about-us"/>
-            <Place id="place"/>
-            <FAQ id="faq"/>
-            <Partners id="partners"/>
+            <router-view></router-view>
         </main>
         <footer>
-            <Contact id="contact"/>
+            <Footer/>
         </footer>
+        <SpeakerModal></SpeakerModal>
+        <PartnerModal></PartnerModal>
     </b-container>
 </template>
 
 <script>
-  import Main from './components/Main'
-  import Aside from './components/Aside'
-  import AboutProject from './components/AboutProject'
-  import Gallery from './components/Gallery'
-  import AboutUs from './components/AboutUs'
-  import Contact from './components/Contact'
-  import FAQ from './components/FAQ'
-  import Partners from './components/Partners'
-  import Place from './components/Place'
-  import Timer from './components/Timer'
+  import Header from './components/Header'
+  import Footer from './components/Footer'
+  import SpeakerModal from "./components/SpeakerModal";
+  import PartnerModal from "./components/PartnerModal";
+  // import headroom from 'vue-headroom'
 
   export default {
     name: 'app',
     components: {
-      Aside,
-      Main,
-      AboutProject,
-      Gallery,
-      AboutUs,
-      Contact,
-      FAQ,
-      Partners,
-      Place,
-      Timer,
+        PartnerModal,
+        SpeakerModal,
+      Header,
+      Footer,
+      // headroom
     },
   }
 </script>
 
 <style lang="scss">
-    @font-face {
-        font-family: 'Norse';
-        font-style: normal;
-        font-weight: normal;
-        font-display: swap;
-        src: url("assets/fonts/Norse.otf");
-    }
-
-    @font-face {
-        font-family: 'Futhark';
-        font-style: normal;
-        font-weight: normal;
-        font-display: swap;
-        src: url("assets/fonts/BabelStoneRunicElderFuthark.ttf");
-    }
-
-    @font-face {
-        font-family: 'Elegant';
-        font-style: normal;
-        font-weight: normal;
-        font-display: swap;
-        src: url("assets/fonts/ElegantLux.otf");
-    }
+    @import url('https://fonts.googleapis.com/css?family=Francois+One|Lato:400,700&display=swap');
 
     * {
         box-sizing: border-box;
-        @extend .primary-font;
     }
 
     html, body {
         margin: 0;
         padding: 0;
-        font-size: 30px;
     }
 
     #app {
@@ -95,35 +58,26 @@
         flex: 1 0 auto;
     }
 
-    .btn {
-        @extend .rounded-0, .font-weight-bold, .bg-transparent, .border, .border-white, .px-4, .py-2;
-        border-width: 5px !important;
-
-        &:hover {
-            @extend .bg-white, .text-black;
+    .clickable {
+        &, & h6 {
+            transition: $transition-base;
         }
 
-        &:focus {
-            box-shadow: none !important;
-        }
-    }
+        &:focus, &:active, &:hover, &.active {
+            @extend .font-weight-bold, .shadow;
+            cursor: pointer;
+            transform: scale(1.1);
 
-    a {
-        &:hover {
-            text-decoration: none;
-        }
-    }
+            &:not(.clickable-dark) {
+                @extend .bg-secondary;
+            }
 
-    @for $i from 1 through 6 {
-        h#{$i} {
-            @extend .font-weight-bold;
-        }
-    }
-
-    .flip-card__top, .flip-card__bottom, .flip-card__back, .flip-card__back-bottom {
-        &, &::before {
-            width: 5em !important;
-            @extend .third-font;
+            &.clickable-dark {
+                background-color: darken($secondary, 15%);
+                &, & h6 {
+                    @extend .text-light;
+                }
+            }
         }
     }
 </style>
