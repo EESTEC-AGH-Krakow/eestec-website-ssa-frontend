@@ -69,7 +69,6 @@
         <li>negocjacje</li>
         <li>radzenie sobie ze stresem</li>
         <li>sztuka prezentacji</li>
-        <li>radzenie sobie ze stresem</li>
         <li>skuteczna komunikacja</li>
         <li>i wiele innych…</li>
       </ul>
