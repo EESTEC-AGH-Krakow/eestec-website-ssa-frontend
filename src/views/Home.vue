@@ -1,16 +1,18 @@
 <template>
   <div>
     <b-row no-gutters class="baner position-relative align-items-center"
-           :style="{ 'background-image': `url(${require('@/assets/images/home/baner.jpg')})`}">
+           :style="{ 'background-image': `url(${require('@/assets/images/home/ssa12_baner.jpg')})`}">
       <b-col offset="1" cols="6" class="d-flex flex-column">
         <h1 class="text-white text-uppercase">
-          <span class="font-weight-bold display-4">11. edycja</span>
+          <span class="font-weight-bold display-4">12. edycja</span>
           <br/>
           darmowych warsztatów
           <br/>
           z umiejętności miękkich
         </h1>
-        <span class="text-white">Online 26 listopada - 6 grudnia 2020 r.</span>
+        <span class="text-white">6 - 12 grudnia 2021 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
+         
+
 <!--        <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"-->
 <!--                  href="https://docs.google.com/forms/d/e/1FAIpQLSc0KDgpu6-cW1n7I7lWZBc1ZYbZ10ElP680KFYlQrPAUBUu4w/viewform"-->
 <!--                  target="_blank">Sign up-->
@@ -28,14 +30,15 @@
           </b-col>
           <b-col md="12" lg="6" class="order-2 order-lg-2 d-flex flex-column py-3 py-lg-0">
             <p class="text-justify">
-              Mimo sytuacji pandemicznej jaka nas zastała, nie przerywamy przygody z Soft Skills Academy. Jesteśmy
-              zdania, że&nbsp;jeżeli nie&nbsp;jesteś w&nbsp;stanie czegoś zmienić to&nbsp;postaraj się&nbsp;do&nbsp;tego
-              dopasować. Dlatego już&nbsp;26&nbsp;listopada otwieramy jedenastą edycję projektu, jednak tym&nbsp;razem
-              zobaczymy się&nbsp;online. Przeprowadzonych zostanie przeszło 30&nbsp;warsztatów z&nbsp;zakresu
-              umiejętności miękkich, a&nbsp;ponadto poruszane zostaną także tematy związane z&nbsp;zarządzaniem
-              finansami oraz psychologią. Jest to&nbsp;idealna okazja i&nbsp;czas do&nbsp;zainwestowania w&nbsp;siebie.
-              Szkolenia są&nbsp;prowadzone przez doświadczonych trenerów, a&nbsp;uczestnicy warsztatów otrzymują
-              certyfikat uczestnictwa.
+             6 grudnia odbędzie się już 12 edycja największych warsztatów 
+             umiejętności w Małopolsce. Podczas tej wyjątkowej edycji weźmiesz 
+             udział w warsztatach i wykładach, które ułatwią ci podejmowanie 
+             dalszych kroków w karierze jak i w życiu prywatnym. Podczas 
+             wydarzenia poruszone zostaną tematy z zakresu komunikacji, 
+             autoprezentacji czy psychologii. Jest to idealna okazja i czas do 
+             zainwestowania w siebie. Szkolenia są prowadzone przez 
+             doświadczonych trenerów, a uczestnicy warsztatów otrzymają 
+             certyfikat uczestnictwa.
             </p>
             <span>A wszystko to zupełnie za darmo!</span>
             <b-button :to="{ name: 'about' }" class="mt-2 ml-auto px-4 py-2 text-uppercase">Dowiedz się więcej
@@ -55,19 +58,19 @@
         do&nbsp;zastąpienia przez żadną maszynę czy&nbsp;program.
       </p>
     </RowContent>
-    <RowContent :photo="require('@/assets/images/home/szkolenia.jpg')" reverse>
+    <RowContent :photo="require('@/assets/images/home/ssa12_szkolenia.jpg')" reverse>
       <h3 class="align-self-start mb-4">Szkolenia</h3>
       <p>
-        Na jedenastą edycję wydarzenia przypada jedenaście dni szkoleń, podczas których poruszymy tematy takie jak:
+        Na dwunastą edycję wydarzenia przypada 7 dni szkoleń, podczas których poruszymy tematy takie jak:
       </p>
       <ul class="align-self-start">
-        <li>zarządzanie czasem</li>
+        <li>personal branding</li>
+        <li>pewność siebie</li>
         <li>negocjacje</li>
-        <li>wystąpienia online - jak robić to profesjonalnie</li>
-        <li>kreatywność a rozwiązywanie konfliktów</li>
-        <li>skuteczna komunikacja</li>
         <li>radzenie sobie ze stresem</li>
-        <li>nieszablonowe myślenie</li>
+        <li>sztuka prezentacji</li>
+        <li>radzenie sobie ze stresem</li>
+        <li>skuteczna komunikacja</li>
         <li>i wiele innych…</li>
       </ul>
       <b-button :to="{ name: 'timetable' }" class="mt-2 mr-auto px-4 py-2 text-uppercase bg-primary">Zobacz
@@ -91,10 +94,11 @@
     <RowContent :photo="require('@/assets/images/home/partnerzy.jpg')" reverse>
       <h3 class="align-self-start mb-4">Partnerzy</h3>
       <p class="text-justify">
-        Od 2011 roku nasze wydarzenie odbywa się&nbsp;pod&nbsp;honorowym patronatem Jego Magnificencji Rektora Akademii
-        Górniczo-Hutniczej. Od&nbsp;pięciu lat&nbsp;patronatem obejmuje nas&nbsp;także Miasto Kraków. Współpracujemy
-        również z&nbsp;wieloma firmami i&nbsp;organizacjami, wśród których możemy wyróżnić takie marki
-        jak&nbsp;Assa Abloy czy&nbsp;HID Global.
+        Od 12 lat Soft Skills Academy współpracuje z wieloma firmami 
+        cieszącymi się uznaniem na rynku pracy. W ramach 
+        wydarzenia nasi Partnerzy poprowadzą dedykowane 
+        warsztaty. Wśród firm, z którymi współpracujemy możemy 
+        wyróżnić takie marki jak&nbsp;Assa Abloy czy&nbsp;HID Global.
       </p>
       <b-button :to="{ name: 'partners' }" class="mt-2 mr-auto px-4 py-2 text-uppercase bg-primary">Dowiedz się więcej
       </b-button>
