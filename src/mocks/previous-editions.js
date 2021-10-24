@@ -25,7 +25,7 @@ export default [
         "image":require('@/assets/images/previous-editions/ssa-8-img.jpg')
     },
     {
-        "id":5,
+        "id":4,
         "title":"SOFT SKILLS ACADEMY 7",
         "year":"2016",
         "description":"37 warsztatów w 7 dni - w tym 2 weekendowe warsztaty HARD - tę jakże bogatą ofertę przedstawiła w 2016 roku 7. edycja największych w Krakowie darmowych warsztatów z umiejętności miękkich przygotowana przez organizację EESTEC AGH Kraków. Zapewniono miejsca dla aż 800 uczestników, którymi byli studenci krakowskich uczelni, a o samym wydarzeniu można było usłyszeć w radio RMF Maxxx i Radio 17.\n" +
@@ -34,7 +34,7 @@ export default [
         "image":require('@/assets/images/previous-editions/ssa-7-img.jpg')
     },
     {
-        "id":6,
+        "id":5,
         "title":"SOFT SKILLS ACADEMY 6",
         "year":"2015",
         "description":"Szósta edycja Soft Skills Academy przyniosła rekordową ilość zgłoszeń - aż 1400. Chcieliśmy dać studentom coś unikatowego, więc zdecydowaliśmy się wprowadzić intensywne warsztaty weekendowe trwające 16 godzin. Ducha SSA podtrzymywali wtedy wspaniali Rafał Dąbrowski i Kamil Jarząb. Ponadto jednymi z prelegentów byli trenerzy z EESTECu, którzy na długo pozostali w pamięci uczestników.",
