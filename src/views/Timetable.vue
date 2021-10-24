@@ -1,3 +1,4 @@
+<!--
 <template>
     <b-row no-gutters>
         <b-col cols="12" class="pb-2">
@@ -87,4 +88,20 @@
 
 <style scoped lang="scss">
 
+</style>
+-->
+
+<template>
+  <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
+</template>
+
+<script>
+
+</script>
+
+<style scoped lang="scss">
+.temp {
+        text-align: center;
+        font-size: 2.7rem;
+    }
 </style>
