@@ -1,3 +1,4 @@
+<!--
 <template>
     <b-row no-gutters>
         <b-row no-gutters class="d-flex justify-content-center">
@@ -59,4 +60,20 @@
 
 <style scoped lang="scss">
 
+</style>
+-->
+
+<template>
+  <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
+</template>
+
+<script>
+
+</script>
+
+<style scoped lang="scss">
+.temp {
+        text-align: center;
+        font-size: 2.7rem;
+    }
 </style>
