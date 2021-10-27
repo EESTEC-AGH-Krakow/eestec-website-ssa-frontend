@@ -21,7 +21,7 @@ export default [
             "           Nie zwlekaj i napisz do nas!<br/>\n" +
             "           📧 board@eestec.pl<br/>\n" +
             "           🌐 www.eestec.pl",
-        "image":require('@/assets/images/eestec_logo_small.png')
+        "image":require('@/assets/images/contact/eestec_logo.png')
     }
 ]
 
