@@ -4,7 +4,7 @@ export default [
         "title":"SOFT SKILLS ACADEMY 11",
         "year":"2020",
         "description":"W 2020 roku odbyła się 11 edycja SSA, podczas której odbyło się 40 warsztatów umiejętności miękkich. Była to pierwsza w historii edycja, która w wyniku panującej pandemii zorganizowana została w całości w formie online. Pomimo trybu zdalnego edycja ta cieszyła się dużą popularnością, a ponadto osiągnęła zasięg ogólnopolski. Edycja ta została objęta Honorowym Patronatem przez Jego Magnificencję Rektora Akademii Górniczo-Hutniczej oraz Miasto Kraków.",
-        "image":require('@/assets/images/previous-editions/ssa-11-img.png')
+        "image":require('@/assets/images/previous-editions/SSA-11-img.png')
     },
     {
         "id":2,
