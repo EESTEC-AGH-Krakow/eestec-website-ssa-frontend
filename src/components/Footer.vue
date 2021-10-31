@@ -29,7 +29,6 @@
             </b-navbar>
         </b-col>
     </b-row>
-    test
 </template>
 
 <script>
