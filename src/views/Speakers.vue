@@ -1,4 +1,4 @@
-<!--
+
 <template>
     <b-row no-gutters class="d-flex justify-content-center">
         <Speaker
@@ -33,8 +33,8 @@
 <style scoped lang="scss">
 
 </style>
--->
 
+<!--
 <template>
   <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
 </template>
@@ -49,3 +49,4 @@
         font-size: 2.7rem;
     }
 </style>
+-->

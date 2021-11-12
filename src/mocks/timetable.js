@@ -11,7 +11,7 @@ export default {
                 {
                     "firstName": "Olga",
                     "lastName": "Kuśnieruk ",
-                    "image": require('@/assets/images/speakers/olga_kusnieruk.JPG')
+                    "image": require('@/assets/images/speakers/olga_kusnieruk.png')
                 }
             ]
         },
@@ -25,7 +25,7 @@ export default {
                 {
                     "firstName": "Karol",
                     "lastName": "Kania",
-                    "image": require('@/assets/images/speakers/karol_kania.PNG')
+                    "image": require('@/assets/images/speakers/karol_kania.jpg')
                 },
                 {
                     "firstName": "Oskar",
