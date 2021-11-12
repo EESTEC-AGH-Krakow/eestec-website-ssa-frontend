@@ -1,8 +1,8 @@
-<!--
+
 <template>
     <b-row no-gutters>
-        <b-col cols="12" class="pb-2">
-            <carousel :per-page="1" :per-page-custom="[[576, 2],[768, 3],[992, 4],[1200, 5]]" :pagination-color="'#7AC244'">
+        <b-col cols="12" class="pb-3">
+            <carousel :per-page="1" :per-page-custom="[[0,1],[263,3],[768, 4],[992, 7]]" :pagination-color="'#7AC244'">
                 <slide v-for="day of Object.keys(timetable)" :key="new Date(day).getDate()">
                     <b-card class="bg-primary clickable" @click="selectDay(day)" :class="{active: selectedDay(day)}">
                         <b-card-body class="d-flex flex-column align-items-center p-0">
@@ -16,14 +16,14 @@
         <b-col cols="12" class="mb-3">
             <b-container fluid>
                 <b-row>
-                    <b-col cols="12" md="6">
-                        <b-row>
-                            <b-col cols="12" lg="6" v-for="(workshop, index) in selectedWorkshops" :key="index" class="d-flex mb-2" @click="selectWorkshop(workshop)">
+                    <b-col cols="12" md="5"  align="center">
+                        <b-row class="row justify-content-center">
+                            <b-col cols="12" lg="12" v-for="(workshop, index) in selectedWorkshops" :key="index" class="d-flex  mb-3" @click="selectWorkshop(workshop)">
                                 <WorkshopCard :workshop="workshop" class="flex-fill"/>
                             </b-col>
                         </b-row>
                     </b-col>
-                    <b-col cols="12" md="6" class="d-none d-md-flex">
+                    <b-col cols="12" md="7" class="d-none d-md-flex">
                         <b-card :title="selectedWorkshop.name" title-tag="h5" align="center" body-class="d-flex flex-column" class="flex-fill mb-2">
                             <WorkshopDetails :selectedWorkshop="selectedWorkshop" />
                         </b-card>
@@ -89,19 +89,5 @@
 <style scoped lang="scss">
 
 </style>
--->
 
-<template>
-  <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
-</template>
 
-<script>
-
-</script>
-
-<style scoped lang="scss">
-.temp {
-        text-align: center;
-        font-size: 2.7rem;
-    }
-</style>
