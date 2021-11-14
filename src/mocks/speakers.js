@@ -218,7 +218,7 @@ export default [
             "[ENG] Emotional Intelligence"
         ],
         "description": "Soft Skills Trainer, Facilitator, Electrical Engineering student and nap lover.",
-        "image": require('@/assets/images/speakers/unknown.png')
+        "image": require('@/assets/images/speakers/dimitra-petsa.png')
     },
     {
         "id": 23,

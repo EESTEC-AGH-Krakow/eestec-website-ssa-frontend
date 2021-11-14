@@ -336,7 +336,7 @@ export default {
                 {
                     "firstName": "Dimitra",
                     "lastName": "Petsa",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/dimitra-petsa.png')
                 },
                 {
                     "firstName": "Piotr",
