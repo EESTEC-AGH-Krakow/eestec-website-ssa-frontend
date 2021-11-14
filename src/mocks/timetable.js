@@ -172,7 +172,7 @@ export default {
                 {
                     "firstName": "Tomasz",
                     "lastName": "Waleczko",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/tomasz-waleczko.png')
                 }
             ]
         },
@@ -385,12 +385,12 @@ export default {
             "start": "11:00",
             "end": "17:00",
             "location": "AGH",
-            "description": "Opis pojawi się wkrótce",
+            "description": "\"Umiejętność komunikowania się stała się w dzisiejszym świecie towarem, za który gotów jestem płacić więcej, niż za jakikolwiek inny\" ~ John D. Rockefeller <br/><br/>Bycie asertywnym może wydawać się trudne, szczególnie jeśli nie jesteśmy zbyt pewni siebie, a z tym najczęściej postawa asertywna jest utożsamiana. Dobra wiadomość jest taka, że asertywność jest jak mięsień i można ją wytrenować. Warto to robić, ponieważ dzięki niej Twoje relacje prywatne i zawodowe staną się znacznie zdrowsze.<br/><br/>Podczas warsztatu dowiesz się:<ul><li>czym jest asertywna komunikacja,</li><li>jak formułować asertywne komunikaty oraz unikać komunikatów agresywnych i uległych,</li><li>w jaki sposób rozpoznawać i unikać błędów oraz jak eliminować bariery komunikacyjne,</li><li>jak wzmocnić poczucie pewności siebie w relacjach zawodowych,</li><li>jak radzić sobie z manipulacją i agresją,</li><li>jakie narzędzia, techniki i metody wspierają asertywne zachowania w relacjach zawodowych i osobistych,</li><li>zapoznasz się z technikami i zasadami skutecznej komunikacji oraz czynnikami sprzyjającymi efektywnej komunikacji.</li></ul>",
             "speakers": [
                 {
                     "firstName": "Sylwia",
                     "lastName": "Zduńczyk",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/sylwia-zdunczyk.png')
                 }
             ]
         },

@@ -138,7 +138,7 @@ export default [
             "Jak rozmawiać z człowiekiem o odmiennych poglądach. WEBINAR"
         ],
         "description": "Więcej informacji wkrótce.",
-        "image": require('@/assets/images/speakers/unknown.png')
+        "image": require('@/assets/images/speakers/tomasz-waleczko.png')
     },
     {
         "id": 15,
@@ -257,8 +257,8 @@ export default [
         "workshopNames": [
             "Asertywna komunikacja jako podstawa współpracy"
         ],
-        "description": "Więcej informacji wkrótce.",
-        "image": require('@/assets/images/speakers/unknown.png')
+        "description": "Trener zmiany i autentycznego przywództwa, mentorka i akredytowana Coach Biznesu oraz Coach Kariery (ACC ICF), konsultantka i certyfikowana trener biznesu,  akredytowana konsultantka narzędzi psychometrycznych Insightful Profiler™ iP121 oraz MindSonar®, ekspert HRM.<br/><br/>Ambasadorka „Akademii Kobiecej Przedsiębiorczości”, dziennikarka i autorka publikacji dwumiesięcznika i portalu  „Business Intelligence”, bohaterka książki „69 Biznesowych Porad dla Przedsiębiorczych Kobiet” Elżbiety Jachymczak oraz Kobieta Krakowa 2018 (projektu realizowanego przez Fundację Miasto Kobiet).<br/><br/>Pomaga w odnalezieniu zawodowego powołania, wspiera w radzeniu sobie ze zmianą w życiu zawodowym lub osobistym, a także w rozwijaniu kompetencji menedżerskich i wzmacnianiu autentycznego przywództwa w życiu i biznesie.<br/><br/><a href='www.sylwiazdunczyk.pl'><br/><br/><a href='www.facebook.com/PomocwzmianieSylwiaZdunczyk'>",
+        "image": require('@/assets/images/speakers/sylwia-zdunczyk.png')
     },
     {
         "id": 27,
