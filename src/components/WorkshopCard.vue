@@ -24,6 +24,6 @@
 
 <style scoped lang="scss">
     h6 {
-        color: $text-muted;
+        color: #eef1dc;
     }
 </style>

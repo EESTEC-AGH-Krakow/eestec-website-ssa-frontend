@@ -39,12 +39,12 @@ export default {
             "start": "17:00",
             "end": "19:00",
             "location": "Online",
-            "description": "Brak opisu",
+            "description": "Opis pojawi się wkrótce",
             "speakers": [
                 {
                     "firstName": "Mateusz",
                     "lastName": "Jabłonowski",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/allegro.png')
                 }
             ]
         },
@@ -74,7 +74,7 @@ export default {
                 {
                     "firstName": "Michał",
                     "lastName": "Adamczyk",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/michal-adamczyk.jpg')
                 }
             ]
         },
@@ -203,7 +203,7 @@ export default {
                 {
                     "firstName": "Michał",
                     "lastName": "Adamczyk",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/michal-adamczyk.jpg')
                 }
             ]
         },
@@ -212,12 +212,12 @@ export default {
             "start": "17:00",
             "end": "19:00",
             "location": "AGH",
-            "description": "brak opisu",
+            "description": "Opis pojawi się wkrótce",
             "speakers": [
                 {
-                    "firstName": "Brak",
-                    "lastName": "danych",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "firstName": "GE",
+                    "lastName": "Healthcare",
+                    "image": require('@/assets/images/speakers/GE-Healthcare.png')
                 }
             ]
         },
@@ -226,12 +226,12 @@ export default {
             "start": "17:00",
             "end": "19:00",
             "location": "Online",
-            "description": "brak opisu",
+            "description": "Opis pojawi się wkrótce",
             "speakers": [
                 {
-                    "firstName": "Brak",
-                    "lastName": "danych",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "firstName": "ASSA ABLOY",
+                    "lastName": "& HID Global",
+                    "image": require('@/assets/images/speakers/assa-abloy-hid.png')
                 }
             ]
         },
@@ -351,16 +351,16 @@ export default {
     ],
     "Dec 11, 2021": [
         {
-            "name": "Umiejętności pryszłości - jakie umiejętności miękkie warto szlifować",
+            "name": "Umiejętności przyszłości - jakie umiejętności miękkie warto szlifować",
             "start": "10:00",
             "end": "16:00",
             "location": "AGH",
-            "description": "brak opisu",
+            "description": "Opis pojawi się wkrótce",
             "speakers": [
                 {
                     "firstName": "Łukasz",
                     "lastName": "Pawłyszyn",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/allegro.png')
                 }
             ]
         },
@@ -374,7 +374,7 @@ export default {
                 {
                     "firstName": "Grzegorz",
                     "lastName": "Carowicz",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/grzegorz-carowicz.png')
                 }
             ]
         }
@@ -385,7 +385,7 @@ export default {
             "start": "11:00",
             "end": "17:00",
             "location": "AGH",
-            "description": "brak opisu",
+            "description": "Opis pojawi się wkrótce",
             "speakers": [
                 {
                     "firstName": "Sylwia",
