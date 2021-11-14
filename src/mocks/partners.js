@@ -81,8 +81,16 @@ export default [
     {
         "id": 12,
         "type": "media",
+        "name": "Deva and semKrk",
+        "description": "",
+        "image": require('@/assets/images/partners/media/deva-and-semKrk.png')
+    },
+    {
+        "id": 13,
+        "type": "media",
         "name": "ITKrk",
         "description": "",
         "image": require('@/assets/images/partners/media/ITKrk.png')
     },
+    
 ]
