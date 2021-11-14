@@ -11,7 +11,7 @@ export default {
                 {
                     "firstName": "Olga",
                     "lastName": "Kuśnieruk",
-                    "image": require('@/assets/images/speakers/olga_kusnieruk.png')
+                    "image": require('@/assets/images/speakers/olga-kusnieruk.png')
                 }
             ]
         },
@@ -25,12 +25,12 @@ export default {
                 {
                     "firstName": "Karol",
                     "lastName": "Kania",
-                    "image": require('@/assets/images/speakers/karol_kania.jpg')
+                    "image": require('@/assets/images/speakers/karol-kania.png')
                 },
                 {
                     "firstName": "Oskar",
-                    "lastName": "Pawica ",
-                    "image": require('@/assets/images/speakers/oskar_pawica.jpg')
+                    "lastName": "Pawica",
+                    "image": require('@/assets/images/speakers/oskar-pawica.png')
                 }
             ]
         },
@@ -58,7 +58,7 @@ export default {
                 {
                     "firstName": "Bartosz",
                     "lastName": "Furtak",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/bartosz-furtak.png')
                 }
             ]
         },
@@ -88,7 +88,7 @@ export default {
                 {
                     "firstName": "Michał",
                     "lastName": "Juszczak",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/michal-juszczak.png')
                 }
             ]
         },
@@ -102,7 +102,7 @@ export default {
                 {
                     "firstName": "Anna",
                     "lastName": "Legan",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/anna-legan.png')
                 }
             ]
         },
@@ -116,7 +116,7 @@ export default {
                 {
                     "firstName": "Damian",
                     "lastName": "Rogala",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/damian-rogala.png')
                 }
             ]
         },
@@ -134,12 +134,12 @@ export default {
                 {
                     "firstName": "Maria",
                     "lastName": "Klimova",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/maria-klimova.png')
                 },
                 {
                     "firstName": "Milena",
                     "lastName": "Papp",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/milena-papp.png')
                 }
             ]
         },
@@ -153,12 +153,12 @@ export default {
                 {
                     "firstName": "Dominika",
                     "lastName": "Zając",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/dominika-zajac.png')
                 },
                 {
                     "firstName": "Artur",
                     "lastName": "Grabowski",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/artur-grabowski.png')
                 }
             ]
         },
@@ -186,7 +186,7 @@ export default {
                 {
                     "firstName": "Katarzyna",
                     "lastName": "Chachlowska",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/katarzyna-chachlowska.png')
                 }
             ]
         }
@@ -245,7 +245,7 @@ export default {
                 {
                     "firstName": "Agnieszka",
                     "lastName": "Kwiatkowska",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/agnieszka-kwiatkowska.png')
                 }
             ]
         },
@@ -259,7 +259,7 @@ export default {
                 {
                     "firstName": "Olga",
                     "lastName": "Janiszewska",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/olga-janiszewska.png')
                 }
             ]
         },
@@ -273,7 +273,7 @@ export default {
                 {
                     "firstName": "Damian",
                     "lastName": "Rogala",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/damian-rogala.png')
                 }
             ]
         }
@@ -289,12 +289,12 @@ export default {
                 {
                     "firstName": "Joanna",
                     "lastName": "Bagadzińska",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/joanna-bagadzinska.png')
                 },
                 {
                     "firstName": "Cezary",
                     "lastName": "Paprzycki",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/cezary-paprzycki.png')
                 }
             ]
         },
@@ -308,7 +308,7 @@ export default {
                 {
                     "firstName": "Piotr",
                     "lastName": "Lewandowski",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/piotr-lewandowski.png')
                 }
             ]
         },
@@ -322,7 +322,7 @@ export default {
                 {
                     "firstName": "Izabela",
                     "lastName": "Urbańska",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/izabela-urbanska.png')
                 },
             ]
         },
@@ -341,7 +341,7 @@ export default {
                 {
                     "firstName": "Piotr",
                     "lastName": "Połeć",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/piotr-polec.jpg')
                 }
 
             ]
@@ -404,12 +404,12 @@ export default {
                 {
                     "firstName": "Melike",
                     "lastName": "Serin",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/melike-serin.png')
                 },
                 {
                     "firstName": "Sebastian",
                     "lastName": "Skoczeń",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/sebastian-skoczen.png')
                 }
             ]
         },
@@ -423,9 +423,10 @@ export default {
                 {
                     "firstName": "Kamila",
                     "lastName": "Splinter",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "image": require('@/assets/images/speakers/kamila-splinter.png')
                 }
             ]
-        }
+        },
+
     ]
 }
