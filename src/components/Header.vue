@@ -11,7 +11,7 @@
                         <HeaderNav class="mx-auto" />
                     </b-col>
                     <b-col lg="2" class="d-none d-lg-flex justify-content-end align-items-center">
-<!--                        <b-button size="lg" href="http://bit.ly/aplikujnaSSA10" target="_blank">zapisy zamknięte</b-button>-->
+                    <b-button size="lg" href="https://forms.gle/mRgEjxCq6FqFncFN7" target="_blank">ZAPISY</b-button>
                     </b-col>
                 </b-row>
 
