@@ -1,5 +1,5 @@
 <template>
-    <b-col cols="12" md="6" lg="4">
+    <b-col cols="12" md="5" lg="4" xl="3">>
         <b-card>
             <b-card-body class="text-center text-justify">
                 <b-card-img :src="speaker.image" class="rounded-circle mb-4"></b-card-img>
