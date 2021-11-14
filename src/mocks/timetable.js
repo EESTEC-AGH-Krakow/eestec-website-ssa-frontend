@@ -381,7 +381,7 @@ export default {
     ],
     "Dec 12, 2021": [
         {
-            "name": "Asertywna komunikacja jako podstawa  współpracy",
+            "name": "Asertywna komunikacja jako podstawa współpracy",
             "start": "11:00",
             "end": "17:00",
             "location": "AGH",
