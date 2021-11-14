@@ -369,7 +369,7 @@ export default {
             "start": "11:00",
             "end": "17:00",
             "location": "AGH",
-            "description": "Plan Warsztatów:<ol type=\"1\"><li>Stres, czym jest, znaczenie ogólnoustrojowe i jego . konsekwencje fizjologiczne.</li><li>Rodzaje stresorów.</li><li>Ciało migdałowate i kora przedczołowa - jak uspokoić swój mózg emocjonalny.</li><li>",
+            "description": "Plan Warsztatów:<ol type=\"1\"><li>Stres, czym jest, znaczenie ogólnoustrojowe i jego . konsekwencje fizjologiczne.</li><li>Rodzaje stresorów.</li><li>Ciało migdałowate i kora przedczołowa - jak uspokoić swój mózg emocjonalny.</li><li>Kreatywny mózg - jak stres oddziałuje na procesy kognitywne.</li><li>Metody treningu i redukcji stresu: techniki oddechowe, techniki uważności, przekierowanie myśli</li><li>Zdrowa dieta dla mózgu.</li></ol>",
             "speakers": [
                 {
                     "firstName": "Grzegorz",
