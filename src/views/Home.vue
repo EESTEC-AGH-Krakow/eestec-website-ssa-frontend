@@ -11,10 +11,10 @@
           z umiejętności miękkich
         </h1>
         <span class="text-white">6 - 12 grudnia 2021 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
-        <!--        <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"-->
-        <!--                  href="https://docs.google.com/forms/d/e/1FAIpQLSc0KDgpu6-cW1n7I7lWZBc1ZYbZ10ElP680KFYlQrPAUBUu4w/viewform"-->
-        <!--                  target="_blank">Sign up-->
-        <!--        </b-button>-->
+        <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
+        href="https://forms.gle/mRgEjxCq6FqFncFN7"
+        target="_blank">Sign up
+        </b-button>
       </b-col>
     </b-row>
     <b-row no-gutters class="flex-wrap-reverse flex-lg-nowrap align-items-stretch py-5">
