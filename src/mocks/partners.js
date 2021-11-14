@@ -49,5 +49,40 @@ export default [
         "name": "Cisco",
         "description": "We connect everything: people, processes, data, and things. We innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. And we do it in style with unique personalities who aren't afraid to change the way the world works, lives, plays and learns.<br/><br/>We are thought leaders, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. We celebrate the creativity and diversity that fuels our innovation. We are dreamers and we are doers.",
         "image": require('@/assets/images/partners/regular/cisco.png')
-    }
+    },
+    {
+        "id": 8,
+        "type": "media",
+        "name": "BIS",
+        "description": "",
+        "image": require('@/assets/images/partners/media/BIS.png')
+    },
+    {
+        "id": 9,
+        "type": "media",
+        "name": "Radio 1.7",
+        "description": "",
+        "image": require('@/assets/images/partners/media/Radio-1.7.png')
+    },
+    {
+        "id": 10,
+        "type": "media",
+        "name": "4programmers.net",
+        "description": "",
+        "image": require('@/assets/images/partners/media/4programmers.png')
+    },
+    {
+        "id": 11,
+        "type": "media",
+        "name": "studentnews.pl",
+        "description": "",
+        "image": require('@/assets/images/partners/media/studentnews.png')
+    },
+    {
+        "id": 12,
+        "type": "media",
+        "name": "ITKrk",
+        "description": "",
+        "image": require('@/assets/images/partners/media/ITKrk.png')
+    },
 ]
