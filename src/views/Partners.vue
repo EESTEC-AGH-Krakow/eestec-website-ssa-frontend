@@ -1,4 +1,3 @@
-<!--
 <template>
     <b-row no-gutters>
         <b-row no-gutters class="d-flex justify-content-center">
@@ -21,6 +20,7 @@
                     v-for="partner in filteredPartners('regular')"
             />
         </b-row>
+        <!--
         <b-row no-gutters class="d-flex justify-content-center">
             <b-col cols="12" class="mt-5">
                 <h2 class="text-center text-uppercase font-weight-normal">partnerzy medialny</h2>
@@ -31,6 +31,7 @@
                     v-for="partner in filteredPartners('media')"
             />
         </b-row>
+        -->
     </b-row>
 </template>
 
@@ -60,20 +61,4 @@
 
 <style scoped lang="scss">
 
-</style>
--->
-
-<template>
-  <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
-</template>
-
-<script>
-
-</script>
-
-<style scoped lang="scss">
-.temp {
-        text-align: center;
-        font-size: 2.7rem;
-    }
 </style>
