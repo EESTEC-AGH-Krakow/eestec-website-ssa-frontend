@@ -207,7 +207,7 @@ export default [
         "workshopNames": [
             "Odporność psychiczna czyli jak zadbać o mentalną higienę” WEBINAR"
         ],
-        "description": "Z rekrutacją i poszukiwaniem talentów związana od ok. 4 lat. Wcześniej realizowała się w branżach związanych ze sprzedażą oraz eventami. Wspólny mianownik poprzednich doświadczeń znalazła w HR, bo w tym miejscu pracuje z ludźmi i dla ludzi. Najbardziej w swojej pracy ceni różnorodność zadań i różnorodność charakterów z którymi ma okazję współpracować. Czas prywatny przeznacza na gotowanie, odkrywanie nowych miejsc i dobrą książkę w tematyce rozwoju osobistego.",
+        "description": "Więcej informacji wkrótce.",
         "image": require('@/assets/images/speakers/izabela-urbanska.png')
     },
     {
@@ -308,6 +308,16 @@ export default [
             "Hack your interview - WEBINAR"
         ],
         "description": "HR Manager (rozmiar koszulki L (40/42)) Z branżą HR związana od ponad 8 lat, w tym od prawie 5 lat w ASSA ABLOY. W pracy w HR najbardziej ceni sobie możliwość kontaktu z ludźmi, różnorodność zadań i nowe wyzwania, które dają możliwość ciągłego rozwoju. Prywatnie miłośniczka bliższych i dalszych podróży, jazdy na rowerze i kina.",
-        "image": require('@/assets/images/speakers/unknown.png')
+        "image": require('@/assets/images/speakers/marta-przytula.png')
+    },
+    {
+        "id": 32,
+        "firstName": "Magdalena",
+        "lastName": "Urbańska",
+        "workshopNames": [
+            "Hack your interview - WEBINAR"
+        ],
+        "description": "Talent Acquisition Partner. Z rekrutacją i poszukiwaniem talentów związana od ok. 4 lat. Wcześniej realizowała się w branżach związanych ze sprzedażą oraz eventami. Wspólny mianownik poprzednich doświadczeń znalazła w HR, bo w tym miejscu pracuje z ludźmi i dla ludzi. Najbardziej w swojej pracy ceni różnorodność zadań i różnorodność charakterów z którymi ma okazję współpracować. Czas prywatny przeznacza na gotowanie, odkrywanie nowych miejsc i dobrą książkę w tematyce rozwoju osobistego.",
+        "image": require('@/assets/images/speakers/magdalena-urbanska.png')
     },
 ]

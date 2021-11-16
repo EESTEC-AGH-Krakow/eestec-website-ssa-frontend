@@ -44,6 +44,11 @@ export default {
                 {
                     "firstName": "Mateusz",
                     "lastName": "Jabłonowski",
+                    "image": require('@/assets/images/speakers/unknown.png')
+                }, 
+                {
+                    "firstName": "Allegro",
+                    "lastName": "",
                     "image": require('@/assets/images/speakers/allegro.png')
                 }
             ]
@@ -132,6 +137,11 @@ export default {
             "description": "Have you ever been stressed because of so many things going on at the same time? Have you ever rushed things as all of them were equally important and you wanted to finish before the deadline? If the answer is YES to at least one of these questions, then you definitely need to meet us! During our workshop we will be working towards understanding the effect the stress can have on us as well as on some useful techniques on handling it. The workshop will be delivered in English and we will be working in smaller groups to better understand the topic.",
             "speakers": [
                 {
+                    "firstName": "Cisco",
+                    "lastName": "",
+                    "image": require('@/assets/images/speakers/cisco.png')
+                },
+                {
                     "firstName": "Maria",
                     "lastName": "Klimova",
                     "image": require('@/assets/images/speakers/maria-klimova.png')
@@ -218,6 +228,11 @@ export default {
                     "firstName": "GE",
                     "lastName": "Healthcare",
                     "image": require('@/assets/images/speakers/GE-Healthcare.png')
+                },
+                {
+                    "firstName": "Krystyna",
+                    "lastName": "Woźniak",
+                    "image": require('@/assets/images/speakers/unknown.png')
                 }
             ]
         },
@@ -232,6 +247,16 @@ export default {
                     "firstName": "ASSA ABLOY",
                     "lastName": "& HID Global",
                     "image": require('@/assets/images/speakers/assa-abloy-hid.png')
+                },
+                {
+                    "firstName": "Magdalena",
+                    "lastName": "Urbańska",
+                    "image": require('@/assets/images/speakers/magdalena-urbanska.png')
+                },
+                {
+                    "firstName": "Marta",
+                    "lastName": "Przytuła",
+                    "image": require('@/assets/images/speakers/marta-przytula.png')
                 }
             ]
         },
@@ -360,6 +385,11 @@ export default {
                 {
                     "firstName": "Łukasz",
                     "lastName": "Pawłyszyn",
+                    "image": require('@/assets/images/speakers/unknown.png')
+                }, 
+                {
+                    "firstName": "Allegro",
+                    "lastName": "",
                     "image": require('@/assets/images/speakers/allegro.png')
                 }
             ]
