@@ -139,7 +139,7 @@ export default {
                 {
                     "firstName": "Cisco",
                     "lastName": "",
-                    "image": require('@/assets/images/partners/regular/cisco.png')
+                    "image": require('@/assets/images/speakers/cisco.png')
                 },
                 {
                     "firstName": "Maria",
