@@ -55,7 +55,7 @@ export default [
         "type": "media",
         "name": "BIS",
         "description": "",
-        "image": require('@/assets/images/partners/media/BIS.png')
+        "image": require('@/assets/images/partners/media/BIS_logo.png')
     },
     {
         "id": 9,
