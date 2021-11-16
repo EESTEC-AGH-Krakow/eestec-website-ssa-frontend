@@ -212,7 +212,7 @@ export default {
             "start": "17:00",
             "end": "19:00",
             "location": "AGH",
-            "description": "Opis pojawi się wkrótce",
+            "description": "Zasady LEAN odegrały znaczącą rolę w zwiększaniu wydajności w organizacjach poprzez nacisk na redukcję kosztów, koncentrację na eliminacji marnotrawstwa i poleganiu na tym, aby wymagania klientów napędzały procesy. Chociaż LEAN wywodzi się z produkcji, jego podstawowe zasady można znaleźć w wielu rodzajach przedsiębiorstw, w których są stosowane na różne sposoby. Lean może działać w dowolnej dziedzinie, w której jest stosowany, ponieważ zapewnia podejście do podejmowania decyzji oparte na danych, kładąc nacisk na śledzenie przyczyn źródłowych. Metodologie doskonalenia są stosowane w świecie oprogramowania od bardzo dawna, a podejścia takie jak metodyka cyfrowa Agile i Lean odgrywają kluczową rolę w przyspieszeniu rozwoju produktów cyfrowych. LEAN Digital to metodologia, dzięki której firmy stosują zasady LEAN w procesie rozwoju nowych produktów cyfrowych. Świat startupów i przedsiębiorczości również czerpał wiele inspiracji z LEAN management. Podczas warsztatu zaprezentujemy rozmaite przykłady implementacji metodologii Lean w bardzo różnych, jak się wydaje, przestrzeniach rynkowych jak również zastanowimy się nad ponadczasowymi wartościami płynącymi z tej, opisanej już w XIX wieku, metodologii.",
             "speakers": [
                 {
                     "firstName": "GE",
@@ -226,7 +226,7 @@ export default {
             "start": "17:00",
             "end": "19:00",
             "location": "Online",
-            "description": "Opis pojawi się wkrótce",
+            "description": "Czyli opowieść o tym, jak stworzyć profesjonalne dokumenty aplikacyjne oraz czego można spodziewać się na rozmowie kwalifikacyjnej w międzynarodowej firmie! Specjaliści zajmujący się zawodowo rekrutacją kandydatów opowiedzą jak przygotować się do rozmowy kwalifikacyjnej, przedstawią jak może wyglądać oraz o co najlepiej zapytać aby dostać pracę marzeń.",
             "speakers": [
                 {
                     "firstName": "ASSA ABLOY",
@@ -329,7 +329,7 @@ export default {
         {
             "name": "[ENG] Emotional Intelligence",
             "start": "18:00",
-            "end": "20:00",
+            "end": "21:00",
             "location": "AGH",
             "description": "The world is shifting - we don’t grow our own food, we no longer work 12 hour shifts. Our challenges are completely different than those of a hundred years ago. We need new ways to overcome difficulties like stress, communication issues and lack of self/others’ awareness. This is when Emotional Intelligence comes into play. What is EI though and what are its components? Why do we need it and how can we practice and get better at it? In this training session you will be introduced to Emotional Intelligence and how it affects our lives. We’ll dive into the topic and try to discover more about it together.",
             "speakers": [
@@ -381,7 +381,7 @@ export default {
     ],
     "Dec 12, 2021": [
         {
-            "name": "Asertywna komunikacja jako podstawa współpracy",
+            "name": "Asertywność - sztuka skutecznej komunikacji",
             "start": "11:00",
             "end": "17:00",
             "location": "AGH",

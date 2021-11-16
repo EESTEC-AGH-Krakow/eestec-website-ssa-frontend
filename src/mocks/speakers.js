@@ -207,7 +207,7 @@ export default [
         "workshopNames": [
             "Odporność psychiczna czyli jak zadbać o mentalną higienę” WEBINAR"
         ],
-        "description": "Więcej informacji wkrótce.",
+        "description": "Z rekrutacją i poszukiwaniem talentów związana od ok. 4 lat. Wcześniej realizowała się w branżach związanych ze sprzedażą oraz eventami. Wspólny mianownik poprzednich doświadczeń znalazła w HR, bo w tym miejscu pracuje z ludźmi i dla ludzi. Najbardziej w swojej pracy ceni różnorodność zadań i różnorodność charakterów z którymi ma okazję współpracować. Czas prywatny przeznacza na gotowanie, odkrywanie nowych miejsc i dobrą książkę w tematyce rozwoju osobistego.",
         "image": require('@/assets/images/speakers/izabela-urbanska.png')
     },
     {
@@ -257,7 +257,7 @@ export default [
         "workshopNames": [
             "Asertywna komunikacja jako podstawa współpracy"
         ],
-        "description": "Trener zmiany i autentycznego przywództwa, mentorka i akredytowana Coach Biznesu oraz Coach Kariery (ACC ICF), konsultantka i certyfikowana trener biznesu,  akredytowana konsultantka narzędzi psychometrycznych Insightful Profiler™ iP121 oraz MindSonar®, ekspert HRM.<br/><br/>Ambasadorka „Akademii Kobiecej Przedsiębiorczości”, dziennikarka i autorka publikacji dwumiesięcznika i portalu  „Business Intelligence”, bohaterka książki „69 Biznesowych Porad dla Przedsiębiorczych Kobiet” Elżbiety Jachymczak oraz Kobieta Krakowa 2018 (projektu realizowanego przez Fundację Miasto Kobiet).<br/><br/>Pomaga w odnalezieniu zawodowego powołania, wspiera w radzeniu sobie ze zmianą w życiu zawodowym lub osobistym, a także w rozwijaniu kompetencji menedżerskich i wzmacnianiu autentycznego przywództwa w życiu i biznesie.<br/><br/><a href='www.sylwiazdunczyk.pl'><br/><br/><a href='www.facebook.com/PomocwzmianieSylwiaZdunczyk'>",
+        "description": "Trener zmiany i autentycznego przywództwa, mentorka i akredytowana Coach Biznesu oraz Coach Kariery (ACC ICF), konsultantka i certyfikowana trener biznesu,  akredytowana konsultantka narzędzi psychometrycznych Insightful Profiler™ iP121 oraz MindSonar®, ekspert HRM.<br/><br/>Ambasadorka „Akademii Kobiecej Przedsiębiorczości”, dziennikarka i autorka publikacji dwumiesięcznika i portalu  „Business Intelligence”, bohaterka książki „69 Biznesowych Porad dla Przedsiębiorczych Kobiet” Elżbiety Jachymczak oraz Kobieta Krakowa 2018 (projektu realizowanego przez Fundację Miasto Kobiet).<br/><br/>Pomaga w odnalezieniu zawodowego powołania, wspiera w radzeniu sobie ze zmianą w życiu zawodowym lub osobistym, a także w rozwijaniu kompetencji menedżerskich i wzmacnianiu autentycznego przywództwa w życiu i biznesie.<br/><br/><a href='www.sylwiazdunczyk.pl'>www.sylwiazdunczyk.pl</a><br/><br/><a href='www.facebook.com/PomocwzmianieSylwiaZdunczyk'>www.facebook.com/PomocwzmianieSylwiaZdunczyk</a>",
         "image": require('@/assets/images/speakers/sylwia-zdunczyk.png')
     },
     {
@@ -289,5 +289,25 @@ export default [
         ],
         "description": "Inż. Kamila Splinter ukończyła studia pierwszego stopnia na kierunku technologia chemiczna na Zachodniopomorskim Uniwersytecie Technologicznym w Szczecinie. Aktualnie kontynuuje naukę na drugim stopniu w specjalności technologia nieorganiczna.<br/><br/>Wielokrotna stypendystka Rektora ZUT. Laureatka konkursu Explory 2018 i 38th Youth Science Meeting w Lizbonie. Uczestniczka kilku konferencji naukowych w tym 71st Canadian Chemical Engineering Conference oraz 9th  Edition of International Conference on Catalysis, Chemical Engineering and Technology. Od początku studiów prowadzi indywidualne badania naukowe, od marca 2021 roku koordynatorka i główny wykonawca projektu grantowego w programie Najlepsi z Najlepszych 4.0. Stypendystka w projekcie grantowym w ramach programu OPUS 14. Działa w Sejmiku Wydziałowym Samorządu Studenckiego oraz w Stowarzyszeniu IAESTE.",
         "image": require('@/assets/images/speakers/kamila-splinter.png')
+    },
+    {
+        "id": 30,
+        "firstName": "Krystyna",
+        "lastName": "Woźniak",
+        "workshopNames": [
+            "[ENG] Digital lean manufacturing - how industy 4.0 technologies transform lean processes to advance the enterpise"
+        ],
+        "description": "Obecnie Principal Enterprise Architect w GE Healthcare Company. Absolwentka Matematyki Stosowanej AGH, Computer Science and Mathematics na Universita Degli Studi dell’Aquila we Wloszech i Advance Statistics method in Data Science, Associate of Data Science of North Carolina University w USA. Lean Six Sigma Master Black Belt z 15 letnim doświadczeniem w implementacji metodologii Lean w procesach produkcyjnych, HR’owych, Finanansowych i IT. Business Architect, SAFe Agile and ITIL Practitioner. Więcej na:<br/> <a href='https://www.linkedin.com/in/krystyna-wo%C5%BAniak-6285a284/'>https://www.linkedin.com/in/krystyna-wo%C5%BAniak-6285a284/</a>",
+        "image": require('@/assets/images/speakers/unknown.png')
+    },
+    {
+        "id": 31,
+        "firstName": "Marta",
+        "lastName": "Przytuła",
+        "workshopNames": [
+            "Hack your interview - WEBINAR"
+        ],
+        "description": "HR Manager (rozmiar koszulki L (40/42)) Z branżą HR związana od ponad 8 lat, w tym od prawie 5 lat w ASSA ABLOY. W pracy w HR najbardziej ceni sobie możliwość kontaktu z ludźmi, różnorodność zadań i nowe wyzwania, które dają możliwość ciągłego rozwoju. Prywatnie miłośniczka bliższych i dalszych podróży, jazdy na rowerze i kina.",
+        "image": require('@/assets/images/speakers/unknown.png')
     },
 ]
