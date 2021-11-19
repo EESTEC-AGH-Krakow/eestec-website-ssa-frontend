@@ -307,7 +307,7 @@ export default [
         "workshopNames": [
             "Hack your interview - WEBINAR"
         ],
-        "description": "HR Manager (rozmiar koszulki L (40/42)) Z branżą HR związana od ponad 8 lat, w tym od prawie 5 lat w ASSA ABLOY. W pracy w HR najbardziej ceni sobie możliwość kontaktu z ludźmi, różnorodność zadań i nowe wyzwania, które dają możliwość ciągłego rozwoju. Prywatnie miłośniczka bliższych i dalszych podróży, jazdy na rowerze i kina.",
+        "description": "HR Manager. Z branżą HR związana od ponad 8 lat, w tym od prawie 5 lat w ASSA ABLOY. W pracy w HR najbardziej ceni sobie możliwość kontaktu z ludźmi, różnorodność zadań i nowe wyzwania, które dają możliwość ciągłego rozwoju. Prywatnie miłośniczka bliższych i dalszych podróży, jazdy na rowerze i kina.",
         "image": require('@/assets/images/speakers/marta-przytula.png')
     },
     {
