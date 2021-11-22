@@ -10,9 +10,11 @@
                     <b-col lg="8" xl="8" class="d-none d-lg-flex justify-content-center align-items-center">
                         <HeaderNav class="mx-auto" />
                     </b-col>
+                    <!--
                     <b-col lg="2" class="d-none d-lg-flex justify-content-end align-items-center">
                     <b-button size="lg" href="https://forms.gle/mRgEjxCq6FqFncFN7" target="_blank">ZAPISY</b-button>
                     </b-col>
+                    -->
                 </b-row>
 
                 <b-collapse id="nav-collapse" is-nav @hidden="$store.commit('toggleNav', false)" class="bg-white position-absolute menu">
