@@ -39,7 +39,7 @@ export default {
             "start": "17:00",
             "end": "19:00",
             "location": "Online",
-            "description": "Opis pojawi się wkrótce",
+            "description": "Personal Branding - czym jest i po co nad nim pracować? W jakich social mediach warto budować swoją markę i jak to robić efektywnie? Czy będąc studentem warto się tym zajmować? Na te i inne pytania odpowie praktyk z zakresu Employer Brandingu, Mateusz Jabłonowski, Lider zespołu w Allegro.",
             "speakers": [
                 {
                     "firstName": "Mateusz",

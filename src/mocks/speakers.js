@@ -37,7 +37,7 @@ export default [
         "workshopNames": [
             "Personal Branding - WEBINAR"
         ],
-        "description": "Więcej informacji wkrótce.",
+        "description": "Employer Branding Leader Allegro<br/>Pasjonat zagadnień z obszarów employer brandingu, candidate experience i social media. Z wykształcenia psycholog biznesu; swoje HRowe doświadczenie zdobywał w ngo oraz bankowości. Od prawie 4 lat związany z Allegro, gdzie obecnie zarządza zespołem Employer Branding i promuje, dlaczego #dobrzetubyć. Lubi dzielić się wiedzą i wierzy, że praca w EB to zawód z misją!",
         "image": require('@/assets/images/speakers/unknown.png')
     },
     {
@@ -217,7 +217,7 @@ export default [
         "workshopNames": [
             "[ENG] Emotional Intelligence"
         ],
-        "description": "Soft Skills Trainer, Facilitator, Electrical Engineering student and nap lover.",
+        "description": "Soft Skills Trainer, Facilitator, Electrical Engineering student and nap lover. An enthusiastic person interested in self development and growth, as a trainer she aspires to inspire curiosity in others, motivate them, help them on their own path and learn from them. Loves teamwork, leadership and tries to see things and people empathetically. Doesn't like being very serious.",
         "image": require('@/assets/images/speakers/dimitra-petsa.png')
     },
     {
@@ -237,7 +237,7 @@ export default [
         "workshopNames": [
             "Umiejętności przyszłości - jakie umiejętności miękkie warto szlifować"
         ],
-        "description": "Więcej informacji wkrótce.",
+        "description": " 	<ul><li>Customer 	Experience Trainer 	| Ekspert 	E-commerce w 	Allegro 	- prowadzenie szkoleń, 	webinariów, doskonalenie jakości CX, rozwój kompetencji 	specjalistów i managerów oraz tworzenie standardów i contentu 	video na temat sprzedaży w internecie</li><li>Manager - 	ponad 	6-letnie doświadczenie na stanowiskach managerskich, zespoły od 5 	do 50 osób</li><li>Trener | 	Konsultant | Mentor | Coach biznesowy – 	szkolenia, doradztwo, konsulting dotyczący obszarów zarządzania, 	project managementu, sprzedaży, efektywności, obsługi klientów 	zrealizowane w projektach prowadzonych dla firm z sektora bankowego, 	finansowego, branży inżyniersko-budowlanej, gamingowej, 	e-commerce, automotive itp.</li><li>Head 	of Jury - 	Polish Contact Center Awards</li><li>Wykładowca 	akademicki 	- Uniwersytet Jagielloński | Uniwersytet Warszawski</li><li>Continuous 	Learner - absolwent 	trzech uczelni i pięciu kierunków | uczestnik 	ponad 70 certyfikowanych szkoleń 	- uprawnienia certyfikacyjne m.in. Extended Disc, Talenty Gallupa, 	Odporność psychiczna MTQ48, Prosty język ® 	</li><li>Przedsiębiorca 	- 	właściciel firmy z branży edukacyjnej</li></ul>",
         "image": require('@/assets/images/speakers/unknown.png')
     },
     {
