@@ -6,7 +6,7 @@
                 <b-card-title>{{speaker.firstName}} {{speaker.lastName}}</b-card-title>
                 <b-card-sub-title :key="index" class="mb-2" v-for="(workshopName, index) in speaker.workshopNames">{{workshopName}}</b-card-sub-title>
                 <b-card-text class="d-flex flex-column align-items-center">
-                    <article class="text-justify">{{speaker.description | striphtml | truncate(250)}}
+                    <article class="text-justify">{{speaker.description | striphtml | truncate(150)}}
                     </article>
                     <b-button class="align-self-end justify-self-end" v-b-modal.modal-speaker @click="changeSpeaker(speaker)">więcej</b-button>
                 </b-card-text>

@@ -44,13 +44,13 @@ export default {
                 {
                     "firstName": "Mateusz",
                     "lastName": "Jabłonowski",
-                    "image": require('@/assets/images/speakers/unknown.png')
-                }, 
+                    "image": require('@/assets/images/speakers/mateusz-jablonowski.png')
+                }/*, 
                 {
                     "firstName": "Allegro",
                     "lastName": "",
                     "image": require('@/assets/images/speakers/allegro.png')
-                }
+                }*/
             ]
         },
         {
@@ -376,22 +376,22 @@ export default {
     ],
     "Dec 11, 2021": [
         {
-            "name": "Umiejętności przyszłości - jakie umiejętności miękkie warto szlifować",
+            "name": "Umiejętności przyszłości - jakie umiejętności miękkie warto szlifować: Feedback czyli sztuka udzielania skutecznych i precyzyjnych informacji zwrotnych",
             "start": "10:00",
             "end": "16:00",
             "location": "AGH",
-            "description": "Opis pojawi się wkrótce",
+            "description": "<ul><li>Dowiesz się czym są kompetencje przyszłości i co charakteryzuje managerów o ponadstandardowych rezultatach w biznesie</li><li>Poznasz praktyczne metody, techniki, narzędzia, strukturę najlepiej ocenianych feedbacków oraz będziesz mógł je przećwiczyć i zastosować w praktyce</li><li>Dowiesz się na licznych, konkretnych przykładach jakie błędy feedbackowe są popełniane najczęściej i jak ich uniknąć</li></ul>",
             "speakers": [
                 {
                     "firstName": "Łukasz",
                     "lastName": "Pawłyszyn",
-                    "image": require('@/assets/images/speakers/unknown.png')
-                }, 
+                    "image": require('@/assets/images/speakers/lukasz-pawlyszyn.png')
+                }/*, 
                 {
                     "firstName": "Allegro",
                     "lastName": "",
                     "image": require('@/assets/images/speakers/allegro.png')
-                }
+                }*/
             ]
         },
         {
