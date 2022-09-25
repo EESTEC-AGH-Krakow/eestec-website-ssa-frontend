@@ -4,19 +4,19 @@
            :style="{ 'background-image': `url(${require('@/assets/images/home/ssa12_baner.jpg')})`}">
       <b-col offset="1" cols="6" class="d-flex flex-column">
         <h1 class="text-white text-uppercase">
-          <span class="font-weight-bold display-4">12. edycja</span>
+          <span class="font-weight-bold display-4">13. edycja</span>
           <br/>
           darmowych warsztatów
           <br/>
           z umiejętności miękkich
         </h1>
         <span class="text-white">6 - 12 grudnia 2021 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
-        <!--
+      
           <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
         href="https://forms.gle/mRgEjxCq6FqFncFN7"
         target="_blank">ZAPISY
         </b-button>
-        -->
+      
       </b-col>
     </b-row>
     <b-row no-gutters class="flex-wrap-reverse flex-lg-nowrap align-items-stretch py-5">
