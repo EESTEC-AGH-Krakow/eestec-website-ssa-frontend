@@ -52,7 +52,7 @@
       <h3 class="align-self-start mb-4">{{ home.speakers.title }}</h3>
       <p class="align-self-start text-justify pb-3"> {{ home.speakers.description }}</p>
       <b-button :to="{ name: 'speakers' }" class="mt-2 mr-auto px-4 py-2 text-uppercase bg-primary">
-        Dowiedz się więcej o naszych prelegentach
+        Dowiedz się więcej
       </b-button>
     </RowContent>
     <RowContent :photo="home.partners.image" reverse>
