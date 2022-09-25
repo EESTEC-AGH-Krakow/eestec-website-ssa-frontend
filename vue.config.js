@@ -3,6 +3,11 @@ const merge = require('babel-merge')
 module.exports = {
 	css: {
 		sourceMap: true,
+		loaderOptions: {
+			sass: {
+				implementation: require('sass'), // This line must in sass option
+			},
+		},
 	},
 	configureWebpack: {
 		module: {
