@@ -4,6 +4,16 @@ module.exports = {
 	css: {
 		sourceMap: true,
 	},
+	configureWebpack: {
+		module: {
+			rules: [
+				{
+					test: /\.svg$/, 
+					loader: 'vue-svg-loader', 
+				},
+			],
+		}      
+	},
 	
 	chainWebpack: config => {
 		config.module.rule('vue').
@@ -24,11 +34,8 @@ module.exports = {
 				})
 			})
 		
-		const svgRule = config.module.rule('svg')
-		
-		svgRule.uses.clear()
-		
-		svgRule.use('vue-svg-loader').loader('vue-svg-loader')
+			
+		config.module.rules.delete("svg");
 	},
 	
 	publicPath: undefined,
