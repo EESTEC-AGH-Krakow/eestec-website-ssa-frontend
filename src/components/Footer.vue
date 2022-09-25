@@ -54,6 +54,10 @@
     .fa-facebook, .fa-facebook-square {
         color: #3B5998
     }
+    
+    .nav-logo {
+        width: 8rem;
+    }
 
     .fa-linkedin, .fa-linkedin-square {
         color: #007BB6

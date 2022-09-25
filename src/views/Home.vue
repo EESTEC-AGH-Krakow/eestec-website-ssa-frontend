@@ -26,7 +26,7 @@
             <h2>{{home.welcome.title}}</h2>
           </b-col>
           <b-col md="12" lg="6" class="order-1 order-lg-1 d-flex align-items-center px-4">
-            <SVGSSAFull class="ssa-logo flex-fill"></SVGSSAFull>
+            <SVGSSAFull class="flex-fill"></SVGSSAFull>
           </b-col>
           <b-col md="12" lg="6" class="order-2 order-lg-2 d-flex flex-column py-3 py-lg-0">
             <span class="text-justify" v-html="home.welcome.description"></span>
