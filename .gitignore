@@ -20,7 +20,6 @@ yarn-error.log*
 *.sw*
 
 dist
-package-lock.json
 
 .deploy_key
 deploy_key
