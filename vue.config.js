@@ -46,21 +46,6 @@ module.exports = {
           'node_modules/bootstrap/scss/bootstrap.scss',
           'src/assets/sass/animations.scss'
         ]
-      },
-      prerenderSpa: {
-        registry: undefined,
-        renderRoutes: [
-          '/',
-          '/o-nas',
-          '/kontakt',
-          '/harmonogram',
-          '/partnerzy',
-          '/poprzednie-edycje',
-          '/prelegenci'
-        ],
-        useRenderEvent: false,
-        headless: true,
-        onlyProduction: true
       }
     },
 }
