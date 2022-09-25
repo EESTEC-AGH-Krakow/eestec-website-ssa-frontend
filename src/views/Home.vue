@@ -30,7 +30,7 @@
           </b-col>
           <b-col md="12" lg="6" class="order-2 order-lg-2 d-flex flex-column py-3 py-lg-0">
             <span class="text-justify" v-html="home.welcome.description"></span>
-            <b-button :to="{ name: 'about' }" class="mt-2 ml-auto px-4 py-2 text-uppercase">Dowiedz
+            <b-button :to="{ name: 'about' }" class="mt-2 mx-auto px-4 py-2 text-uppercase">Dowiedz
               się więcej
             </b-button>
           </b-col>
