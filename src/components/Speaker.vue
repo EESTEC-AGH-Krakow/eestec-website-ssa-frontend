@@ -8,7 +8,7 @@
                 <b-card-text class="d-flex flex-column align-items-center">
                     <article class="text-justify">{{speaker.description | striphtml | truncate(150)}}
                     </article>
-                    <b-button class="justify-self-end btn-prelegent" v-b-modal.modal-speaker @click="changeSpeaker(speaker)">więcej</b-button>
+                    <a class="justify-self-end btn-prelegent" v-b-modal.modal-speaker @click="changeSpeaker(speaker)">więcej</a>
                 </b-card-text>
             </b-card-body>
         </b-card>
@@ -32,7 +32,6 @@
 
 <style scoped lang="scss">
     .btn-prelegent {
-        background-color: white;
         text-decoration: underline;
         color: #666666;
         margin-top: 10px;
