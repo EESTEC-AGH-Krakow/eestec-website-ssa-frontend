@@ -1,8 +1,9 @@
 const express = require('express');
-const path = require('path');
 const serveStatic = require('serve-static');
+const history = require('connect-history-api-fallback');
 
 let app = express();
+app.use(history()) //redirects calls to subpages to index.html - https://router.vuejs.org/guide/essentials/history-mode.html#native-node-js
 app.use(serveStatic(__dirname + "/dist"));
 
 const port = process.env.PORT || 5000;
