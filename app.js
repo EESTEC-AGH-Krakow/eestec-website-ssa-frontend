@@ -5,6 +5,9 @@ const history = require('connect-history-api-fallback');
 let app = express();
 app.use(history()) //redirects calls to subpages to index.html - https://router.vuejs.org/guide/essentials/history-mode.html#native-node-js
 app.use(serveStatic(__dirname + "/dist"));
+app.get('/', (req, res) => {
+    res.sendFile(__dirname + '/dist/index.html');
+})
 
 const port = process.env.PORT || 5000;
 app.listen(port);
