@@ -16,6 +16,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.15.4",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "@fortawesome/vue-fontawesome": "^0.1.10",
+    "connect-history-api-fallback": "^2.0.0",
     "core-js": "^3.25.2",
     "es6-promise": "^4.2.8",
     "express": "^4.18.1",
