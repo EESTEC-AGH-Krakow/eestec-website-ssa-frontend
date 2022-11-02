@@ -30,7 +30,7 @@
 </script>
 
 <style scoped lang="scss">
-    .speaker-description > a {
+    .speaker-description ::v-deep a {
         color: #7AC244
     }
 </style>
