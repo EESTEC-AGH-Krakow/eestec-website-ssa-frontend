@@ -10,7 +10,7 @@
           <br/>
           z umiejętności miękkich
         </h1>
-        <span class="text-white">6 - 12 grudnia 2021 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
+        <span class="text-white">5 - 10 grudnia 2022 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
         <!--
           <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
         href="https://forms.gle/mRgEjxCq6FqFncFN7"
