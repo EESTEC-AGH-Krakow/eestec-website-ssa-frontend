@@ -4,7 +4,7 @@ export default [
       firstName: 'Ania',
       lastName: 'Kania',
       workshopNames: [ 'Jak uczyć się szybko i efektywnie?' ],
-      description: 'Ania zajmuje się tematem efektywnej nauki od dłuższego czasu, a o sobie mówi tak: ,,Na pierwszym roku studiów z powodu stresu i nadmiaru nauki wylądowałam w szpitalu z kołataniem serca. Wtedy postanowiłam, że NIGDY nie dopuszczę do tego ponownie. Zaczęłam zagłębiać się w tajniki efektywnej nauki. Ponad 5 lat prowadzi najpopularniejsze w Polsce kursy i kanał o efektywnej nauce, a uświadamianie młodych ludzi o możliwości ich mózgów stało się jej pasją. Jest także autorką Kursu Efektywnej Nauki, dzięki któremu studenci w Polsce zdają sesję w pierwszych terminach ze świetnymi wynikami.https://aniakania.com/',
+      description: 'Ania zajmuje się tematem efektywnej nauki od dłuższego czasu, a o sobie mówi tak: ,,Na pierwszym roku studiów z powodu stresu i nadmiaru nauki wylądowałam w szpitalu z kołataniem serca. Wtedy postanowiłam, że NIGDY nie dopuszczę do tego ponownie. Zaczęłam zagłębiać się w tajniki efektywnej nauki. Ponad 5 lat prowadzi najpopularniejsze w Polsce kursy i kanał o efektywnej nauce, a uświadamianie młodych ludzi o możliwości ich mózgów stało się jej pasją. Jest także autorką Kursu Efektywnej Nauki, dzięki któremu studenci w Polsce zdają sesję w pierwszych terminach ze świetnymi wynikami.</br><a href="https://aniakania.com/">https://aniakania.com/</a>',
       image: require('@/assets/images/speakers/ania-kania.png')
     },
     {
