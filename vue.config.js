@@ -3,6 +3,21 @@ const merge = require('babel-merge')
 module.exports = {
 	css: {
 		sourceMap: true,
+		loaderOptions: {
+			sass: {
+				implementation: require('sass'), // This line must in sass option
+			},
+		},
+	},
+	configureWebpack: {
+		module: {
+			rules: [
+				{
+					test: /\.svg$/, 
+					loader: 'vue-svg-loader', 
+				},
+			],
+		}      
 	},
 	
 	chainWebpack: config => {
@@ -24,11 +39,8 @@ module.exports = {
 				})
 			})
 		
-		const svgRule = config.module.rule('svg')
-		
-		svgRule.uses.clear()
-		
-		svgRule.use('vue-svg-loader').loader('vue-svg-loader')
+			
+		config.module.rules.delete("svg");
 	},
 	
 	publicPath: undefined,
@@ -46,21 +58,6 @@ module.exports = {
           'node_modules/bootstrap/scss/bootstrap.scss',
           'src/assets/sass/animations.scss'
         ]
-      },
-      prerenderSpa: {
-        registry: undefined,
-        renderRoutes: [
-          '/',
-          '/o-nas',
-          '/kontakt',
-          '/harmonogram',
-          '/partnerzy',
-          '/poprzednie-edycje',
-          '/prelegenci'
-        ],
-        useRenderEvent: false,
-        headless: true,
-        onlyProduction: true
       }
     },
 }

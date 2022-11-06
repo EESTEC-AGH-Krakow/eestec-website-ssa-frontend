@@ -4,17 +4,20 @@
            :style="{ 'background-image': `url(${require('@/assets/images/home/ssa12_baner.jpg')})`}">
       <b-col offset="1" cols="6" class="d-flex flex-column">
         <h1 class="text-white text-uppercase">
-          <span class="font-weight-bold display-4">12. edycja</span>
+          <span class="font-weight-bold display-4">13. edycja</span>
           <br/>
           darmowych warsztatów
           <br/>
           z umiejętności miękkich
         </h1>
-        <span class="text-white">6 - 12 grudnia 2021 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
+        <span class="text-white">5 - 10 grudnia 2022 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
+        
         <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
-        href="https://forms.gle/mRgEjxCq6FqFncFN7"
-        target="_blank">ZAPISY
+          href="https://docs.google.com/forms/d/1MkveWdSxR1okLAvVxiFVLp1RaFSkGUVrxqunA8_yhB8/edit?usp=drivesdk"
+          target="_blank">ZAPISY
         </b-button>
+       
+      
       </b-col>
     </b-row>
     <b-row no-gutters class="flex-wrap-reverse flex-lg-nowrap align-items-stretch py-5">
@@ -24,11 +27,11 @@
             <h2>{{home.welcome.title}}</h2>
           </b-col>
           <b-col md="12" lg="6" class="order-1 order-lg-1 d-flex align-items-center px-4">
-            <SVGSSAFull class="ssa-logo flex-fill"></SVGSSAFull>
+            <SVGSSAFull class="flex-fill"></SVGSSAFull>
           </b-col>
           <b-col md="12" lg="6" class="order-2 order-lg-2 d-flex flex-column py-3 py-lg-0">
             <span class="text-justify" v-html="home.welcome.description"></span>
-            <b-button :to="{ name: 'about' }" class="mt-2 ml-auto px-4 py-2 text-uppercase">Dowiedz
+            <b-button :to="{ name: 'about' }" class="mt-2 mx-auto px-4 py-2 text-uppercase">Dowiedz
               się więcej
             </b-button>
           </b-col>
@@ -50,7 +53,7 @@
       <h3 class="align-self-start mb-4">{{ home.speakers.title }}</h3>
       <p class="align-self-start text-justify pb-3"> {{ home.speakers.description }}</p>
       <b-button :to="{ name: 'speakers' }" class="mt-2 mr-auto px-4 py-2 text-uppercase bg-primary">
-        Dowiedz się więcej o naszych prelegentach
+        Dowiedz się więcej
       </b-button>
     </RowContent>
     <RowContent :photo="home.partners.image" reverse>

@@ -1,5 +1,6 @@
 <template>
     <b-navbar-nav>
+        <b-nav-item class="text-uppercase" :to="{ name: 'home' }">strona główna</b-nav-item>
         <b-nav-item class="text-uppercase" :to="{ name: 'about' }">o nas</b-nav-item>
         <b-nav-item class="text-uppercase" :to="{ name: 'timetable' }">harmonogram</b-nav-item>
         <b-nav-item class="text-uppercase" :to="{ name: 'speakers' }">prelegenci</b-nav-item>
