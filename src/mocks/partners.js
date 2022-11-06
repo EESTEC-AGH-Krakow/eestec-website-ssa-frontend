@@ -3,7 +3,7 @@ export default [
         "id": 1,
         "type": "regular",
         "name": "Miasto Kraków",
-        "image": require('@/assets/images/partners/main/allegro.png')
+        "image": require('@/assets/images/partners/regular/krakow.jpg')
     },
     {
         "id": 2,
@@ -28,32 +28,39 @@ export default [
         "image": require('@/assets/images/partners/regular/GE-Healthcare.png')
     },
     {
-        "id": 5,
+        "id": 6,
         "type": "media",
-        "name": "Radio 1.7",
-        "description": "",
-        "image": require('@/assets/images/partners/media/Radio-1.7.png')
+        "name": "dlaStudenta.pl",
+        "description": "dlaStudenta.pl to gigantyczne kompendium wiedzy o wszystkim, czego potrzebuje student – od oferty edukacyjnej uczelni wyższych i szkół policealnych i językowych, poprzez oferty pracy i mieszkań do wynajęcia, informacje o wydarzeniach  kulturalnych, po treści life-style’owe i autorskie komentarze redakcji.",
+        "image": require('@/assets/images/partners/media/dlastudentapl.jpg')
     },
     {
         "id": 6,
         "type": "media",
-        "name": "4programmers.net",
+        "name": "Perspektywy.pl",
         "description": "",
-        "image": require('@/assets/images/partners/media/4programmers.png')
+        "image": require('@/assets/images/partners/media/perspektywy logo.jpg')
     },
     {
         "id": 7,
         "type": "media",
-        "name": "studentnews.pl",
-        "description": "studentnews.pl jest jednym z naszych portali w grupie 60 witryn. To właśnie od niego zaczęła się nasza przygoda w Internecie. Portal zawiera informacje dla studentów i absolwentów, które są podzielone na działy: Studia, Uczelnie, Języki, Praca, Kariera, Nauka, Hi-Tech, Zdrowie, Studentka, Kultura, Podróże, Narty. Ma również 16 Studenckich Informatorów Lokalnych, po jednym na każde województwo. Portal w roku 2019 miał 2,85 mln użytkowników (źródło: Google Analytics).",
-        "image": require('@/assets/images/partners/media/studentnews.png')
+        "name": "DevaGroup",
+        "description": "",
+        "image": require('@/assets/images/partners/media/logo Deva - clear.png')
     },
     {
         "id": 8,
         "type": "media",
-        "name": "Deva and semKrk",
+        "name": "semKRK",
+        "description": "SemKRK to wyjątkowy barcamp o szerokiej tematyce marketingu w wyszukiwarkach oraz analityki.",
+        "image": require('@/assets/images/partners/media/logo_poziom.png')
+    },
+    {
+        "id": 9,
+        "type": "media",
+        "name": "krakow.pl",
         "description": "",
-        "image": require('@/assets/images/partners/media/deva-and-semKrk.png')
+        "image": require('@/assets/images/partners/media/logo_poziom.png')
     }
     
 ]

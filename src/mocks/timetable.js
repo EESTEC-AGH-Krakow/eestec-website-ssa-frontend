@@ -181,35 +181,144 @@ export default {
     ],
     "Dec 10, 2022": [
         {
-            "name": "Umiejętności przyszłości - jakie umiejętności miękkie warto szlifować: Feedback czyli sztuka udzielania skutecznych i precyzyjnych informacji zwrotnych",
-            "start": "10:00",
-            "end": "16:00",
+            "name": "Zdrowe równoważenie wyzwań i obowiązków",
+            "start": "11:00",
+            "end": "13:30",
             "location": "AGH",
-            "description": "<ul><li>Dowiesz się czym są kompetencje przyszłości i co charakteryzuje managerów o ponadstandardowych rezultatach w biznesie</li><li>Poznasz praktyczne metody, techniki, narzędzia, strukturę najlepiej ocenianych feedbacków oraz będziesz mógł je przećwiczyć i zastosować w praktyce</li><li>Dowiesz się na licznych, konkretnych przykładach jakie błędy feedbackowe są popełniane najczęściej i jak ich uniknąć</li></ul>",
+            "description": "Praca+Nauka+Życie=Życie. Wiesz, że tot równanie ma błąd. Przyjdź na warsztat je poprawić. O wyzwaniach, celach, obowiazakach i przyjemnościach. O tym od czego zależy nasz  dobrostan, co składa się na zdrowie psychicznie życie. Praktyczne ćwiczenia i dużo refleksji. Zapraszam!",
             "speakers": [
                 {
-                    "firstName": "Łukasz",
-                    "lastName": "Pawłyszyn",
-                    "image": require('@/assets/images/speakers/lukasz-pawlyszyn.png')
-                }/*, 
-                {
-                    "firstName": "Allegro",
-                    "lastName": "",
-                    "image": require('@/assets/images/speakers/allegro.png')
-                }*/
+                    "firstName": "Tomasz",
+                    "lastName": "Waleczko",
+                    "image": require('@/assets/images/speakers/tomasz-waleczko.jpg')
+                }
             ]
         },
         {
-            "name": "Radzenie sobie ze stresem",
-            "start": "11:00",
+            "name": "Otwartość w komunikacji. Pozytywne wzmacnianie rozmówcy.",
+            "start": "14:30",
             "end": "17:00",
             "location": "AGH",
-            "description": "Plan Warsztatów:<ol type=\"1\"><li>Stres, czym jest, znaczenie ogólnoustrojowe i jego . konsekwencje fizjologiczne.</li><li>Rodzaje stresorów.</li><li>Ciało migdałowate i kora przedczołowa - jak uspokoić swój mózg emocjonalny.</li><li>Kreatywny mózg - jak stres oddziałuje na procesy kognitywne.</li><li>Metody treningu i redukcji stresu: techniki oddechowe, techniki uważności, przekierowanie myśli</li><li>Zdrowa dieta dla mózgu.</li></ol>",
+            "description": "Realizując zadania, będąc zestresowanymi, skoncentrowanymi na celu często prowadzimy rozmowy w sposób nerwowy, nieelgancki.Nie uwzględniamy potrzeb rozmówcy, jego motywacji i starań. Pomijamy to, że nie jesteśmy nieemocjalnymi cyborgami i wydaje się, że jak przekażemy sobie treści to wystarczy... Otóż nie. Raczej pokłócimy, się poranimy, w najlepszym razie zignorujemy. O pozytywnej komunikacji porozmawiamy na spotkaniu. Przy okazji trochę się docenimy :) ",
             "speakers": [
                 {
-                    "firstName": "Grzegorz",
-                    "lastName": "Carowicz",
-                    "image": require('@/assets/images/speakers/grzegorz-carowicz.png')
+                    "firstName": "Tomasz",
+                    "lastName": "Waleczko",
+                    "image": require('@/assets/images/speakers/tomasz-waleczko.jpg')
+                }
+            ]
+        },
+        {
+            "name": "Design thinking - jak znaleźć niszę",
+            "start": "11:00",
+            "end": "13:30",
+            "location": "AGH",
+            "description": `- Przedstawienie co to jest design thinking (DT)
+            <br>- Co to jest UX
+            <br>- Historia DT
+            <br>- DT w Polsce kontra na świecie
+            <br>- model DT Stanford
+            <br>- warsztaty DT w grupach
+            <br>- przyszłość DT
+            <br>- DYSKUSJA nt DT
+            <br>- Wnioski ze szkolenia
+            <br>- Zadania domowe
+            `,
+            "speakers": [
+                {
+                    "firstName": "Dawid",
+                    "lastName": "Gościk",
+                    "image": require('@/assets/images/speakers/dawid-goscik.jpg')
+                }
+            ]
+        },
+        {
+            "name": "Kreatywność jest jak mięsień - wystarczy zacząć ją regularnie ćwiczyć.",
+            "start": "14:30",
+            "end": "17:00",
+            "location": "AGH",
+            "description": "Czy to powyżej to kolejny coachingowy chwyt? Absolutnie! Kreatywność to kapitały zakładowe każdej z moich firm, a o drzemiącym potencjale tkwiącym właśnie w niej, przekonałem się dopiero 2 lata temu kiedy skończyłem studia. Kreatywni jesteśmy wszyscy, tylko to kwestia skutecznego ukierunkowywania naszych myśli. Nie ma ludzi mało kreatywnych, niekreatywnych czy pozbawionych braku kreatywności. To jest dopiero mit. Wystarczy wpaść w tzw. \"spiralę kreatywności\". A jak się tam dostać? Zapraszam na swój warsztat. Z tą kreatywnością jest jak z ćwiczeniem nóg na siłowni. Wszyscy wiedzą, że to ważny element naszych ciał, ale jakoś każdemu nigdy nie jest po drodze, aby wykonywać te ćwiczenia... spróbuję Was przekonać, że można inaczej i że kreatywność jest jak każda umiejętność, której da się nauczyć.",
+            "speakers": [
+                {
+                    "firstName": "Tomasz",
+                    "lastName": "Bill",
+                    "image": require('@/assets/images/speakers/tomasz-bill.jpg')
+                }
+            ]
+        },
+        {
+            "name": "Becoming a leader.",
+            "start": "11:00",
+            "end": "13:30",
+            "location": "AGH",
+            "description": "? ",
+            "speakers": [
+                {
+                    "firstName": "Mikaela",
+                    "lastName": "Tsakalidou",
+                    "image": require('@/assets/images/speakers/mikaela.jpg')
+                },
+                {
+                    "firstName": "Oskar",
+                    "lastName": "Pawica",
+                    "image": require('@/assets/images/speakers/oskar-pawica.jpg')
+                }
+            ]
+        },
+        {
+            "name": "How do leaders communicate?",
+            "start": "14:30",
+            "end": "18:30",
+            "location": "AGH",
+            "description": "? ",
+            "speakers": [
+                {
+                    "firstName": "Mikaela",
+                    "lastName": "Tsakalidou",
+                    "image": require('@/assets/images/speakers/mikaela.jpg')
+                },
+                {
+                    "firstName": "Oskar",
+                    "lastName": "Pawica",
+                    "image": require('@/assets/images/speakers/oskar-pawica.jpg')
+                }
+            ]
+        },
+        {
+            "name": "How to get 25 hours a day?",
+            "start": "11:00",
+            "end": "13:30",
+            "location": "AGH",
+            "description": "? ",
+            "speakers": [
+                {
+                    "firstName": "Irene",
+                    "lastName": "Marban",
+                    "image": require('@/assets/images/speakers/irene.jpg')
+                },
+                {
+                    "firstName": "Piotr",
+                    "lastName": "Połeć",
+                    "image": require('@/assets/images/speakers/piotrek-polec.png')
+                }
+            ]
+        },
+        {
+            "name": "Small Habits, Big Results.",
+            "start": "14:30",
+            "end": "18:30",
+            "location": "AGH",
+            "description": "? ",
+            "speakers": [
+                {
+                    "firstName": "Karol",
+                    "lastName": "Kania",
+                    "image": require('@/assets/images/speakers/karol-kania.png')
+                },
+                {
+                    "firstName": "Tania",
+                    "lastName": "Livanou",
+                    "image": require('@/assets/images/speakers/tania-livanou.jpg')
                 }
             ]
         }
