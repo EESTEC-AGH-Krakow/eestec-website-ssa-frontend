@@ -1,4 +1,4 @@
-<!--
+
 <template>
     <b-row no-gutters>
         <b-col cols="12" class="pb-3">
@@ -89,8 +89,8 @@
 <style scoped lang="scss">
 
 </style>
--->
 
+<!--  
 <template>
   <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
 </template>
@@ -105,3 +105,4 @@
         font-size: 2.7rem;
     }
 </style>
+-->
