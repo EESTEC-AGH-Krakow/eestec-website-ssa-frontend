@@ -54,7 +54,6 @@ export default [
         "name": "Deva and semKrk",
         "description": "",
         "image": require('@/assets/images/partners/media/deva-and-semKrk.png')
-    },
-  
+    }
     
 ]
