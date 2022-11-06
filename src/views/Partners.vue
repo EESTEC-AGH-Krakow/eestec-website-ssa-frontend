@@ -1,5 +1,5 @@
 <template>
-    <b-row no-gutters>
+     <b-row no-gutters>
         <b-row no-gutters class="d-flex justify-content-center">
             <b-col cols="12" class="mt-5 mb-3">
                 <h2 class="text-center text-uppercase font-weight-normal">partner główny</h2>
@@ -8,7 +8,7 @@
                     :key="partner.id"
                     :partner="partner"
                     v-for="partner in filteredPartners('main')"
-            />
+            /> 
         </b-row>
         <b-row no-gutters class="d-flex justify-content-center">
             <b-col cols="12" class="mt-5">
