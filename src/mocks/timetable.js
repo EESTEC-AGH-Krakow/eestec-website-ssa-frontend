@@ -40,7 +40,7 @@ export default {
             "start": "17:00",
             "end": "19:30",
             "location": "AGH",
-            "description": "Podczas warsztatów poznasz odpowiedź na kluczowe pytania dotyczące właściwej komunikacji, a przede wszystkim - dawania i odbierania feedbacku. <br/><br/>Michał przeprowadzi Cię przez:<ul><li>Style komunikacji i sposoby uwzględniania ich podczas oferowania oraz przyjmowania feedbacku. </li><li>Konstruowanie komunikatu w sposób asertywny.</li><li>Czerpania korzyści i wyszukiwania informacji w otrzymanym feedbacku niezależnie od jego jakości.</li></ul> A na koniec weźmiesz udział w ćwiczeniach, które pozwolą Ci wykorzystać świeżo uzyskane umiejętności.",
+            "description": "Asertywność - Człowiek asertywny najczęściej kojarzony jest z tym, że potrafi powiedzieć \"nie\"? Czy to jest cała definicja asertywności - sztuka mówienia \"nie\"? Otóż nic bardziej mylnego. Asertywność jest pojęciem o wiele szerszym, które wkracza na znacznie większe pole jakim jest relacja międzyludzka. Jeśli chcesz być człowiekiem asertywnym, pewnym siebie oraz potrafiącym porozumiewać się z innymi w sposób sprawny i pozwalający na minimalizowanie ryzyka wystąpienia konfliktów - ten warsztat jest dla Ciebie. Przyjdź na warsztat i nabądź wiedzy jak być asertywnym w relacjach z drugim człowiekiem. ",
             "speakers": [
                 {
                     "firstName": "Wojciech",
@@ -94,7 +94,7 @@ export default {
             "start": "17:00",
             "end": "19:30",
             "location": "AGH",
-            "description": "?",
+            "description": "Stress management - \"Ile mnie to kosztuje stresu!\", \"Ciągle się stresuję nieważne czy jestem w pracy, czy na studiach.\", \"Ile bym dał, żeby się mniej stresować\", \"Weź się nie stresuj\" - powiedziała koleżanka z roku.  Stres jest zjawiskiem powszechnym. Chcemy czy nie, będzie nam towarzyszyć do samego końca. Jak zatem stresować się mądrze i z pożytkiem dla siebie? Czy można wykorzystać stres na własną korzyść? Jakie są pozytywne korzyści płynące ze stresu? Jeżeli chcesz znać odpowiedź na przynajmniej jedno z tych pytań to jest idealny warsztat dla Ciebie, na którym poznasz techniki, które pomogą Ci oswoić się ze zjawiskiem stresu oraz wykorzystać go na własny użytek. Jeżeli masz inne pytania o stresie, na które chcesz znać odpowiedź - to również jest miejsce dla Ciebie. Przyjdź na warsztat niezależnie od tego czy jesteś kobietą, czy mężczyzną, ponieważ wiedza uzyskana na warsztacie jest uniwersalna dla obu płci. Już teraz weź sprawy w swoje ręce i poznaj sposoby radzenia sobie ze stresem.",
             "speakers": [
                 {
                     "firstName": "Wojciech",
