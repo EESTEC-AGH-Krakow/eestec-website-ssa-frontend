@@ -55,12 +55,12 @@ export default [
         "description": "SemKRK to wyjątkowy barcamp o szerokiej tematyce marketingu w wyszukiwarkach oraz analityki.",
         "image": require('@/assets/images/partners/media/logo_poziom.png')
     },
-    {
-        "id": 9,
-        "type": "media",
-        "name": "krakow.pl",
-        "description": "",
-        "image": require('@/assets/images/partners/media/logo_poziom.png')
-    }
+    // {
+    //     "id": 9,
+    //     "type": "media",
+    //     "name": "krakow.pl",
+    //     "description": "",
+    //     "image": require('@/assets/images/partners/media/logo_poziom.png')
+    // }
     
 ]
