@@ -11,12 +11,12 @@
           z umiejętności miękkich
         </h1>
         <span class="text-white">5 - 10 grudnia 2022 r. <br/> Akademia Górniczo Hutnicza w Krakowie </span>
-        <!--
-          <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
-        href="https://forms.gle/mRgEjxCq6FqFncFN7"
-        target="_blank">ZAPISY
+        
+        <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
+          href="https://docs.google.com/forms/d/1MkveWdSxR1okLAvVxiFVLp1RaFSkGUVrxqunA8_yhB8/edit?usp=drivesdk"
+          target="_blank">ZAPISY
         </b-button>
-        -->
+       
       
       </b-col>
     </b-row>
