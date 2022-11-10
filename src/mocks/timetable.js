@@ -25,11 +25,12 @@ export default {
             "start": "18:00",
             "end": "20:30",
             "location": "AGH",
-            "description": "",
+            "description": "\"Na studiach mnie tego nie uczyli!\" - to bardzo częste słowa osób rozpoczynających swoją pierwszą pracę w zawodzie. Jeśli chcesz by Twoje wejście w branżę IT i komunikacja z zespołem były dużo łatwiejsze, a pierwszy dzień pracy niczym nie zaskoczył - wpadaj na nasz warsztat. Poświęcimy go na pokazanie Ci na naszym przykładzie, jak skutecznie pracować w zespole i jak w tym mogą pomóc Ci umiejętności miękkie. Pokażemy, że praca w IT nie jest tylko dla programistów, że łączenie pracy i studiów jest realne, a także jak przygotować się do rozmowy rekrutacyjnej. Dodatkowo przedstawimy jakie umiejętności miękkie są według nas kluczowe do płynnego rozpoczęcia swojej kariery w IT. Z chęcią podejmiemy się próby odpowiedzenia także na wszystkie nurtujące Was pytania! ",
             "speakers": [
                 {
-                    "firstName": "Scarlic",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "firstName": "Adam",
+                    "lastName": "Kołek",
+                    "image": require('@/assets/images/speakers/adam_kolek.jpg')
                 }
             ]
         },
