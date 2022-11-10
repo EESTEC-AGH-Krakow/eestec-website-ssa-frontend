@@ -75,7 +75,7 @@ export default [
       id: 8,
       firstName: 'Karol',
       lastName: 'Kania',
-      workshopNames: [ 'Rozwiązywanie konfliktów.' ],
+      workshopNames: [ 'Rozwiązywanie konfliktów.','Why do I want to become a leader?', 'Small Habits, Big Results.' ],
       description: 'Trener Umiejętności Miękkich, były Prezes Zarządu organizacji EESTEC AGH Kraków, w tym roku dołączył do GE Healthcare jako Technical Product Manager na dwuletni program rozwojowy IT. W przeszłości współpracował z wieloma zespołami koordynując międzynarodowe jak i lokalne projekty. Prywatnie lubi sport w różnej formie oraz podróżowanie, które łączy z tworzeniem Treningów Soft Skillowych. <br> Soft Skills Trainer and former Chairperson of EESTEC LC Krakow on AGH who values development in different directions. For the last 5 years holding different positions and working in various teams and projects within non-governmental organizations, where he acquired hands-on experience on soft skills and organizational management topics. Had a chance to collaborate with many international and local teams. Privately likes all manner of sports, enjoys a good laugh and loves traveling.',
       image: require('@/assets/images/speakers/karol-kania.png')
     },
@@ -87,46 +87,46 @@ export default [
       description: 'Stażystka w GE Healthcare na stanowisku Project Manager/Scrum Master, gdzie ma możliwość prowadzić międzynarodowy team i dbać o płynną współpracę w projekcie. Lata studiów wykorzystała na czynny udział w Organizacji EESTEC AGH Kraków, w której między innymi zyskała umiejętności liderskie oraz umiejętności pracy w zespole. Nie są jej obce zarówno pozycje koordynatorskie, jak i członka teamu. Prywatnie uwielbia spędzać czas na świeżym powietrzu oraz poznawać nowe dyscypliny sportowe.',
       image: require('@/assets/images/speakers/agata-socha.jpg')
     },
-    // {
-    //   id: 10,
-    //   firstName: 'Tania',
-    //   lastName: 'Livanou',
-    //   workshopNames: [ '??' ],
-    //   description: 'I am Tania Livanou from EESTEC LC Athens. I have been delivering training sessions related to soft skills for a couple of years since I have become a soft skills trainer. My mission is to transfer the experiences and knowledge that I obtain to other passionate people in order to help them see their full potential. My outlet for expression comes to reality through art and creativity.',
-    //   image: require('@/assets/images/speakers/tania-livanou.jpg')
-    // },
-    // {
-    //   id: 11,
-    //   firstName: 'Oskar',
-    //   lastName: 'Pawica',
-    //   workshopNames: [ '?' ],
-    //   description: ' A member of EESTEC Training Team and an alumni member of EESTEC AGH Krakow, professionally a Software Engineer. Within the past few years he has held numerous leadership positions in EESTEC, both internationally and locally – i.a. as a Vice-Chairperson of EESTEC AGH Krakow, a coordinator of 10th edition of Soft Skills Academy or lastly as one of the coordinators of EESTEC Regionalization Project, where he provided advice to the leaders of EESTEC Local Committees from six different countries. Motivated to share his experience and knowledge in the field of interpersonal skills, specialized in matters considering leadership and Non Violent Communication, he has delivered ~50 hours of soft skills sessions on various topics.',
-    //   image: require('@/assets/images/speakers/oskar-pawica.jpg')
-    // },
-    // {
-    //   id: 12,
-    //   firstName: 'Mikaela',
-    //   lastName: 'Tsakalidou',
-    //   workshopNames: [ '?' ],
-    //   description: ' Mikaela comes from Greece and she has been a member of EESTEC for the past 4.5 years, taking on several leadership roles both locally and internationally.  She studied Environmental Engineering and currently works in Market Development. Her trainer’s path started in August 2020 and ever since she’s leveraging every training opportunity that arises in order to help people unlock their own potential.  Her favorite training topics are Personal Leadership, Emotional Intelligence and Communication Skills. Organizing an SSA for the first time 4 years ago was the very reason she started working on her soft skills and she’s more than grateful for having the opportunity to deliver in this event, with the hope to motivate other people to take ownership of their life as well as to contribute to their personal development! ',
-    //   image: require('@/assets/images/speakers/mikaela.jpg')
-    // },
-    // {
-    //   id: 13,
-    //   firstName: 'Piotr',
-    //   lastName: 'Połeć',
-    //   workshopNames: [ '?' ],
-    //   description: 'A member of EESTEC Training Team, graduate of Computer Science at AGH, currently working as a software developer. Working with other people and opportunity for self growth gives him a motivation boost every day. Likes to have deep conversations about topics that have no clear answer. Curious about the world, eager to exchange experiences and knowledge with everyone. Fan of fantasy books, foreign languages and woodworking.',
-    //   image: require('@/assets/images/speakers/piotrek-polec.png')
-    // },
-    // {
-    //   id: 14,
-    //   firstName: 'Irene',
-    //   lastName: 'Marban',
-    //   workshopNames: [ '?' ],
-    //   description: 'My name is Irene and I am 12th generation EESTEC trainer since 2020. I live and study in Madrid, but I am planning to move abroad soon! I am really passionate about productivity, since I have many projects in my daily life and I need tools to manage them, although I really enjoy learning about other Soft Skills as well. My top two hobbies are running and cooking, really good duo!',
-    //   image: require('@/assets/images/speakers/irene.jpg')
-    // },
+     {
+       id: 10,
+       firstName: 'Tania',
+       lastName: 'Livanou',
+       workshopNames: [ 'Why do I want to become a leader?', 'Small Habits, Big Results.' ],
+       description: 'I am Tania Livanou from EESTEC LC Athens. I have been delivering training sessions related to soft skills for a couple of years since I have become a soft skills trainer. My mission is to transfer the experiences and knowledge that I obtain to other passionate people in order to help them see their full potential. My outlet for expression comes to reality through art and creativity.',
+       image: require('@/assets/images/speakers/tania-livanou.jpg')
+     },
+     {
+       id: 11,
+       firstName: 'Oskar',
+       lastName: 'Pawica',
+       workshopNames: [ 'Becoming a leader.', 'How do leaders communicate?' ],
+       description: ' A member of EESTEC Training Team and an alumni member of EESTEC AGH Krakow, professionally a Software Engineer. Within the past few years he has held numerous leadership positions in EESTEC, both internationally and locally – i.a. as a Vice-Chairperson of EESTEC AGH Krakow, a coordinator of 10th edition of Soft Skills Academy or lastly as one of the coordinators of EESTEC Regionalization Project, where he provided advice to the leaders of EESTEC Local Committees from six different countries. Motivated to share his experience and knowledge in the field of interpersonal skills, specialized in matters considering leadership and Non Violent Communication, he has delivered ~50 hours of soft skills sessions on various topics.',
+       image: require('@/assets/images/speakers/oskar-pawica.jpg')
+     },
+     {
+       id: 12,
+       firstName: 'Mikaela',
+       lastName: 'Tsakalidou',
+       workshopNames: [ 'Becoming a leader.', 'How do leaders communicate?' ],
+       description: ' Mikaela comes from Greece and she has been a member of EESTEC for the past 4.5 years, taking on several leadership roles both locally and internationally.  She studied Environmental Engineering and currently works in Market Development. Her trainer’s path started in August 2020 and ever since she’s leveraging every training opportunity that arises in order to help people unlock their own potential.  Her favorite training topics are Personal Leadership, Emotional Intelligence and Communication Skills. Organizing an SSA for the first time 4 years ago was the very reason she started working on her soft skills and she’s more than grateful for having the opportunity to deliver in this event, with the hope to motivate other people to take ownership of their life as well as to contribute to their personal development! ',
+       image: require('@/assets/images/speakers/mikaela.jpg')
+     },
+     {
+       id: 13,
+       firstName: 'Piotr',
+       lastName: 'Połeć',
+       workshopNames: [ 'Ready, set, goals.', 'How to get 25 hours a day?' ],
+       description: 'A member of EESTEC Training Team, graduate of Computer Science at AGH, currently working as a software developer. Working with other people and opportunity for self growth gives him a motivation boost every day. Likes to have deep conversations about topics that have no clear answer. Curious about the world, eager to exchange experiences and knowledge with everyone. Fan of fantasy books, foreign languages and woodworking.',
+       image: require('@/assets/images/speakers/piotrek-polec.png')
+     },
+     {
+       id: 14,
+       firstName: 'Irene',
+       lastName: 'Marban',
+       workshopNames: [ 'Ready, set, goals.', 'How to get 25 hours a day?' ],
+       description: 'My name is Irene and I am 12th generation EESTEC trainer since 2020. I live and study in Madrid, but I am planning to move abroad soon! I am really passionate about productivity, since I have many projects in my daily life and I need tools to manage them, although I really enjoy learning about other Soft Skills as well. My top two hobbies are running and cooking, really good duo!',
+       image: require('@/assets/images/speakers/irene.jpg')
+     },
     {
       id: 15,
       firstName: 'Tomasz',
@@ -142,5 +142,13 @@ export default [
       workshopNames: ['Jak szybko w Soft Skille?'],
       description: 'Nazywam się Waldemar Szafraniec. Karierę testera rozpocząłem w 2012 roku. Od początku pracy w zawodzie wiedziałem, że będzie to coś więcej niż tylko praca. Obecnie praca jest również moim hobby. Jednym z moich obowiązków w obecnym miejscu pracy jest rekrutowanie nowych testerów oraz szkolenie ich. Sam stale podnoszę swoje kwalifikacje uczestnicząc w szkoleniach (ISTQB, ISTQB Advanced Level – Test Analyst). Szkolę ludzi w dziedzinie testów manualnych od 2014 roku. Jestem trenerem, ponieważ wiem, że dobrze mi wychodzi przekazywanie wiedzy, wiem jak praca testera wygląda oraz mam doświadczenie w rekruta',
       image: require('@/assets/images/speakers/waldemar-szafraniec.jpg')
+    },
+    {
+      id: 17,
+      firstName: 'Adam',
+      lastName: 'Kołek',
+      workshopNames: ['Soft Skills przydatne w IT, czyli o tym czego nie powiedzą Ci na studiach.'],
+      description: 'Obecnie jestem Project Managerem w Scalaric, w przeszłości byłem osobą bardzo zaangażowaną w różnego rodzaju studenckie inicjatywy. Jestem bardzo podekscytowany perspektywą powrotu na stare śmieci i możliwością podzielenia się swoimi przemyśleniami oraz zainicjowania ciekawej dyskusji dotyczącej soft skilli w świecie IT!',
+      image: require('@/assets/images/speakers/adam_kolek.jpg')
     }
   ]

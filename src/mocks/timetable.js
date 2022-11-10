@@ -24,12 +24,13 @@ export default {
             "name": "Soft Skills przydatne w IT, czyli o tym czego nie powiedzą ci na studiach",
             "start": "18:00",
             "end": "20:30",
-            "location": "Wolny warsztat",
-            "description": "", //TODO:
+            "location": "AGH",
+            "description": "\"Na studiach mnie tego nie uczyli!\" - to bardzo częste słowa osób rozpoczynających swoją pierwszą pracę w zawodzie. Jeśli chcesz by Twoje wejście w branżę IT i komunikacja z zespołem były dużo łatwiejsze, a pierwszy dzień pracy niczym nie zaskoczył - wpadaj na nasz warsztat. Poświęcimy go na pokazanie Ci na naszym przykładzie, jak skutecznie pracować w zespole i jak w tym mogą pomóc Ci umiejętności miękkie. Pokażemy, że praca w IT nie jest tylko dla programistów, że łączenie pracy i studiów jest realne, a także jak przygotować się do rozmowy rekrutacyjnej. Dodatkowo przedstawimy jakie umiejętności miękkie są według nas kluczowe do płynnego rozpoczęcia swojej kariery w IT. Z chęcią podejmiemy się próby odpowiedzenia także na wszystkie nurtujące Was pytania! ",
             "speakers": [
                 {
-                    "firstName": "Scarlic",
-                    "image": require('@/assets/images/speakers/unknown.png')
+                    "firstName": "Adam",
+                    "lastName": "Kołek",
+                    "image": require('@/assets/images/speakers/adam_kolek.jpg')
                 }
             ]
         },
@@ -141,7 +142,7 @@ export default {
             "start": "17:30",
             "end": "20:00",
             "location": "Rise by lifting others! How to be a good leader.",
-            "description": "", //TODO:
+            "description": "Do you enjoy working with people and achieving great things together? Seeing them accomplish more is inspiring and uplifting for you? If so, the leadership path seems to be a perfect fit for you. It will help you learn how to rise together with your teams, how to manage the people you work with and how to communicate efficiently to rise together as a team. What are you waiting for? Choose the path of a leader!", 
             "speakers": [
                 {
                     "firstName": "Karol",
@@ -161,7 +162,7 @@ export default {
             "start": "18:00",
             "end": "20:30",
             "location": "Just do it! How to be a disciplined person",
-            "description": "", //TODO:
+            "description": "Have you ever wondered why you can’t master self-discipline? Did you face the procrastination moment that seemed impossible to beat? Or maybe you didn’t know how to set the goals efficiently? If so, this path is just for you! In the couple of sessions you will learn how to structure your future plans and how to manage your time. What’s more, you will get to know useful productivity practices and tricks to get your mind to accomplish more! Let’s get it done together!", 
             "speakers": [
                 {
                     "firstName": "Irene",
@@ -241,7 +242,7 @@ export default {
             "start": "11:00",
             "end": "13:30",
             "location": "Rise by lifting others! How to be a good leader",
-            "description": "",
+            "description": "Do you enjoy working with people and achieving great things together? Seeing them accomplish more is inspiring and uplifting for you? If so, the leadership path seems to be a perfect fit for you. It will help you learn how to rise together with your teams, how to manage the people you work with and how to communicate efficiently to rise together as a team. What are you waiting for? Choose the path of a leader!",
             "speakers": [
                 {
                     "firstName": "Mikaela",
@@ -260,7 +261,7 @@ export default {
             "start": "14:30",
             "end": "18:30",
             "location": "Rise by lifting others! How to be a good leader",
-            "description": "",
+            "description": "Do you enjoy working with people and achieving great things together? Seeing them accomplish more is inspiring and uplifting for you? If so, the leadership path seems to be a perfect fit for you. It will help you learn how to rise together with your teams, how to manage the people you work with and how to communicate efficiently to rise together as a team. What are you waiting for? Choose the path of a leader!",
             "speakers": [
                 {
                     "firstName": "Mikaela",
@@ -279,7 +280,7 @@ export default {
             "start": "11:00",
             "end": "13:30",
             "location": "Just do it! How to be a disciplined person",
-            "description": "",
+            "description": "Have you ever wondered why you can’t master self-discipline? Did you face the procrastination moment that seemed impossible to beat? Or maybe you didn’t know how to set the goals efficiently? If so, this path is just for you! In the couple of sessions you will learn how to structure your future plans and how to manage your time. What’s more, you will get to know useful productivity practices and tricks to get your mind to accomplish more! Let’s get it done together!",
             "speakers": [
                 {
                     "firstName": "Irene",
@@ -298,7 +299,7 @@ export default {
             "start": "14:30",
             "end": "18:30",
             "location": "Just do it! How to be a disciplined person",
-            "description": "",
+            "description": "Have you ever wondered why you can’t master self-discipline? Did you face the procrastination moment that seemed impossible to beat? Or maybe you didn’t know how to set the goals efficiently? If so, this path is just for you! In the couple of sessions you will learn how to structure your future plans and how to manage your time. What’s more, you will get to know useful productivity practices and tricks to get your mind to accomplish more! Let’s get it done together!",
             "speakers": [
                 {
                     "firstName": "Karol",
