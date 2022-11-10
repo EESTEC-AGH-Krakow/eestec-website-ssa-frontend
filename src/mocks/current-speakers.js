@@ -148,7 +148,7 @@ export default [
       firstName: 'Adam',
       lastName: 'Kołek',
       workshopNames: ['Soft Skills przydatne w IT, czyli o tym czego nie powiedzą Ci na studiach.'],
-      description: '',
+      description: 'Obecnie jestem Project Managerem w Scalaric, w przeszłości byłem osobą bardzo zaangażowaną w różnego rodzaju studenckie inicjatywy. Jestem bardzo podekscytowany perspektywą powrotu na stare śmieci i możliwością podzielenia się swoimi przemyśleniami oraz zainicjowania ciekawej dyskusji dotyczącej soft skilli w świecie IT!',
       image: require('@/assets/images/speakers/adam_kolek.jpg')
     }
   ]
