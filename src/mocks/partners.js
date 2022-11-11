@@ -31,36 +31,43 @@ export default [
         "id": 6,
         "type": "media",
         "name": "dlaStudenta.pl",
-        "description": "dlaStudenta.pl to gigantyczne kompendium wiedzy o wszystkim, czego potrzebuje student – od oferty edukacyjnej uczelni wyższych i szkół policealnych i językowych, poprzez oferty pracy i mieszkań do wynajęcia, informacje o wydarzeniach  kulturalnych, po treści life-style’owe i autorskie komentarze redakcji.",
+        "description": "dlaStudenta.pl to gigantyczne kompendium wiedzy o wszystkim, czego potrzebuje student – od oferty edukacyjnej uczelni wyższych i szkół policealnych i językowych, poprzez oferty pracy i mieszkań do wynajęcia, informacje o wydarzeniach  kulturalnych, po treści life-style’owe i autorskie komentarze redakcji. Więcej informacji na stronie: <a href='https://dlastudenta.pl/'>https://dlastudenta.pl</a> ",
         "image": require('@/assets/images/partners/media/dlastudentapl.jpg')
-    },
-    {
-        "id": 6,
-        "type": "media",
-        "name": "Perspektywy.pl",
-        "description": "",
-        "image": require('@/assets/images/partners/media/perspektywy logo.jpg')
     },
     {
         "id": 7,
         "type": "media",
-        "name": "DevaGroup",
-        "description": "",
-        "image": require('@/assets/images/partners/media/logo Deva - clear.png')
+        "name": "Perspektywy.pl",
+        "description": "Więcej informacji na stronie: <a href='https://perspektywy.pl/portal/'>https://perspektywy.pl/portal/</a>",
+        "image": require('@/assets/images/partners/media/perspektywy logo.jpg')
     },
     {
         "id": 8,
         "type": "media",
+        "name": "DevaGroup",
+        "description": "Więcej informacji na stronie: <a href='https://www.devagroup.pl/'>https://www.devagroup.pl/</a>",
+        "image": require('@/assets/images/partners/media/logo Deva - clear.png')
+    },
+    {
+        "id": 9,
+        "type": "media",
         "name": "semKRK",
-        "description": "SemKRK to wyjątkowy barcamp o szerokiej tematyce marketingu w wyszukiwarkach oraz analityki.",
+        "description": "SemKRK to wyjątkowy barcamp o szerokiej tematyce marketingu w wyszukiwarkach oraz analityki. Więcej informacji na stronie: <a href='https://semkrk.pl/'>https://semkrk.pl/</a>",
         "image": require('@/assets/images/partners/media/logo_poziom.png')
     },
-    // {
-    //     "id": 9,
-    //     "type": "media",
-    //     "name": "krakow.pl",
-    //     "description": "",
-    //     "image": require('@/assets/images/partners/media/logo_poziom.png')
-    // }
+    {
+        "id": 10,
+        "type": "media",
+        "name": "krakow.pl",
+        "description": "Więcej informacji na stronie: <a href='www.krakow.pl'>www.krakow.pl</a>",
+        "image": require('@/assets/images/partners/media/krakowpl.jpg')
+    },
+    {
+        "id": 11,
+        "type": "media",
+        "name": "studentnews.pl",
+        "description": "studentnews.pl jest jednym z naszych portali w grupie 60 witryn. To właśnie od niego zaczęła się nasza przygoda w Internecie. Portal zawiera informacje dla studentów i absolwentów, które są podzielone na działy: Studia, Uczelnie, Języki, Praca, Kariera, Nauka, Hi-Tech, Zdrowie, Studentka, Kultura, Podróże, Narty. Ma również 16 Studenckich Informatorów Lokalnych, po jednym na każde województwo. Portal w roku 2019 miał 2,85 mln użytkowników (źródło: Google Analytics). Więcej informacji na stronie: <a href='https://www.studentnews.pl/'>https://www.studentnews.pl/</a>",
+        "image": require('@/assets/images/partners/media/studentnews.jpg')
+    }
     
 ]
