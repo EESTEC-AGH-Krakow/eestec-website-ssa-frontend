@@ -2,6 +2,20 @@ export default {
 
     "Dec 5, 2022": [
         {
+            "name": "Scrum w praktyce, czyli skuteczna praca zespołowa nie tylko w IT.",
+            "start": "17:00",
+            "end": "19:30",
+            "location": "Wolny warsztat",
+            "description": "Na zajęciach projekt grupowy, a współpraca znowu nie idzie? Świetny pomysł do realizacji ze znajomymi, tylko nie wiadomo jak go zaplanować? A może pierwsze praktyki w firmie, która jest „Agile”…? Podczas warsztatu poznasz w praktyce Scrum’a - jeden z najpopularniejszych frameworków pracy zespołowej. Dowiesz się kiedy warto go zastosować i jak to zrobić, aby poprawić współpracę, komunikację i skutecznie stworzyć dokładnie to, co było potrzebne. A wszystko w atmosferze dobrej zabawy klockami ;)",
+            "speakers": [
+                {
+                    "firstName": "Anna",
+                    "lastName": "Rybka",
+                    "image": require('@/assets/images/speakers/ania-rybka.jpg')
+                }
+            ]
+        },
+        {
             "name": "Rozwiązywanie konfliktów",
             "start": "17:30",
             "end": "20:00",
@@ -50,20 +64,7 @@ export default {
                 }
             ]
         },
-        {
-            "name": "Scrum w praktyce, czyli skuteczna praca zespołowa nie tylko w IT.",
-            "start": "17:30",
-            "end": "20:00",
-            "location": "Wolny warsztat",
-            "description": "Na zajęciach projekt grupowy, a współpraca znowu nie idzie? Świetny pomysł do realizacji ze znajomymi, tylko nie wiadomo jak go zaplanować? A może pierwsze praktyki w firmie, która jest „Agile”…? Podczas warsztatu poznasz w praktyce Scrum’a - jeden z najpopularniejszych frameworków pracy zespołowej. Dowiesz się kiedy warto go zastosować i jak to zrobić, aby poprawić współpracę, komunikację i skutecznie stworzyć dokładnie to, co było potrzebne. A wszystko w atmosferze dobrej zabawy klockami ;)",
-            "speakers": [
-                {
-                    "firstName": "Anna",
-                    "lastName": "Rybka",
-                    "image": require('@/assets/images/speakers/ania-rybka.jpg')
-                }
-            ]
-        },
+
     ],
 
     "Dec 7, 2022": [
