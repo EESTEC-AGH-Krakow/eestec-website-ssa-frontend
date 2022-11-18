@@ -10,7 +10,7 @@ export default [
         "type": "regular",
         "name": "ASSA ABLOY & HID",
         "description":
-            "ASSA ABLOY jest światowym liderem w rozwiązaniach dostępowych używanych codziennie na całym świecie. Przechodząc przez automatyczne drzwi, zatrzymując się w hotelu lub potwierdzając swoją tożsamość, prawdopodobnie korzystasz z naszych produktów lub usług. ASSA ABLOY & HID Global posiada w Krakowie swoje Centrum R&D gdzie korzystając z najnowszych technologii nieustannie opracowuje innowacyjne rozwiązania poprawiające jakość życia klientów.<br/><br/>ASSA ABLOY is the global leader in access solutions used every day around the world. When you walk through an automatic door, stay in a hotel or authenticate your identity, then you’re probably using our products or services. ASSA ABLOY & HID Global has its R&D Center in Krakow were using the latest technologies constantly develops innovative solutions that improve quality of life of customers.",
+        "ASSA ABLOY jest światowym liderem w rozwiązaniach dostępowych używanych codziennie na całym świecie. Przechodząc przez automatyczne drzwi, zatrzymując się w hotelu lub potwierdzając swoją tożsamość, prawdopodobnie korzystasz z naszych produktów lub usług. ASSA ABLOY oraz HID Global posiada w Krakowie swoje Centrum Innowacji gdzie korzystając z najnowszych technologii nieustannie opracowuje innowacyjne rozwiązania poprawiające jakość życia klientów. <br> ASSA ABLOY is the global leader in access solutions used every day around the world. When you walk through an automatic door, stay in a hotel or authenticate your identity, then you’re probably using our products or services. ASSA ABLOY and HID Global have its Innovation Center in Krakow were using the latest technologies constantly develops innovative solutions that improve quality of life of customers.",
         "image": require('@/assets/images/partners/regular/assa-and-hid.png')
     },
     {
@@ -24,7 +24,7 @@ export default [
         "id": 4,
         "type": "regular",
         "name": "GE Healthcare",
-        "description": "GE Healthcare to wiodący innowator technologii medycznych, diagnostyki i rozwiązań cyfrowych. Naszą misją jest polepszanie jakości życia i ochrony zdrowia. Digital Technology Site w Krakowie to wyjątkowa przestrzeń z zespołem najwyższej klasy specjalistów IT, którzy tworzą cyfrową przyszłość dla branży medycznej na całym świecie. Nasze tętniące życiem miejsce pracy i silna kultura zorientowana na zespół są konsekwentnie nagradzane certyfikatem Great Place to Work®. Dołącz do organizacji, w której każdy głos ma znaczenie, a każdy produkt buduje zdrowszy świat.",
+        "description": "GE Healthcare to wiodący innowator technologii medycznych, diagnostyki i rozwiązań cyfrowych. Naszą misją jest polepszanie jakości życia i ochrony zdrowia. Bycie częścią Information Technology Site w Krakowie daje możliwość odegrania kluczowej roli w rozwoju rozwiązań cyfrowych wraz z najwyższej klasy specjalistami IT.  Dzięki tętniącym życiem miejscem pracy oraz silnej kulturze zorientowanej na zespół, jesteśmy w stanie w znaczący sposób zmieniać sytuację pacjentów na całym świecie. <br> Zatrudniamy osoby, które chętnie poznają nowe technologie I stawiają na innowacyjne rozwiązania.  Dołącz do organizacji, w której każdy głos ma znaczenie, a każdy produkt buduje zdrowszy świat. <a href='https://join-ge.cloud.gehealthcare.com/about.'>https://join-ge.cloud.gehealthcare.com/about.</a>",
         "image": require('@/assets/images/partners/regular/GE-Healthcare.png')
     },
     {
