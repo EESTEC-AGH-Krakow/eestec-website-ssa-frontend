@@ -1,7 +1,7 @@
 export default [
     {
       id: 0,
-      firstName: 'Ania',
+      firstName: 'Anna',
       lastName: 'Rybka',
       workshopNames: [ 'Scrum w praktyce, czyli skuteczna praca zespołowa nie tylko w IT.' ],
       description: 'Agile Coach w ASSA ABLOY Opening Solutions EMEIA Absolwentka AGH, Scrum Master i Agile Coach z wieloletnim doświadczeniem. Na co dzień pracuje z zespołami i ich liderami, pomagając w identyfikacji problemów i szukając usprawnień. Pasjonatka wartości scrumowych, pytania „po co?” oraz indywidualnego podejścia do ludzi i zespołów. Prywatnie entuzjastka muzyki i fotografii. Kocia mama :) ',
@@ -40,7 +40,7 @@ export default [
       workshopNames: [
         '“Bez kija nie podchodź”, czyli jak oswoić się z przyjmowaniem i udzielaniem informacji zwrotnej'
       ],
-      description: 'Daniel z wykształcenia jest matematykiem, a zawodowo zajmuje się promowaniem aplikacji webowych,  również jest członkiem Kraków English Public Speaking Club oraz Toastmasters. Hobbystycznie daje się porwać w świat muzyki, grając na gitarze, ewentualnie (sic!) obrywa w szachy. Pozostałe swoje zainteresowania dobiera pseudolosowo na podstawie konstelacji gwiazd danego dnia. ',
+      description: 'Daniel z wykształcenia jest matematykiem, a zawodowo zajmuje się programowaniem aplikacji webowych,  również jest członkiem Kraków English Public Speaking Club oraz Toastmasters. Hobbystycznie daje się porwać w świat muzyki, grając na gitarze, ewentualnie (sic!) obrywa w szachy. Pozostałe swoje zainteresowania dobiera pseudolosowo na podstawie konstelacji gwiazd danego dnia. ',
       image: require('@/assets/images/speakers/daniel-stasiak.jpg')
     },
     {
