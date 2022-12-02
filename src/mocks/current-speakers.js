@@ -7,8 +7,15 @@ export default [
       description: 'Agile Coach w ASSA ABLOY Opening Solutions EMEIA Absolwentka AGH, Scrum Master i Agile Coach z wieloletnim doświadczeniem. Na co dzień pracuje z zespołami i ich liderami, pomagając w identyfikacji problemów i szukając usprawnień. Pasjonatka wartości scrumowych, pytania „po co?” oraz indywidualnego podejścia do ludzi i zespołów. Prywatnie entuzjastka muzyki i fotografii. Kocia mama :) ',
       image: require('@/assets/images/speakers/ania-rybka.jpg')
     },
+    { id: 1,
+      firstName: 'Piotr',
+      lastName: 'Milewski',
+      workshopNames: [ 'Scrum w praktyce, czyli skuteczna praca zespołowa nie tylko w IT.' ],
+      description: 'Product Owner w ASSA ABLOY Opening Solutions EMEIA. Z wykształcenia lingwista, z zamiłowania pasjonat nowych technologii i urządzeń mobilnych. Na co dzień, stara się rozwijać produkty, które ludzie rzeczywiście potrzebują. Prywatnie entuzjasta skitouringu, wspinaczki wysokogórskiej i paralotniarstwa. ',
+      image: require('@/assets/images/speakers/piotr_milewski.jpg')
+    },
     {
-      id: 1,
+      id: 2,
       firstName: 'Wojciech',
       lastName: 'Buda',
       workshopNames: ['Naucz się mówić “nie!” - czyli jak stać się asertywnym', 'Jak opanować stres wokół siebie, a przy tym nie zwariować?'],
@@ -16,7 +23,7 @@ export default [
       image: require('@/assets/images/speakers/wojciech-buda.jpg')
     },
     {
-      id: 2,
+      id: 3,
       firstName: 'Karolina',
       lastName: 'Latos',
       workshopNames: [ 'Jak gadać, żeby się dogadać?' ],
@@ -24,7 +31,7 @@ export default [
       image: require('@/assets/images/speakers/karolina-latos.jpeg')
     },
     {
-      id: 3,
+      id: 4,
       firstName: 'Tomasz',
       lastName: 'Waleczko',
       workshopNames: [
@@ -34,7 +41,7 @@ export default [
       image: require('@/assets/images/speakers/tomasz-waleczko.jpg')
     },
     {
-      id: 4,
+      id: 5,
       firstName: 'Daniel',
       lastName: 'Stasiak',
       workshopNames: [
@@ -44,7 +51,7 @@ export default [
       image: require('@/assets/images/speakers/daniel-stasiak.jpg')
     },
     {
-      id: 5,
+      id: 6,
       firstName: 'Artur',
       lastName: 'Grabowski ',
       workshopNames: [
@@ -54,7 +61,7 @@ export default [
       image: require('@/assets/images/speakers/artur-grabowski.jpg')
     },
     {
-      id: 6,
+      id: 7,
       firstName: 'Joanna',
       lastName: 'Bagadzińska',
       workshopNames: [
@@ -64,7 +71,7 @@ export default [
       image: require('@/assets/images/speakers/joanna-bagadzińska.jpg')
     },
     {
-      id: 7,
+      id: 8,
       firstName: 'Dawid',
       lastName: 'Gościk',
       workshopNames: [ 'Design thinking - jak znaleźć niszę.' ],
@@ -72,7 +79,7 @@ export default [
       image: require('@/assets/images/speakers/dawid-goscik.jpg')
     },
     {
-      id: 8,
+      id: 9,
       firstName: 'Karol',
       lastName: 'Kania',
       workshopNames: [ 'Rozwiązywanie konfliktów.','Why do I want to become a leader?', 'Small Habits, Big Results.' ],
@@ -80,7 +87,7 @@ export default [
       image: require('@/assets/images/speakers/karol-kania.png')
     },
     {
-      id: 9,
+      id: 10,
       firstName: 'Agata',
       lastName: 'Socha',
       workshopNames: [ 'Rozwiązywanie konfliktów.' ],
@@ -88,7 +95,7 @@ export default [
       image: require('@/assets/images/speakers/agata-socha.jpg')
     },
      {
-       id: 10,
+       id: 11,
        firstName: 'Tania',
        lastName: 'Livanou',
        workshopNames: [ 'Why do I want to become a leader?', 'Small Habits, Big Results.' ],
@@ -96,7 +103,7 @@ export default [
        image: require('@/assets/images/speakers/tania-livanou.jpg')
      },
      {
-       id: 11,
+       id: 12,
        firstName: 'Oskar',
        lastName: 'Pawica',
        workshopNames: [ 'Becoming a leader.', 'How do leaders communicate?' ],
@@ -104,7 +111,7 @@ export default [
        image: require('@/assets/images/speakers/oskar-pawica.jpg')
      },
      {
-       id: 12,
+       id: 13,
        firstName: 'Mikaela',
        lastName: 'Tsakalidou',
        workshopNames: [ 'Becoming a leader.', 'How do leaders communicate?' ],
@@ -112,7 +119,7 @@ export default [
        image: require('@/assets/images/speakers/mikaela.jpg')
      },
      {
-       id: 13,
+       id: 14,
        firstName: 'Piotr',
        lastName: 'Połeć',
        workshopNames: [ 'Ready, set, goals.', 'How to get 25 hours a day?' ],
@@ -120,7 +127,7 @@ export default [
        image: require('@/assets/images/speakers/piotrek-polec.png')
      },
      {
-       id: 14,
+       id: 15,
        firstName: 'Irene',
        lastName: 'Marban',
        workshopNames: [ 'Ready, set, goals.', 'How to get 25 hours a day?' ],
@@ -128,7 +135,7 @@ export default [
        image: require('@/assets/images/speakers/irene.jpg')
      },
     {
-      id: 15,
+      id: 16,
       firstName: 'Tomasz',
       lastName: 'Bill',
       workshopNames: ['Kreatywność jest jak mięsień - wystarczy ją ćwiczyć'],
@@ -136,7 +143,7 @@ export default [
       image: require('@/assets/images/speakers/tomasz-bill.jpg')
     },
     {
-      id: 16,
+      id: 17,
       firstName: 'Waldemar',
       lastName: 'Szafraniec',
       workshopNames: ['Jak szybko w Soft Skille?'],
@@ -144,7 +151,7 @@ export default [
       image: require('@/assets/images/speakers/waldemar-szafraniec.jpg')
     },
     {
-      id: 17,
+      id: 18,
       firstName: 'Adam',
       lastName: 'Kołek',
       workshopNames: ['Soft Skills przydatne w IT, czyli o tym czego nie powiedzą Ci na studiach.'],

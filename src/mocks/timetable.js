@@ -12,6 +12,11 @@ export default {
                     "firstName": "Anna",
                     "lastName": "Rybka",
                     "image": require('@/assets/images/speakers/ania-rybka.jpg')
+                },
+                {
+                    "firstName": "Piotr",
+                    "lastName": "Milewski",
+                    "image": require('@/assets/images/speakers/piotr_milewski.jpg')
                 }
             ]
         },
