@@ -3,7 +3,7 @@ export default [
         "id":1,
         "type":"ssa",
         "title":"SOFT SKILLS ACADEMY",
-        "description":"Soft Skills Academy to projekt, którego ideą jest dostarczenie treści szkoleniowych dotyczących umiejętności miękkich studentom, którzy na tradycyjnej ścieżce swojej edukacji mają niewiele okazji do pogłębiania wiedzy i umiejętności w tym zakresie. Szczególną zaletą tego wydarzenia jest fakt, że uczestnictwo w nim jest w pełni bezpłatne. Podczas minionej, dwunastej edycji przeprowadzono 25 warsztatów w ciągu 7 dni. Dzięki warsztatom Soft Skills Academy można wzmocnić swoje umiejętności miękkie związane z komunikacją, radzeniem sobie ze stresem, planowaniem i organizacją. To jedynie mała część tego co oferuje Soft Skills Academy. Co roku oferta jest modyfikowana i dopasowywana do potrzeb uczestników. Aktualne informacje można znaleźć w zakładce \"Harmonogram\".",
+        "description":"Soft Skills Academy to projekt, którego ideą jest dostarczenie treści szkoleniowych dotyczących umiejętności miękkich studentom, którzy na tradycyjnej ścieżce swojej edukacji mają niewiele okazji do pogłębiania wiedzy i umiejętności w tym zakresie. Szczególną zaletą tego wydarzenia jest fakt, że uczestnictwo w nim jest w pełni bezpłatne. Podczas minionej, trzynastej edycji przeprowadzono 18 warsztatów w ciągu 6 dni. Dzięki warsztatom Soft Skills Academy można wzmocnić swoje umiejętności miękkie związane z komunikacją, radzeniem sobie ze stresem, planowaniem i organizacją. To jedynie mała część tego co oferuje Soft Skills Academy. Co roku oferta jest modyfikowana i dopasowywana do potrzeb uczestników. Aktualne informacje można znaleźć w zakładce \"Harmonogram\".",
         "image":require('@/assets/images/about/ssa12-img.jpg')
     },
     {
