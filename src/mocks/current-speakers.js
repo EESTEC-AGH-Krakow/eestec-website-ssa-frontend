@@ -94,7 +94,7 @@ export default [
       workshopNames: [ 'Jak się uczyć mniej by pamiętać więcej i co na ten temat mówi neuronauka? Fakty i mity o tym, jak uczy się mózg.' ],
       description: 'Z wykształcenia księgowa, historyk, trener i coach. Przez wiele lat zarządzałam działem windykacji, obsługi klienta i wsparcia sprzedaży. Od 2015 pracuję jako trener z grupami oraz indywidualnie jako coach. To mój czwarty zawód i nie powiedziałam jeszcze ostatniego słowa 😉. Po drodze jeszcze skończyłam szkołę w oddziale Instytutu Gallupa w Londynie – mam międzynarodowy certyfikat Gallup® Certified Strengths Coach – na co dzień pracuję badaniem talentów i mocnych stron z młodzieżą, studentami (m.in. z Politechniki Warszawskiej) oraz zespołami i managerami. Specjalizuję się w projektowaniu i prowadzeniu programów rozwojowych w firmach, w indywidualnych ścieżkach rozwijania kompetencji i umiejętności oraz poszukiwania mocy, przyjemności i sensu w życiu.',
       image: require('@/assets/images/speakers/ssa14/marcin_stopa.jpeg')
-    },
+    }
 //     {
 //       id: 0,
 //       firstName: 'Anna',
