@@ -27,7 +27,7 @@ export default [
       id: 3,
       firstName: 'Tomasz',
       lastName: 'Bill',
-      workshopNames: [ 'WiP' ],
+      workshopNames: [ 'Jak zarabiać na własnym imieniu i nazwisku? Od zera do przedsiębiorczego Freelancera.', 'Wyróźnij się albo zgiń - jak opowiadać o swoich osiągnięciach, sukcesach, doświadczeniach i umiejętnościach, aby osiągać cele własne oraz innych. Storytelling w pigułce.' ],
       description: 'Dobrze opowiedziana historia przyciąga uwagę klientów, a świetna nazwa buduje wizerunek i rozpoznawalność marki. Przemyślany scenariusz daje początek reklamie, która sprzedaje. Doskonale wie o tym Tomasz Bill – storyteller, niezależny ekspert od strategii komunikacji marek oraz ludzi, właściciel oraz założyciel agencji językowej Alfa Lingua.W swojej działalności wspiera kolejne pokolenia w świadomym działaniu i odkrywaniu własnych umiejętności oraz ścieżki rozwoju, nie tylko zawodowego.Wierzy w moc słowa i udowadnia, że komunikacja może być zrozumiała, a jednocześnie niebanalna. Pisze scenariusze promocyjne, teksty marketingowe, przemówienia i teksty wystąpień publicznych, które się zapamiętuje. Zaufało mu wiele firm i niezależnych ekspertów, którzy dziś z sukcesami przebijają się przez informacyjny szum konkurencji. Podczas szkoleń i konsultacji podnosi kompetencje uczestników w zakresie komunikacji i kreowania wizerunku. Z sukcesami prowadzi swoją agencję językową Alfa Lingua, która oferuje: kursy językowe online oraz tłumaczenia stron internetowych czy innych materiałów marketingowych z języka angielskiego oraz niemieckiego dla firm i osób indywidualnych, audyty kompetencji językowych oraz transkreacje biznesowe przy wchodzeniu na rynki globalne.',
       image: require('@/assets/images/speakers/ssa14/tomasz_bill.jpeg')
     },
@@ -91,7 +91,7 @@ export default [
       id: 11,
       firstName: 'Marcin',
       lastName: 'P. Stopa',
-      workshopNames: [ 'WiP' ],
+      workshopNames: [ 'Jak się uczyć mniej by pamiętać więcej i co na ten temat mówi neuronauka? Fakty i mity o tym, jak uczy się mózg.' ],
       description: 'Z wykształcenia księgowa, historyk, trener i coach. Przez wiele lat zarządzałam działem windykacji, obsługi klienta i wsparcia sprzedaży. Od 2015 pracuję jako trener z grupami oraz indywidualnie jako coach. To mój czwarty zawód i nie powiedziałam jeszcze ostatniego słowa 😉. Po drodze jeszcze skończyłam szkołę w oddziale Instytutu Gallupa w Londynie – mam międzynarodowy certyfikat Gallup® Certified Strengths Coach – na co dzień pracuję badaniem talentów i mocnych stron z młodzieżą, studentami (m.in. z Politechniki Warszawskiej) oraz zespołami i managerami. Specjalizuję się w projektowaniu i prowadzeniu programów rozwojowych w firmach, w indywidualnych ścieżkach rozwijania kompetencji i umiejętności oraz poszukiwania mocy, przyjemności i sensu w życiu.',
       image: require('@/assets/images/speakers/ssa14/marcin_stopa.jpeg')
     },
