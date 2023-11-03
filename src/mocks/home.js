@@ -49,7 +49,7 @@ export default {
     "title": "Partnerzy",
     "description": "Od 13 lat Soft Skills Academy współpracuje z wieloma firmami cieszącymi "
       + "się uznaniem na rynku pracy. W ramach wydarzenia nasi Partnerzy poprowadzą dedykowane warsztaty. "
-      + "Wśród firm, z którymi współpracujemy możemy wyróżnić takie marki jak np. Scalaric, Relativity, GE, "
+      + "Wśród firm, z którymi współpracowaliśmy możemy wyróżnić takie marki jak np. Scalaric, Relativity, GE, "
       + "Assa Abloy czy HID Global.",
     "image": require('@/assets/images/home/partnerzy.jpg')
   }

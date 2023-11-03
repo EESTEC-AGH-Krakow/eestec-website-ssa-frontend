@@ -4,7 +4,7 @@ export default [
         "title":"SOFT SKILLS ACADEMY 13",
         "year":"2022",
         "description":"W 2022 roku odbyła się 13. edycja Soft Skills Academy, która była wielkim przełomem w skali całej formuły SSA. Uczestnicy mieli okazję wybierać spośród specjalnie wyselekcjonowanych ścieżek tematycznych, zdobywając przy tym kompleksową wiedzę i umiejętności z danego zagadnienia. Studenci z wielką przyjemnością i satysfakcją uczestniczyli w 18 warsztatach dotyczących np. asertywności, pokonywania stresu, autoprezentacji czy sprawnej komunikacji. Wśród partnerów 13. edycji znaleźli się między innymi: ASSA ABLOY, HID Global, Relativity, GE HealthCare, Scalaric.",
-        "image":require('@/assets/images/previous-editions/ssa-12-img.jpg')
+        "image":require('@/assets/images/previous-editions/ssa-13-img.jpg')
     },
     {
         "id":2,
