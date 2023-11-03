@@ -104,7 +104,7 @@ export default [
         "type": "media",
         "name": "studentnews.pl",
         "description": "studentnews.pl jest jednym z naszych portali w grupie 60 witryn. To właśnie od niego zaczęła się nasza przygoda w Internecie. Portal zawiera informacje dla studentów i absolwentów, które są podzielone na działy: Studia, Uczelnie, Języki, Praca, Kariera, Nauka, Hi-Tech, Zdrowie, Studentka, Kultura, Podróże, Narty. Ma również 16 Studenckich Informatorów Lokalnych, po jednym na każde województwo. Portal w roku 2019 miał 2,85 mln użytkowników (źródło: Google Analytics). Więcej informacji na stronie: <a href='https://www.studentnews.pl/'>https://www.studentnews.pl/</a>",
-        "image": require('@/assets/images/partners/media/studentnews.jpg')
+        "image": require('@/assets/images/partners/media/studentnews.png')
     }
     
 ]
