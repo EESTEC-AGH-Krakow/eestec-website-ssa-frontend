@@ -1,10 +1,10 @@
 export default [
-    // {
-    //     "id": 1,
-    //     "type": "regular",
-    //     "name": "Miasto Kraków",
-    //     "image": require('@/assets/images/partners/regular/krakow.jpg')
-    // },
+    {
+        "id": 9,
+        "type": "regular",
+        "name": "Miasto Kraków",
+        "image": require('@/assets/images/partners/regular/krakow.jpg')
+    },
     // {
     //     "id": 2,
     //     "type": "regular",
@@ -92,13 +92,13 @@ export default [
     //     "description": "SemKRK to wyjątkowy barcamp o szerokiej tematyce marketingu w wyszukiwarkach oraz analityki. Więcej informacji na stronie: <a href='https://semkrk.pl/'>https://semkrk.pl/</a>",
     //     "image": require('@/assets/images/partners/media/logo_poziom.png')
     // },
-    // {
-    //     "id": 10,
-    //     "type": "media",
-    //     "name": "krakow.pl",
-    //     "description": "Więcej informacji na stronie: <a href='www.krakow.pl'>www.krakow.pl</a>",
-    //     "image": require('@/assets/images/partners/media/krakowpl.jpg')
-    // },
+    {
+        "id": 10,
+        "type": "media",
+        "name": "krakow.pl",
+        "description": "Więcej informacji na stronie: <a href='www.krakow.pl'>www.krakow.pl</a>",
+        "image": require('@/assets/images/partners/media/krakowpl.jpg')
+    },
     {
         "id": 8,
         "type": "media",
