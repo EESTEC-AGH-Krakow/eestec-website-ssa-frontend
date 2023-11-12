@@ -23,6 +23,7 @@
 </template>
 
 <script>
+import SpeakerModal from './SpeakerModal.vue';
 export default {
   name: 'WorkshopDetails',
   data() {
