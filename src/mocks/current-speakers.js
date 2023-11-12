@@ -109,7 +109,7 @@ export default [
     lastName: 'Kania',
     workshopNames: [ 'Po mojemu - Czyli jak negocjować to na czym nam zależy.', '  ', 'Jestem liderem, ale to nie o mnie chodzi' ],
     description: 'Soft Skills Trainer who delivers sessions for more than 3 years. Had an opportunity to hold different positions and work in various teams and projects within non-governmental organizations where he acquired hands-on experience on soft skills and organizational management topics. Currently he is diving deeper into Product Management in the IT environment. Privately likes all manner of sports, enjoys a good laugh and loves traveling.',
-    image: require('@/assets/images/speakers/unknown.png')
+    image: require('@/assets/images/speakers/ssa14/karo_kania.jpg')
   },
   {
     id: 14,
@@ -125,7 +125,7 @@ export default [
     lastName: 'Pawica',
     workshopNames: [ 'Jestem liderem, ale to nie o mnie chodzi' ],
     description: "Hey there! I am Oskar and I am a Soft Skills Trainer, a member of the EESTEC Training Team and an alumni member of EESTEC AGH Krakow, professionally a Software Engineer. I'm here to help you grow, just like in the past other trainers guided me towards development. Let's embark on this journey of self-discovery together! Within the past few years, I have held numerous leadership positions in EESTEC, both internationally and locally. All this made me gain plenty of experience and knowledge in the field of interpersonal skills, especially in matters considering leadership and Non Violent Communication. Having delivered more than 70 hours of soft skills sessions on various topics in different EESTEC events in Europe, I'm excited to get back to the Soft Skills Academy in Kraków which certainly has a special spot in my heart. I'm pretty sure that it will have the same magical effect on you! See you soon!",
-    image: require('@/assets/images/speakers/unknown.png')
+    image: require('@/assets/images/speakers/ssa14/oskar_pawica.jpg')
   },
   {
     id: 16,
@@ -133,7 +133,7 @@ export default [
     lastName: 'Daltchev',
     workshopNames: [ 'Jak się uczyć mniej by pamiętać więcej i co na ten temat mówi neuronauka? Fakty i mity o tym, jak uczy się mózg.' ],
     description: 'Atanas is a member of the EESTEC Training Team and a Trainer from Zero Generation´s Youth Trainers Academy. The Munich-based Customer Support Specialist has a rich history in EESTEC, both in the local board of EESTEC LC Munich, as an Ambassador towards other student organisations and even on the Board of EESTEC itself. From acquiring partnerships to organising conferences and congresses, his main focus is communication, presentation skills and leadership. With a passion for delivering trainings and workshops, including training new trainers, he is more than excited to share his knowledge and experience! ',
-    image: require('@/assets/images/speakers/unknown.png')
+    image: require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
   },
   {
     id: 17,
@@ -141,6 +141,6 @@ export default [
     lastName: 'Ociepka',
     workshopNames: [ 'Jak się uczyć mniej by pamiętać więcej i co na ten temat mówi neuronauka? Fakty i mity o tym, jak uczy się mózg.' ],
     description: "Soft skills trainer with six years of experience in NGOs. Former board member of EESTEC - both internationally and locally in Kraków. Graduate of Computer Science at AGH, professionally mobile developer. Interested mostly in interpersonal and organisational skills. In the free time (which isn't too often) - bridge and darts player.",
-    image: require('@/assets/images/speakers/unknown.png')
+    image: require('@/assets/images/speakers/ssa14/bartosz_ociepka.jpg')
   }
 ]
