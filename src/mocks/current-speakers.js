@@ -3,7 +3,7 @@ export default [
     id: 0,
     firstName: 'Michał',
     lastName: 'Wesołowski',
-    workshopNames: [ 'Jak to jest pracowac w SCRUM, dobrze? To nie ma tak, że dobrze albo niedobrze...' ],
+    workshopNames: [ 'Jak to jest pracować w SCRUM, dobrze? To nie ma tak, że dobrze albo niedobrze...' ],
     description: 'Zawodowo: Product Manager, z 6-letnim doświadczeniem w IT. Miałem okazję pracować w startupie, małej firmie a aktualnie jako trybik w dużej korporacji. I przyznam szczerze: całkiem mi to trybikowanie wychodzi. Swego czasu aktywny członek EESTECu. Po więcej zapraszam na Linkedin. Prywatnie: bardzo szczęśliwy mąż, i ojciec. Serio.',
     image: require('@/assets/images/speakers/ssa14/michal_wesolowski.png')
   },
@@ -20,7 +20,7 @@ export default [
     firstName: 'Aleksandra',
     lastName: 'Cierniak',
     workshopNames: [ 'Oko, ucho, ręka, czyli w jaki sposób nauczę się na kolosa i nie tylko.', ' ', 'Zanotuj, zapamiętaj i zdaj - poznaj tajniki skutecznej nauki.' ],
-    description: 'Na co dzień zajmuję się prowadzeniem agencji marketingowej, w której każdego dnia czegoś się uczę. A dzięki moim zainteresowaniom efektywną nauką i rozwojem mózgu zdobywanie nowych kompetencji idzie mi bez problemu. Od ponad 6 lat dzielę się swoją wiedzą i doświadczeniem na blogu https://aleksandracierniak.pl/ i na Instagramie: https://instagram.com/aleksandra_cierniak/. Prywatnie fanka jednorożców, dobrych ciast i kawy. ',
+    description: 'Na co dzień zajmuję się prowadzeniem agencji marketingowej, w której każdego dnia czegoś się uczę. A dzięki moim zainteresowaniom efektywną nauką i rozwojem mózgu zdobywanie nowych kompetencji idzie mi bez problemu. Od ponad 6 lat dzielę się swoją wiedzą i doświadczeniem na blogu <a>https://aleksandracierniak.pl/</a> i na Instagramie: <a>https://instagram.com/aleksandra_cierniak/</a>. Prywatnie fanka jednorożców, dobrych ciast i kawy. ',
     image: require('@/assets/images/speakers/ssa14/aleksandra_cierniak.jpg')
   },
   {
@@ -60,7 +60,7 @@ export default [
     firstName: 'Bogumiła',
     lastName: 'Mucha',
     workshopNames: [ 'Budżet Osobisty - skuteczne zasady budowania Finansowego Planu.', ' ', 'Od inwestycji w siebie do inwestycji w przyszłość - jak jak mądrze oszczędzać i zyskownie inwestować?' ],
-    description: 'Psycholog Biznesu i Przedsiębiorca. Uczę jak stawiać swoje pierwsze kroki w drodze do własnej niezależności, skutecznie poprawiać kondycję finansów i budować ścieżkę kariery wartą miliony. Pomagam swoim klientom w zdobyciu praktycznych umiejętności zarządzania finansami osobistymi i firmowymi. Pracuję także nad aspektami mentalnymi, które często ograniczają w drodze do sukcesu, a także nad budowaniem dochodowych planów i nawyków finansowych.',
+    description: 'Psycholog Biznesu i Przedsiębiorca. Uczę jak stawiać swoje pierwsze kroki w drodze do własnej niezależności, skutecznie poprawiać kondycję finansów i budować ścieżkę kariery wartą miliony. Pomagam swoim klientom w zdobyciu praktycznych umiejętności zarządzania finansami osobistymi i firmowymi. Pracuję także nad aspektami mentalnymi, które często ograniczają w drodze do sukcesu, a także nad budowaniem dochodowych planów i nawyków finansowych. \n Znajdziesz mnie również tutaj: \n <a href="https://www.facebook.com/bogumilamuchapl">Facebook</a> \n <a href="https://www.instagram.com/bogumila_mucha/">Instagram</a> \n <a href="https://www.youtube.com/@BogumilaMuchaPL">YouTube</a> \n <a href="https://tiktok.com/@bogumila_mucha">TikTok</a>',
     image: require('@/assets/images/speakers/ssa14/bogumila_mucha.jpeg')
   },
   {
@@ -75,7 +75,7 @@ export default [
     id: 9,
     firstName: 'Natalia',
     lastName: 'Schmidt-Polończyk',
-    workshopNames: [ 'Prelekcja otwierająca' ],
+    workshopNames: [ 'Prelekcja otwierająca: Nie jesteś robotem! Po co inżynierowi kompetencje miękkie?' ],
     description: 'Adiuntka na Wydziale Inżynierii Lądowej i Gospodarki Zasobami AGH. Jako tutorka akademicka i trenerka interpersonalna pomaga studentom w rozwoju osobistym i naukowym. Jest zwolenniczką rozwijania kompetencji interpersonalnych wśród inżynierów dlatego utworzyła autorski przedmiot Rozwój Kompetencji Miękkich. W dydaktyce odnalazła spełnienie, a ciekawość młodszego pokolenia sprawia, że zajęcia ze studentami są dla niej inspirujące. Natalia jest popularyztorką i rzeczniczką nauki, prowadzi instagramowe konto @doktorka_tutorka, na którym oprócz treści popularnonaukowych, publikuje posty skierowane do studentów dot. rozwoju, skutecznych sposobów nauki, czy radzenia sobie ze stresem. W tym roku otrzymała tytuł Dydaktyka z Pasją.',
     image: require('@/assets/images/speakers/ssa14/natalia_schmidt.jpg')
   },
