@@ -12,10 +12,10 @@
         </h1>
         <span class="text-white">4 - 10 grudnia 2023 r <br/> Akademia Górniczo Hutnicza w Krakowie </span>
         
-        <!-- <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
-          href="https://docs.google.com/forms/d/1MkveWdSxR1okLAvVxiFVLp1RaFSkGUVrxqunA8_yhB8/edit?usp=drivesdk"
+        <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
+          href=""
           target="_blank">ZAPISY
-        </b-button> -->
+        </b-button>
        
       
       </b-col>
