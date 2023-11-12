@@ -77,7 +77,7 @@ export default [
     lastName: 'Schmidt-Polończyk',
     workshopNames: [ 'Prelekcja otwierająca' ],
     description: 'Adiuntka na Wydziale Inżynierii Lądowej i Gospodarki Zasobami AGH. Jako tutorka akademicka i trenerka interpersonalna pomaga studentom w rozwoju osobistym i naukowym. Jest zwolenniczką rozwijania kompetencji interpersonalnych wśród inżynierów dlatego utworzyła autorski przedmiot Rozwój Kompetencji Miękkich. W dydaktyce odnalazła spełnienie, a ciekawość młodszego pokolenia sprawia, że zajęcia ze studentami są dla niej inspirujące. Natalia jest popularyztorką i rzeczniczką nauki, prowadzi instagramowe konto @doktorka_tutorka, na którym oprócz treści popularnonaukowych, publikuje posty skierowane do studentów dot. rozwoju, skutecznych sposobów nauki, czy radzenia sobie ze stresem. W tym roku otrzymała tytuł Dydaktyka z Pasją.',
-    image: require('@/assets/images/speakers/natalia_schmidt.jpg')
+    image: require('@/assets/images/speakers/ssa14/natalia_schmidt.jpg')
   },
   {
     id: 10,
