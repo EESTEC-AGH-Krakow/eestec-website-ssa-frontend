@@ -11,7 +11,7 @@ export default {
                 {
                     "firstName": "Bogumiła",
                     "lastName": "Mucha",
-                    "image": require('@/assets/images/speakers/ssa14/bogumila-mucha.jpeg')
+                    "image": require('@/assets/images/speakers/ssa14/bogumila_mucha.jpeg')
                 }
             ]
         },
@@ -25,7 +25,7 @@ export default {
                 {
                     "firstName": "Michał",
                     "lastName": "Wesołowski",
-                    "image": require('@/assets/images/speakers/ssa14/michal-wesolowski.png')
+                    "image": require('@/assets/images/speakers/ssa14/michal_wesolowski.png')
                 }
             ]
         },
@@ -55,7 +55,7 @@ export default {
                 {
                     "firstName": "Marcin",
                     "lastName": "P. Stopa",
-                    "image": require('@/assets/images/speakers/ssa14/marcin-stopa.jpeg')
+                    "image": require('@/assets/images/speakers/ssa14/marcin_stopa.jpeg')
                 }
             ]
         },
@@ -69,7 +69,7 @@ export default {
                 {
                     "firstName": "Magdalena",
                     "lastName": "Czubaszek-Nowaczyk",
-                    "image": require('@/assets/images/speakers/magdalena-czubaszek.jpg')
+                    "image": require('@/assets/images/speakers/magdalena_czubaszek.jpg')
                 }
             ]
         },
@@ -83,7 +83,7 @@ export default {
                 {
                     "firstName": "Klaudia",
                     "lastName": "Stódółczkiewicz",
-                    "image": require('@/assets/images/speakers/ssa14/klaudia_stodolczkiewicz.jpg')
+                    "image": require('@/assets/images/speakers/ssa14/klaudia_stodolkiewicz.jpg')
                 },
                 {
                     "firstName": "Karol",
@@ -162,8 +162,8 @@ export default {
             "speakers": [
                 {
                     "firstName": "Atanas",
-                    "lastName": "Dalchev",
-                    "image": require('@/assets/images/speakers/ssa14/atanas_dalchev.jpg')
+                    "lastName": "Daltchev",
+                    "image": require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
                 },
                 {
                     "firstName": "Bartosz",
@@ -219,7 +219,7 @@ export default {
                 {
                     "firstName": "Wojciech",
                     "lastName": "Buda",
-                    "image": require('@/assets/images/speakers/ss14/wojciech-buda.jpg')
+                    "image": require('@/assets/images/speakers/ss14/wojciech_buda.jpg')
                 }
             ]
         },
@@ -239,7 +239,7 @@ export default {
                 {
                     "firstName": "Atanas",
                     "lastName": "Daltchev",
-                    "image": require('@/assets/images/speakers/piotrek-polec.png')
+                    "image": require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
                 }
 
             ]
@@ -306,8 +306,8 @@ export default {
                 },
                 {
                     "firstName": "Atanas",
-                    "lastName": "Dalchev",
-                    "image": require('@/assets/images/speakers/ssa14/atanas_dalchev.jpg')
+                    "lastName": "Daltchev",
+                    "image": require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
                 }
             ]
         },
@@ -325,8 +325,8 @@ export default {
                 },
                 {
                     "firstName": "Atanas",
-                    "lastName": "Dalchev",
-                    "image": require('@/assets/images/speakers/ssa14/atanas_dalchev.jpg')
+                    "lastName": "Daltchev",
+                    "image": require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
                 }
             ]
         },

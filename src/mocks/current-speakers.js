@@ -109,7 +109,7 @@ export default [
     lastName: 'Kania',
     workshopNames: [ 'Po mojemu - Czyli jak negocjować to na czym nam zależy.', '  ', 'Jestem liderem, ale to nie o mnie chodzi' ],
     description: 'Soft Skills Trainer who delivers sessions for more than 3 years. Had an opportunity to hold different positions and work in various teams and projects within non-governmental organizations where he acquired hands-on experience on soft skills and organizational management topics. Currently he is diving deeper into Product Management in the IT environment. Privately likes all manner of sports, enjoys a good laugh and loves traveling.',
-    image: require('@/assets/images/speakers/ssa14/karo_kania.jpg')
+    image: require('@/assets/images/speakers/ssa14/karol_kania.jpg')
   },
   {
     id: 14,
