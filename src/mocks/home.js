@@ -1,13 +1,13 @@
 export default {
   "welcome": {
     "title": "Największy w Małopolsce cykl darmowych szkoleń z zakresu umiejętności miękkich!",
-    "description": "<p class='text-justify'>" + "5 grudnia rozpocznie się już 13. edycja największych warsztatów z&nbsp;"
-      + "zakresu umiejętności miękkich w&nbsp;Małopolsce. Podczas tej wyjątkowej edycji "
-      + "masz możliwość wziąć udział nie tylko w&nbsp;pojedynczych warsztatach, ale również "
-      + "w&nbsp;czymś całkowicie nowym w&nbsp;całym wydarzeniu… ścieżkach tematycznych zawierających "
-      + "kompleksowy zestaw warsztatów dobranych różnych osobowości. Podczas wydarzenia poruszone "
-      + "zostaną tematy z&nbsp;zakresu liderstwa, organizacji pracy, work-life balance czy produktywności. "
-      + "Warsztaty przeprowadzone zostaną przez doświadczonych trenerów, a&nbsp;uczestnicy otrzymają certyfikaty uczestnictwa!"
+    "description": "<p class='text-justify'>" + "Już 4 grudnia rozpocznie się już 14. edycja największych warsztatów z&nbsp;"
+      + "zakresu umiejętności miękkich w&nbsp;Małopolsce. Gwarantujemy, że czas, który teraz zainwestujecie, "
+      + "zaowocuje w przyszłości lepszym startem na rynku pracy, szerszymi perspektywami zawodowymi,"
+      + "większą pewnością siebie oraz tym, co najważniejsze w życiu - osobistym szczęściem, zadowoleniem i satysfakcją!"
+      + "W nadchodzącej edycji uczestnicy będą mieć do wyboru 4 tematyczne ścieżki rozwoju tj. biznes, finanse, autoprezentacja oraz efektywna nauka."
+      + "Proponujemy również warsztaty wolne, które również mogą okazać się świetną okazją do rozwoju. "
+      + "Naszym hasłem przewodnim jest maksyma „I am not a robot”. Nie jesteś robotem, więc osiągnij nieosiągalne razem z Soft Skills Academy!"
       + "</p>"
       + "<span>A wszystko to zupełnie za darmo!</span>"
   },
@@ -22,14 +22,15 @@ export default {
   },
   "trainings": {
     "title": "Szkolenia",
-    "description": "<p>Na trzynastą edycję wydarzenia trwającego 6 dni przygotowaliśmy szkolenia, których poruszymy tematy takie jak:</p>"
+    "description": "<p>Na czternastej edycji Soft Skills Academy poruszymy innowacyjne tematy dopasowane do potrzeb zmieniającego się świata takie jak:</p>"
       + "<ul>"
-      + "<li>komunikacja</li>"
-      + "<li>design thinking</li>"
-      + "<li>kreatywność</li>"
-      + "<li>liderstwo</li>"
-      + "<li>organizacja pracy</li>"
-      + "<li>work-life balance</li>"
+      + "<li>efektywna nauka</li>"
+      + "<li>biznes</li>"
+      + "<li>finanse</li>"
+      + "<li>autoprezentacja</li>"
+      + "<li>inteligencja emocjonalna</li>"
+      + "<li>odporność na manipulacje</li>"
+      + "<li>zarządzanie pracą w IT</li>"
       + "<li>i wiele innych…</li>"
       + "</ul>",
     "image": require('@/assets/images/home/szkolenia.jpg')
@@ -48,7 +49,7 @@ export default {
     "title": "Partnerzy",
     "description": "Od 13 lat Soft Skills Academy współpracuje z wieloma firmami cieszącymi "
       + "się uznaniem na rynku pracy. W ramach wydarzenia nasi Partnerzy poprowadzą dedykowane warsztaty. "
-      + "Wśród firm, z którymi współpracujemy możemy wyróżnić takie marki jak np. Scalaric, Relativity, GE, "
+      + "Wśród firm, z którymi współpracowaliśmy możemy wyróżnić takie marki jak np. Scalaric, Relativity, GE, "
       + "Assa Abloy czy HID Global.",
     "image": require('@/assets/images/home/partnerzy.jpg')
   }
