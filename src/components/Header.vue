@@ -12,7 +12,7 @@
                     </b-col>
                     
                     <b-col lg="2" class="d-none d-lg-flex justify-content-end align-items-center">
-                    <b-button size="lg" href="" target="_blank">ZAPISY</b-button>
+                    <b-button size="lg" href="https://forms.gle/qeJmKSbMpk9tbNzC9" target="_blank">ZAPISY</b-button>
                     </b-col>
                    
                 </b-row>

@@ -20,7 +20,7 @@ export default {
             "start": "17:30",
             "end": "20:00",
             "location": "Wolny warsztat",
-            "description": "W naszej firmie mamy zwinne procesy i pracujemy w metodyce SCRUM - w zdaniu tym są (przynajmniej) 2 błędy. A mimo to te, i im podobne banialuki, są w codziennym użyciu wielu firm branż IT. Zwinność jest niezrozumiana oraz nadużywana. A o co w niej tak naprawdę chodzi? Pozwólcie, że przedstawię Wam perspektywę produktową - chodzi o iteracyjne budowanie produktu. I o tym sobie pogadamy. \n Dowiecie się czym są: * produkt? * wartość (i jak ją mierzyć)? * hipoteza (i jak ją zwalidować)? I kilka innych konceptów. \n Zapraszam!",
+            "description": "W naszej firmie mamy zwinne procesy i pracujemy w metodyce SCRUM - w zdaniu tym są (przynajmniej) 2 błędy. A mimo to te, i im podobne banialuki, są w codziennym użyciu wielu firm branż IT. Zwinność jest niezrozumiana oraz nadużywana. A o co w niej tak naprawdę chodzi? Pozwólcie, że przedstawię Wam perspektywę produktową - chodzi o iteracyjne budowanie produktu. I o tym sobie pogadamy. <br> Dowiecie się czym są: * produkt? * wartość (i jak ją mierzyć)? * hipoteza (i jak ją zwalidować)? I kilka innych konceptów. <br> Zapraszam!",
             "speakers": [
                 {
                     "firstName": "Michał",
@@ -34,7 +34,7 @@ export default {
             "start": "17:00",
             "end": "19:30",
             "location": "Wolny warsztat",
-            "description": "Krótka historia szukania pracy oraz pokazywania siebie z jak najlepszej strony w świecie ludzi kompetentnych. Rynek pracy zmienia się w szybkim tempie, co potęguje niestabilność gospodarcza oraz rosnąca obecność sztucznej inteligencji. Na tym warsztacie omówimy wiedzę, którą posiadają uczestnicy na temat szukania pracy i porównamy ich przekonania w tym obszarze do rekomendowanych praktyk w świecie, gdzie generatywne AI gra coraz większą rolę w procesach rekrutacji. Celem warsztatu jest otworzyć umysły uczestników na maraton jakim jest szukanie pracy oraz dbanie o swoją karierę. \n Uczestnicy dowiedzą się: *jak rozumieć ogłoszenia o pracę. *jak rekruterzy mogą zastawiać pułapki w ogłoszeniach. *czego nie robić w CV a co tak. *jak modyfikować CV pod dane ogłoszenie. *jakie narzędzia AI są dostępne w obszarze rekrutacji. *jak radzić sobie z porażkami, paniką czy depresją wokół tematu. *jak otworzyć umysł i serce na niepokój związany z szukaniem pracy. *w jaki sposób zrobić więcej niż inni i się wyróżnić.",
+            "description": "Krótka historia szukania pracy oraz pokazywania siebie z jak najlepszej strony w świecie ludzi kompetentnych. Rynek pracy zmienia się w szybkim tempie, co potęguje niestabilność gospodarcza oraz rosnąca obecność sztucznej inteligencji. Na tym warsztacie omówimy wiedzę, którą posiadają uczestnicy na temat szukania pracy i porównamy ich przekonania w tym obszarze do rekomendowanych praktyk w świecie, gdzie generatywne AI gra coraz większą rolę w procesach rekrutacji. Celem warsztatu jest otworzyć umysły uczestników na maraton jakim jest szukanie pracy oraz dbanie o swoją karierę. <br> Uczestnicy dowiedzą się: *jak rozumieć ogłoszenia o pracę. *jak rekruterzy mogą zastawiać pułapki w ogłoszeniach. *czego nie robić w CV a co tak. *jak modyfikować CV pod dane ogłoszenie. *jakie narzędzia AI są dostępne w obszarze rekrutacji. *jak radzić sobie z porażkami, paniką czy depresją wokół tematu. *jak otworzyć umysł i serce na niepokój związany z szukaniem pracy. *w jaki sposób zrobić więcej niż inni i się wyróżnić.",
             "speakers": [
                 {
                     "firstName": "Dawid",
@@ -69,7 +69,7 @@ export default {
                 {
                     "firstName": "Magdalena",
                     "lastName": "Czubaszek-Nowaczyk",
-                    "image": require('@/assets/images/speakers/magdalena_czubaszek.jpg')
+                    "image": require('@/assets/images/speakers/ssa14/magdalena_czubaszek.jpg')
                 }
             ]
         },
@@ -82,7 +82,7 @@ export default {
             "speakers": [
                 {
                     "firstName": "Klaudia",
-                    "lastName": "Stódółczkiewicz",
+                    "lastName": "Stódółkiewicz",
                     "image": require('@/assets/images/speakers/ssa14/klaudia_stodolkiewicz.jpg')
                 },
                 {
@@ -199,7 +199,7 @@ export default {
             "start": "17:00",
             "end": "19:30",
             "location": "Ścieżka finansowa",
-            "description": "Czy masz wystarczającą wiedzę finansową, dzięki której będziesz dokonywał/dokonywała prawidłowych wyborów produktów finansowych? Obecny system edukacji szkolnej nie zapewnia takiej wiedzy, a tym samym doprowadza dorosłych ludzi do podejmowania wielu nieprzemyślanych decyzji finansowych. A jakich narzędzi używasz, aby zarządzać prawidłowo swoim studenckim budżetem? Jeśli chcesz panować nad swoimi finansami, powinieneś/powinnaś skutecznie zarządzać pieniędzmi. Podpowiem Ci, co warto robić, z jakich metod i narzędzi korzystać, aby prowadzenie własnego budżetu było naprawdę skuteczne. \n Weźmiemy na tapet: *efektywne zarządzanie pieniędźmi, *racjonalne korzystanie z produktów oferowanych przez instytucje finansowe, np. kart kredytowych,pożyczek, kredytów, *korzyści płynące z posiadania wolnych środków finansowych.",
+            "description": "Czy masz wystarczającą wiedzę finansową, dzięki której będziesz dokonywał/dokonywała prawidłowych wyborów produktów finansowych? Obecny system edukacji szkolnej nie zapewnia takiej wiedzy, a tym samym doprowadza dorosłych ludzi do podejmowania wielu nieprzemyślanych decyzji finansowych. A jakich narzędzi używasz, aby zarządzać prawidłowo swoim studenckim budżetem? Jeśli chcesz panować nad swoimi finansami, powinieneś/powinnaś skutecznie zarządzać pieniędzmi. Podpowiem Ci, co warto robić, z jakich metod i narzędzi korzystać, aby prowadzenie własnego budżetu było naprawdę skuteczne. <br> Weźmiemy na tapet: *efektywne zarządzanie pieniędźmi, *racjonalne korzystanie z produktów oferowanych przez instytucje finansowe, np. kart kredytowych,pożyczek, kredytów, *korzyści płynące z posiadania wolnych środków finansowych.",
             "speakers": [
                 {
                     "firstName": "Mirosława",
@@ -214,12 +214,12 @@ export default {
             "start": "17:30",
             "end": "20:00",
             "location": "Wolny warsztat",
-            "description": "Kraków, Stołeczne Królewskie Miasto Kraków – miasto na prawach powiatu położone w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców i drugie powierzchniowo miasto kraju. Formalna stolica Polski do 1795 roku i miasto koronacyjne wraz z nekropolią królów Polski na Wzgórzu Wawelskim (w podziemiach Katedry). Od 1000 roku nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii. Lokowany przed 1228 rokiem, ponownie w 1257 r.. Od odzyskania niepodległości w 1918 r. miasto wojewódzkie (od 1999 r. siedziba władz województwa małopolskiego), jest także centralnym ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. Kraków jest stolicą historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki Nidziańskiej i Pogórza Zachodniobeskidzkiego. \n by Wikipedia \n Jeżeli nie dotrwałeś/dotrwałaś do końca pierwszego zdania - witaj w klubie, ja też nie :) Tak wyglądają niektóre prezentacje, które albo zdarzało Ci się słyszeć w przeszłości, albo (co gorsza) słyszysz nadal wśród koleżanek i kolegów na zajęciach w trakcie studiów. Właśnie jesteś w połowie załamywania rąk, a tu nagle wyskakuje powiadomienie, że będzie spotkanie o tym, jak robić dobre \"prezki\", które zaciekawią słuchaczy. Jeżeli chcesz wejść na nowy poziom tworzenia prezentacji oraz prezentowania - koniecznie przyjdź na warsztat!", 
+            "description": "Kraków, Stołeczne Królewskie Miasto Kraków – miasto na prawach powiatu położone w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców i drugie powierzchniowo miasto kraju. Formalna stolica Polski do 1795 roku i miasto koronacyjne wraz z nekropolią królów Polski na Wzgórzu Wawelskim (w podziemiach Katedry). Od 1000 roku nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii. Lokowany przed 1228 rokiem, ponownie w 1257 r.. Od odzyskania niepodległości w 1918 r. miasto wojewódzkie (od 1999 r. siedziba władz województwa małopolskiego), jest także centralnym ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. Kraków jest stolicą historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki Nidziańskiej i Pogórza Zachodniobeskidzkiego. <br> by Wikipedia <br> Jeżeli nie dotrwałeś/dotrwałaś do końca pierwszego zdania - witaj w klubie, ja też nie :) Tak wyglądają niektóre prezentacje, które albo zdarzało Ci się słyszeć w przeszłości, albo (co gorsza) słyszysz nadal wśród koleżanek i kolegów na zajęciach w trakcie studiów. Właśnie jesteś w połowie załamywania rąk, a tu nagle wyskakuje powiadomienie, że będzie spotkanie o tym, jak robić dobre \"prezki\", które zaciekawią słuchaczy. Jeżeli chcesz wejść na nowy poziom tworzenia prezentacji oraz prezentowania - koniecznie przyjdź na warsztat!", 
             "speakers": [
                 {
                     "firstName": "Wojciech",
                     "lastName": "Buda",
-                    "image": require('@/assets/images/speakers/ss14/wojciech_buda.jpg')
+                    "image": require('@/assets/images/speakers/ssa14/wojciech_buda.jpg')
                 }
             ]
         },
@@ -233,8 +233,8 @@ export default {
             "speakers": [
                 {
                     "firstName": "Klaudia",
-                    "lastName": "Stódółczkiewicz",
-                    "image": require('@/assets/images/speakers/ssa14/klaudia_stodolczkiewicz.jpg')
+                    "lastName": "Stódółkiewicz",
+                    "image": require('@/assets/images/speakers/ssa14/klaudia_stodolkiewicz.jpg')
                 },
                 {
                     "firstName": "Atanas",
@@ -249,7 +249,7 @@ export default {
             "start": "17:00",
             "end": "19:30",
             "location": "Wolny warsztat",
-            "description": "Czy istnieje coś takiego jak bycie prawdziwym mężczyzną? A jeśli tak, czy wystarczy zbudować dom, zasadzić drzewo i spłodzić syna, aby nim się stać? A może kluczem dotego jest spełnianie oczekiwań innych? Zapraszam Cię na warsztat z wykładem, podczas którego odkryjesz ukryte powody niepowodzeń ogromnej liczby współczesnych mężczyzn w budowaniu relacji zkobietami, realizowaniu swoich planów, założeń i własnego rozwoju. Ten warsztat jest dla osób, które: *1. Chcą wzmocnić poczucie własnej wartości, *2. Chcą być lepszymi partnerami w relacjach, umiejąc budować zdrowe związki, *3. Słyszą wewnętrzny głos mówiący, że czeka na nich coś więcej, *4. Zdają sobie sprawę, że ich życie wymaga poprawy, ale nie wiedzą, jak się za to zabrać. \n Na tym warsztacie poruszymy tematy takie jak: *1. Wzrost pewności siebie, zwłaszcza w relacjach z innymi ludźmi, *2. Poprawa relacji, zarówno z kobietami, jak i innymi ludźmi, *3. Rozwój osobisty, odnajdywanie pasji i określanie celów w życiu, *4. Pozytywne podejście, eliminacja lęków i negatywnych myśli oraz czerpanie radości z chwili, *5. Akceptacja siebie, zakończenie porównywania się z innymi i troska o własne potrzeby. \n Dołącz do podróży ku autentycznej męskości!", 
+            "description": "Czy istnieje coś takiego jak bycie prawdziwym mężczyzną? A jeśli tak, czy wystarczy zbudować dom, zasadzić drzewo i spłodzić syna, aby nim się stać? A może kluczem dotego jest spełnianie oczekiwań innych? Zapraszam Cię na warsztat z wykładem, podczas którego odkryjesz ukryte powody niepowodzeń ogromnej liczby współczesnych mężczyzn w budowaniu relacji zkobietami, realizowaniu swoich planów, założeń i własnego rozwoju. Ten warsztat jest dla osób, które: *1. Chcą wzmocnić poczucie własnej wartości, *2. Chcą być lepszymi partnerami w relacjach, umiejąc budować zdrowe związki, *3. Słyszą wewnętrzny głos mówiący, że czeka na nich coś więcej, *4. Zdają sobie sprawę, że ich życie wymaga poprawy, ale nie wiedzą, jak się za to zabrać. <br> Na tym warsztacie poruszymy tematy takie jak: *1. Wzrost pewności siebie, zwłaszcza w relacjach z innymi ludźmi, *2. Poprawa relacji, zarówno z kobietami, jak i innymi ludźmi, *3. Rozwój osobisty, odnajdywanie pasji i określanie celów w życiu, *4. Pozytywne podejście, eliminacja lęków i negatywnych myśli oraz czerpanie radości z chwili, *5. Akceptacja siebie, zakończenie porównywania się z innymi i troska o własne potrzeby. <br> Dołącz do podróży ku autentycznej męskości!", 
             "speakers": [
                 {
                     "firstName": "Szymon",
@@ -335,7 +335,7 @@ export default {
             "start": "11:00",
             "end": "13:30",
             "location": "Ścieżka finansowa",
-            "description": "W dzisiejszych czasach życie bez Internetu jest praktycznie niemożliwe! To samo dotyczy sprzętów takich jak: komputer, laptop no i przede wszystkim smartfon! Jednak żeby prawidłowo funkcjonować w sieci, a zarazem spokojnie spać, trzeba zapobiegać działaniom cyberprzestępców, a one są coraz bardziej wyrafinowane! \n Zapraszam Cię serdecznie na warsztat, podczas którego zajmiemy się tematami: *jak nie stać się ofiarą cyberprzestępców, *zapobiegania wyłudzeniu Twoich danych, zarówno osobowych jak i finansowych, w sieci, *unikania uwikłania Cię w cybeprzestępstwa, które mogłyby Cię wiele kosztować!",
+            "description": "W dzisiejszych czasach życie bez Internetu jest praktycznie niemożliwe! To samo dotyczy sprzętów takich jak: komputer, laptop no i przede wszystkim smartfon! Jednak żeby prawidłowo funkcjonować w sieci, a zarazem spokojnie spać, trzeba zapobiegać działaniom cyberprzestępców, a one są coraz bardziej wyrafinowane! <br> Zapraszam Cię serdecznie na warsztat, podczas którego zajmiemy się tematami: *jak nie stać się ofiarą cyberprzestępców, *zapobiegania wyłudzeniu Twoich danych, zarówno osobowych jak i finansowych, w sieci, *unikania uwikłania Cię w cybeprzestępstwa, które mogłyby Cię wiele kosztować!",
             "speakers": [
                 {
                     "firstName": "Mirosława",
@@ -349,7 +349,7 @@ export default {
             "start": "14:30",
             "end": "18:30",
             "location": "Ścieżka finansowa",
-            "description": "\"Nasz los zależy od naszych nawyków\"  - ten cytat w pełni definiuje nasze życie, także to finansowe. Kluczem do zmiany i efektywnego działania jest wykształcenie odpowiedniego sposobu myślenia, tzw. Mindset Sukcesu, ale oprócz tego należy zdobyć także \"twarde\" know-how w zakresie zarządzania finansami. Czyli jak podchodzić do instrumentów finansowych, rozumieć je i wybierać właściwie. W decyzjach, gdzie w grę wchodzą pieniądze podejście racjonalne jest nie tyle bezpieczne, co bardziej opłacalne i pozwalające unikać wielu emocjonalnych pułapek. \n Fundamentalne pytania na jakie odpowiemy podczas tego warsztatu to: *Jak zarabiać więcej, oszczędzać skuteczniej i pomnażać zyskowniej? *Jak mądrze oszczędzać i dlaczego jest to 1 krok do osobistej niezależności? *Jak zyskownie inwestować, by pieniądze zaczęły dla Ciebie pracować podczas, gdy Ty możesz realizować swoje pasje i wymarzony styl życia? *Jak unikać pułapek umysłu i podejmować korzystne decyzje? *I wreszcie - Jak kształtować dochodowe nawyki finansowe pomocne w budowaniu własnej kariery i firmy wartej miliony?",
+            "description": "\"Nasz los zależy od naszych nawyków\"  - ten cytat w pełni definiuje nasze życie, także to finansowe. Kluczem do zmiany i efektywnego działania jest wykształcenie odpowiedniego sposobu myślenia, tzw. Mindset Sukcesu, ale oprócz tego należy zdobyć także \"twarde\" know-how w zakresie zarządzania finansami. Czyli jak podchodzić do instrumentów finansowych, rozumieć je i wybierać właściwie. W decyzjach, gdzie w grę wchodzą pieniądze podejście racjonalne jest nie tyle bezpieczne, co bardziej opłacalne i pozwalające unikać wielu emocjonalnych pułapek. <br> Fundamentalne pytania na jakie odpowiemy podczas tego warsztatu to: *Jak zarabiać więcej, oszczędzać skuteczniej i pomnażać zyskowniej? *Jak mądrze oszczędzać i dlaczego jest to 1 krok do osobistej niezależności? *Jak zyskownie inwestować, by pieniądze zaczęły dla Ciebie pracować podczas, gdy Ty możesz realizować swoje pasje i wymarzony styl życia? *Jak unikać pułapek umysłu i podejmować korzystne decyzje? *I wreszcie - Jak kształtować dochodowe nawyki finansowe pomocne w budowaniu własnej kariery i firmy wartej miliony?",
             "speakers": [
                 {
                     "firstName": "Bogumiła",

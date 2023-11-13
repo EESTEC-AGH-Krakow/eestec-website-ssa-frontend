@@ -13,7 +13,7 @@
         <span class="text-white">4 - 10 grudnia 2023 r <br/> Akademia Górniczo Hutnicza w Krakowie </span>
         
         <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
-          href=""
+          href="https://forms.gle/qeJmKSbMpk9tbNzC9"
           target="_blank">ZAPISY
         </b-button>
        
