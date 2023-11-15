@@ -123,7 +123,7 @@ export default [
     id: 15,
     firstName: 'Oskar',
     lastName: 'Pawica',
-    workshopNames: [ 'Jestem liderem, ale to nie o mnie chodzi', ' ', 'How do i say it? - Mastering nonverbal communication on the stage I' ],
+    workshopNames: [ 'Jestem liderem, ale to nie o mnie chodzi', ' ', 'How do i say it? - Mastering nonverbal communication on the stage I', ' ', 'How do i say it? - Mastering nonverbal communication on the stage II', ],
     description: "Hey there! I am Oskar and I am a Soft Skills Trainer, a member of the EESTEC Training Team and an alumni member of EESTEC AGH Krakow, professionally a Software Engineer. I'm here to help you grow, just like in the past other trainers guided me towards development. Let's embark on this journey of self-discovery together! Within the past few years, I have held numerous leadership positions in EESTEC, both internationally and locally. All this made me gain plenty of experience and knowledge in the field of interpersonal skills, especially in matters considering leadership and Non Violent Communication. Having delivered more than 70 hours of soft skills sessions on various topics in different EESTEC events in Europe, I'm excited to get back to the Soft Skills Academy in Kraków which certainly has a special spot in my heart. I'm pretty sure that it will have the same magical effect on you! See you soon!",
     image: require('@/assets/images/speakers/ssa14/oskar_pawica.jpg')
   },
@@ -131,7 +131,7 @@ export default [
     id: 16,
     firstName: 'Atanas',
     lastName: 'Daltchev',
-    workshopNames: [ 'Navigating the Storm: A Workshop on Crisis Management', ' ', 'How do i say it? - Mastering nonverbal communication on the stage II', ' ', 'What do I say? - Crafting compelling pitches and captivating storytelling' ],
+    workshopNames: [ 'Navigating the Storm: A Workshop on Crisis Management', ' ', 'How do i say it? - Mastering nonverbal communication on the stage I', ' ', 'How do i say it? - Mastering nonverbal communication on the stage II', ' ', 'What do I say? - Crafting compelling pitches and captivating storytelling' ],
     description: 'Atanas is a member of the EESTEC Training Team and a Trainer from Zero Generation´s Youth Trainers Academy. The Munich-based Customer Support Specialist has a rich history in EESTEC, both in the local board of EESTEC LC Munich, as an Ambassador towards other student organisations and even on the Board of EESTEC itself. From acquiring partnerships to organising conferences and congresses, his main focus is communication, presentation skills and leadership. With a passion for delivering trainings and workshops, including training new trainers, he is more than excited to share his knowledge and experience! ',
     image: require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
   },
