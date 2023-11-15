@@ -67,7 +67,7 @@ export default [
     id: 8,
     firstName: 'Dawid',
     lastName: 'Gościk',
-    workshopNames: [ 'Hej, CHAT GPT, napisz mi CV! Rekruterzy używają AI i ty TEŻ powinienneś.' ],
+    workshopNames: [ 'Hej, CHAT GPT, napisz mi CV! Rekruterzy używają AI i ty TEŻ powinieneś.' ],
     description: 'Dwujęzyczny freelancer, przedsiębiorca, właściciel agencji językowej oraz współwłaściciel drugiej. Hobbysta i praktyk w obszarach ludzkiej psychologii i zdrowia psychicznego. Fan biznesu oraz ex-HR. Pracuje jako trener angielskiego, konsultant dla dorosłych ze świata biznesu i jako mentor dla osób młodych (15-25).Jego marzeniem jest nauczyć wszystkich odwagi do eksperymentów w biznesie i z karierą oraz samodzielności w wyznaczaniu sobie ścieżek i nowych wyzwań w życiu. Wierzy, że nikt tak naprawdę nie wie co jest najlepszym rozwiązaniem i mówienie innym, że się wie to kłamstwo (i draństwo).Ukończył American School of Warsaw z maturą IB, zwiedził 36 krajów, zrobił magistra z HR (którego trochę żałuje). O swoim ADHD dowiedział się dopiero w wieku 29 lat i to wiele zmieniło.Pracował z dyrektorami i menadżerami z firm takich jak InterCars, PANEK Carsharing, Grupa Żywiec, KGHM, Meta, AWS i inne. W każdej z tych firm specjaliści potrzebowali rozwijać kompetencje miękkie oraz angielski.Na TikToku uzbierał 45k obserwujących poruszając tematy wokół psychologii, kariery, ekonomii, ADHD, przy tym nigdy nie tańcząc do kamery (z czego jest bardzo dumny).',
     image: require('@/assets/images/speakers/ssa14/dawid_goscik.jpg')
   },
@@ -107,15 +107,15 @@ export default [
     id: 13,
     firstName: 'Karol',
     lastName: 'Kania',
-    workshopNames: [ 'Po mojemu - Czyli jak negocjować to na czym nam zależy.', '  ', 'Jestem liderem, ale to nie o mnie chodzi' ],
+    workshopNames: [ 'Po mojemu - Czyli jak negocjować to na czym nam zależy.', '  ', 'Jestem liderem, ale to nie o mnie chodzi', ' ', '"Tell me something about yourself" - And how to nail it' ],
     description: 'Soft Skills Trainer who delivers sessions for more than 3 years. Had an opportunity to hold different positions and work in various teams and projects within non-governmental organizations where he acquired hands-on experience on soft skills and organizational management topics. Currently he is diving deeper into Product Management in the IT environment. Privately likes all manner of sports, enjoys a good laugh and loves traveling.',
     image: require('@/assets/images/speakers/ssa14/karol_kania.jpg')
   },
   {
     id: 14,
     firstName: 'Klaudia',
-    lastName: 'Stódółkiewicz',
-    workshopNames: [ 'Po mojemu - Czyli jak negocjować to na czym nam zależy' ],
+    lastName: 'Stodółkiewicz',
+    workshopNames: [ 'Po mojemu - Czyli jak negocjować to na czym nam zależy.', ' ', 'Navigating the Storm: A Workshop on Crisis Management' ],
     description: 'Studiuję matematykę na trzecim roku i jestem członkinią EESTEC AGH Krakow od ponad dwóch lat. W organizacji jako koordynatorka i jako członkini różnych zespołów bardzo mocno się rozwinęłam, poznałam siebie, nauczyłam się pracy z ludźmi, komunikowania się z innymi i szybkiego rozwiązywania problemów. Byłam również w zarządzie Studenckiego Koła Matematyków i koordynowałam Studencką Konferencję Matematyczną ELEMENTS. Obecnie jestem także stażystką w dziale zajmującym się automatyzacją różnych procesów i kandydatką na trenerkę w EESTEC Training Team. Efektywne zarządzanie czasem i tematy związane z produktywnością i wydajnością są dla mnie niezwykle ważne, i metodą prób i błędów zdobywam ciągle doświadczenie w tych dziedzinach.',
     image: require('@/assets/images/speakers/ssa14/klaudia_stodolkiewicz.jpg')
   },
@@ -123,7 +123,7 @@ export default [
     id: 15,
     firstName: 'Oskar',
     lastName: 'Pawica',
-    workshopNames: [ 'Jestem liderem, ale to nie o mnie chodzi' ],
+    workshopNames: [ 'Jestem liderem, ale to nie o mnie chodzi', ' ', 'How do i say it? - Mastering nonverbal communication on the stage I' ],
     description: "Hey there! I am Oskar and I am a Soft Skills Trainer, a member of the EESTEC Training Team and an alumni member of EESTEC AGH Krakow, professionally a Software Engineer. I'm here to help you grow, just like in the past other trainers guided me towards development. Let's embark on this journey of self-discovery together! Within the past few years, I have held numerous leadership positions in EESTEC, both internationally and locally. All this made me gain plenty of experience and knowledge in the field of interpersonal skills, especially in matters considering leadership and Non Violent Communication. Having delivered more than 70 hours of soft skills sessions on various topics in different EESTEC events in Europe, I'm excited to get back to the Soft Skills Academy in Kraków which certainly has a special spot in my heart. I'm pretty sure that it will have the same magical effect on you! See you soon!",
     image: require('@/assets/images/speakers/ssa14/oskar_pawica.jpg')
   },
@@ -131,7 +131,7 @@ export default [
     id: 16,
     firstName: 'Atanas',
     lastName: 'Daltchev',
-    workshopNames: [ 'Jak się uczyć mniej by pamiętać więcej i co na ten temat mówi neuronauka? Fakty i mity o tym, jak uczy się mózg.' ],
+    workshopNames: [ 'Navigating the Storm: A Workshop on Crisis Management', ' ', 'How do i say it? - Mastering nonverbal communication on the stage II', ' ', 'What do I say? - Crafting compelling pitches and captivating storytelling' ],
     description: 'Atanas is a member of the EESTEC Training Team and a Trainer from Zero Generation´s Youth Trainers Academy. The Munich-based Customer Support Specialist has a rich history in EESTEC, both in the local board of EESTEC LC Munich, as an Ambassador towards other student organisations and even on the Board of EESTEC itself. From acquiring partnerships to organising conferences and congresses, his main focus is communication, presentation skills and leadership. With a passion for delivering trainings and workshops, including training new trainers, he is more than excited to share his knowledge and experience! ',
     image: require('@/assets/images/speakers/ssa14/atanas_daltchev.jpg')
   },
@@ -139,7 +139,7 @@ export default [
     id: 17,
     firstName: 'Bartosz',
     lastName: 'Ociepka',
-    workshopNames: [ 'Jak się uczyć mniej by pamiętać więcej i co na ten temat mówi neuronauka? Fakty i mity o tym, jak uczy się mózg.' ],
+    workshopNames: [ 'What do I say? - Crafting compelling pitches and captivating storytelling.', ' ', '"Tell me something about yourself" - And how to nail it' ],
     description: "Soft skills trainer with six years of experience in NGOs. Former board member of EESTEC - both internationally and locally in Kraków. Graduate of Computer Science at AGH, professionally mobile developer. Interested mostly in interpersonal and organisational skills. In the free time (which isn't too often) - bridge and darts player.",
     image: require('@/assets/images/speakers/ssa14/bartosz_ociepka.jpg')
   }
