@@ -31,21 +31,21 @@ export default [
         "id": 1,
         "type": "media",
         "name": "Radio 1.7",
-        "description": "Radio1.7 - najlepsza studencka rozgłośnia radiowa w Krakowie, która nadaje już od 12 lat! Działamy pod sztandarem Akademii Górniczo-Hutniczej, a nasz program skierowany jest głównie do studentów. Stawiamy jednak na różnorodność, więc z pewnością i starsi i młodsi znajdą tu coś dla siebie! Naszym priorytetem jest jakość, dlatego ciągle się rozwijamy i dbamy o poziom prezentowanej muzyki i informacji przekazywanych na antenie. Nasza ramówka jest co sezon zmieniana i rozbudowywana - usłyszycie w niej zarówno luźne pasma wypełnione najnowszymi informacjami kulturalnymi i starannie dobraną muzyką, jak i słuchowiska oraz audycje tematyczne - zaczynając od podróżniczej, idąc przez filmową i programy poświęcone konkretnym gatunkom muzycznym, na sportowej kończąc. Więcej informacji na stronie internetowej: <a>www.radio17.pl</a>",
+        "description": "Radio1.7 - najlepsza studencka rozgłośnia radiowa w Krakowie, która nadaje już od 12 lat! Działamy pod sztandarem Akademii Górniczo-Hutniczej, a nasz program skierowany jest głównie do studentów. Stawiamy jednak na różnorodność, więc z pewnością i starsi i młodsi znajdą tu coś dla siebie! Naszym priorytetem jest jakość, dlatego ciągle się rozwijamy i dbamy o poziom prezentowanej muzyki i informacji przekazywanych na antenie. Nasza ramówka jest co sezon zmieniana i rozbudowywana - usłyszycie w niej zarówno luźne pasma wypełnione najnowszymi informacjami kulturalnymi i starannie dobraną muzyką, jak i słuchowiska oraz audycje tematyczne - zaczynając od podróżniczej, idąc przez filmową i programy poświęcone konkretnym gatunkom muzycznym, na sportowej kończąc. Więcej informacji na stronie internetowej: <a href='https://radio17.pl/'>www.radio17.pl</a>",
         "image": require('@/assets/images/partners/media/radio1_7.png')
     },
     {
         "id": 2,
         "type": "media",
         "name": "Radio SuperNova",
-        "description": "Radio SuperNova to jedyna stacja w Polsce grająca wyłącznie polską muzykę zarówno dla młodego jak i starszego pokolenia. Nadaje od 1993 roku, a od 5 maja 2021 roku nazwa stacji zmieniła się z Radio Wawa na Radio SuperNova. Obecnie stację można odbierać w 15 miastach Polski, w tym w Krakowie – 88,8 MHz. Więcej informacji na stronie internetowej: <a>www.radiosupernova.pl</a>",
+        "description": "Radio SuperNova to jedyna stacja w Polsce grająca wyłącznie polską muzykę zarówno dla młodego jak i starszego pokolenia. Nadaje od 1993 roku, a od 5 maja 2021 roku nazwa stacji zmieniła się z Radio Wawa na Radio SuperNova. Obecnie stację można odbierać w 15 miastach Polski, w tym w Krakowie – 88,8 MHz. Więcej informacji na stronie internetowej: <a href='https://radiosupernova.pl'>www.radiosupernova.pl</a>",
         "image": require('@/assets/images/partners/media/supernova.png')
     },
     {
         "id": 3,
         "type": "media",
         "name": "e-biznes.pl",
-        "description": "e-biznes.pl istnieje od 1999 roku i przedstawia najważniejsze informacje z szeroko rozumianego prowadzenia biznesu w internecie. Na łamach serwisu znajduje się również wiele wywiadów z ciekawymi osobami, recenzje startupów i opisy ciekawych aplikacji. Więcej informacji na stronie internetowej: <a>www.e-biznes.pl</a>",
+        "description": "e-biznes.pl istnieje od 1999 roku i przedstawia najważniejsze informacje z szeroko rozumianego prowadzenia biznesu w internecie. Na łamach serwisu znajduje się również wiele wywiadów z ciekawymi osobami, recenzje startupów i opisy ciekawych aplikacji. Więcej informacji na stronie internetowej: <a href='https://e-biznes.pl'>www.e-biznes.pl</a>",
         "image": require('@/assets/images/partners/media/e-biznes.png')
     },
 
@@ -60,7 +60,7 @@ export default [
         "id": 5,
         "type": "media",
         "name": "kontostudenta.pl",
-        "description": "KontoStudenta.pl to serwis tworzony z myślą o studentach i młodych ludziach, którzy szukają informacji na temat finansów, oszczędzania oraz pracy i kształtowania swojej ścieżki zawodowej. Nasze artykuły, rankingi i specjalistyczne analizy zostały wielokrotnie docenione przez polskie instytucje finansowe, a z tworzonych przez nas poradników dla studentów skorzystały największe polskie uczelnie. Więcej informacji na stronie internetowej: <a>www.kontostudenta.pl</a>",
+        "description": "KontoStudenta.pl to serwis tworzony z myślą o studentach i młodych ludziach, którzy szukają informacji na temat finansów, oszczędzania oraz pracy i kształtowania swojej ścieżki zawodowej. Nasze artykuły, rankingi i specjalistyczne analizy zostały wielokrotnie docenione przez polskie instytucje finansowe, a z tworzonych przez nas poradników dla studentów skorzystały największe polskie uczelnie. Więcej informacji na stronie internetowej: <a href='https://www.kontostudenta.pl'>www.kontostudenta.pl</a>",
         "image": require('@/assets/images/partners/media/kontostudenta.png')
     },
     
