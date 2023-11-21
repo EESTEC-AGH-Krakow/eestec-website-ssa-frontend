@@ -78,7 +78,7 @@ export default {
             "start": "18:00",
             "end": "20:30",
             "location": "Ścieżka biznesowa",
-            "description": "W dzisiejszej codzienności z różnicą zdań i interesów spotkamy się wszędzie - w pracy, na uczelni, przy rodzinnym stole. Jak przeprowadzać takie rozmowy odpowiednio? Jak dobrze komunikować potrzeby i dążyć do osiągania naszych celów, a jednocześnie dbać o trwałe, dobre relacje z innymi? Na te i inne pytania odpowiemy na tych właśnie warsztatacie!",
+            "description": "W dzisiejszej codzienności z różnicą zdań i interesów spotkamy się wszędzie - w pracy, na uczelni, przy rodzinnym stole. Jak przeprowadzać takie rozmowy odpowiednio? Jak dobrze komunikować potrzeby i dążyć do osiągania naszych celów, a jednocześnie dbać o trwałe, dobre relacje z innymi? Na te i inne pytania odpowiemy na tych właśnie warsztacie!",
             "speakers": [
                 {
                     "firstName": "Klaudia",
