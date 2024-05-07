@@ -30,10 +30,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Travis CI/CD
+## GitHub Actions CI/CD
 
-Getting started - https://docs.travis-ci.com/user/for-beginners/
+Every workflow is in .github/workflow folder
 
-Repository dashboard - https://app.travis-ci.com/github/EESTEC-AGH-Krakow/eestec-website-ssa-frontend
+When pushing to develop branch, build is deployed onto dev.softskillsacademy.pl
 
-[GUIDE] How to make deployment with encrypted ssh keys - https://github.com/dwyl/learn-travis/blob/master/encrypted-ssh-keys-deployment.md
+When pushing/pull request to master branch, build is deployed onto softskillsacademy.pl
