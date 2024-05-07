@@ -34,4 +34,4 @@ jobs:
       - name: Sync files to server and remove unnecessary files
         run: |
           echo "sync files and remove unnecessary ..."
-          rsync -Pavh -e 'ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' ./build/ ${{ secrets.SSH_SERVER_ADDRESS }}:~/domains/softskillsacademy.pl/public_nodejs/public --delete-after
+          rsync -Pavh -e 'ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' ./dist/ ${{ secrets.SSH_SERVER_ADDRESS }}:~/domains/softskillsacademy.pl/public_nodejs/public --delete-after
