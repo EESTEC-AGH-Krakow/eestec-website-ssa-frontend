@@ -1,0 +1,37 @@
+name: Deploy to dev
+
+on:
+  push:
+    branches: [ "develop" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Set SSH Private Key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+      - name: Sync files to server and remove unnecessary files
+        run: |
+          echo "sync files and remove unnecessary ..."
+          rsync -Pavh -e 'ssh -i ~/.ssh/id_rsa -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null' ./dist/ ${{ secrets.SSH_SERVER_ADDRESS }}:~/domains/dev.softskillsacademy.pl/public_nodejs/public --delete-after
