@@ -38,7 +38,7 @@
       return {
         linkedinUrl: 'https://www.linkedin.com/showcase/soft-skills-academy-poland/',
         facebookUrl: 'https://www.facebook.com/SoftSkillsAcademy/',
-        eestecUrl: 'http://eestec.agh.edu.pl/',
+        eestecUrl: 'http://eestec.pl/',
         publicPath: process.env.BASE_URL,
       }
     },
