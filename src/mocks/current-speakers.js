@@ -85,7 +85,7 @@ export default [
     id: 9,
     firstName: 'Weronika',
     lastName: 'Jach',
-    workshopNames: ['Change the page and discover a new chapter of your life, ','From “To-Do” to “Done” - Master Your Time'],
+    workshopNames: ['Change the page and discover a new chapter of your life, ', 'From “To-Do” to “Done” - Master Your Time'],
     description: "Hi there! I'm Weronika, a working student passionate about self-development and taking on new challenges. I was a chairperson in EESTEC LC Kraków in 2023/2024. I currently work in the energy industry and am eager to enhance the project management skills I've developed through my involvement with EESTEC and other activities. In my free time, I enjoy running and channeling my energy into delivering soft skills sessions as a Trainer. I am a huge fan of self-development books so probably I can always recommend you something 💜",
     image: require('@/assets/images/speakers/ssa15/weronika_jach.png')
   },
