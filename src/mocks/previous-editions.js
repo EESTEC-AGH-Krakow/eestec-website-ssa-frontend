@@ -3,7 +3,7 @@ export default [
         "id":8,
         "title":"SOFT SKILLS ACADEMY 14",
         "year":"2023",
-        "description":"",
+        "description":"W 2023 roku odbyła się 14 edycja Soft Skills Academy, która okazała się wielkim sukcesem. Uczestnicy mogli wybierać warsztaty z pośród 4 tematycznych ścieżek, a także mieli do wyboru wolne warsztaty o różnej tematyce. Partnerem wydarzenie była firma Relativity oraz miasto Kraków, a wśród patronów medialnych znaleźli się Radio1.7, Radio SuperNova, Perspektywy oraz wiele innych.  ",
         "image":require('@/assets/images/previous-editions/ssa-13-img.jpg')
     },
     {
