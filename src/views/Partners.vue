@@ -10,7 +10,7 @@
                     v-for="partner in filteredPartners('main')"
             /> 
         </b-row> -->
-        <b-row no-gutters class="d-flex justify-content-center">
+        <!-- <b-row no-gutters class="d-flex justify-content-center">
             <b-col cols="12" class="mt-5">
                 <h2 class="text-center text-uppercase font-weight-normal">partnerzy</h2>
             </b-col>
@@ -19,7 +19,7 @@
                     :partner="partner"
                     v-for="partner in filteredPartners('regular')"
             />
-        </b-row>
+        </b-row> -->
         <b-row no-gutters class="d-flex justify-content-center">
             <b-col cols="12" class="mt-5">
                 <h2 class="text-center text-uppercase font-weight-normal">partnerzy medialni</h2>

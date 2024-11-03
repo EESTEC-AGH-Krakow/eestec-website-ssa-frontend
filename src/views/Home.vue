@@ -4,18 +4,18 @@
            :style="{ 'background-image': `url(${require('@/assets/images/home/ssa12_baner.jpg')})`}">
       <b-col offset="1" cols="6" class="d-flex flex-column">
         <h1 class="text-white text-uppercase">
-          <span class="font-weight-bold display-4">14. edycja</span>
+          <span class="font-weight-bold display-4">15. edycja</span>
           <br/>
           darmowych warsztatów
           <br/>
           z umiejętności miękkich
         </h1>
-        <span class="text-white">4 - 10 grudnia 2023 r <br/> Akademia Górniczo Hutnicza w Krakowie </span>
+        <span class="text-white">27 - 30 listopada 2024 r <br/> Akademia Górniczo Hutnicza w Krakowie </span>
         
-        <!-- <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
-          href="https://forms.gle/qeJmKSbMpk9tbNzC9"
+        <b-button class="mt-2 mr-auto px-4 py-2 text-uppercase"
+          href="https://zapisy.softskillsacademy.pl"
           target="_blank">ZAPISY
-        </b-button> -->
+        </b-button>
        
       
       </b-col>

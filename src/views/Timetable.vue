@@ -2,7 +2,8 @@
 <template>
     <b-row no-gutters>
         <b-col cols="12" class="pb-3">
-            <carousel :per-page="1" :per-page-custom="[[0,1],[263,3],[768, 4],[992, 6]]" :pagination-color="'#7AC244'">
+          <!-- Change this properties to custom timetable view [width, number_of_collumns] -->
+            <carousel :per-page="1" :per-page-custom="[[0,1],[263,2],[768, 3],[992, 4]]" :pagination-color="'#7AC244'"> 
                 <slide v-for="day of Object.keys(timetable)" :key="new Date(day).getDate()">
                     <b-card class="bg-primary clickable" @click="selectDay(day)" :class="{active: selectedDay(day)}">
                         <b-card-body class="d-flex flex-column align-items-center p-0">
@@ -90,7 +91,7 @@
 
 </style>
 
- 
+  <!-- comment this to view timeline -->
 <!-- <template>
   <p class = "temp"> <br><br>Więcej informacji wkrótce<br><br></p>
 </template>
