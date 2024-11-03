@@ -17,7 +17,8 @@ export default [
     lastName: 'Reguła-Bruzda',
     workshopNames: ['Psychowzroczny i zintegrowany umysł - mózg, emocje, umysł vs jakość życia'],
     description: "Jestem psychologiem, terapeutą oraz entuzjastką potencjału ludzkiego umysłu i możliwości rozwoju człowieka. ❤ Moja misja to wspieranie ludzi w osiąganiu ich celów, zwiększaniu ich samoświadomości oraz budowaniu psychowzroczności dla zdrowszego i bardziej satysfakcjonującego życia ❤ Posiadam ponad 17 lat doświadczenia jako psycholog, coach (PCC), trener/facylitator i HR-owiec, specjalizując się w rozwoju osobistym i zawodowym, zarówno w biznesie, jak i poza nim. W swojej praktyce łączę różnorodne \
-                  techniki terapeutyczne i rozwojowe, w tym głównie poznawczo behawioralne (Racjonalna Terapia Zachowań, Terapia Skoncentrowana na Rezultatach, Terapia Schematów), Terapię Akceptacji i Zaangażowania (ACT), techniki coachingowe oraz Interpersonalną Neurobiologię, aby tworzyć spersonalizowane ścieżki rozwoju i podnoszenia jakości życia dla moich klientów oraz pacjentów. Prowadzę firmę HarmonyHi, w ramach której jestem zaangażowana w pomaganie ludziom i firmom w odkrywaniu ich potencjału.",
+                  techniki terapeutyczne i rozwojowe, w tym głównie poznawczo behawioralne (Racjonalna Terapia Zachowań, Terapia Skoncentrowana na Rezultatach, Terapia Schematów), Terapię Akceptacji i Zaangażowania (ACT), techniki coachingowe oraz Interpersonalną Neurobiologię, aby tworzyć spersonalizowane ścieżki rozwoju i podnoszenia jakości życia dla moich klientów oraz pacjentów. Prowadzę firmę HarmonyHi, w ramach której jestem zaangażowana w pomaganie ludziom i firmom w odkrywaniu ich potencjału.\
+                  Zapraszam do zapoznania się z moją stroną oraz profilem osobistym na Linkedin, na którym regularnie publikuję treści psychologiczne. <a href='https://www.harmonyhi.com'>www.harmonyhi.com</a>, <a href='https://www.linkedin.com/in/juliaregula-bruzda'>www.linkedin.com/in/juliaregula-bruzda</a>",
     image: require('@/assets/images/speakers/ssa15/julia_regula-bruzda.png')
   },
   {
@@ -52,7 +53,7 @@ export default [
     lastName: 'Gamoń',
     workshopNames: ['Buduj silną markę osobistą w zgodzie ze swoimi wartościami – jak się wyróżnić i znaleźć wymarzoną pracę łącząc działania na LinkedIn i poza nim' ],
     description: "Strateg marki, ekspert ds. social media (ze szczególnym uwzględnieniem LinkedIn), mówca i trener biznesu. Specjalizuje się we wsparciu firm, instytucji i osób w odkrywaniu ich unikalnej opowieści oraz budowaniu z jej pomocą trwałych, owocnych relacji. Autor koncepcji 16 ścieżek rozwoju marki osobistej, dopasowanych do predyspozycji i cech osobowości. Twórca i opiekun merytoryczny kierunku studiów podyplomowych „Social Media & Content Marketing” na AGH w Krakowie. Współautor \
-                „Biblii e-biznesu 3.0” oraz e-booka „Sukces na LinkedIn z AI”. Wydawca corocznego raportu „LinkedIn w Polsce i na świecie”.",
+                „Biblii e-biznesu 3.0” oraz e-booka „Sukces na LinkedIn z AI”. Wydawca corocznego raportu „LinkedIn w Polsce i na świecie”. <a href='https://www.adriangamon.com'>(www.adriangamon.com) </a>",
     image: require('@/assets/images/speakers/ssa15/adrian_gamon.png')
   },
   {
