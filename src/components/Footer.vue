@@ -12,7 +12,7 @@
                         <b-collapse id="nav-collapse" is-nav>
                             <b-navbar-nav class="mx-auto">
                                 <b-nav-item class="text-uppercase" :to="{ name: 'contact' }">kontakt</b-nav-item>
-                                <b-nav-item  :href="`${publicPath}regulamin.pdf`">REGULAMIN</b-nav-item>
+                                <b-nav-item  :href="`${publicPath}regulamin-ssa15.pdf`">REGULAMIN</b-nav-item>
                             </b-navbar-nav>
                         </b-collapse>
                     </b-col>
@@ -38,7 +38,7 @@
       return {
         linkedinUrl: 'https://www.linkedin.com/showcase/soft-skills-academy-poland/',
         facebookUrl: 'https://www.facebook.com/SoftSkillsAcademy/',
-        eestecUrl: 'http://eestec.agh.edu.pl/',
+        eestecUrl: 'http://eestec.pl/',
         publicPath: process.env.BASE_URL,
       }
     },
