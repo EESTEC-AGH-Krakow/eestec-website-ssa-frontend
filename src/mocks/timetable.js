@@ -3,8 +3,8 @@ export default {
     "Nov 27, 2024": [
         {
             "name": "Dobrostan - jak JA się mam? Techniki podnoszenia jakości życia.",
-            "start": "17:00",
-            "end": "18:30",
+            "start": "18:00",
+            "end": "19:30",
             "location": "Rozwój Emocjonalny",
             "description": "Podczas warsztatów: będziemy rozgryzać pojęcie dobrostanu; porozmawiamy o relacji mózg-ciało, popracujemy ze samoświadomością ciała i umysłu; poznamy techniki zarządzania myślami; rozpracujemy zasady higieny mózgu.\
             A w efekcie stworzymy bazę wiedzy i narzędzi do troski o kondycję mózgu z przyjemnym efektem ubocznym - poprawy jakości życia. ",
@@ -18,8 +18,8 @@ export default {
         },
         {
             "name": "Psychowzroczny i zintegrowany umysł - mózg, emocje, umysł vs jakość życia",
-            "start": "18:30",
-            "end": "21:00",
+            "start": "17:30",
+            "end": "20:00",
             "location": "Wolny warsztat",
             "description": "Warsztat będzie poświęcony zagadnieniu psychowzroczności i jej praktycznego wpływu na jakość naszego życia :) Każdy z nas ma swój mentalny świat, morze pełne myśli, odczuć, wspomnień, marzeń, życzeń czy oczekiwań. Targają nami huragany i burze z wnętrza tego morza, a my dryfujemy na jego powierzchni zdani na łaskę i nie łaskę ich siły. Psychowzroczność (wg Daniela J. Siegela) to 7 zmysł, który pomaga nam te targające siły uspokoić. To transformacyjne narzędzie, które pozwala się uwolnić od schematów funkcjonowania umysłu, które utrudniają nam korzystanie w pełni z życia. Psychowzroczność umożliwia nam monitorowanie i modyfikację przepływu informacji i energii na 9 domenach integracji. Jeśli integracja jest zaburzona pojawia się w nas sztywność lub chaos, co znacznie wpływa na nasz komfort, zachowania, emocje, zdrowie, po prostu bycie, pracowanie, życie. Dzięki niej możemy włączyć obiektyw, który pozwala nam wyraźniej widzieć siebie i innych, dla budowania lepszych relacji ze sobą i innymi. Zapraszam :)",
             "speakers": [
@@ -72,8 +72,8 @@ export default {
         },
         {
             "name": "Nie chowaj się za prezentacją - w wystąpieniach publicznych liczysz się TY",
-            "start": "18:00",
-            "end": "20:30",
+            "start": "17:15",
+            "end": "19:45",
             "location": "Social Media",
             "description": "Stresuje Cię sama myśl o mówieniu do publiczności? Chcesz ciekawie prezentować? Zapraszam na warsztaty, na których popracujemy nad rozwojem Twoich kompetencji w wystąpieniach publicznych. Będzie trochę teorii, ale przede wszystkim praktyka i dobry feedback. Pokażę Ci jak się przygotować do wystąpień, jak mówić i dostosować język do Twojego odbiory. Podczas warsztatu dowiesz się od czego zacząć i co zrobićby Twoje wystąpienie było ciekawe i wyróżniające się.  Pomogę Ci znaleźć i wykorzystać Twoje naturalne atuty, które zaprocentują w wystąpieniach publicznych. Dobre wystąpienie zależy od Ciebie!",
             "speakers": [
@@ -125,8 +125,8 @@ export default {
         },
         {
             "name": "Buduj silną markę osobistą w zgodzie ze swoimi wartościami – jak się wyróżnić i znaleźć wymarzoną pracę łącząc działania na LinkedIn i poza nim ",
-            "start": "17:00",
-            "end": "19:00",
+            "start": "17:15",
+            "end": "19:15",
             "location": "Social Media",
             "description": "To szkolenie pokaże Ci, jak budować autentyczną markę osobistą, która jest zgodna z Twoimi wartościami i naturalnymi predyspozycjami. Dowiesz się, jak skutecznie korzystać z LinkedIn, aby wyróżnić się na rynku pracy, oraz jak łączyć działania online i offline, by rozwijać swoją karierę. Otrzymasz praktyczne wskazówki, które pomogą Ci stworzyć spójny wizerunek zawodowy i przyciągnąć wymarzone oferty pracy. ",
             "speakers": [
@@ -140,8 +140,8 @@ export default {
         },
         {
             "name": "Mów tak i nie w zgodzie ze sobą",
-            "start": "17:00",
-            "end": "18:30",
+            "start": "18:00",
+            "end": "19:30",
             "location": "Rozwój emocjonalny",
             "description": "Zapraszam na warsztat o stawianiu granic i asertywności, na którym dowiesz się jak być asertywną/ym, jak dbać o swoje granice bez poczucia winy i bez krzywdzenia innych. Zobaczysz czy mówienie \"nie\" musi oznaczać, że się na ciebie obrażą oraz jak powiedzieć \"tak\" i nie czuć się wykorzystaną/ym.",
             "speakers": [
@@ -157,8 +157,8 @@ export default {
     "Nov 30, 2024": [
         {
             "name": "Own Your Path: Turning Goals into Reality",
-            "start": "17:00",
-            "end": "19:30",
+            "start": "11:00",
+            "end": "13:30",
             "location": "[EN] Change your life",
             "description": "Discover how your values and personality shape your decisions and life. Through self-awareness, learn to align your strengths with purposeful goals, enabling you to lead yourself with clarity and confidence. Cultivate the tools to turn your aspirations into actionable steps and achieve your full potential!",
             "speakers": [
@@ -177,8 +177,8 @@ export default {
 
         {
             "name": "Crack Your Habits: Small Changes, Big Results",
-            "start": "17:30",
-            "end": "20:00",
+            "start": "14:30",
+            "end": "17:00",
             "location": "[EN] Change your life",
             "description": "🔎Feeling overwhelmed with balancing classes, social life, and personal goals? You’re not alone! Many students struggle to stay on track, but it doesn’t have to be that way. 💡Imagine waking up energized, tackling your tasks, and feeling accomplished by the end of the day. In this session, we will explore how small, organized actions can lead to big changes. You will learn practical strategies to break free from procrastination and master daily habits that work for you. ✅Ready to unlock your potential and elevate your everyday life? Sign up now, and let’s start making those small wins together!",
             "speakers": [
@@ -196,8 +196,8 @@ export default {
         },
         {
             "name": "Emocje na autopilocie – jak wyłączyć tryb awaryjny?",
-            "start": "18:00",
-            "end": "20:30",
+            "start": "14:30",
+            "end": "17:00",
             "location": "Rozwój emocjonalny",
             "description": "Masz wrażenie, że czasami reagujesz na coś, zanim zdążysz pomyśleć? To nasz „tryb autopilota” – emocje sterują reakcjami, a my mamy ograniczoną kontrolę.\
                             Czy zdarzyło Ci się kiedyś zgubić w swoich własnych emocjach? Albo nie rozumieć, dlaczego reagujesz w dany sposób? „Mapa emocji” to narzędzie, które pomoże Ci szybko rozpoznać i nawigować emocje.\
@@ -214,8 +214,8 @@ export default {
         },
         {
             "name": "Zaplanuj i zapisz – Ogarnij życie bez ciągłego stresu",
-            "start": "17:30",
-            "end": "19:00",
+            "start": "12:00",
+            "end": "13:30",
             "location": "Rozwój emocjonalny",
             "description": "Czujesz, że życie studenckie to nieustanny wyścig z czasem, a stres wkrada się do każdego dnia? Na tych warsztatach poznasz sprawdzone metody, które pomogą Ci odzyskać kontrolę nad obowiązkami i wyciszyć umysł. Oprócz technik planowania nauczysz się, jak journaling i inne praktyki mogą wspierać redukcję stresu, poprawić koncentrację i pozytywnie wpłynąć na zdrowie psychiczne. Zyskasz praktyczne narzędzia, które łatwo wpleciesz w swoje codzienne życie, aby przestać gonić za terminami i zacząć żyć bardziej świadomie.  ",
             "speakers": [
@@ -228,8 +228,8 @@ export default {
         },
         {
             "name": "Stymulacja i rozwój kreatywności",
-            "start": "17:30",
-            "end": "20:00",
+            "start": "14:30",
+            "end": "17:00",
             "location": "Social Media",
             "description": "Warsztat kierowany jest zarówno dla osób, które postrzegają siebie jako kreatywne - na warsztacie porozmawiamy i przećwiczymy techniki, za pomocą których można dać ujście swoim zdolnościom. Jeżeli natomiast czytasz to i myślisz sobie, że Twoja kreatywność stoi na poziomie ziemniaka - też dobrze, bo dowiesz się w jaki sposób można stymulować w sobie tą kompetencję.",
             "speakers": [
@@ -242,8 +242,8 @@ export default {
         },
         {
             "name": "Social Media is making us (un)social? Let's disconnect to connect!",
-            "start": "17:30",
-            "end": "19:30",
+            "start": "11:30",
+            "end": "13:30",
             "location": "Social Media",
             "description": "Celem warsztatów jest odpowiedzenie na pytanie jak media społecznościowe wpływają na naszą komunikację i relacje międzyludzkie.\
                             Uczestnicy warsztatów:\
