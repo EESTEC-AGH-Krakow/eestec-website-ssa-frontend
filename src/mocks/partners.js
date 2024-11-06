@@ -1,11 +1,11 @@
 export default [
     // REGULAR PARTNERS
-    // {
-    //     "id": 9,
-    //     "type": "regular",
-    //     "name": "Miasto Kraków",
-    //     "image": require('@/assets/images/partners/regular/krakow.jpg')
-    // },
+    {
+        "id": 9,
+        "type": "regular",
+        "name": "Miasto Kraków",
+        "image": require('@/assets/images/partners/regular/ssa15/krakow.png')
+    },
     // {
     //     "id": 4,
     //     "type": "regular",
