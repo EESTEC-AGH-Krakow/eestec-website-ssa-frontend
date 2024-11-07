@@ -1,17 +1,17 @@
 export default [
     // REGULAR PARTNERS
-    // {
-    //     "id": 9,
-    //     "type": "regular",
-    //     "name": "Miasto Kraków",
-    //     "image": require('@/assets/images/partners/regular/krakow.jpg')
-    // },
+    {
+        "id": 9,
+        "type": "regular",
+        "name": "Miasto Kraków",
+        "image": require('@/assets/images/partners/regular/ssa15/krakow.png')
+    },
     // {
     //     "id": 4,
     //     "type": "regular",
     //     "name": "Relativity",
     //     "description": "Relativity makes software to help users organize data, discover the truth and act on it. Its SaaS product RelativityOne manages large volumes of data and quickly identifies key issues during litigation and internal investigations. The AI-powered communication surveillance product, Relativity Trace proactively detects regulatory misconduct like insider trading, collusion and other non-compliant behavior. Relativity has more than 300,000 users in 49 countries serving thousands of organizations globally primarily in legal, financial services and government sectors. Please visit <a href='http://www.relativity.com'>http://www.relativity.com</a> for more information.",
-    //     "image": require('@/assets/images/partners/regular/relativity.png')
+    //     "image": require('@/assets/images/partners/regular/ssa14/relativity.png')
     // },
 
     // MEDIA PARTNERS
@@ -63,7 +63,7 @@ export default [
         "type": "media",
         "name": "krakow.pl",
         "description": "Więcej informacji na stronie: <a href='www.krakow.pl'>www.krakow.pl</a>",
-        "image": require('@/assets/images/partners/media/ssa15/krakow.jpg')
+        "image": require('@/assets/images/partners/media/ssa15/krakow.pl.png')
     },
     
 ]
