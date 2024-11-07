@@ -4,7 +4,7 @@ export default [
         "title":"SOFT SKILLS ACADEMY 14",
         "year":"2023",
         "description":"W 2023 roku odbyła się czternasta edycja Soft Skills Academy, która na długo zostanie zapamiętana przez uczestników. Mając dostęp do 4 głównych ścieżek rozwoju i niezliczonych warsztatów wolnych, każdy znalazł coś dla siebie. Odbyły się 23 warsztaty ze wszelakiej tematyki, zaczynając od pomocy w nauce, przechodząc przez umiejętności przydatne w prace, a kończąc na umiejętnym korzystaniu ze sztucznej inteligencji. Wśród partnerów 14. edycji znaleźli się między innymi: Relativity, ASSA ABLOY oraz miasto Kraków",
-        "image":require('@/assets/images/previous-editions/ssa-13-img.jpg')
+        "image":require('@/assets/images/previous-editions/ssa-14-img.jpg')
     },
     {
         "id":7,
