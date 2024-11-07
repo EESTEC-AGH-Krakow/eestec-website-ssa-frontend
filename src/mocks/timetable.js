@@ -36,7 +36,7 @@ export default {
             "name": "Change the page and discover a new chapter of your life",
             "start": "17:00",
             "end": "19:30",
-            "location": "[EN] Change your life",
+            "location": "[EN] Change your life: path to self-improvement",
             "description": "During this session, we're gonna help you approach change with a positive mindset and take thoughtful steps toward transformation. By the end of this session, you’ll walk away with the tools and confidence to turn the page and start your next chapter!",
             "speakers": [
                 {
@@ -74,7 +74,7 @@ export default {
             "name": "Nie chowaj się za prezentacją - w wystąpieniach publicznych liczysz się TY",
             "start": "17:15",
             "end": "19:45",
-            "location": "Social Media",
+            "location": "Twój wizerunek w sieci",
             "description": "Stresuje Cię sama myśl o mówieniu do publiczności? Chcesz ciekawie prezentować? Zapraszam na warsztaty, na których popracujemy nad rozwojem Twoich kompetencji w wystąpieniach publicznych. Będzie trochę teorii, ale przede wszystkim praktyka i dobry feedback. Pokażę Ci jak się przygotować do wystąpień, jak mówić i dostosować język do Twojego odbiory. Podczas warsztatu dowiesz się od czego zacząć i co zrobićby Twoje wystąpienie było ciekawe i wyróżniające się.  Pomogę Ci znaleźć i wykorzystać Twoje naturalne atuty, które zaprocentują w wystąpieniach publicznych. Dobre wystąpienie zależy od Ciebie!",
             "speakers": [
                 {
@@ -92,7 +92,7 @@ export default {
             "name": "From “To-Do” to “Done” - Master Your Time",
             "start": "17:00",
             "end": "19:30",
-            "location": "[EN] Change your life",
+            "location": "[EN] Change your life: path to self-improvement",
             "description": "You'll explore effective tools and strategies to better manage your time and energy, that let you to move from “to-do” to “done” with confidence! Achieve your goals and don’t miss this opportunity to transform your approach to productivity!",
             "speakers": [
                
@@ -127,7 +127,7 @@ export default {
             "name": "Buduj silną markę osobistą w zgodzie ze swoimi wartościami – jak się wyróżnić i znaleźć wymarzoną pracę łącząc działania na LinkedIn i poza nim ",
             "start": "17:15",
             "end": "19:15",
-            "location": "Social Media",
+            "location": "Twój wizerunek w sieci",
             "description": "To szkolenie pokaże Ci, jak budować autentyczną markę osobistą, która jest zgodna z Twoimi wartościami i naturalnymi predyspozycjami. Dowiesz się, jak skutecznie korzystać z LinkedIn, aby wyróżnić się na rynku pracy, oraz jak łączyć działania online i offline, by rozwijać swoją karierę. Otrzymasz praktyczne wskazówki, które pomogą Ci stworzyć spójny wizerunek zawodowy i przyciągnąć wymarzone oferty pracy. ",
             "speakers": [
                
@@ -159,7 +159,7 @@ export default {
             "name": "Own Your Path: Turning Goals into Reality",
             "start": "11:00",
             "end": "13:30",
-            "location": "[EN] Change your life",
+            "location": "[EN] Change your life: path to self-improvement",
             "description": "Discover how your values and personality shape your decisions and life. Through self-awareness, learn to align your strengths with purposeful goals, enabling you to lead yourself with clarity and confidence. Cultivate the tools to turn your aspirations into actionable steps and achieve your full potential!",
             "speakers": [
                 {
@@ -179,7 +179,7 @@ export default {
             "name": "Crack Your Habits: Small Changes, Big Results",
             "start": "14:30",
             "end": "17:00",
-            "location": "[EN] Change your life",
+            "location": "[EN] Change your life: path to self-improvement",
             "description": "🔎Feeling overwhelmed with balancing classes, social life, and personal goals? You’re not alone! Many students struggle to stay on track, but it doesn’t have to be that way. 💡Imagine waking up energized, tackling your tasks, and feeling accomplished by the end of the day. In this session, we will explore how small, organized actions can lead to big changes. You will learn practical strategies to break free from procrastination and master daily habits that work for you. ✅Ready to unlock your potential and elevate your everyday life? Sign up now, and let’s start making those small wins together!",
             "speakers": [
                 {
@@ -230,7 +230,7 @@ export default {
             "name": "Stymulacja i rozwój kreatywności",
             "start": "14:30",
             "end": "17:00",
-            "location": "Social Media",
+            "location": "Twój wizerunek w sieci",
             "description": "Warsztat kierowany jest zarówno dla osób, które postrzegają siebie jako kreatywne - na warsztacie porozmawiamy i przećwiczymy techniki, za pomocą których można dać ujście swoim zdolnościom. Jeżeli natomiast czytasz to i myślisz sobie, że Twoja kreatywność stoi na poziomie ziemniaka - też dobrze, bo dowiesz się w jaki sposób można stymulować w sobie tą kompetencję.",
             "speakers": [
                 {
@@ -244,7 +244,7 @@ export default {
             "name": "Social Media is making us (un)social? Let's disconnect to connect!",
             "start": "11:30",
             "end": "13:30",
-            "location": "Social Media",
+            "location": "Twój wizerunek w sieci",
             "description": "Celem warsztatów jest odpowiedzenie na pytanie jak media społecznościowe wpływają na naszą komunikację i relacje międzyludzkie.\
                             Uczestnicy warsztatów:\
                             przeanalizują prawdziwe przypadki, w których media społecznościowe wpłynęły na relacje międzyludzkie,\
